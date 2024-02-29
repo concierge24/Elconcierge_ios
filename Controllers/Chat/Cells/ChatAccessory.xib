@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment version="4112" identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="campton-book.ttf">
+            <string>Campton-Book</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ChatAccessory" customModule="SingleVendor" customModuleProvider="target">
+            <connections>
+                <outlet property="btnAttach" destination="n2J-GC-UmG" id="5pl-Xb-XkP"/>
+                <outlet property="btnChat" destination="pR2-qh-zLc" id="SU4-Ws-YUd"/>
+                <outlet property="indicatorUpload" destination="JIf-b0-4UV" id="jL2-q2-My1"/>
+                <outlet property="textView" destination="90e-kk-Ik4" id="d5P-zV-NkK"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="408" height="87"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <button opaque="NO" tag="1" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="pR2-qh-zLc">
+                    <rect key="frame" x="340" y="31" width="48" height="48"/>
+                    <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="48" id="d4Q-pR-ilw"/>
+                        <constraint firstAttribute="height" constant="48" id="qJm-BI-Azo"/>
+                    </constraints>
+                    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <state key="normal" image="ic_send">
+                        <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    </state>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="24"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="exclusiveTouchEnabled" value="YES"/>
+                        <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                            <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.20000000000000001" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadowRadius">
+                            <real key="value" value="16"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                            <real key="value" value="1"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="point" keyPath="shadowOffset">
+                            <point key="value" x="0.0" y="8"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="btnAction:" destination="-1" eventType="touchUpInside" id="I3d-qB-dqf"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="P3B-Jx-DjF" customClass="AnimatableView" customModule="IBAnimatable">
+                    <rect key="frame" x="20" y="8" width="304" height="71"/>
+                    <subviews>
+                        <button hidden="YES" opaque="NO" alpha="0.0" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="n2J-GC-UmG">
+                            <rect key="frame" x="0.0" y="23" width="10" height="48"/>
+                            <constraints>
+                                <constraint firstAttribute="width" constant="10" id="2qB-So-4Bo"/>
+                                <constraint firstAttribute="height" constant="48" id="XeW-Ub-bTv"/>
+                            </constraints>
+                            <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <state key="normal" image="ic_attach"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="boolean" keyPath="exclusiveTouchEnabled" value="YES"/>
+                            </userDefinedRuntimeAttributes>
+                            <connections>
+                                <action selector="btnAction:" destination="-1" eventType="touchUpInside" id="uGd-k9-ArY"/>
+                            </connections>
+                        </button>
+                        <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="90e-kk-Ik4" customClass="GrowingTextView" customModule="SingleVendor" customModuleProvider="target">
+                            <rect key="frame" x="10" y="8" width="274" height="55"/>
+                            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            <fontDescription key="fontDescription" name="Campton-Book" family="Campton" pointSize="12"/>
+                            <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            <userDefinedRuntimeAttributes>
+                                <userDefinedRuntimeAttribute type="string" keyPath="placeholder" value="Write something"/>
+                                <userDefinedRuntimeAttribute type="number" keyPath="minHeight">
+                                    <real key="value" value="32"/>
+                                </userDefinedRuntimeAttribute>
+                                <userDefinedRuntimeAttribute type="number" keyPath="maxHeight">
+                                    <real key="value" value="128"/>
+                                </userDefinedRuntimeAttribute>
+                            </userDefinedRuntimeAttributes>
+                        </textView>
+                        <activityIndicatorView hidden="YES" opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" hidesWhenStopped="YES" style="white" translatesAutoresizingMaskIntoConstraints="NO" id="JIf-b0-4UV">
+                            <rect key="frame" x="2" y="37" width="20" height="20"/>
+                            <color key="color" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </activityIndicatorView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstItem="n2J-GC-UmG" firstAttribute="leading" secondItem="P3B-Jx-DjF" secondAttribute="leading" id="9Cu-tb-hUf"/>
+                        <constraint firstAttribute="trailing" secondItem="90e-kk-Ik4" secondAttribute="trailing" constant="20" id="L1x-2R-LZN"/>
+                        <constraint firstItem="90e-kk-Ik4" firstAttribute="top" secondItem="P3B-Jx-DjF" secondAttribute="top" constant="8" id="M17-4K-0Nk"/>
+                        <constraint firstItem="90e-kk-Ik4" firstAttribute="leading" secondItem="n2J-GC-UmG" secondAttribute="trailing" id="THV-9Q-cNi"/>
+                        <constraint firstAttribute="bottom" secondItem="90e-kk-Ik4" secondAttribute="bottom" constant="8" id="YTu-0s-6ef"/>
+                        <constraint firstAttribute="bottom" secondItem="n2J-GC-UmG" secondAttribute="bottom" id="YtU-FA-gs7"/>
+                        <constraint firstItem="JIf-b0-4UV" firstAttribute="centerY" secondItem="n2J-GC-UmG" secondAttribute="centerY" id="lY0-fu-cwj"/>
+                        <constraint firstItem="JIf-b0-4UV" firstAttribute="leading" secondItem="n2J-GC-UmG" secondAttribute="trailing" constant="-8" id="vBL-Cp-4Eb"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                            <real key="value" value="24"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadowRadius">
+                            <real key="value" value="16"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                            <real key="value" value="0.20000000000000001"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                            <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.20000000000000001" colorSpace="calibratedRGB"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="point" keyPath="shadowOffset">
+                            <point key="value" x="0.0" y="8"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="P3B-Jx-DjF" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="20" id="2FC-Z9-fD7"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="pR2-qh-zLc" secondAttribute="trailing" constant="20" id="6Hs-aR-cfL"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="P3B-Jx-DjF" secondAttribute="bottom" constant="8" id="8qz-WY-cMC"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="pR2-qh-zLc" secondAttribute="bottom" constant="8" id="IaL-rh-0ei"/>
+                <constraint firstItem="pR2-qh-zLc" firstAttribute="leading" secondItem="P3B-Jx-DjF" secondAttribute="trailing" constant="16" id="Mnx-oG-cup"/>
+                <constraint firstItem="P3B-Jx-DjF" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="8" id="Zqz-5W-cXj"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <point key="canvasLocation" x="9" y="342.5"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_attach" width="24" height="24"/>
+        <image name="ic_send" width="24" height="24"/>
+    </resources>
+</document>

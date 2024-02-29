@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+        <capability name="Constraints with non-1.0 multipliers" minToolsVersion="5.1"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Mont-SemiBold.ttf">
+            <string>Mont-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ETokenPurchasedCell" id="gTV-IL-0wX" customClass="ETokenPurchasedCell" customModule="Buraq24" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="117" height="141"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="117" height="141"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="WUz-JQ-goK">
+                        <rect key="frame" x="-0.5" y="-0.5" width="117" height="141"/>
+                        <color key="backgroundColor" red="0.26057481770000002" green="0.56858205799999995" blue="0.80929648880000005" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cRadius">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="FdB-M6-xOg">
+                        <rect key="frame" x="4" y="4.5" width="109" height="133"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="tSJ-aj-T7H">
+                                <rect key="frame" x="13" y="15.5" width="84" height="43.5"/>
+                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="tSJ-aj-T7H" secondAttribute="height" multiplier="106:55" id="ezw-4k-SYU"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cRadius">
+                                        <real key="value" value="2"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <label opaque="NO" clipsSubviews="YES" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="12 Token left " textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Nzb-bC-dQH">
+                                <rect key="frame" x="13" y="74" width="84" height="44.5"/>
+                                <fontDescription key="fontDescription" name="Mont-SemiBold" family="Mont" pointSize="16"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" red="0.8626720309" green="0.86279356480000002" blue="0.86263376469999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Nzb-bC-dQH" firstAttribute="top" secondItem="tSJ-aj-T7H" secondAttribute="bottom" constant="15" id="59i-KH-xs7"/>
+                            <constraint firstItem="tSJ-aj-T7H" firstAttribute="top" secondItem="FdB-M6-xOg" secondAttribute="top" constant="15" id="CvI-Qp-oGN"/>
+                            <constraint firstItem="Nzb-bC-dQH" firstAttribute="centerX" secondItem="tSJ-aj-T7H" secondAttribute="centerX" id="K0V-4y-skh"/>
+                            <constraint firstAttribute="width" secondItem="tSJ-aj-T7H" secondAttribute="width" multiplier="600:460" id="WRK-AF-hrc"/>
+                            <constraint firstItem="tSJ-aj-T7H" firstAttribute="centerX" secondItem="FdB-M6-xOg" secondAttribute="centerX" id="aa5-uH-4Ha"/>
+                            <constraint firstAttribute="bottom" secondItem="Nzb-bC-dQH" secondAttribute="bottom" constant="15" id="cfd-lf-LkC"/>
+                            <constraint firstItem="Nzb-bC-dQH" firstAttribute="width" secondItem="tSJ-aj-T7H" secondAttribute="width" id="fDB-Zk-OfO"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cRadius">
+                                <real key="value" value="4"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="WUz-JQ-goK" firstAttribute="centerY" secondItem="ZTg-uK-7eu" secondAttribute="centerY" id="6t2-Ih-yXA"/>
+                <constraint firstItem="FdB-M6-xOg" firstAttribute="centerY" secondItem="ZTg-uK-7eu" secondAttribute="centerY" id="H0W-o4-4qW"/>
+                <constraint firstAttribute="width" secondItem="FdB-M6-xOg" secondAttribute="width" constant="8" id="YYC-BG-yPi"/>
+                <constraint firstItem="WUz-JQ-goK" firstAttribute="centerX" secondItem="ZTg-uK-7eu" secondAttribute="centerX" id="bey-LP-NS5"/>
+                <constraint firstItem="FdB-M6-xOg" firstAttribute="height" secondItem="gTV-IL-0wX" secondAttribute="height" constant="-8" id="gUJ-gU-jt7"/>
+                <constraint firstItem="FdB-M6-xOg" firstAttribute="centerX" secondItem="ZTg-uK-7eu" secondAttribute="centerX" id="gWQ-Rr-5pc"/>
+                <constraint firstItem="WUz-JQ-goK" firstAttribute="height" secondItem="gTV-IL-0wX" secondAttribute="height" id="sFn-jX-qCp"/>
+                <constraint firstItem="WUz-JQ-goK" firstAttribute="width" secondItem="gTV-IL-0wX" secondAttribute="width" id="xan-uh-OpG"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="117" height="141"/>
+            <connections>
+                <outlet property="imgViewBrand" destination="tSJ-aj-T7H" id="eCg-b6-QJW"/>
+                <outlet property="lblTokenLeft" destination="Nzb-bC-dQH" id="x9F-la-8od"/>
+                <outlet property="viewOuter" destination="WUz-JQ-goK" id="FY9-3d-Wlx"/>
+            </connections>
+            <point key="canvasLocation" x="-119" y="26"/>
+        </collectionViewCell>
+    </objects>
+</document>

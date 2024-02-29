@@ -1,0 +1,186 @@
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "08c-yB-Meu"; */
+"08c-yB-Meu.normalTitle" = "سجل";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "1Kr-74-AB6"; */
+"1Kr-74-AB6.text" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "By signing up you agree to the Privacy Policy and Terms and conditions."; ObjectID = "1b8-sr-mkT"; */
+"1b8-sr-mkT.text" = "بالتسجيل فإنك توافق على سياسة الخصوصية والشروط والأحكام.";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "20m-lR-0w9"; */
+"20m-lR-0w9.normalTitle" = "مدينة";
+
+/* Class = "UIButton"; normalTitle = "Country"; ObjectID = "3Vl-FK-PCn"; */
+"3Vl-FK-PCn.normalTitle" = "بلد";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "4cf-g9-0Zd"; */
+"4cf-g9-0Zd.placeholder" = "عما تبحث؟";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE WITH FACEBOOK"; ObjectID = "4h0-d3-nOv"; */
+"4h0-d3-nOv.normalTitle" = "تابع مع الفيسبوك";
+
+/* Class = "UIButton"; normalTitle = "Login using Facebook"; ObjectID = "4hj-QM-5GT"; */
+"4hj-QM-5GT.normalTitle" = "تسجيل الدخول باستخدام Facebook";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "4qr-nL-wdx"; */
+"4qr-nL-wdx.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Country"; ObjectID = "4z5-c9-2zq"; */
+"4z5-c9-2zq.normalTitle" = "بلد";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "5v7-sS-TQD"; */
+"5v7-sS-TQD.text" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "72B-oD-BaS"; */
+"72B-oD-BaS.normalTitle" = "مدينة";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ASl-RV-PBJ"; */
+"ASl-RV-PBJ.normalTitle" = "منجز";
+
+/* Class = "UITextField"; placeholder = "Pincode"; ObjectID = "AUu-MC-uYE"; */
+"AUu-MC-uYE.placeholder" = "الرمز السري";
+
+/* Class = "UIButton"; normalTitle = "Login using Facebook"; ObjectID = "BcS-mX-BEO"; */
+"BcS-mX-BEO.normalTitle" = "تسجيل الدخول باستخدام Facebook";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "Bdm-gX-g5F"; */
+"Bdm-gX-g5F.text" = "سجل";
+
+/* Class = "UIButton"; normalTitle = "Send OTP"; ObjectID = "DS4-qE-hWB"; */
+"DS4-qE-hWB.normalTitle" = "أرسل OTP";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "FUh-bq-gJJ"; */
+"FUh-bq-gJJ.normalTitle" = "إرسال";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "HRb-Q3-Pn8"; */
+"HRb-Q3-Pn8.normalTitle" = "التحقق من";
+
+/* Class = "UIButton"; normalTitle = "Choose location from map"; ObjectID = "Hbg-TQ-FTQ"; */
+"Hbg-TQ-FTQ.normalTitle" = "اختر الموقع من الخريطة";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "K3y-U3-GNk"; */
+"K3y-U3-GNk.normalTitle" = "سجل?";
+
+/* Class = "UIButton"; normalTitle = "FINISH"; ObjectID = "L0B-NU-vhE"; */
+"L0B-NU-vhE.normalTitle" = "FINISH";
+
+/* Class = "UIButton"; normalTitle = "Area"; ObjectID = "LAx-al-ipk"; */
+"LAx-al-ipk.normalTitle" = "منطقة";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "LDF-a9-m9U"; */
+"LDF-a9-m9U.normalTitle" = "منجز";
+
+/* Class = "UILabel"; text = "By signing up you agree to the Privacy Policy and Terms and conditions."; ObjectID = "Lx4-G6-yBt"; */
+"Lx4-G6-yBt.text" = "بالتسجيل فإنك توافق على سياسة الخصوصية والشروط والأحكام.";
+
+/* Class = "UILabel"; text = "OR ENTER PINCODE"; ObjectID = "MfE-cV-Xy2"; */
+"MfE-cV-Xy2.text" = "أو أدخل PINCODE";
+
+/* Class = "UILabel"; text = "Enter country, state, city"; ObjectID = "NrB-Ve-uSG"; */
+"NrB-Ve-uSG.text" = "أدخل البلد والولاية والمدينة";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "ODt-UC-EjY"; */
+"ODt-UC-EjY.normalTitle" = "سجل?";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "PND-Xt-GWy"; */
+"PND-Xt-GWy.normalTitle" = "مدينة";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Pm6-20-SU9"; */
+"Pm6-20-SU9.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD?"; ObjectID = "QYv-ln-MNY"; */
+"QYv-ln-MNY.normalTitle" = "هل نسيت كلمة المرور؟";
+
+/* Class = "UILabel"; text = "Please fill in your address to continue"; ObjectID = "VFY-b1-8TF"; */
+"VFY-b1-8TF.text" = "يرجى ملء عنوانك للمتابعة";
+
+/* Class = "UILabel"; text = "Tap to add a profile picture"; ObjectID = "W02-0G-M7b"; */
+"W02-0G-M7b.text" = "انقر لإضافة صورة ملف تعريف";
+
+/* Class = "UILabel"; text = "We will be sending you an OTP (one time password ) on your mobile number. Tap the button below after correctly typing your phone number"; ObjectID = "Wyc-Qs-vNX"; */
+"Wyc-Qs-vNX.text" = "سنرسل لك OTP (كلمة مرور لمرة واحدة) على رقم هاتفك المحمول. اضغط على الزر أدناه بعد كتابة رقم هاتفك بشكل صحيح";
+
+/* Class = "UILabel"; text = "Choose Location"; ObjectID = "a8A-PQ-Yp3"; */
+"a8A-PQ-Yp3.text" = "اختيار موقع";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "aHG-5G-kCr"; */
+"aHG-5G-kCr.placeholder" = "البريد الإلكتروني";
+
+/* Class = "UILabel"; text = "Enter Mobile"; ObjectID = "aWT-dT-fFQ"; */
+"aWT-dT-fFQ.text" = "أدخل المحمول";
+
+/* Class = "UILabel"; text = "Or enter pincode"; ObjectID = "c6D-1p-Iyg"; */
+"c6D-1p-Iyg.text" = "أو أدخل الرمز السري";
+
+/* Class = "UIButton"; normalTitle = "Or use location from map"; ObjectID = "cE9-jK-iox"; */
+"cE9-jK-iox.normalTitle" = "أو استخدم الموقع من الخريطة";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "cWY-YB-nww"; */
+"cWY-YB-nww.normalTitle" = "التحقق من";
+
+/* Class = "UIButton"; selectedTitle = "Change"; ObjectID = "cWY-YB-nww"; */
+"cWY-YB-nww.selectedTitle" = "يتغيرون";
+
+/* Class = "UILabel"; text = "By continuing, you agree to CARES's Terms and Conditions and confirm that you have read CARES's Privacy Policy"; ObjectID = "cdb-L7-ESg"; */
+"cdb-L7-ESg.text" = "من خلال المتابعة ، فإنك توافق على شروط وأحكام CARES وتؤكد أنك قد قرأت سياسة الخصوصية الخاصة بـ CARES";
+
+/* Class = "UITextField"; placeholder = "Pincode"; ObjectID = "chQ-O0-bNa"; */
+"chQ-O0-bNa.placeholder" = "الرمز السري";
+
+/* Class = "UILabel"; text = "Enter the OTP sent to"; ObjectID = "dAs-hU-HPb"; */
+"dAs-hU-HPb.text" = "أدخل OTP المرسل إلى";
+
+/* Class = "UILabel"; text = "Select Country"; ObjectID = "djM-Ki-tJV"; */
+"djM-Ki-tJV.text" = "حدد الدولة";
+
+/* Class = "UIButton"; normalTitle = "Login using Facebook"; ObjectID = "dyv-0s-5Zs"; */
+"dyv-0s-5Zs.normalTitle" = "تسجيل الدخول باستخدام Facebook";
+
+/* Class = "UILabel"; text = "Create your account"; ObjectID = "gD5-VW-SSd"; */
+"gD5-VW-SSd.text" = "أنشئ حسابك";
+
+/* Class = "UIButton"; normalTitle = "Country"; ObjectID = "gIG-As-YiU"; */
+"gIG-As-YiU.normalTitle" = "بلد";
+
+/* Class = "UIButton"; normalTitle = "Area"; ObjectID = "jRj-BF-Rvu"; */
+"jRj-BF-Rvu.normalTitle" = "منطقة";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "kjW-TC-ynI"; */
+"kjW-TC-ynI.normalTitle" = "سجل?";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "lwA-mc-20Y"; */
+"lwA-mc-20Y.text" = "سجل";
+
+/* Class = "UILabel"; text = "Choose Location"; ObjectID = "mJI-Ej-6NC"; */
+"mJI-Ej-6NC.text" = "اختيار موقع";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "mPn-Fl-jpr"; */
+"mPn-Fl-jpr.normalTitle" = "سجل?";
+
+/* Class = "UIButton"; normalTitle = "Area"; ObjectID = "nb3-Cj-9Yc"; */
+"nb3-Cj-9Yc.normalTitle" = "منطقة";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD?"; ObjectID = "ofy-Pn-aZC"; */
+"ofy-Pn-aZC.normalTitle" = "هل نسيت كلمة المرور؟";
+
+/* Class = "UILabel"; text = "By signing up you agree to the Privacy Policy and Terms and conditions."; ObjectID = "olS-fa-3oA"; */
+"olS-fa-3oA.text" = "بالتسجيل فإنك توافق على سياسة الخصوصية والشروط والأحكام.";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "qIi-b3-pbI"; */
+"qIi-b3-pbI.normalTitle" = "سجل";
+
+/* Class = "UIButton"; normalTitle = "CREATE NEW ACCOUNT"; ObjectID = "uB3-It-r5G"; */
+"uB3-It-r5G.normalTitle" = "انشاء حساب جديد";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "uNq-aH-zGh"; */
+"uNq-aH-zGh.normalTitle" = "استمر";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "uQo-rP-tdt"; */
+"uQo-rP-tdt.normalTitle" = "سجل?";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "v3S-WB-Ms7"; */
+"v3S-WB-Ms7.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "OTP Verification"; ObjectID = "zrE-Id-d6N"; */
+"zrE-Id-d6N.text" = "التحقق من OTP";

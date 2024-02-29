@@ -1,0 +1,1085 @@
+/*
+  Localizable.strings
+  Clikat Supplier
+
+  Created by Night Reaper on 08/04/16.
+  Copyright © 2016 Gagan. All rights reserved.
+*/
+
+
+"AppName" = "Bleta";
+
+"SIGN_IN_WITH_APPLE" = "Identifikohu Me Apple";
+
+//Supplier Related
+
+"Service Charge" = "Tarifa I Shërbimit";
+"Min. Service Time" = "Koha Minimale E Shërbimit";
+"Visiting Charges" = "Tarifat E Vizitës";
+"Min. Delivery Time" = "Koha Minimale E Dërgimit";
+"Opens at " = "Hapet Në ";
+"PasswordChangedSuccess" = "Fjalëkalimi u ndryshua me sukses";
+
+
+//Order Flow
+"Please select an Address" = "Ju lutemi zgjidhni adresën";
+"Credit/Debit card" = "Karte Kredit/Debit";
+"Your Cart has no items.Please add items to cart to Proceed." = "Shporta juaj nuk ka asnjë artikull. Ju lutemi shtoni artikuj në shportën tuaj për të vazhduar.";
+"Landmark" = "Pikë Referimi";
+"Address Line First" = "Linja E Parë E Adresës";
+"Address Line Second" = "Linja E Dyte E Adresës";
+"Pincode" = "Kodi Pin";
+"Delivery Address" = "Adresa E Dërgesës";
+"Enter your details." = "Shkruani Të Dhënat Tuaja.";
+"Delivery charges applicable accordingly" = "Tarifat E Dërgesës Te Zbatueshme Ne Përputhje Me Rrethanat";
+"Delivery charges" = "Tarifat E dërgesës";
+"Select Time and Date" = "Zgjidh kohën Dhe datën";
+"Please select a booking schedule and time" = "Ju lutemi zgjidhni një datë dhe orë për rezervimin";
+"Select booking time" = "Zgjidh orën e rezervimit";
+"ReOrdering will clear you cart" = "Riporositja do të boshojë shportën tuaj.";
+
+
+
+//Order Related
+
+"PENDING" = "NË PRITJE";
+"DELIVERED" = "U DORËZUA" ;
+"CONFIRMED" = "U KONFIRMUA" ;
+"FEEDBACKGIVEN" = "VLERËSIMI I DHËNË";
+"REJECTED" = "U REFUZUA" ;
+"SHIPPED" = "U DËRGUA" ;
+"INPROCESS" = "NË PROCES" ;
+"NEARBY" = "RRUGËS" ;
+"TRACKED" = "NDJEKUR" ;
+"CUSTOMER CANCELLED" = "U ANULLUA NGA KLIENTI";
+"SCHEDULED" = "U PRENOTUA";
+
+"Order Details" = "Detajet e Porosisë" ;
+"items" = "Artikuj" ;
+
+"REORDER" = "RIPOROSIT" ;
+"TRACK" = "NDIQ LIVE" ;
+"BOOKED" = "U PRENOTUA" ;
+"CANCEL ORDER" = "ANULLO" ;
+"CONFIRM ORDER" = "KONFIRMO" ;
+"CANCEL BOOKING" = "ANULLO POROSINË";
+"BOOK AGAIN" = "POROSIT PËRSËRI" ;
+"CONFIRM BOOKING" = "KONFIRMO PRENOTIMIN" ;
+"Booking Details" = "Detajet e prenotimeve";
+"Booking History" =  "Historiku i prenotimeve";
+
+"Monthly" = "Mujor";
+"Weekly" = "Javor";
+"Pickup" = "Merr Vetë";
+
+
+
+
+//Login SignUp
+"Please enter your email address" = "Ju lutemi shkruani adresën tuaj e-mail";
+"Please enter a valid email address" = "Ju lutem shkruani një adresë e vlefshme email";
+"Please enter your password" = "Ju lutem vendosni fjalëkalimin tuaj";
+"Password should be minimum 6 characters." = "Fjalëkalimi duhet të jetë minimum 6 karaktere.";
+"Session expired login to continue" = "Sesioni ka skaduar, regjistrohuni per te vazhduar";
+"OTP Sent" = "FNP u dërgua";
+"Select picture" = "Zgjidh Foto";
+"Please select your profile picture" = "Ju lutemi zgjidhni foton e profilit tuaj";
+"Please enter your name" = "Ju lutemi shkruani emrin tuaj";
+"Camera" = "Kamera";
+"Photo Library" = "Galeria E Fotove";
+
+
+
+// Side Menu Options
+"Home" = "Kreu";
+"Live support" = "Suport Live";
+"Cart" = "Shporta";
+"Promotions" = "Promovimet";
+"Notifications" = "Njoftime";
+
+"My Account" = "Llogaria Ime";
+
+"My favorites" = "Te Preferuara";
+"Order history" = "Historia E Porosive";
+"Track my order" = "Ndiq Live";
+"Rate my order" = "Vlerëso porosinë";
+"Upcoming orders" = "Porositë e prenotuara";
+"Loyality points" = "Piket e besnikërisë";
+"Share app" = "Shpërnda Aplikacionin";
+"Share App" = "Shpërnda Aplikacionin";
+"Settings" = "Konfigurimet";
+"Guest" = "Mik";
+"Welcome" = "Mirësevjen";
+"Points" = "Pikë";
+
+
+// Home Screen Options
+"Grocery" = "Ushqimore";
+"Laundry" = "Lavanderi";
+"Household" = "Familjare";
+"Flowers" = "Lule";
+"Fitness" = "Palestër";
+"Photography" = "Fotografi";
+"Baby sitter" = "Kujdestare Fëmijësh";
+"Cleaning" = "Pastrim";
+"Party" = "Festa";
+"Beauty salon" = "Sallon Bukurie";
+"Medicines" = "Barna";
+"Water delivery" = "Dërgesa të ujit";
+"Packages" = "Paketat";
+
+
+
+
+"OK" = "OK";
+"Save" = "Ruaj";
+"Cancel" = "Anullo";
+"Choose booking cycle" = "Zgjidh ciklin e prenotimit";
+"reviews" = "Komente";
+"USD" = "USD";
+"mins" = "Minuta";
+"Results for" = "Rezultate për";
+"days" = "Ditë";
+"Hours" = "Orë";
+
+
+
+//Filter
+"Discoverability" = "Zbulueshmërinë";
+"Delivery" = "Dorëzim";
+"Supplier Type" = "Lloji i Shitësit";
+"Rating" = "Vlerësim";
+
+
+"1 Star" = "1 Yll";
+"2 Star" = "2 Yje";
+"3 Star" = "3 Yje";
+"4 Star and above" = "4 Yje dhe lart";
+
+
+"Gold" = "Ar";
+"Silver" = "Argjend";
+"Platinum" = "Platin";
+
+"Cash on delivery" = "Pará në dorë";
+"Card" = "Kartë";
+"Both" = "Të Dy";
+
+"Online" = "Online";
+"Busy" = "I Zënë";
+"Closed" = "Mbyllur";
+
+"Cancelled" = "Anulluar";
+
+
+//Settings
+"Change Password" = "Ndrysho Fjalëkalimin";
+"Notifications Language" = "Gjuha E Njoftimeve";
+"Manage Address" = "Menaxho Adresat";
+"Logout" = "Dil";
+"Select notification language" = "Zgjidh gjuhën e njoftimeve";
+"English" = "Anglisht";
+"Albanian" = "Shqip";
+"Spanish" = "Spanjisht";
+//Loyalty Points
+
+"You haven't earned any loyalty points yet" = "Ju nuk keni fituar asnjë pikë besnikërie ende";
+"Select produts from same supplier" = "Zgjidh produkte nga i njëjti furnizues";
+"No Remarks" = "Asnjë koment";
+
+//Laundry Flow
+"When do you want the service" = "Kur e dëshironi shërbimin?";
+"Pickup location" = "Pikënisja";
+"Choose location" = "Zgjidh vendndodhjen";
+"Select pickup date and time" = "Zgjidh datën dhe orën e marrjes vete";
+
+"Are you sure you want to delete this address" = "Jeni te sigurtë qe doni te fshini këtë adresë?";
+
+//Location Selection
+"Select Country" = "Zgjidh Shtetin";
+"Select City" = "Zgjidh Qytetin";
+"Select Zone" = "Zgjidh Zonën";
+"Select Area" = "Zgjidh Rajonin";
+
+"Please select all fields above" = "Ju lutemi të zgjidhni të gjitha fushat e mësipërme";
+"Please select a country" = "Ju lutemi zgjidhni një shtet";
+"Please select a city" = "Ju lutemi zgjidhni një qytet";
+
+//Delivery Address Cell
+
+"Please fill all details" = "Ju lutemi të plotësoni të gjitha detajet";
+"Please enter valid Pincode" = "Ju lutemi shkruani një kod PIN të vlefshëm";
+
+//Change Password
+"Old Password" = "Fjalëkalimi i vjetër";
+"New Password" = "Fjalëkalimi i ri";
+"Confirm Password" = "Konfirmo Fjalëkalimin";
+"Password" = "Fjalëkalimi";
+"Login using Facebook" = "Hyni duke përdorur Facebook";
+"New Password must not be same as old password" = "Fjalëkalimi i ri nuk duhet të jetë i njëjte si fjalëkalimi i vjetër";
+"Passwords do not match" = "Fjalëkalimet Nuk Përputhen";
+"Forgot Password" = "Keni Harruar Fjalëkalimin?";
+"FORGOT PASSWORD?" = "Keni Harruar Fjalëkalimin?";
+"Password recovery has been sent to your email id" = "Fjalëkalimi i rivendosur është dërguar ne emailin tuaj";
+
+//Share text
+"The Leading Online Home Services In UAE" = "Aplikacioni lider për shërbime në gjithë Shqipërinë! Ndajeni me të gjithë: https://itunes.apple.com/us/app/%@/id%@?ls=1&mt=8";
+//Share text for yummy
+"ShareAppYummy"  = "Ndajeni aplikacionin me miq: https://itunes.apple.com/us/app/%@/id%@?ls=1&mt=8";
+//API Validation
+"Please check your internet connection" = "Ju Lutem Kontrolloni Lidhjen Tuaj Te Internetit"; //nitin check
+
+
+//Sweet Alert
+"Cancel Order" = "Anullo Porosinë";
+"Cancel Booking" = "Anullo Prenotimin";
+"Success" = "Sukses";
+"Do you really want to cancel this order" = "A doni të anulloni këtë porosi?";
+"You have cancelled your order successfully" = "Ju keni anuluar porosinë tuaj me sukses";
+"LogOut" = "Dil";
+"Are you sure you want to logout" = "Jeni te sigurte qe doni te dilni?";
+"You are successfully logged out" = "Ju dolët me sukses";
+
+"Please enter valid country code followed by phone number" = "Ju lutemi shkruani prefiksin e vlefshëm te shtetit ndjekur nga numri i telefonit";
+
+"You can add only" = "Ju mund të shtoni vetëm";
+"Agent is not assigned to this order" = "Agjenti nuk është caktuar për ketë porosi";
+//Delviery Screen
+"Delivery Speed" = "Shpejtësia e Dërgesës";
+"Sorry… Your Order is Below Minimum Order Price." = "Na vjen keq...porosia juaj është nën cmimin minimal te porositjes";
+
+"Recommended" = "Të rekomanduara";
+"Offers" = "Oferta";
+
+"Your order have been placed successfully" = "Porosia juaj u vendos me sukses";
+"Order placed successfully" = "Porosia vendosur me sukses";
+"Your order have been sheduled successfully" = "Porosia juaj u prenotua me sukses";
+"Booking placed successfully" = "Prenotimi vendosur me sukses";
+
+"Are you sure" = "A jeni i sigurt?";
+"Changing the language will clear your cart." = "Ndryshimi i gjuhës do te boshojë shportën tuaj";
+
+//Live Support
+"Typing" = "Po Shkruan";
+"Offline" = "Offline";
+
+"Email" = "Email";
+
+"Not rated yet" = "Ende e pavlerësuar";
+"Search" = "Kërko";
+"Other" = "Tjetër";
+
+//MARK: - After sending localization file
+//TODO: - Localize
+"Issue wth OrderID" = "Problem me ID të porosisë";
+"Status" = "Status";
+"Loyalty Points Type" = "Lloji i Pikëve të Besnikërisë";
+"Payment Method" = "Metoda E Pagesës";
+"Terms and Conditions" = "Termat Dhe Kushtet";
+"About Us" = "Rreth Nesh";
+"Sort" = "Rendit";
+"Open" = "Hapur";
+"Adding products from diffrent suppliers will clear your cart" = "Shtimi i produkteve nga shitës te tjerë do te boshoje shportën tuaj";
+"Min. Order Amount" = "Shuma minimale e porosisë";
+"Min. Delviery Time" = "Koha minimale e dërgesës";
+"HOME SERVICE" = "Shërbim në shtëpi";
+"AT PLACE SERVICE" = "Shërbim në vendndodhje";
+"Select service" = "Zgjidh Shërbimin";
+"Ladies Beauty Salon" = "Sallon Bukurie";
+"City" = "Qytet";
+"Area" = "Zona";
+"House No" = "Numri I Shtëpisë";
+"Compare Products" = "Krahaso Produktet";
+"Somewhere Somehow Something Went Wrong" = "Diku Disi Diçka Shkoi Keq";
+"Adding products from promotions will clear your cart" = "Shtimi i produkteve nga promovimet do te boshoje shportën tuaj";
+
+"Please enter your house no." = "Ju lutemi shkruani numrin e shtëpisë tuaj";
+"Please enter your building name" = "Ju lutemi shkruani emrin e ndërtesës tuaj";
+"Please select your location" = "Ju lutemi zgjidhni vendndodhjen tuaj";
+"Please enter a landmark name" = "Ju lutem shkruani emrin e një pike referimi";
+"Please enter your city" = "Ju lutem shkruani qytetin tuaj";
+"Please enter your counrty" = "Ju lutem shkruani shtetin tuaj";
+
+"My Orders" = "Porositë E Mia";
+"Not Available" = "I Padisponueshem";
+"Your Order will be confirmed during next supplier working hours/day." = "Porosia juaj do të konfirmohet gjatë orëve/diteve të punës të shitesit";
+
+"Changing the current area will clear you cart" = "Ndryshimi i zonës aktuale do te boshojë shportën tuaj";
+"Change pick up time no suppliers are available for this pickup timing" = "Ndrysho oren e marrjes vete, asnje shitës nuk eshte i disponueshem në këtë kohë";
+"No supplier found" = "Asnje shitës nuk u gjet";
+"My Addresses" = "Adresat E Mia";
+"Item Detail" = "Detajet e artikullit";
+"Scheduled Orders" = "Porosite E Planifikuara";
+
+"Sorry not enough points to redeem" = "Na vjen keq, ju nuk keni pikë të mjaftueshme për të marrë";
+"Loading" = "Duke U Ngarkuar";
+"Looks like your order has been delivered Would you like to rate your order" = "Duket se porosia juaj eshte dorëzuar. Do te donit ta vlerësonit porosinë tuaj?";
+"Rate Order" = "Vlereso Porosinë";
+"Quantity" = "Sasi";
+"Delivered on" = "Dorëzuar në";
+"Pending Orders" = "Porositë në Pritje";
+
+//MARK: - Chat Localization
+"ios.ZDCChat.end" = "Mbyll";
+"ios.ZDCChat.emailPlaceholder" = "Adresa e emailit";
+"ios.ZDCChat.preChatForm.messagePlaceholder" = "Mesazh";
+"ios.ZDCChat.upload.error.type" = "Ky tip ngarkimi nuk lejohet.";
+"ios.ZDCChat.cantConnectTitle" = "Nuk mund te lidhet";
+"ios.ZDCChat.access.gallery" = "%@ nevojitet access ne galerine tuaj.";
+"ios.ZDCChat.noAgentsTitle" = "Nuk ka agjente te disponueshëm për momentin";
+"ios.ZDCChat.backButton" = "Kthehu mbrapa";
+"ios.ZDCChat.preChatForm.required" = "Fushat me * duhen plotësuar";
+"ios.ZDCChat.download.failedMessage" = "Problem me shkarkimin. Ju lutemi provojeni përsëri";
+"ios.ZDCChat.preChatForm.invalidEmail" = "Ju lutemi vendosni nje email te saktë";
+
+"ios.ZDCChat.noConnectionTitle" = "Nuk ka lidhje me internetin";
+"ios.ZDCChat.sendOfflineMessageError.title" = "Mezazhi nuk mund te dergohet";
+"ios.ZDCChat.rating.comment.title" = "Vendosni titullin e komentit";
+"ios.ZDCChat.imageViewer.saveButton" = "Ruani foton";
+"ios.ZDCChat.reconnecting" = "Duke u rilidhur...";
+"ios.ZDCChat.transcriptEmailAlert.emailPlaceholder" = "email@bleta.al";
+"ios.ZDCChat.cancelButton" = "Anullo";
+"ios.ZDCChat.access.howto" = "Ju lutem lejoni aksesin nga Konfigurimi i celularit > %@";
+"ios.ZDCChat.ok" = "OK";
+"ios.ZDCChat.no" = "JO";
+"ios.ZDCChat.chatConnectionLost.title" = "Lidhja humbi";
+
+"ios.ZDCChat.preChatForm.requiredTemplate" = "%@ *";
+"ios.ZDCChat.done" = "U krye";
+"ios.ZDCChat.transcriptEmailAlert.message" = "Para se të përfundoni këtë bisedë, doni të dërgoni një kopje me email?";
+"ios.ZDCChat.upload.error.access" = "Ka nje problem me aksesin per ngarkim";
+"ios.ZDCChat.visitorQueue" = "Ju lutemi të prisni që një agjent të jetë në dispozicion. Aktualisht janë %@ në pritje për t'u shërbyer.";
+"ios.ZDCChat.noConnectionMessage" = "Nuk keni lidhje me internetin. Ju lutemi kontrolloni lidhjen";
+"ios.ZDCChat.preChatForm.namePlaceholder" = "Emri";
+"ios.ZDCChat.access.camera" = "%@ nevojitet akses per kamerën";
+"ios.ZDCChat.chatTextEntry.sendButton" = "Dërgo";
+"ios.ZDCChat.retry" = "Riprovo";
+"ios.ZDCChat.chat.startingChatMessage" = "Duke filluar chat...";
+
+"ios.ZDCChat.chatTextEntry.placeholderText" = "Mesazhi";
+"ios.ZDCChat.agentsOffline.message" = "Nuk ka agjente te disponueshëm për momentin";
+"ios.ZDCChat.preChatForm.departmentPlaceholder" = "Si mund t'ju ndihmojmë?";
+"ios.ZDCChat.agentLeft" = "%@ agjenti nuk është më në bisedë";
+"ios.ZDCChat.sendOfflineMessageError.message" = "Dëshiron të provosh përsëri?";
+"ios.ZDCChat.unsentMessage" = "No se envió. Toca para volver a intentar.";
+"ios.ZDCChat.preChatForm.phonePlaceholder " =  "Numri i telefonit";
+"ios.ZDCChat.noAgentsMessage " =  "Na vjen keq, nuk ka agjentë në dispozicion për të biseduar. Ju lutemi të provoni përsëri më vonë ose lini një mesazh ..";
+"ios.ZDCChat.timeoutMessage " =  "Ne nuk kemi dëgjuar prej jush, për një kohë, kështu që ky sesion chat mbyllet dhe do të fillojë një bisedë të re në qoftë se ju ende keni pyetje ..";
+"ios.ZDCChat.transcriptEmailAlert.sendButton " =  "Dërgo";
+"ios.ZDCChat.upload.source.camera " =  "Bëj foto";
+
+"ios.ZDCChat.rating.commentButton " =  "Lini një koment...";
+"ios.ZDCChat.network.connectionError " =  "Pa lidhje";
+"ios.ZDCChat.cantConnectMessage " =  "Na vjen keq, ne nuk mund të lidheni në këtë kohë Ju lutemi të provoni përsëri më vonë ..";
+"ios.ZDCChat.chatEndedTitle " =  "Mbyll chat";
+"ios.ZDCChat.upload.error.size " =  "Dokumenti është shumë i madh";
+"ios.ZDCChat.preChatForm.invalidPhone " =  "Ju lutem vendosni një numër telefoni"; // kontroll
+"ios.ZDCChat.sendOfflineMessageError.sendButton " =  "Dërgo";
+"ios.ZDCChat.transcriptEmailAlert.title " =  "Dërgo një kopje";
+"ios.ZDCChat.endButton " =  "End chat";
+"ios.ZDCChat.chatEndedMessage " =  "Jeni te sigurte qe doni që të përfundojë këtë bisedë ??";
+"ios.ZDCChat.offlineMessageFailed.message " =  "Ju nuk mund të dërgoni mesazhin.";
+
+"ios.ZDCChat.rating.comment.placeholder " =  "Lini një koment";
+"ios.ZDCChat.agentJoined " =  "% @ Regjistruar chat";
+"ios.ZDCChat.noAgentsButton " =  "Lini një mesazh";
+"ios.ZDCChat.messageButton " =  "Mesazh";
+"ios.ZDCChat.title " =  "Chat";
+"ios.ZDCChat.nextButton " =  "Tjetra";
+"ios.ZDCChat.cancel " =  "Cancel";
+"ios.ZDCChat.accountOffline.message " =  "Aktualisht nuk ka agjentë në linjë. Do të donit të dërgoni një mesazh.?";
+"ios.ZDCChat.upload.source.gallery " =  "Foto Galeria";
+"ios.ZDCChat.chatConnectionLost.message " =  "Ne nuk mund të rilidhemi! Dëshironi të provoni përsëri?";
+"ios.ZDCChat.rating.title " =  "Vlerësoni këtë bisedë";
+
+"ios.ZDCChat.rating.editButton " =  "Ndrysho komentin ...";
+"ios.ZDCChat.yes " =  "Po";
+"ios.ZDCChat.transcriptEmailAlert.dontSendButton "= "Mos dërgo";
+
+//MARK: - Payfort
+"internetConnectionMessage" = "No connection, please check the internet connection";
+"general_error" = "Sorry, something went wrong please try again!";
+"titleMessage" = "Cancel this payment?";
+"InvaildCard" = "Invalid card number";
+"noBtn" = "NO";
+"doneBtn" = "Done";
+"okBtn" = "Ok";
+"InvaildCardNumber" = "Credit Card number must consist of 16 digits.";
+"PayBtn" = "Pay";
+"Init_conn" = "Init a secure connection...";
+"YourReceiptLbl" = "Your Receipt";
+"pf_cancel_required_field" = "Required field,cannot be left empty";
+"titleviewLbl" = "Credit Card";
+"alertTitle" = "Alert";
+"ExpDateLbl" = "EXPIRY DATE";
+"pf_errors_card_number_mismatch_po" = "The entered credit card type does not match the selected payment option.";
+"CardNamePl" = "CARDHOLDER NAME";
+"PAST_DATE_MSG" = "the date in the past";
+"CardNumberPl" = "CARD NUMBER";
+"monthyearLbl" = "Month & Year";
+"CVCtxt" = "CVV";
+"saveCarLbl" = "SAVE THIS CARD";
+"TechnicalIssue" = "technical problem";
+"yesBtn" = "YES";
+"pf_resp_page_great" = "Great";
+"pf_resp_page_failed" = "Failed";
+"InvalidExp" = "Invalid Expiry Date";
+"InvalidCVV" = "Invalid CVV";
+
+//MARK: - New Localization
+
+"Expected Delivery On" = "Porosia pritet në";
+
+"By signing up you agree to the" = "Duke u regjistruar ju bini dakord me";
+"Privacy Policy" = "Politika E Privatësisë";
+"Terms and conditionsSignUp" = "Rregullat Dhe Kushtet";
+"and" = " dhe ";
+"I would like to recommend using" = "unë do të doja t'u rekomandoja të përdorni";
+"via Clikat" = "via Bleta";
+"Warning" = "Kujdes!";
+"Please select dates to schedule." = "Ju lutemi zgjidhni datat për të caktuar";
+"Bronze" = "Bronz";
+"Notification Language Changed Successfully" = "Gjuha e njoftimeve u ndryshua me sukses";
+"Order Confirmed Successfully" = "Porosia u konfirmua me sukses";
+"Delivery on" = "Dergesa më";
+"No Product Found!" = "Asnjë produkt nuk u gjend";
+"Have you Forgot Completing Your Last Shopping Cart?" = "A harruat të përfundonit shportën tuaj?";
+"Supplier Rated Successfully" = "Shitësi u vlerësua me sukses";
+"Search for product" = "Kërko Për Produktin";
+"Send" = "Dërgo";
+"Sub Total" = "Nëntotali";
+
+"Camera Unavailable" = "Kamera E Padisponueshme";
+"It looks like your privacy settings are preventing us from accessing your camera." = "Ju lutemi kontrolloni për të parë nëse ju keni mundësuar shërbimet e kamerës.";
+"Location Unavailable" = "Vendndodhja E Padisponueshme";
+"Please check to see if you have enabled location services." = "Ju lutemi kontrolloni për të parë nëse ju keni mundësuar shërbimet e vendndodhjes.";
+"Customizable" = "Të personalizueshme";
+"Place Booking" = "Vendos prenotimin";
+
+"Completed Bookings" = "Prenotimet e Kompletuara";
+
+
+"New" = "E RE";
+"Live Tracking" = "Ndiq Live";
+"Use current location" = "Përdor vendndodhjen";
+"Popular Restaurants" = "Restorante të preferuara";
+"Supplier" = "Shitës";
+"Suppliers" = "Shitës";
+
+"SHARE_SHEET_EDIT_ACTIONS_BUTTON_TITLE" = "Ndrysho";
+"SHARE_SHEET_EDIT_SECTION_TITLE_FAVORITES" = "Të preferuara";
+"SHARE_SHEET_EDIT_SECTION_TITLE_OTHER" = "Others";
+"Shipping Status" = "Statusi i dërgeses";
+"Awaiting Shipment" = "Duge pritur të niset";
+"Shipped" = "Dërguar";
+"On hold" = "Në pritje";
+
+"No file added!" = "Asnje dokument nuk u shtua!";
+"Please select option" = "Ju lutemi zgjidhni një opsion";
+"customisable" = "Të ndryshueshme";
+"PROCEED" = "VAZHDO";
+"Review" = "Vlerësim";
+"Reviews" = "Vlerësime";
+"Others" = "Të tjera";
+
+
+//MARK:-   Etokens Module
+
+"etoken.eToken" = "E-Token";
+"etoken.orderOutForDelivery" = "Your order has been out for delivery.";
+"eToken.orderConfirmed" = "Your order has been confirmed for delivery.";
+"eToken.orderWaitingConfirmation" = "One order is waiting for your approval in upcoming bookings.";
+"etoken.orderTimeOut" = "One order is waiting for your approval in upcoming bookings.";
+"eToken.returnBottleTitle" = "Do you have (Brand name) bottles with you?";
+"eToken.onlinePayment" = "Online payment not available yet.";
+"eToken.tokenPurchasedSuccessfully" = "Token purchased successfully.";
+"eToken.selectAddress" = "Please select address.";
+"eToken.timeOut" = "Timeout";
+"eToken.approvalPending" = "Approval Pending";
+"eToken.rejected" = "Refuzuar";
+"eToken.trackingNotAvailable" = "Tracking not available yet. Please wait.";
+"alet.enterDetails" = "Please enter order details.";
+
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "Timeout";
+"etoken.ApprovalPending" = "Approval Pending";
+"etoken.Rejected" = "Refuzuar";
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "Hën";
+"Tue" = "Mar";
+"Wed" = "Mër";
+"Thu" = "Enj";
+"Fri" = "Pre";
+"Sat" = "Sht";
+"Sun" = "Die";
+
+
+"delivery_location" = "Destinacioni";
+
+
+
+// ======== ride App =======
+"LanguageName.English" = "Anglisht";
+"LanguageName.Arabic" = "عربى";
+"LanguageName.Urdu" = "اردو";
+"LanguageName.Hindi" = "हिंदी";
+"LanguageName.Chinese" = "中文";
+"LanguageName.Spanish" = "Spanish";
+"LanguageName.French" = "French";
+"LanguageName.Dutch" = "Dutch";
+"LanguageName.Italian" = "Italian";
+"LanguageName.Japanese" = "Japanese";
+"LanguageName.German" = "German";
+"LanguageName.Albanian" = "Shqip";
+
+"Alert.VersionUpdateText" = "Ju duhet të perditesoni aplikacionin tuaj";
+"Validation.InternetNotWorking" = "Ju duhet të jeni të lidhur në internet";
+"Validation.TermsConditions" = "Ju lutemi aprovoni Termat dhe Kushtet";
+"Validation.PhoneNumberMissed" = "Ju lutemi vendosni një numër telefoni të vlefshëm.";
+"Validation.PhoneNumberLength" = "Ju lutemi vendosni një numër telefoni të vlefshëm.";
+"Validation.OTPValidation" = "Ju lutemi vendosni FNP.";
+"Validation.UserName" = "Ju lutemi vendosni emrin e plotë.";
+"Validation.Alert" = "Njoftim";
+"Validation.Alert2" = "Konfirmim";
+
+"Validation.Success" = "Sukses";
+
+"IntroductionVC.TitleFirst" = "Dorëzimi i mallrave është vetëm një buton larg";
+"IntroductionVC.TitleDescription" = "Dorëzim i thjeshtë dhe i sigurt në pragun tuaj";
+
+//LandingScreen Strings
+
+"LandingVC.MobileNumber" = "Vendos nr. e Tel";
+"LandingVC.AccountAgreement" = "Duke krijuar një llogari ju bini dakord me";
+"LandingVC.Terms&Conditions" = "Termat dhe Kushtet";
+"LandingVC.OtpWillBeSent" = "Një FNP do ju dërgohet tek numri i regjistruar për verifikim";
+"LandingVC.Proceed" = "Vazhdo";
+
+//OTP Screen Strings
+"OTPVC.OTPText" = "Vendos FNP e dërguar ne ";
+"OTPVC.EditNumber" = "Ndrysho numrin";
+"OTPVC.ResendOTP" = "Ridërgo FNP";
+"OTPVC.VerificationCode" = "Kodi i verifikimit";
+"OTPVC.DontReceiveCode" = "Nuk ju erdhi kodi?";
+
+
+
+
+//Enter Name Strings
+"UserProfileVC.FullNamePlaceHolder" = "Emri i plotë";
+"UserProfileVC.NameText" = "Hej! Si e ke emrin?";
+"UserProfileVC.ReferalCode" = "KODI I REFERIMIT";
+"UserProfileVC.Submit" = "Konfirmo";
+"UserProfileVC.JustSomeMore" = "Na duhet edhe pak informacion :)";
+
+"Daily Deals" = "Ofertat e ditës";
+//Services names
+
+"Service.Gas" = "Karburant";
+"Service.DrinkingWater" = "Uje i pijshëm";
+"Service.WaterTanker" = "Autobot";
+"Service.Freight" = "Kamionë";
+"Service.Tow" = "Karrotrec";
+"Service.HeavyMachine" = "Makineri e rëndë";
+
+//Side Menu Strings
+"LeftMenuOption.Bookings" = "Prenotime";
+"LeftMenuOption.Support" = "Shërbime të tjera";
+"LeftMenuOption.Promotions" = "Promocione";
+"LeftMenuOption.Payments" = "Pagesa";
+"LeftMenuOption.Referral" = "Referime";
+"LeftMenuOption.EmergencyContacts" = "Numra të rëndësishëm";
+"LeftMenuOption.Settings" = "Konfigurime";
+"LeftMenuOption.ContactUs" = "Na kontaktoni";
+"LeftMenuOption.Signout" = "Dil";
+
+//Navigation Bar Strings
+"NavigationButton.Select" = "Zgjidh";
+"NavigationButton.Back" = "Mbrapa";
+"NavigationTitle.Location" = "Vendndodhja";
+"NavigationTitle.Location" = "Vendndodhja";
+
+//Order Strings
+"Order.DropOffLocation" = "Vendos destinacionin";
+"Order.DetailEnterTitle" = "Vendos detajet e porosisë";
+"Order.DetailValidation" = "Ju lutemi vendosni detajet e porosisë";
+"Order.SelectBrand" = "Zgjidh firmën";
+"Order.SelectCapacity" = "Zgjidh kapacitetin";
+"Order.SelectQuantity" = "Zgjidh sasinë";
+"Order.Next" = "Tjetër";
+
+"Order.Total" = "Total";
+"Order.Cash" = "Pará në dorë";
+"Order.CashOnDelivery" = "Pará në dorë";
+"Order.Card" = "Kartë";
+"Order.EToken" = "E-Token";
+"Order.Promo" = "Promo";
+"Order.Book" = "Prenoto";
+"Order.ProcessingRequestTitle" = "Ne po procesojme kërkesën tuaj";
+"Order.Cancel" = "Anullo";
+"Order.TimeLeftMins" = "Min"; //Multiple
+"Order.TimeLeftMin" = "Min" ;   //Single
+
+
+"Order.CancellingReasonValidation" = "Ju lutemi vendosni arsyen e anullimit.";
+"Order.PlaceHolderCancelReason" = "Shkruani arsyen e anullimit.";
+"Order.Invoice" = "Fatura" ;
+"Order.BaseFair" = "Tarifa bazë" ;
+"Order.Tax" = "Taksa" ;
+"Order.OMR" = "L" ; // Currency
+
+"Order.Finish" = "Përfundo" ;
+
+"Order.Rate" = "Vlerëso" ;
+"Order.VerySad" = "Shumë Keq" ;
+"Order.Sad" = "Keq";
+"Order.Good" = "Mirë";
+"Order.Happy" = "Shumë mirë";
+"Order.RatingTextPalceholder" = "Shto një koment këtu ...";
+"Order.SubmitRating" = "Vendos vlerësimin";
+"Order.TokenLeft" = "token left";
+"Order.Token" = "token";
+
+
+"BuyToken.PopUpTitle" = "Do you want to buy this e-token ?";
+"BuyToken.Purchased" = "Të blera";
+"BuyToken.OffersNearYou" = "Ofertat pranë jush";
+
+"Bookings.Past" = "Të shkuara";
+"Bookings.Upcoming" = "Të prenotuara";
+
+
+"ContactUs.ReachByPhone" = "Na telefono";
+"ContactUs.ReachByEmail" = "Na kontakto me email";
+"ContactUs.PlaceHolder" = "Shkruaj një mesazh këtu për të na kontaktuar direkt..";
+"ContactUS.ValidationMessage" = "Ju lutemi shkruani dicka.";
+
+"Referral.Text" = "Ju pelqen Bleta?";
+"Referral.ShareWithFriends" = "Ndaje me miqtë";
+
+
+
+
+"PopUpScheduledBooked.ConfirmationTitle" = "Urime";
+"PopUpScheduledBooked.ConfirmationMessage" = "Shërbimi juaj u prenotua.";
+
+"Button.Title.OK" = "OK";
+
+"OrderStatus.Searching" = "Duke kërkuar";
+
+"OrderStatus.Ongoing" = "Aktive";
+
+"OrderStatus.Confirmed" = "U konfirmua";
+"OrderStatus.Reached" = "Arriti";
+
+"OrderStatus.CustomerCancel" = "Klienti anulloi";
+
+"OrderStatus.SerComplete" = "Përfundoi";
+
+"OrderStatus.SerReject" = "Refuzuar";
+
+"OrderStatus.DriverCancel" = "Shoferi Anulloi";
+
+"OrderStatus.Scheduled" = "Prenotuar";
+
+
+"OrderUI.Status.Cancelled" = "Anulluar";
+"OrderUI.Status.Scheduled" = "Prenotuar";
+"OrderUI.Status.Completed" = "Përfundoi";
+
+"DriverStatus.AcceptedRequest" = "Shoferi e pranoi kërkesën tuaj.";
+"DriverStatus.YourOrderOnWay" = "Shoferi është rrugës për te ju.";
+"DriverStatus.AnotherOrderOnWay" = "Shoferi po perfundon një porosi aty afër.";
+"Order.Scheduling.Alert" = "Na falni, ju mund të rezervoni vetem 1 orë larg kohës tani.";
+
+"Button.Title.BookNow" = "Prenoto tani";
+"Button.Title.Schedule" = "Rezervo";
+
+
+"Ok" = "OK";
+
+"app_name" = "Bleta";
+"terms_and_conditions" = "Termat dhe Kushtet";
+"by_creating_account_you_agree" = "Duke krijuar një llogari ju bini dakord me";
+"enter_you_mobile_no" = "Vendosni nr. e tel.";
+"slogan" = "Ne plotësojmë deshirat tuaja në sekondë!";
+"resend_otp" = "Ridërgo FNP";
+"edit_this_number" = "Ndrysho numrin";
+"whats_your_name" = "Hej! Si e ke emrin?";
+"full_name" = "Emri i plotë";
+"title_activity_maps" = "Harta";
+"title_activity_main2" = "Main2Activity";
+"navigation_drawer_open" = "Hap navigimin";
+"navigation_drawer_close" = "Mbyll navigimin";
+"nav_header_title" = "Emri i përdoruesit";
+"nav_header_subtitle" = "Vlerësimi";
+"nav_header_desc" = "Navigation header";
+"action_settings" = "Konfigurimet";
+"bookings" = "Prenotimet";
+"promotions" = "Promocionet";
+"payments" = "Pagesat";
+"referral" = "Referral";
+"emergency_contacts" = "Numra të rendesishëm";
+"settings" = "Konfigurimet";
+"contact_us" = "Na kontaktoni";
+"sign_out" = "Dil";
+"back" = "Mbrapa";
+"location" = "Vendndodhja";
+"enter_drop_off_location" = "Vendos destinacionin";
+"enter_pickup_location" = "Vendos pikënisjen";
+"enter_details_of_order" = "Vendos detajet e porosisë";
+"select_branch" = "Zgjidh firmën";
+"select_capacity" = "Zgjidh kapacitetin";
+"select_quantity" = "Zgjidh sasinë";
+"next" = "Tjetër";
+"total" = "Total";
+"cash" = "Pará në dorë";
+"promo" = "Promo";
+"book" = "Prenoto";
+"we_are_requesting_your_request" = "Ne po procesojmë kërkesën tuaj";
+"cancel" = "Anullo";
+"invoice" = "Fatura";
+"base_fair" = "Tarifa bazë";
+"tax" = "Taksa";
+"rate" = "Vlerëso";
+"add_comments_here" = "Shto një koment këtu…";
+"submit" = "Konfirmo";
+"phone_validation_message" = "Ju lutemi vendosni një numër telefoni të vlefshëm";
+"otp_validation_message" = "Ju lutemi vendosni FNP";
+"name_empty_validation_message" = "Ju lutemi vendosni emrin që të vazhdoni.";
+"password_empty_validation_message" = "Ju lutemi vendosni fjalëkalimin që të vazhdoni.";
+"PromoCode_empty_validation_message" = "Ju lutemi vendosni kodin promocional që të vazhdoni.";
+"request_cancelled_successfully" = "Porosia juaj është anulluar.";
+"no_route_exits" = "Nuk ka rrugë";
+"type_reason_for_cancellation" = "Shkruaj arsyen për anullimin";
+"write_your_msg_here" = "Shkruaj një mesazh ketu…";
+"cancellation_reason_validation_text" = "Shkruaj arsyen për anullimin";
+"currency" = "L";
+"pickup_address_validation_message" = "Ju lutemi zgjidni një adresë të vlefshme.";
+"dropoff_address_validation_message" = "Ju lutemi zgjidni një adresë destinacioni të vlefshme."; //Need
+
+
+"finish" = "Përfundo";
+"gas" = "Karburant";
+"water_tanker" = "Autobot";
+"drinking_water" = "Uje i pijshëm";
+"tow" = "Karrotrec";
+"freight" = "Kamiona";
+"currently_no_driver_available" = "Për momentin nuk ka asnjë shofer.";
+"ongoing_request_cancelled_by_driver" = "Kërkesa juaj u anullua nga shoferi";
+"cash_on_delivery" = "Pará në dorë";
+"card" = "Kartë";
+"default_selecting_token_error" = "You cannot select E-Tokens as a default payment method.";
+"e_tokens" = "E-Tokens";
+"e_token" = "E-Token";
+"left" = "të mbetura";
+"purchased" = "Të bleras";
+"offers_available_near_you" = "Oferta pranë jush";
+"available" = "të disponueshme";
+"no_offers_available" = "Nuk ka oferta";
+"buy_etoken" = "Buy E-Token";
+"buy_etoken_confirmation" = "Are you sure you want to buy this e-token?";
+"yes" = "Po";
+"no" = "Jo";
+"view_e_tokens" = "View E-Tokens";
+"select" = "Zgjidh";
+"select_e_token" = "Zgjidh E-Tokens";
+"excellent" = "Shkëlqyeshëm";
+"very_good" = "Shumë mirë";
+"good" = "Mirë";
+"sad" = "Keq";
+"very_sad" = "Shumë Keq";
+"rating_validation_msg" = "Ju lutemi vendosni vlerësimin që të vazhdoni";
+"validations_success" = "Validation success";
+"booking_details" = "Detajet e prenotimit";
+"drop_off_location" = "Destinacioni";
+"delivery_location" = "Destinacioni";
+"no_bookings" = "Nuk ka prenotime";
+"like_buraq24_n_nshare_with_the_friends" = "Ju pëlqen Bleta? Ndajeni me miqtë";
+"share" = "Ndaje";
+"contact_us_msg_hint" = "Shkruaj një mesazh të na kontaktosh direkt…";
+"no_email_app_installed" = "There are no email clients installed.";
+"send_mail_to_buraq" = "Dërgo email te Bleta";
+"please_enter_message" = "Ju lutemi shkruani një mesazh";
+"we_will_reach_soon" = "Ne e morëm mesazhin tuaj. Do t'u kontaktojmë menjëherë!";
+"logout_confirmation" = "A jeni i sigurt që doni të dilni?";
+"package_distance_confirmation" = "Your journey distance is more than Package distance. You may charge extra for this.\nWould you like to procced?";
+"cancel_ride_confirmation" = "Anullimi mund të këtë tarifa shtesë. A jeni i sigurt që do vazhdoni?";
+"no_driver" = "Nuk ka shofer të lirë";
+"transferRequest" = "Ne po transferojmë prenotimin tuaj ne një shofer tjetër.";
+"coming_soon" = "Vjen për pak";
+"buraq_24" = "Bleta";
+"error" = "Error";
+"api_error_msg" = "Error occurred on server. Please try again.";
+"retry" = "Retry";
+"otp_resent_successfully" = "FNP u ridërgua me sukses";
+"change_language" = "Ndrysho gjuhën";
+"enter_otp_on" = "Vendos kodin e derguar ne";
+"reach_us_via_phone" = "Na telefononi";
+"reach_us_via_mail" = "Na kontaktoni me email";
+"no_contacts" = "Nuk keni kontakte";
+
+"english" = "Anglisht";
+"spanish" = "Spanish";
+"hindi" = "हिंदी";
+"urdu" = "اردو";
+"chinese" = "中文";
+"arabic" = "العربية";
+
+"schedule" = "Konfirmo orarin";
+"booking" = "Konfirmo prenotimin";
+"book_now" = "Prenoto";
+"schedule_time_selection_validation_msg" = "Na falni, ju mund të rezervoni vetem 1 orë larg kohës tani.";
+"congratulations" = "Urime";
+"service_booked_successfully" = "Shërbimi juaj u rezervua me sukses";
+"order_cancelled" = "Porosia juaj u anullua";
+"save" = "Ruaj";
+"profile_updated_successfully" = "Profili u ndryshua me sukses!";
+"permission_required_to_select_image" = "Aplikacioni duhet lejuar për akses ne Galeri";
+"dialog_camera" = "Camera";
+"dialog_gallery" = "Gallery";
+"dialog_select_your_choice" = "Zgjidh";
+"push_notifications" = "Njoftimet";
+"privacy" = "Privatësia";
+"about_us" = "Rreth Nesh";
+"edit_profile" = "Ndrysho profilin";
+"completed" = "Përfundoi";
+"breakdown" = "Makina u prish";
+"cancelled" = "Anulluar";
+"Scheduled" = "Prenotuar";
+"select_location" = "Zgjidh vendndodhjen";
+"select_vehicle_type" = "Zgjidh llojin e makines";
+"select_sub_model" = "Zgjidh modelin e makinës";
+"enter_approx_weight" = "Vendos peshën në Kg";
+"enter_additional_information" = "Vendos detaje të tjera...";
+"upload_images" = "Ngarko fotot";
+"view_deals" = "Shiko ofertat në bazë të kompanive";
+"driver_accepted_request" = "Shoferi e pranoi kërkesën tuaj.";
+"driver_is_on_the_way" = "Shoferi është rrugës";
+"truck_driver_is_on_the_way" = "Porosia juaj është rrugës";
+"driver_is_on_the_way_DriveStarted" = "Shërbimi juaj ka filluar";
+"driver_is_reached" = "Shoferi arriti";
+"driver_completing_nearby_order" = "Shoferi po mbaron një porosi aty afër";
+"version" = "Version : ";
+"support" = "Shërbime të tjera";
+"no_services" = "Nuk ka shërbime të disponueshme";
+"support_msg" = "Zgjidh problemin që po hasni";
+"i_agree_to_the" = "Jam dakord me ";
+"terms_and_conditions_validation_message" = "Ju lutemi pranoni Termat dhe Kushtet";
+"terms_and_conditions_caps" = "Termat dhe Kushtet";
+"press_back_again_to_exit" = "Shko mbrapa dhe një herë për të dalë.";
+
+"sms_permission" = "Grant read sms permission to auto fetch the OTP.";
+"grant" = "Grant";
+"Categories" = "Kategoritë";
+"default_category_name" = "Shërbim";
+"started_at" = "Filloi në";
+"completed_at" = "Mbaroi në";
+"past" = "Të shkuara";
+"uncoming" = "Të planifikuara";
+
+"session_expired_please_login_again" = "You session has been expired. Please login again";
+"normal" = "Normal";
+"satellite" = "Satelit";
+"max_images_validation_msg" = "Ju mund të vendosni max 2 foto";
+
+"work_in_progress" = "Your booking is not completed because the service update is under process. Please contact our customer support for assistance.";
+"email_not_configured" = "Email is not configured on the phone";
+
+//MARK:- Etokens Module
+"etoken.eToken" = "E-Token";
+"etoken.orderOutForDelivery" = "Your order has been out for delivery.";
+"eToken.orderConfirmed" = "Your order has been confirmed for delivery.";
+"eToken.orderWaitingConfirmation" = "One order is waiting for your approval in upcoming bookings.";
+"etoken.orderTimeOut" = "One order is waiting for your approval in upcoming bookings.";
+"eToken.returnBottleTitle" = "Do you have (Brand name) bottles with you?";
+"eToken.onlinePayment" = "Online payment not available yet.";
+"eToken.tokenPurchasedSuccessfully" = "Token purchased successfully.";
+"eToken.selectAddress" = "Please select address.";
+"eToken.timeOut" = "Timeout";
+"eToken.approvalPending" = "Approval Pending";
+"eToken.rejected" = "Refuzuar";
+"eToken.trackingNotAvailable" = "Tracking not available yet. Please wait.";
+"alet.enterDetails" = "Please enter order details.";
+
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "Timeout";
+"etoken.ApprovalPending" = "Approval Pending";
+"etoken.Rejected" = "Refuzuar";
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "Hën";
+"Tue" = "Mar";
+"Wed" = "Mër";
+"Thu" = "Enj";
+"Fri" = "Pre";
+"Sat" = "Sht";
+"Sun" = "Die";
+
+//New By trava
+"Please enter first name" = "Emri";
+"Please enter last name" = "Mbiemri";
+"Please enter address" = "Adresa";
+"NoOngoigRide" = "There is no currently ongoing ride";
+
+"Enter your Address" = "Vendos adresën";
+"Hi " = "Çkemi ";
+"Work" = "Punë";
+"My Bookings" = "Prenotimet e mia";
+"Payment method" = "Metoda e pagesës";
+"Travel packages" = "Paketa Udhëtimi";
+"Notifications" = "Njoftime";
+"Emergency contacts" = "Kontaktet e emergjencës";
+"Settings" = "Konfigurimet";
+"Help" = "Ndihmë";
+"Seating capacity" = "Kapaciteti i ulëseve";
+
+"View Package" = "Shiko paketën";
+"Packages details" = "Detajet e paketës";
+"Valid for" = "E vlefshme deri";
+"hours" = "orë";
+"days" = "ditë";
+"months" = "muaj";
+"hour" = "orë";
+"day" = "ditë";
+"month" = "muaj";
+
+"Pay" = "Paguaj ";
+"Outstanding from previous trip" = " Të prapambetura nga udhëtimi i kaluar";
+"credit" = "kredit";
+"Are you sure you want to send Panic Request to your nearby?" = "A jeni të sigurt që doni të beni një thirrje Paniku?";
+"Please wait. we'll contact you shortly." = "Ju lutemi prisni! Ne do ju kontakojmë menjëherë";
+"long_distance_confirmation" = "Shoferi juaj po vjen nga nje distance e larget. Ju mund te paguani shtesë për kete. A jeni të sigurt qe doni të vazhdoni?";
+"Ongoing_AddStop_Confirmation" = "Nese planifikoni një ndalese gjatë rrugës nuk do mund ta ndryshoni. A jeni të sigurt qe doni të vazhdoni?";
+"Add Home Address" = "Vendos adresën e shtëpisë";
+"Add Work Address" = "Vendos adresën e punës";
+"remove_card_Confirmation" = "A jeni të sigurt që doni të fshini kartën?";
+"Credit Card" = "Kartë Krediti";
+"can't_use_credit_point" =  "Ju nuk mund ti perdorni pikët e kreditit për blerje me cash";
+
+"Cancel_Ride" = "Anullo";
+"Cancel_Delivery" = "Anullo porosinë";
+
+"Ride_Share" = "Udhëtim";
+"Share_Parcel_Location" = "Ndaj vendin e pakos";
+"Delivery_In_Progress" = "Dorëzimi në proces";
+"Enjoy_Your_Ride" = "Udhëtim të mbarë!";
+
+
+"Login" = "Identifikohu";
+"signup" = "Regjistrohu";
+"Signup" = "Regjistrohu";
+"Log in And Sign Up" = "Identifikohu dhe Regjistrohu";
+"withPhoneEmail" = "me Tel ose Email";
+"Signupfor" = "Regjistrohu për";
+"loginTo" = "Futu në";
+"haveNoAccount" = "Nuk keni një llogari?";
+"haveAlreadyAccount" = "Keni një llogari?";
+"institution" = "Institucioni";
+"signup_for" = "Regjistrohu për";
+"institution_account" = "Llogari institucionale";
+"otp_text" = "Ne dërguam kodin te";
+
+"CONTINUE_WITH_APPLE" = "VAZHDO ME APPLE";
+"email" = "Email";
+"phone" = "Tel";
+
+
+"Validation.VerificationValidation" = "Please enter verification code.";
+"username_email_validation" = "Plaese enter username or email.";
+"password_empty_validation_message" = "Please enter password.";
+"confirm_password_empty_validation_message" = "Please enter confirm password.";
+"password_confirmPassword_validation" = "password and confirm password should match.";
+"password_length_validation_message" = "password should be atleast 6 characters.";
+"institution_type_validation" = "Please select institution type.";
+"institution_name_validation" = "Please select institution name.";
+"institution_id_validation" = "Please enter institution id number.";
+"empty_institutional_email_validation" = "Please enter institutional email.";
+"institutional_cred_Image_validation" = "Please add image.";
+"materialType" = "Please enter material Type.";
+"materialType2" = "Please enter Item to be picked up.";
+"pickupLevel" = "Please select pickup level.";
+"dropLevel" = "Please select dropoff level.";
+"approxWeight" = "Please enter approx. weight.";
+"approxWeight2" = "Please enter Item weight.";
+"receiverName" = "Please enter receiver name.";
+"receiverName2" = "Please enter name of contact person at dropoff location.";
+"phoneNumber" = "Please enter phone number.";
+"phoneNumber2" = "Please enter phone number of contact person at pickup location.";
+"senderName" = "Please enter sender name.";
+"senderName2" = "Please enter name of contact person at pickup location.";
+"additionalInformation" = "Please enter additional information.";
+"Your_ride_has_been_accepted_and_its_pending_from_approval." = "Your ride has been accepted and its pending from approval.";
+"pickupAtLocation" = "Please enter pickup at location.";
+"dropAtLocation" = "Please enter drop at location";
+
+
+"SideMenu.Book_a_taxi" =  "Thirr një taksi";
+"SideMenu.New_Services_Coming_soon" = "Shërbime të reja - Së shpejti";
+"SideMenu.School_Rides" = "School Rides";
+"SideMenu.Home" = "Shtëpi";
+"SideMenu.My_Bookings" = "Prenotimet e mia";
+"SideMenu.Payment_Methods" = "Metodat e pagesës";
+"SideMenu.Travel_Packages" = "Paketa Udhëtimi";
+"SideMenu.Emergency_Contacts" = "Kontaktet e Emergjencës";
+"SideMenu.Notifications" = "Njoftime";
+"SideMenu.Settings" = "Konfigurimet";
+"SideMenu.Help" = "Ndihmë";
+"SideMenu.Payment_History" = "Historia e pagesave";
+"SideMenu.Saved_Cards" = "Cartes enregistrées";
+"SideMenu.Delivery_History" = "Historia e dorëzimeve";
+"SideMenu.Promotions" = "Promocionet";
+"SideMenu.Contact_us" = "Na kontaktoni";
+"SideMenu.Sign_out" = "Dil";
+"SideMenu.Book_service" = "Prenoto një shërbim";
+"SideMenu.Edit_Profile" = "Ndrysho profilin";
+"SideMenu.Get_Discount" = "Ndaj me miqte";
+"SideMenu.Deliver_with_us" = "Dorëzo me ne!";
+"SideMenu.Wallet" = "Portofoli";
+"SideMenu.Refer_Earn" = "Refero & Fito";
+
+
+"ServiceView.Where_you_want_to_deliver" = "Ku doni të dërgoni";
+
+
+"Home.Recent_Locations" = "Vëndet e fundit";
+"Home.Book_a_delivery" = "Prenoto një dorëzim";
+"Home.Book_a_service" = "Prenoto një shërbim";
+"Home.Switch_Rider" = "Switch Rider";
+"Home.For_me" = "Për mua";
+"Home.Add_Home_Address" = "Vendos adresën e shtëpisë";
+"Home.Add_Work_Address" = "Vendos adresën e punës";
+"Home.For_Friend" = "Per një mik";
+
+"Emmergency.Emmergency_Contact" = "Kontakte emergjence";
+"Wallet.Please_maintain_minimum" = "Please maintain a minimum balance of";
+"Wallet.Receive_money" = "in the wallet in order to receive the booking request.";
+
+"Wallet.AddAmountLess" = "Sasia duhet të jetë me shumë se 0.";
+
+"AddTrustedContact" = "Vendos Kontakt të Besuar";
+
+
+"Setting.Push" = "Njoftimet";
+"Setting.Term" = "Termat dhe kushtet";
+"Setting.ChangeLanguage" = "Ndrysho gjuhën";
+"Setting.Privacy" = "Privatësia";
+"Setting.About" = "Rreth Nesh";
+
+
+"Booking.Past" = "Të shkuara";
+"Booking.Upcoming" = "Të planifikuara";
+"Booking.MyBooking" = "Prenotimet e mia";
+
+
+"Prefer not to say"  = "Prefer not to say" ;
+
+"Order Now" = "Porosit tani";
+"HalfWayStop" = "Ndalesë në gjysmë";

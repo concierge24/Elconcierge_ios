@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="MixedHomeV2DealCell" id="gTV-IL-0wX" customClass="MixedHomeV2DealCell" customModule="Royo_Food_User" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="314" height="83"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="314" height="83"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="mHx-gW-DNi">
+                        <rect key="frame" x="0.0" y="0.0" width="314" height="83"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                                <real key="value" value="8"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="mHx-gW-DNi" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="GRJ-tB-eXa"/>
+                <constraint firstAttribute="trailing" secondItem="mHx-gW-DNi" secondAttribute="trailing" id="XLK-87-1HY"/>
+                <constraint firstAttribute="bottom" secondItem="mHx-gW-DNi" secondAttribute="bottom" id="qjP-B3-KoF"/>
+                <constraint firstItem="mHx-gW-DNi" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="zE2-bR-ttw"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="314" height="83"/>
+            <connections>
+                <outlet property="imgView" destination="mHx-gW-DNi" id="tO2-VN-Vhb"/>
+            </connections>
+            <point key="canvasLocation" x="81" y="98"/>
+        </collectionViewCell>
+    </objects>
+</document>

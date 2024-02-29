@@ -1,0 +1,186 @@
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "08c-yB-Meu"; */
+"08c-yB-Meu.normalTitle" = "注册";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "1Kr-74-AB6"; */
+"1Kr-74-AB6.text" = "登录";
+
+/* Class = "UILabel"; text = "By signing up you agree to the Privacy Policy and Terms and conditions."; ObjectID = "1b8-sr-mkT"; */
+"1b8-sr-mkT.text" = "注册即表示您同意隐私政策以及条款和条件。";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "20m-lR-0w9"; */
+"20m-lR-0w9.normalTitle" = "市";
+
+/* Class = "UIButton"; normalTitle = "Country"; ObjectID = "3Vl-FK-PCn"; */
+"3Vl-FK-PCn.normalTitle" = "国家";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "4cf-g9-0Zd"; */
+"4cf-g9-0Zd.placeholder" = "你在找什么?";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE WITH FACEBOOK"; ObjectID = "4h0-d3-nOv"; */
+"4h0-d3-nOv.normalTitle" = "继续使用脸书";
+
+/* Class = "UIButton"; normalTitle = "Login using Facebook"; ObjectID = "4hj-QM-5GT"; */
+"4hj-QM-5GT.normalTitle" = "使用Facebook登录";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "4qr-nL-wdx"; */
+"4qr-nL-wdx.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Country"; ObjectID = "4z5-c9-2zq"; */
+"4z5-c9-2zq.normalTitle" = "国家";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "5v7-sS-TQD"; */
+"5v7-sS-TQD.text" = "登录";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "72B-oD-BaS"; */
+"72B-oD-BaS.normalTitle" = "市";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ASl-RV-PBJ"; */
+"ASl-RV-PBJ.normalTitle" = "完成";
+
+/* Class = "UITextField"; placeholder = "Pincode"; ObjectID = "AUu-MC-uYE"; */
+"AUu-MC-uYE.placeholder" = "PIN码";
+
+/* Class = "UIButton"; normalTitle = "Login using Facebook"; ObjectID = "BcS-mX-BEO"; */
+"BcS-mX-BEO.normalTitle" = "使用Facebook登录";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "Bdm-gX-g5F"; */
+"Bdm-gX-g5F.text" = "注册";
+
+/* Class = "UIButton"; normalTitle = "Send OTP"; ObjectID = "DS4-qE-hWB"; */
+"DS4-qE-hWB.normalTitle" = "发送OTP";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "FUh-bq-gJJ"; */
+"FUh-bq-gJJ.normalTitle" = "提交";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "HRb-Q3-Pn8"; */
+"HRb-Q3-Pn8.normalTitle" = "检查一下";
+
+/* Class = "UIButton"; normalTitle = "Choose location from map"; ObjectID = "Hbg-TQ-FTQ"; */
+"Hbg-TQ-FTQ.normalTitle" = "从地图上选择位置";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "K3y-U3-GNk"; */
+"K3y-U3-GNk.normalTitle" = "注册?";
+
+/* Class = "UIButton"; normalTitle = "FINISH"; ObjectID = "L0B-NU-vhE"; */
+"L0B-NU-vhE.normalTitle" = "完";
+
+/* Class = "UIButton"; normalTitle = "Area"; ObjectID = "LAx-al-ipk"; */
+"LAx-al-ipk.normalTitle" = "区";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "LDF-a9-m9U"; */
+"LDF-a9-m9U.normalTitle" = "完成";
+
+/* Class = "UILabel"; text = "By signing up you agree to the Privacy Policy and Terms and conditions."; ObjectID = "Lx4-G6-yBt"; */
+"Lx4-G6-yBt.text" = "注册即表示您同意隐私政策以及条款和条件。";
+
+/* Class = "UILabel"; text = "OR ENTER PINCODE"; ObjectID = "MfE-cV-Xy2"; */
+"MfE-cV-Xy2.text" = "或输入密码";
+
+/* Class = "UILabel"; text = "Enter country, state, city"; ObjectID = "NrB-Ve-uSG"; */
+"NrB-Ve-uSG.text" = "输入国家，州，城市";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "ODt-UC-EjY"; */
+"ODt-UC-EjY.normalTitle" = "注册?";
+
+/* Class = "UIButton"; normalTitle = "City"; ObjectID = "PND-Xt-GWy"; */
+"PND-Xt-GWy.normalTitle" = "市";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Pm6-20-SU9"; */
+"Pm6-20-SU9.normalTitle" = "登录";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD?"; ObjectID = "QYv-ln-MNY"; */
+"QYv-ln-MNY.normalTitle" = "忘记密码？";
+
+/* Class = "UILabel"; text = "Please fill in your address to continue"; ObjectID = "VFY-b1-8TF"; */
+"VFY-b1-8TF.text" = "请填写您的地址以继续";
+
+/* Class = "UILabel"; text = "Tap to add a profile picture"; ObjectID = "W02-0G-M7b"; */
+"W02-0G-M7b.text" = "点按即可添加个人资料图片";
+
+/* Class = "UILabel"; text = "We will be sending you an OTP (one time password ) on your mobile number. Tap the button below after correctly typing your phone number"; ObjectID = "Wyc-Qs-vNX"; */
+"Wyc-Qs-vNX.text" = "我们将通过您的手机号码向您发送OTP（一次性密码）。 正确输入您的电话号码后，点击下面的按钮";
+
+/* Class = "UILabel"; text = "Choose Location"; ObjectID = "a8A-PQ-Yp3"; */
+"a8A-PQ-Yp3.text" = "选择位置";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "aHG-5G-kCr"; */
+"aHG-5G-kCr.placeholder" = "电子邮件";
+
+/* Class = "UILabel"; text = "Enter Mobile"; ObjectID = "aWT-dT-fFQ"; */
+"aWT-dT-fFQ.text" = "输入手机";
+
+/* Class = "UILabel"; text = "Or enter pincode"; ObjectID = "c6D-1p-Iyg"; */
+"c6D-1p-Iyg.text" = "或输入密码";
+
+/* Class = "UIButton"; normalTitle = "Or use location from map"; ObjectID = "cE9-jK-iox"; */
+"cE9-jK-iox.normalTitle" = "或使用地图上的位置";
+
+/* Class = "UIButton"; normalTitle = "Check"; ObjectID = "cWY-YB-nww"; */
+"cWY-YB-nww.normalTitle" = "检查一下";
+
+/* Class = "UIButton"; selectedTitle = "Change"; ObjectID = "cWY-YB-nww"; */
+"cWY-YB-nww.selectedTitle" = "更改";
+
+/* Class = "UILabel"; text = "By continuing, you agree to CARES's Terms and Conditions and confirm that you have read CARES's Privacy Policy"; ObjectID = "cdb-L7-ESg"; */
+"cdb-L7-ESg.text" = "继续操作，即表示您同意CARES的条款和条件，并确认您已阅读CARES的隐私政策。";
+
+/* Class = "UITextField"; placeholder = "Pincode"; ObjectID = "chQ-O0-bNa"; */
+"chQ-O0-bNa.placeholder" = "PIN码";
+
+/* Class = "UILabel"; text = "Enter the OTP sent to"; ObjectID = "dAs-hU-HPb"; */
+"dAs-hU-HPb.text" = "输入发送到的OTP";
+
+/* Class = "UILabel"; text = "Select Country"; ObjectID = "djM-Ki-tJV"; */
+"djM-Ki-tJV.text" = "选择国家";
+
+/* Class = "UIButton"; normalTitle = "Login using Facebook"; ObjectID = "dyv-0s-5Zs"; */
+"dyv-0s-5Zs.normalTitle" = "Login using Facebook";
+
+/* Class = "UILabel"; text = "Create your account"; ObjectID = "gD5-VW-SSd"; */
+"gD5-VW-SSd.text" = "创建您的帐户";
+
+/* Class = "UIButton"; normalTitle = "Country"; ObjectID = "gIG-As-YiU"; */
+"gIG-As-YiU.normalTitle" = "国家";
+
+/* Class = "UIButton"; normalTitle = "Area"; ObjectID = "jRj-BF-Rvu"; */
+"jRj-BF-Rvu.normalTitle" = "区";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "kjW-TC-ynI"; */
+"kjW-TC-ynI.normalTitle" = "注册?";
+
+/* Class = "UILabel"; text = "Signup"; ObjectID = "lwA-mc-20Y"; */
+"lwA-mc-20Y.text" = "注册";
+
+/* Class = "UILabel"; text = "Choose Location"; ObjectID = "mJI-Ej-6NC"; */
+"mJI-Ej-6NC.text" = "选择位置";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "mPn-Fl-jpr"; */
+"mPn-Fl-jpr.normalTitle" = "注册?";
+
+/* Class = "UIButton"; normalTitle = "Area"; ObjectID = "nb3-Cj-9Yc"; */
+"nb3-Cj-9Yc.normalTitle" = "区";
+
+/* Class = "UIButton"; normalTitle = "FORGOT PASSWORD?"; ObjectID = "ofy-Pn-aZC"; */
+"ofy-Pn-aZC.normalTitle" = "忘记密码?";
+
+/* Class = "UILabel"; text = "By signing up you agree to the Privacy Policy and Terms and conditions."; ObjectID = "olS-fa-3oA"; */
+"olS-fa-3oA.text" = "注册即表示您同意隐私政策以及条款和条件。";
+
+/* Class = "UIButton"; normalTitle = "Signup"; ObjectID = "qIi-b3-pbI"; */
+"qIi-b3-pbI.normalTitle" = "注册";
+
+/* Class = "UIButton"; normalTitle = "CREATE NEW ACCOUNT"; ObjectID = "uB3-It-r5G"; */
+"uB3-It-r5G.normalTitle" = "建立新帐户";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "uNq-aH-zGh"; */
+"uNq-aH-zGh.normalTitle" = "继续";
+
+/* Class = "UIButton"; normalTitle = "SIGNUP?"; ObjectID = "uQo-rP-tdt"; */
+"uQo-rP-tdt.normalTitle" = "注册?";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "v3S-WB-Ms7"; */
+"v3S-WB-Ms7.normalTitle" = "登录";
+
+/* Class = "UILabel"; text = "OTP Verification"; ObjectID = "zrE-Id-d6N"; */
+"zrE-Id-d6N.text" = "OTP验证";

@@ -1,0 +1,237 @@
+
+/* Class = "UILabel"; text = "Hey Welcome, Avinash"; ObjectID = "0aQ-87-kGm"; */
+"0aQ-87-kGm.text" = "Ç'kemi! ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0mn-He-zoj"; */
+"0mn-He-zoj.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "12:20 pm"; ObjectID = "1QC-SW-g9O"; */
+"1QC-SW-g9O.text" = "12:20 pm";
+
+/* Class = "UILabel"; text = "Front"; ObjectID = "3Ou-mm-NwI"; */
+"3Ou-mm-NwI.text" = "Para";
+
+/* Class = "UITextField"; placeholder = "Enter your mobile no."; ObjectID = "4A6-Vz-Kz2"; */
+"4A6-Vz-Kz2.placeholder" = "Shkruaj nr. e tel";
+
+/* Class = "UITextField"; placeholder = "REFERRAL CODE"; ObjectID = "4CC-MZ-7G0"; */
+"4CC-MZ-7G0.placeholder" = "KODI I REFERIMIT";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "4mM-JW-B31"; */
+"4mM-JW-B31.text" = "Chat";
+
+/* Class = "UILabel"; text = "Book a cab instantly or schedule it according\nto your needs. to your needs. "; ObjectID = "61Y-sc-8MG"; */
+"61Y-sc-8MG.text" = "Thirr një taksi në moment ose rezervoje \nsipas nevojës ";
+
+/* Class = "UILabel"; text = "Book or Schedule a Taxi"; ObjectID = "6jm-H3-1Xk"; */
+"6jm-H3-1Xk.text" = "Thirr ose Prenoto një Taksi";
+
+/* Class = "UILabel"; text = "ADD ADDRESS PROOF"; ObjectID = "6nI-4W-Z0b"; */
+"6nI-4W-Z0b.text" = "VENDOS VERTETIMIN E ADRESËS";
+
+/* Class = "UIButton"; normalTitle = "Upload Address Proof Image"; ObjectID = "7ey-Sp-a5A"; */
+"7ey-Sp-a5A.normalTitle" = "Ngarko vërtetimin e adresës ";
+
+/* Class = "UITextField"; placeholder = "Eg. Jane"; ObjectID = "7pP-np-zN2"; */
+"7pP-np-zN2.placeholder" = "P.sh Denis";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "8SE-Qq-dGY"; */
+"8SE-Qq-dGY.text" = "Adresa";
+
+/* Class = "UILabel"; text = "Didn’t receive your code?"; ObjectID = "8gS-G5-41F"; */
+"8gS-G5-41F.text" = "Nuk ju erdhi kodi?";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "9VY-cO-xjI"; */
+"9VY-cO-xjI.normalTitle" = "Verifiko";
+
+/* Class = "UILabel"; text = "Select Location"; ObjectID = "9Vb-bA-xhc"; */
+"9Vb-bA-xhc.text" = "Zgjidh vendndodhjen";
+
+/* Class = "UILabel"; text = "hi there"; ObjectID = "AlQ-P2-h2g"; */
+"AlQ-P2-h2g.text" = "Ç'kemi";
+
+/* Class = "UILabel"; text = "OFFICIAL ID PHOTOS"; ObjectID = "BEy-0V-zWh"; */
+"BEy-0V-zWh.text" = "FOTO ZYRTARE TE ID";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "BQe-4h-4AS"; */
+"BQe-4h-4AS.normalTitle" = "Konfirmo";
+
+/* Class = "UILabel"; text = "Complete your profile"; ObjectID = "CDE-yf-UBY"; */
+"CDE-yf-UBY.text" = "Përfundo profilin";
+
+/* Class = "UILabel"; text = "12:20 pm"; ObjectID = "CGE-uf-REk"; */
+"CGE-uf-REk.text" = "12:20 pm";
+
+/* Class = "UILabel"; text = "12:20 pm"; ObjectID = "CME-AC-tMy"; */
+"CME-AC-tMy.text" = "12:20 pm";
+
+/* Class = "UILabel"; text = "I’M A"; ObjectID = "CTP-rQ-4Ex"; */
+"CTP-rQ-4Ex.text" = "UNË JAM ";
+
+/* Class = "UILabel"; text = "911"; ObjectID = "Dfe-Eq-VIU"; */
+"Dfe-Eq-VIU.text" = "129";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "Drf-TF-9K3"; */
+"Drf-TF-9K3.normalTitle" = "Anglisht";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "EJg-yY-rvG"; */
+"EJg-yY-rvG.normalTitle" = "Mbrapa";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "EcW-My-SkH"; */
+"EcW-My-SkH.text" = "+355";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "FzF-j9-sJm"; */
+"FzF-j9-sJm.text" = "EMAIL";
+
+/* Class = "UILabel"; text = "Need something delivered ?"; ObjectID = "GGO-Vj-F4W"; */
+"GGO-Vj-F4W.text" = "Ju duhet diçka aty ku ndodheni ?";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "GGy-ZI-EWD"; */
+"GGy-ZI-EWD.normalTitle" = "Mbrapa";
+
+/* Class = "UITextField"; placeholder = "Eg. email@gmail.com"; ObjectID = "I0W-2y-twd"; */
+"I0W-2y-twd.placeholder" = "P.sh. email@gmail.com";
+
+/* Class = "UILabel"; text = "COMING SOON"; ObjectID = "J4P-mv-s2d"; */
+"J4P-mv-s2d.text" = "VJEN PËR PAK";
+
+/* Class = "UILabel"; text = "No messages yet."; ObjectID = "KsD-kp-cgK"; */
+"KsD-kp-cgK.text" = "Nuk keni asnjë mesazh";
+
+/* Class = "UILabel"; text = "12:20 pm"; ObjectID = "Mt7-P4-TZq"; */
+"Mt7-P4-TZq.text" = "12:20 pm";
+
+/* Class = "UILabel"; text = "LAST NAME"; ObjectID = "NAg-r4-A4e"; */
+"NAg-r4-A4e.text" = "MBIEMRI";
+
+/* Class = "UITextField"; placeholder = "Eg. National ID Number"; ObjectID = "Nhr-e5-iab"; */
+"Nhr-e5-iab.placeholder" = "P.sh Numri i Kartes të ID";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "OQs-Cd-N2A"; */
+"OQs-Cd-N2A.normalTitle" = "Vazhdo";
+
+/* Class = "UILabel"; text = "Enter the code sent on +1 7392874901"; ObjectID = "P3g-TM-VOg"; */
+"P3g-TM-VOg.text" = "Vendos kodin e dërguar ne +1 7392874901";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "PfW-1j-V2P"; */
+"PfW-1j-V2P.normalTitle" = "OK";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RsP-Ed-7vk"; */
+"RsP-Ed-7vk.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Buraq 24"; ObjectID = "TLA-bn-Fum"; */
+"TLA-bn-Fum.text" = "Bletani 24";
+
+/* Class = "UITextField"; placeholder = "Eg. doe"; ObjectID = "TeG-wO-QJS"; */
+"TeG-wO-QJS.placeholder" = "P.sh. Mbiemri";
+
+/* Class = "UILabel"; text = "Upload a clear picture of your ID"; ObjectID = "U2U-Gj-tmz"; */
+"U2U-Gj-tmz.text" = "Ngarko një foto të pastër të kartës të ID";
+
+/* Class = "UILabel"; text = "01 : 59"; ObjectID = "Uw0-Xs-Q1O"; */
+"Uw0-Xs-Q1O.text" = "01 : 59";
+
+/* Class = "UITextField"; placeholder = "Enter location pickup location"; ObjectID = "V6a-Iq-6HP"; */
+"V6a-Iq-6HP.placeholder" = "Vendos pikënisjen";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "VUb-Gi-T6R"; */
+"VUb-Gi-T6R.text" = "Mashkull";
+
+/* Class = "UILabel"; text = "Just some more information to fill up :)"; ObjectID = "Wb3-99-YGk"; */
+"Wb3-99-YGk.text" = "Na duhet edhe pak informacion :)";
+
+/* Class = "UILabel"; text = "Bikram"; ObjectID = "XAT-5Y-Dfu"; */
+"XAT-5Y-Dfu.text" = "Denis";
+
+/* Class = "UILabel"; text = "An OTP will be sent to your entered mobile number for verification."; ObjectID = "XZu-ov-Ghk"; */
+"XZu-ov-Ghk.text" = "Një fjalëkalim një-përdorimesh do ju dërgohet te numri juaj i telefonit për verifikim nëpërmjet (SMS)";
+
+/* Class = "UILabel"; text = "Freight delivery is just one tap away"; ObjectID = "Ye1-aG-FfU"; */
+"Ye1-aG-FfU.text" = "Dorëzimi i mallrave është vetëm një buton larg";
+
+/* Class = "UILabel"; text = "Delivery care free at your doorstep"; ObjectID = "ZkS-4v-UBQ"; */
+"ZkS-4v-UBQ.text" = "Dorëzim i thjeshtë dhe i sigurt në pragun tuaj";
+
+/* Class = "UILabel"; text = "We'll pick it up for you"; ObjectID = "bFq-iP-UXo"; */
+"bFq-iP-UXo.text" = "Ne shkojmë e marrim për ty";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dRg-NW-Afa"; */
+"dRg-NW-Afa.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "REFERRAL CODE(optional)"; ObjectID = "dWH-VY-HxS"; */
+"dWH-VY-HxS.text" = "KODI I REFERIMIT(opsional)";
+
+/* Class = "UILabel"; text = "Verification Code"; ObjectID = "e8x-8I-hzr"; */
+"e8x-8I-hzr.text" = "Kodi i verifikimit";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "fMr-Vd-SGe"; */
+"fMr-Vd-SGe.text" = "Femër";
+
+/* Class = "UITextField"; placeholder = "Enter your number"; ObjectID = "fVx-BW-8a5"; */
+"fVx-BW-8a5.placeholder" = "Vendos nr. e tel";
+
+/* Class = "UILabel"; text = "COMING SOON"; ObjectID = "fgQ-vv-8Ul"; */
+"fgQ-vv-8Ul.text" = "VJEN PËR PAK";
+
+/* Class = "UILabel"; text = "Connecting your needs in seconds"; ObjectID = "gl4-if-mQn"; */
+"gl4-if-mQn.text" = "Përmbushim deshirat tuaja në sekondë";
+
+/* Class = "UILabel"; text = "I agree to the"; ObjectID = "hez-sm-JV0"; */
+"hez-sm-JV0.text" = "Jam dakord me";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "jXC-qn-u72"; */
+"jXC-qn-u72.text" = "Tjetër";
+
+/* Class = "UITextField"; placeholder = "4 digit Code"; ObjectID = "l1X-it-z6P"; */
+"l1X-it-z6P.placeholder" = "Kodi 4 shifror";
+
+/* Class = "UILabel"; text = "Delivery care free at your doorstep"; ObjectID = "ltJ-IK-pNn"; */
+"ltJ-IK-pNn.text" = "Dorëzim i thjeshtë dhe i sigurt në pragun tuaj";
+
+/* Class = "UILabel"; text = "BOOK A SERVICE"; ObjectID = "mcH-X9-QHY"; */
+"mcH-X9-QHY.text" = "PRENOTO NJË SHËRBIM";
+
+/* Class = "UILabel"; text = "NATIONAL ID NUMBER"; ObjectID = "nKX-aE-ASZ"; */
+"nKX-aE-ASZ.text" = "NR I KARTËS TE ID";
+
+/* Class = "UIButton"; normalTitle = "Resend otp"; ObjectID = "neP-YF-PQR"; */
+"neP-YF-PQR.normalTitle" = "Ridërgo FNP";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "noZ-A4-uSb"; */
+"noZ-A4-uSb.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "* Upload files Max 5 MB & PDF, JPEG or PNG only "; ObjectID = "pOP-gK-R1q"; */
+"pOP-gK-R1q.text" = "* Upload files Max 5 MB & PDF, JPEG or PNG only ";
+
+/* Class = "UILabel"; text = "Change langauge"; ObjectID = "qGy-YT-C2U"; */
+"qGy-YT-C2U.text" = "Ndrysho gjuhën";
+
+/* Class = "UILabel"; text = "Enter your number to get started"; ObjectID = "qkf-x1-Yz8"; */
+"qkf-x1-Yz8.text" = "Enter your number to get started";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "rea-2s-M3m"; */
+"rea-2s-M3m.text" = "Mbrapa";
+
+/* Class = "UIButton"; normalTitle = "Termat dhe Kushtet"; ObjectID = "stC-uF-MUz"; */
+"stC-uF-MUz.normalTitle" = "Termat dhe Kushtet";
+
+/* Class = "UILabel"; text = "00 : 00"; ObjectID = "tfw-TW-5if"; */
+"tfw-TW-5if.text" = "00 : 00";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "uNJ-49-eZt"; */
+"uNJ-49-eZt.text" = "+91";
+
+/* Class = "UILabel"; text = "Select your service to continue further"; ObjectID = "vhF-8L-Fns"; */
+"vhF-8L-Fns.text" = "Zgjidhni shërbimin tuaj që të vazhdoni më tutje";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xI1-8q-yGi"; */
+"xI1-8q-yGi.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Freight delivery is just one tap away"; ObjectID = "y5f-QU-3cT"; */
+"y5f-QU-3cT.text" = "Dorëzimi i mallrave është vetëm një buton larg";
+
+/* Class = "UITextField"; placeholder = "Enter drop off location"; ObjectID = "yeQ-di-9ij"; */
+"yeQ-di-9ij.placeholder" = "Vendos destinacionin";
+
+/* Class = "UILabel"; text = "FIRST NAME"; ObjectID = "yvL-UA-unT"; */
+"yvL-UA-unT.text" = "EMRI";

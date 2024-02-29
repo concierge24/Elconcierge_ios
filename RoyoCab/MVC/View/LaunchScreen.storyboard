@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="eBH-36-dSn">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="HelveticaNeue.ttc">
+            <string>HelveticaNeue</string>
+            <string>HelveticaNeue-Medium</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="XMc-xa-cN1">
+            <objects>
+                <viewController id="eBH-36-dSn" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="DxG-UO-vL7">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Splashelconcierge" translatesAutoresizingMaskIntoConstraints="NO" id="bfw-9K-FfO">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                            </imageView>
+                            <stackView hidden="YES" opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" spacing="7" translatesAutoresizingMaskIntoConstraints="NO" id="6pI-Bn-fSm">
+                                <rect key="frame" x="10" y="233.5" width="355" height="200"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="thena_splash" translatesAutoresizingMaskIntoConstraints="NO" id="2e7-nh-fl6">
+                                        <rect key="frame" x="27.5" y="0.0" width="300" height="200"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="200" id="IKY-TX-izA"/>
+                                            <constraint firstAttribute="width" constant="300" id="vBX-L2-y8G"/>
+                                        </constraints>
+                                    </imageView>
+                                    <stackView hidden="YES" opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="HlD-uH-ANn">
+                                        <rect key="frame" x="67.5" y="0.0" width="220" height="0.0"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Need something delivered ?" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lOm-OO-jcz">
+                                                <rect key="frame" x="0.0" y="0.0" width="220" height="0.0"/>
+                                                <fontDescription key="fontDescription" name="HelveticaNeue-Medium" family="Helvetica Neue" pointSize="17"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="We'll pick it up for you" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="MQh-MK-5Zp">
+                                                <rect key="frame" x="45.5" y="0.0" width="129" height="0.0"/>
+                                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="13"/>
+                                                <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="6pI-Bn-fSm" firstAttribute="centerX" secondItem="DxG-UO-vL7" secondAttribute="centerX" id="16Y-zg-qVy"/>
+                            <constraint firstItem="bfw-9K-FfO" firstAttribute="leading" secondItem="Vo2-mz-gcl" secondAttribute="leading" id="66R-lG-LJc"/>
+                            <constraint firstItem="6pI-Bn-fSm" firstAttribute="centerY" secondItem="DxG-UO-vL7" secondAttribute="centerY" id="7JV-lg-weL"/>
+                            <constraint firstItem="6pI-Bn-fSm" firstAttribute="leading" secondItem="Vo2-mz-gcl" secondAttribute="leading" constant="10" id="BdE-kT-GJT"/>
+                            <constraint firstItem="bfw-9K-FfO" firstAttribute="trailing" secondItem="Vo2-mz-gcl" secondAttribute="trailing" id="BoA-2D-cXA"/>
+                            <constraint firstAttribute="bottom" secondItem="bfw-9K-FfO" secondAttribute="bottom" id="CVu-xy-9Ik"/>
+                            <constraint firstItem="bfw-9K-FfO" firstAttribute="top" secondItem="DxG-UO-vL7" secondAttribute="top" id="iBr-Du-4AZ"/>
+                            <constraint firstItem="Vo2-mz-gcl" firstAttribute="trailing" secondItem="6pI-Bn-fSm" secondAttribute="trailing" constant="10" id="uIS-aV-rZU"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="Vo2-mz-gcl"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="abw-7G-RCe" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="-70" y="309"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Splashelconcierge" width="375" height="812"/>
+        <image name="thena_splash" width="340" height="225"/>
+    </resources>
+</document>

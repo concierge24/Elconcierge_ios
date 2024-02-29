@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Login  to  Name"; ObjectID = "88W-aZ-rUu"; */
+"88W-aZ-rUu.text" = "Connexion au nom";
+
+/* Class = "UILabel"; text = "+57"; ObjectID = "AGl-jt-Gxq"; */
+"AGl-jt-Gxq.text" = "+57";
+
+/* Class = "UIButton"; normalTitle = "Terms and Conditions"; ObjectID = "Il4-EL-sG7"; */
+"Il4-EL-sG7.normalTitle" = "Conditions générales.";
+
+/* Class = "UILabel"; text = "By creating account you agree with "; ObjectID = "NDo-AH-USa"; */
+"NDo-AH-USa.text" = "En créant un compte, vous acceptez ";
+
+/* Class = "UITextField"; placeholder = "Enter Mobile No:"; ObjectID = "dRe-u6-2Ci"; */
+"dRe-u6-2Ci.placeholder" = "Entrez votre numéro de téléphone portable.";
+
+/* Class = "UILabel"; text = "ARC"; ObjectID = "m8f-Ha-TNb"; */
+"m8f-Ha-TNb.text" = "ARC";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "wnp-6q-d41"; */
+"wnp-6q-d41.normalTitle" = "Procédez à";

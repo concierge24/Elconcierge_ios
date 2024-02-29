@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="SupplierInfoHeaderView" customModule="Sneni" customModuleProvider="target">
+            <connections>
+                <outlet property="collectionView" destination="KxZ-PK-ELW" id="Rxo-V9-lyb"/>
+                <outlet property="constraintLeadingImage" destination="krP-Ic-rol" id="1vJ-ho-v74"/>
+                <outlet property="imageViewSupplier" destination="Zst-Ib-xG2" id="KQI-P7-e6k"/>
+                <outlet property="pageControl" destination="CUe-Rw-Yrq" id="Vw9-jI-oZo"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="306"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bounces="NO" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="KxZ-PK-ELW">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="256"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                    <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" id="d0C-xR-OrO">
+                        <size key="itemSize" width="50" height="50"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                </collectionView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="cEM-v9-MlH">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="256"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.20000000000000001" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button hidden="YES" opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="uO0-9o-j1p" userLabel="btnBack" customClass="ThemeButton" customModule="Sneni" customModuleProvider="target">
+                    <rect key="frame" x="16" y="0.0" width="44" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="44" id="2Oe-ZS-02c"/>
+                        <constraint firstAttribute="height" constant="44" id="E9O-DT-wfr"/>
+                    </constraints>
+                    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <state key="normal" image="ic_back_white"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleTitleColor" value="YES"/>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isbtnBack" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                    <connections>
+                        <action selector="actionBack:" destination="-1" eventType="touchUpInside" id="It7-UQ-hW6"/>
+                    </connections>
+                </button>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="bg_splash_ii" translatesAutoresizingMaskIntoConstraints="NO" id="Zst-Ib-xG2">
+                    <rect key="frame" x="16" y="196" width="110" height="110"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="110" id="Kkj-k8-G7w"/>
+                        <constraint firstAttribute="height" constant="110" id="lgA-YO-d2n"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                            <real key="value" value="55"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="number" keyPath="borderWidthW">
+                            <real key="value" value="1"/>
+                        </userDefinedRuntimeAttribute>
+                        <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                            <color key="value" white="0.0" alpha="0.20000000000000001" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </imageView>
+                <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="CUe-Rw-Yrq">
+                    <rect key="frame" x="545" y="209" width="39" height="37"/>
+                    <color key="pageIndicatorTintColor" white="1" alpha="0.5" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <color key="currentPageIndicatorTintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </pageControl>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="CUe-Rw-Yrq" firstAttribute="bottom" secondItem="KxZ-PK-ELW" secondAttribute="bottom" constant="-10" id="7VA-zj-LCb"/>
+                <constraint firstItem="cEM-v9-MlH" firstAttribute="leading" secondItem="KxZ-PK-ELW" secondAttribute="leading" id="7oq-jj-jAs"/>
+                <constraint firstItem="KxZ-PK-ELW" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="DVB-H8-MdI"/>
+                <constraint firstAttribute="trailing" secondItem="KxZ-PK-ELW" secondAttribute="trailing" id="DXl-Ux-X4Y"/>
+                <constraint firstItem="uO0-9o-j1p" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="16" id="Dw7-xP-ckf"/>
+                <constraint firstItem="Zst-Ib-xG2" firstAttribute="top" secondItem="KxZ-PK-ELW" secondAttribute="bottom" constant="-60" id="KrO-gj-azK"/>
+                <constraint firstItem="KxZ-PK-ELW" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="N9i-Wq-gA4"/>
+                <constraint firstAttribute="trailing" secondItem="CUe-Rw-Yrq" secondAttribute="trailing" constant="16" id="SL7-Zu-cyu"/>
+                <constraint firstItem="uO0-9o-j1p" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="cI0-4e-5Zw"/>
+                <constraint firstAttribute="bottom" secondItem="Zst-Ib-xG2" secondAttribute="bottom" id="irs-RB-i8V"/>
+                <constraint firstItem="Zst-Ib-xG2" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="16" id="krP-Ic-rol"/>
+                <constraint firstItem="cEM-v9-MlH" firstAttribute="bottom" secondItem="KxZ-PK-ELW" secondAttribute="bottom" id="lF2-jQ-ME8"/>
+                <constraint firstItem="cEM-v9-MlH" firstAttribute="top" secondItem="KxZ-PK-ELW" secondAttribute="top" id="lUE-kc-tIP"/>
+                <constraint firstItem="cEM-v9-MlH" firstAttribute="trailing" secondItem="KxZ-PK-ELW" secondAttribute="trailing" id="s5v-vb-wap"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="91" y="-52"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="bg_splash_ii" width="375" height="667"/>
+        <image name="ic_back_white" width="24" height="24"/>
+    </resources>
+</document>

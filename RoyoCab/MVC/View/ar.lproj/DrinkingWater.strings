@@ -1,0 +1,390 @@
+
+/* Class = "UIButton"; normalTitle = "View offers"; ObjectID = "0cR-e9-6o6"; */
+"0cR-e9-6o6.normalTitle" = "العروض";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "2Ks-12-8PV"; */
+"2Ks-12-8PV.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter pickup location"; ObjectID = "3no-hG-sNh"; */
+"3no-hG-sNh.placeholder" = "أدخل موقع استلام الطلب";
+
+
+/* Class = "UILabel"; text = "Mon, Tue, wed , ythurs fri datdarueday"; ObjectID = "4Eb-IE-7pr"; */
+"4Eb-IE-7pr.text" = "Mon, Tue, wed , ythurs fri datdarueday";
+
+/* Class = "UITextField"; placeholder = "Search Area"; ObjectID = "4m5-3c-eua"; */
+"4m5-3c-eua.placeholder" = "بحث المنطقة";
+
+/* Class = "UILabel"; text = "Aquafina"; ObjectID = "AI8-ws-QHX"; */
+"AI8-ws-QHX.text" = "Aquafina";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "ALW-7x-BqD"; */
+"ALW-7x-BqD.normalTitle" = "رفض";
+
+/* Class = "UILabel"; text = "Do you  have Aquafina bottles with you?"; ObjectID = "AhP-f9-xDW"; */
+"AhP-f9-xDW.text" = "Do you have Aquafina bottles with you?";
+
+/* Class = "UILabel"; text = "Aquafina"; ObjectID = "Bph-oQ-me8"; */
+"Bph-oQ-me8.text" = "Aquafina";
+
+/* Class = "UIButton"; normalTitle = "Cash"; ObjectID = "CYX-Gv-0wN"; */
+"CYX-Gv-0wN.normalTitle" = "نقد";
+
+/* Class = "UILabel"; text = "5 Gallon/token"; ObjectID = "DpC-V9-SYj"; */
+"DpC-V9-SYj.text" = "5 Gallon/token";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "DsB-CM-3Yu"; */
+"DsB-CM-3Yu.text" = "---";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "FVx-tq-Cc0"; */
+"FVx-tq-Cc0.normalTitle" = "نعم";
+
+/* Class = "UIButton"; selectedTitle = "Yes"; ObjectID = "FVx-tq-Cc0"; */
+"FVx-tq-Cc0.selectedTitle" = "نعم";
+
+/* Class = "UILabel"; text = "Mon, tue, wed, thu, fri, sat ,sun"; ObjectID = "FvA-zX-oiK"; */
+"FvA-zX-oiK.text" = "Mon, tue, wed, thu, fri, sat ,sun";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gee-MS-54i"; */
+"Gee-MS-54i.text" = "Label";
+
+/* Class = "UILabel"; text = "Drop off location"; ObjectID = "H9Y-i1-Wly"; */
+"H9Y-i1-Wly.text" = "موقع التوصيل";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "HAJ-7k-fkz"; */
+"HAJ-7k-fkz.text" = "المجموع";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "I8t-gd-lcm"; */
+"I8t-gd-lcm.normalTitle" = "قبول";
+
+/* Class = "UIButton"; normalTitle = "BUY"; ObjectID = "KAg-N2-1qi"; */
+"KAg-N2-1qi.normalTitle" = "شراء";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KZ1-54-zWp"; */
+"KZ1-54-zWp.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Track Order"; ObjectID = "Lj6-Ay-BiB"; */
+"Lj6-Ay-BiB.normalTitle" = "تتبع الطلب";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "RlW-bu-XCJ"; */
+"RlW-bu-XCJ.text" = "1";
+
+/* Class = "UILabel"; text = "Aquafina"; ObjectID = "S9B-Tg-NY0"; */
+"S9B-Tg-NY0.text" = "Aquafina";
+
+/* Class = "UILabel"; text = "Select quantity"; ObjectID = "SFQ-Vp-8XP"; */
+"SFQ-Vp-8XP.text" = "حدد الكمية";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Uy4-T0-Tyn"; */
+"Uy4-T0-Tyn.text" = "Label";
+
+/* Class = "UILabel"; text = "Available tokens"; ObjectID = "V5u-O7-zAs"; */
+"V5u-O7-zAs.text" = "الرموز المتاحة";
+
+/* Class = "UILabel"; text = "400 omr"; ObjectID = "Wgj-gb-F2I"; */
+"Wgj-gb-F2I.text" = "400 omr";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "WjR-yY-HdS"; */
+"WjR-yY-HdS.text" = "رمز-إلكتروني";
+
+/* Class = "UILabel"; text = "Driver is now serving you"; ObjectID = "YgQ-U3-9fp"; */
+"YgQ-U3-9fp.text" = "السائق سيخدمك الأن";
+
+/* Class = "UIButton"; normalTitle = "Purchased"; ObjectID = "Yy3-mI-RhW"; */
+"Yy3-mI-RhW.normalTitle" = "أشترى";
+
+/* Class = "UIButton"; selectedTitle = "Purchased"; ObjectID = "Yy3-mI-RhW"; */
+"Yy3-mI-RhW.selectedTitle" = "أشترى";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "c9l-fs-l9I"; */
+"c9l-fs-l9I.normalTitle" = "رجوع";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "cfI-HO-3vD"; */
+"cfI-HO-3vD.text" = "رمز-الكتروني";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cx7-Ln-RqN"; */
+"cx7-Ln-RqN.text" = "Label";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "dtx-qt-akA"; */
+"dtx-qt-akA.text" = "---";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "eAv-fk-3OW"; */
+"eAv-fk-3OW.text" = "---";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eOm-ZS-G27"; */
+"eOm-ZS-G27.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "eqL-II-d63"; */
+"eqL-II-d63.normalTitle" = "رجوع";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "fLq-g0-GUH"; */
+"fLq-g0-GUH.normalTitle" = "لا";
+
+/* Class = "UIButton"; selectedTitle = "No"; ObjectID = "fLq-g0-GUH"; */
+"fLq-g0-GUH.selectedTitle" = "لا";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "foX-8o-Hfa"; */
+"foX-8o-Hfa.text" = "رمز-الكتروني";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "fxy-9T-gvv"; */
+"fxy-9T-gvv.text" = "---";
+
+/* Class = "UILabel"; text = "Aquafina"; ObjectID = "g2a-Jr-gWX"; */
+"g2a-Jr-gWX.text" = "Aquafina";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "g64-S8-yqh"; */
+"g64-S8-yqh.text" = "---";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "gfs-U6-49T"; */
+"gfs-U6-49T.normalTitle" = "رجوع";
+
+/* Class = "UILabel"; text = " 2 gallon x 1"; ObjectID = "hAG-43-Zbq"; */
+"hAG-43-Zbq.text" = " 2 gallon x 1";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "hLG-3y-RSD"; */
+"hLG-3y-RSD.text" = "---";
+
+/* Class = "UILabel"; text = "5 Gallon/token"; ObjectID = "iFX-9c-Y2h"; */
+"iFX-9c-Y2h.text" = "5 Gallon/token";
+
+/* Class = "UILabel"; text = "25 Tokens"; ObjectID = "iQC-2u-kbD"; */
+"iQC-2u-kbD.text" = "25 Tokens";
+
+/* Class = "UILabel"; text = "companies serving in your area"; ObjectID = "jGO-LF-og9"; */
+"jGO-LF-og9.text" = "الشركات التي تعمل في منطقتك";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lp2-pG-jw2"; */
+"lp2-pG-jw2.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nsI-4X-ZF3"; */
+"nsI-4X-ZF3.text" = "Label";
+
+/* Class = "UILabel"; text = "Used tokens"; ObjectID = "o0e-jY-jqO"; */
+"o0e-jY-jqO.text" = "رموز مستخدمة";
+
+/* Class = "UILabel"; text = "400 OMR"; ObjectID = "oc5-9D-t3P"; */
+"oc5-9D-t3P.text" = "400 OMR";
+
+/* Class = "UIButton"; normalTitle = "New"; ObjectID = "rDg-1b-0zC"; */
+"rDg-1b-0zC.normalTitle" = "جديد";
+
+/* Class = "UIButton"; selectedTitle = "New"; ObjectID = "rDg-1b-0zC"; */
+"rDg-1b-0zC.selectedTitle" = "جديد";
+
+/* Class = "UILabel"; text = "Delivers on"; ObjectID = "s1y-ar-pzr"; */
+"s1y-ar-pzr.text" = "تسليم على";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "sKs-uk-g1X"; */
+"sKs-uk-g1X.normalTitle" = "رجوع";
+
+/* Class = "UILabel"; text = "E-Tokens Used"; ObjectID = "uTb-H9-koX"; */
+"uTb-H9-koX.text" = "رموز الإلكترونية مستخدمة";
+
+/* Class = "UILabel"; text = "Choose a payment method"; ObjectID = "vlM-Vu-mYS"; */
+"vlM-Vu-mYS.text" = "اختر طريقة الدفع";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "vwH-nq-cWh"; */
+"vwH-nq-cWh.text" = "رمز-الكتروني";
+
+/* Class = "UILabel"; text = "Delivers on:"; ObjectID = "xu4-nD-HFa"; */
+"xu4-nD-HFa.text" = "تسليم على: ";
+
+/* Class = "UIButton"; normalTitle = "Online"; ObjectID = "zZQ-2q-7MW"; */
+"zZQ-2q-7MW.normalTitle" = "متصل";
+
+
+
+///* Class = "UIButton"; normalTitle = "View offers"; ObjectID = "0cR-e9-6o6"; */
+//"0cR-e9-6o6.normalTitle" = "العروض";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "2Ks-12-8PV"; */
+//"2Ks-12-8PV.text" = "ملصق";
+//
+///* Class = "UITextField"; placeholder = "Enter pickup location"; ObjectID = "3no-hG-sNh"; */
+//"3no-hG-sNh.placeholder" = "أدخل موقع استلام الطلب";
+//
+///* Class = "UILabel"; text = "Mon, Tue, wed , ythurs fri datdarueday"; ObjectID = "4Eb-IE-7pr"; */
+//"4Eb-IE-7pr.text" = "الجمعة,الخميس , الأربعاء, الثلاثاء , الإثنين, الأحد, السبت";
+//
+///* Class = "UITextField"; placeholder = "Search Area"; ObjectID = "4m5-3c-eua"; */
+//"4m5-3c-eua.placeholder" = "بحث المنطقة";
+//
+///* Class = "UILabel"; text = "Aquafina"; ObjectID = "AI8-ws-QHX"; */
+//"AI8-ws-QHX.text" = "أكوافينا";
+//
+///* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "ALW-7x-BqD"; */
+//"ALW-7x-BqD.normalTitle" = "رفض";
+//
+///* Class = "UILabel"; text = "Do you  have Aquafina bottles with you?"; ObjectID = "AhP-f9-xDW"; */
+//"AhP-f9-xDW.text" = "هل يوجد لديك عُلب أكوافينا?";
+//
+///* Class = "UILabel"; text = "Aquafina"; ObjectID = "Bph-oQ-me8"; */
+//"Bph-oQ-me8.text" = اكوافينا";
+//
+///* Class = "UIButton"; normalTitle = "Cash"; ObjectID = "CYX-Gv-0wN"; */
+//"CYX-Gv-0wN.normalTitle" = "نقد";
+//
+///* Class = "UILabel"; text = "5 Gallon/token"; ObjectID = "DpC-V9-SYj"; */
+//"DpC-V9-SYj.text" = " 5 جالون/رمز";
+//
+///* Class = "UILabel"; text = "---"; ObjectID = "DsB-CM-3Yu"; */
+//"DsB-CM-3Yu.text" = "---";
+//
+///* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "FVx-tq-Cc0"; */
+//"FVx-tq-Cc0.normalTitle" = "نعم";
+//
+///* Class = "UIButton"; selectedTitle = "Yes"; ObjectID = "FVx-tq-Cc0"; */
+//"FVx-tq-Cc0.selectedTitle" = "نعم";
+//
+///* Class = "UILabel"; text = "Mon, tue, wed, thu, fri, sat ,sun"; ObjectID = "FvA-zX-oiK"; */
+//"FvA-zX-oiK.text" = " الجمعة,الخميس , الأربعاء, الثلاثاء , الإثنين, الأحد, السبت ";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "Gee-MS-54i"; */
+//"Gee-MS-54i.text" = "ملصق";
+//
+///* Class = "UILabel"; text = "Drop off location"; ObjectID = "H9Y-i1-Wly"; */
+//"H9Y-i1-Wly.text" = "موقع التوصيل";
+//
+///* Class = "UILabel"; text = "Total"; ObjectID = "HAJ-7k-fkz"; */
+//"HAJ-7k-fkz.text" = "المجموع";
+//
+///* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "I8t-gd-lcm"; */
+//"I8t-gd-lcm.normalTitle" = "قبول";
+//
+///* Class = "UIButton"; normalTitle = "BUY"; ObjectID = "KAg-N2-1qi"; */
+//"KAg-N2-1qi.normalTitle" = "شراء";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "KZ1-54-zWp"; */
+//"KZ1-54-zWp.text" = "ملصق";
+//
+///* Class = "UIButton"; normalTitle = "Track Order"; ObjectID = "Lj6-Ay-BiB"; */
+//"Lj6-Ay-BiB.normalTitle" = "تتبع الطلب";
+//
+///* Class = "UILabel"; text = "1"; ObjectID = "RlW-bu-XCJ"; */
+//"RlW-bu-XCJ.text" = "1";
+//
+///* Class = "UILabel"; text = "Aquafina"; ObjectID = "S9B-Tg-NY0"; */
+//"S9B-Tg-NY0.text" = "أكوافينا";
+//
+///* Class = "UILabel"; text = "Select quantity"; ObjectID = "SFQ-Vp-8XP"; */
+//"SFQ-Vp-8XP.text" = "حدد الكمية";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "Uy4-T0-Tyn"; */
+//"Uy4-T0-Tyn.text" = "ملصق";
+//
+///* Class = "UILabel"; text = "Available tokens"; ObjectID = "V5u-O7-zAs"; */
+//"V5u-O7-zAs.text" = "الرموز المتاحة";
+//
+///* Class = "UILabel"; text = "400 omr"; ObjectID = "Wgj-gb-F2I"; */
+//"Wgj-gb-F2I.text" = " ريال عُماني400";
+//
+///* Class = "UILabel"; text = "E-Token"; ObjectID = "WjR-yY-HdS"; */
+//"WjR-yY-HdS.text" = "رمز-إلكتروني";
+//
+///* Class = "UILabel"; text = "Driver is now serving you"; ObjectID = "YgQ-U3-9fp"; */
+//"YgQ-U3-9fp.text" = "السائق سيخدمك الأن";
+//
+///* Class = "UIButton"; normalTitle = "Purchased"; ObjectID = "Yy3-mI-RhW"; */
+//"Yy3-mI-RhW.normalTitle" = "أشترى";
+//
+///* Class = "UIButton"; selectedTitle = "Purchased"; ObjectID = "Yy3-mI-RhW"; */
+//"Yy3-mI-RhW.selectedTitle" = "أشترى";
+//
+///* Class = "UIButton"; normalTitle = "Back"; ObjectID = "c9l-fs-l9I"; */
+//"c9l-fs-l9I.normalTitle" = "رجوع";
+//
+///* Class = "UILabel"; text = "E-Token"; ObjectID = "cfI-HO-3vD"; */
+//"cfI-HO-3vD.text" = "رمز-الكتروني";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "cx7-Ln-RqN"; */
+//"cx7-Ln-RqN.text" = "ملصق";
+//
+///* Class = "UILabel"; text = "---"; ObjectID = "dtx-qt-akA"; */
+//"dtx-qt-akA.text" = "---";
+//
+///* Class = "UILabel"; text = "---"; ObjectID = "eAv-fk-3OW"; */
+//"eAv-fk-3OW.text" = "---";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "eOm-ZS-G27"; */
+//"eOm-ZS-G27.text" = "ملصق";
+//
+///* Class = "UIButton"; normalTitle = "Back"; ObjectID = "eqL-II-d63"; */
+//"eqL-II-d63.normalTitle" = "رجوع";
+//
+///* Class = "UIButton"; normalTitle = "No"; ObjectID = "fLq-g0-GUH"; */
+//"fLq-g0-GUH.normalTitle" = "لا";
+//
+///* Class = "UIButton"; selectedTitle = "No"; ObjectID = "fLq-g0-GUH"; */
+//"fLq-g0-GUH.selectedTitle" = "لا";
+//
+///* Class = "UILabel"; text = "E-Token"; ObjectID = "foX-8o-Hfa"; */
+//"foX-8o-Hfa.text" = "رمز-الكتروني";
+//
+///* Class = "UILabel"; text = "---"; ObjectID = "fxy-9T-gvv"; */
+//"fxy-9T-gvv.text" = "---";
+//
+///* Class = "UILabel"; text = "Aquafina"; ObjectID = "g2a-Jr-gWX"; */
+//"g2a-Jr-gWX.text" = "أكوافينا";
+//
+///* Class = "UILabel"; text = "---"; ObjectID = "g64-S8-yqh"; */
+//"g64-S8-yqh.text" = "---";
+//
+///* Class = "UIButton"; normalTitle = "Back"; ObjectID = "gfs-U6-49T"; */
+//"gfs-U6-49T.normalTitle" = "رجوع";
+//
+///* Class = "UILabel"; text = " 2 gallon x 1"; ObjectID = "hAG-43-Zbq"; */
+//"hAG-43-Zbq.text" = " جالون 2 x 1";
+//
+///* Class = "UILabel"; text = "---"; ObjectID = "hLG-3y-RSD"; */
+//"hLG-3y-RSD.text" = "---";
+//
+///* Class = "UILabel"; text = "5 Gallon/token"; ObjectID = "iFX-9c-Y2h"; */
+//"iFX-9c-Y2h.text" = "جالون 5 /رمز";
+//
+///* Class = "UILabel"; text = "25 Tokens"; ObjectID = "iQC-2u-kbD"; */
+//"iQC-2u-kbD.text" = " رمز 25";
+//
+///* Class = "UILabel"; text = "companies serving in your area"; ObjectID = "jGO-LF-og9"; */
+//"jGO-LF-og9.text" = "الشركات التي تعمل في منطقتك";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "lp2-pG-jw2"; */
+//"lp2-pG-jw2.text" = "ملصق";
+//
+///* Class = "UILabel"; text = "Label"; ObjectID = "nsI-4X-ZF3"; */
+//"nsI-4X-ZF3.text" = "ملصق";
+//
+///* Class = "UILabel"; text = "Used tokens"; ObjectID = "o0e-jY-jqO"; */
+//"o0e-jY-jqO.text" = "رموز مستخدمة";
+//
+///* Class = "UILabel"; text = "400 OMR"; ObjectID = "oc5-9D-t3P"; */
+//"oc5-9D-t3P.text" = " ريال عُماني400";
+//
+///* Class = "UIButton"; normalTitle = "New"; ObjectID = "rDg-1b-0zC"; */
+//"rDg-1b-0zC.normalTitle" = "جديد";
+//
+///* Class = "UIButton"; selectedTitle = "New"; ObjectID = "rDg-1b-0zC"; */
+//"rDg-1b-0zC.selectedTitle" = "جديد";
+//
+///* Class = "UILabel"; text = "Delivers on"; ObjectID = "s1y-ar-pzr"; */
+//"s1y-ar-pzr.text" = تسليم على""
+//
+///* Class = "UIButton"; normalTitle = "Back"; ObjectID = "sKs-uk-g1X"; */
+//"sKs-uk-g1X.normalTitle" = "رجوع";
+//
+///* Class = "UILabel"; text = "E-Tokens Used"; ObjectID = "uTb-H9-koX"; */
+//"uTb-H9-koX.text" = "رموز الإلكترونية مستخدمة";
+//
+///* Class = "UILabel"; text = "Choose a payment method"; ObjectID = "vlM-Vu-mYS"; */
+//"vlM-Vu-mYS.text" = "اختر طريقة الدفع";
+//
+///* Class = "UILabel"; text = "E-Token"; ObjectID = "vwH-nq-cWh"; */
+//"vwH-nq-cWh.text" = "رمز-الكتروني";
+//
+///* Class = "UILabel"; text = "Delivers on:"; ObjectID = "xu4-nD-HFa"; */
+//"xu4-nD-HFa.text" = "تسليم على: ";
+//
+///* Class = "UIButton"; normalTitle = "Online"; ObjectID = "zZQ-2q-7MW"; */
+//"zZQ-2q-7MW.normalTitle" = "متصل";
+
+
+

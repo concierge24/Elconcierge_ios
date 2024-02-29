@@ -1,0 +1,177 @@
+
+/* Class = "UIButton"; normalTitle = "Continue with Google\n\n"; ObjectID = "3fa-16-jAM"; */
+"3fa-16-jAM.normalTitle" = "Continuer avec Google \ n \ n";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "4AZ-iJ-ss2"; */
+"4AZ-iJ-ss2.placeholder" = "Mot de passe";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy."; ObjectID = "4us-2a-9rX"; */
+"4us-2a-9rX.normalTitle" = "Politique de confidentialité.";
+
+/* Class = "UITextField"; placeholder = "Institutional Email"; ObjectID = "5pj-SF-50Z"; */
+"5pj-SF-50Z.placeholder" = "Courriel institutionnel";
+
+/* Class = "UIButton"; normalTitle = "Login with Phone or Email"; ObjectID = "5wk-r7-c0j"; */
+"5wk-r7-c0j.normalTitle" = "Connectez-vous par téléphone ou par e-mail";
+
+/* Class = "UILabel"; text = "Take a picture"; ObjectID = "9nY-oo-fAz"; */
+"9nY-oo-fAz.text" = "Prendre une photo";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "AwR-ku-a0l"; */
+"AwR-ku-a0l.placeholder" = "Mot de passe";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "DDG-k3-YV7"; */
+"DDG-k3-YV7.placeholder" = "Numéro de téléphone";
+
+/* Class = "UISegmentedControl"; Dwk-Rb-ISf.segmentTitles[0] = "Phone"; ObjectID = "Dwk-Rb-ISf"; */
+"Dwk-Rb-ISf.segmentTitles[0]" = "Téléphone";
+
+/* Class = "UISegmentedControl"; Dwk-Rb-ISf.segmentTitles[1] = "Email"; ObjectID = "Dwk-Rb-ISf"; */
+"Dwk-Rb-ISf.segmentTitles[1]" = "Email";
+
+/* Class = "UILabel"; text = "USA"; ObjectID = "DzN-Uw-lzZ"; */
+"DzN-Uw-lzZ.text" = "USA";
+
+/* Class = "UILabel"; text = "USA"; ObjectID = "GBW-Rb-U4b"; */
+"GBW-Rb-U4b.text" = "USA";
+
+/* Class = "UILabel"; text = "Login to moby"; ObjectID = "IO3-8K-PnT"; */
+"IO3-8K-PnT.text" = "Login to moby";
+
+/* Class = "UITextField"; placeholder = "Username or email"; ObjectID = "Jnu-O6-NzP"; */
+"Jnu-O6-NzP.placeholder" = "Nom d'utilisateur ou email";
+
+/* Class = "UILabel"; text = "Book a cab instantly or schedule it according\nto your needs. to your needs. "; ObjectID = "K1G-51-9pO"; */
+"K1G-51-9pO.text" = "Réservez un taxi instantanément ou planifiez-le en fonction de vos besoins. à vos besoins.";
+
+/* Class = "UIButton"; normalTitle = "Terms of service"; ObjectID = "M08-3c-4Di"; */
+"M08-3c-4Di.normalTitle" = "Conditions d'utilisation";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "OV5-KD-nMc"; */
+"OV5-KD-nMc.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "OWH-Bz-YwM"; */
+"OWH-Bz-YwM.placeholder" = "Numéro de téléphone";
+
+/* Class = "UITextField"; placeholder = "Select Your Institution type"; ObjectID = "Oba-fs-zek"; */
+"Oba-fs-zek.placeholder" = "Sélectionnez votre type d'établissement";
+
+/* Class = "UILabel"; text = "We sent you a code to +1 7392874901"; ObjectID = "Pvy-mg-Wvj"; */
+"Pvy-mg-Wvj.text" = "Nous vous avons envoyé un code à +1 7392874901";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "RMX-hB-heo"; */
+"RMX-hB-heo.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Username or email"; ObjectID = "RRV-nI-g8u"; */
+"RRV-nI-g8u.placeholder" = "Nom d'utilisateur ou email";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "SHt-iR-EHc"; */
+"SHt-iR-EHc.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "THH-9M-7IX"; */
+"THH-9M-7IX.placeholder" = "Numéro de téléphone";
+
+/* Class = "UILabel"; text = "Login to moby"; ObjectID = "UUF-n2-zYr"; */
+"UUF-n2-zYr.text" = "Connectez-vous à moby";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "V9z-ea-EMe"; */
+"V9z-ea-EMe.placeholder" = "Mot de passe";
+
+/* Class = "UILabel"; text = "Institution’s Credential"; ObjectID = "VEx-IK-mWt"; */
+"VEx-IK-mWt.text" = "Titres de compétence de l'établissement";
+
+/* Class = "UILabel"; text = "Anahuac University"; ObjectID = "VQW-xN-GL7"; */
+"VQW-xN-GL7.text" = "Anahuac University";
+
+/* Class = "UIButton"; normalTitle = "Forgot Password?"; ObjectID = "WIN-dz-b7b"; */
+"WIN-dz-b7b.normalTitle" = "Mot de passe oublié?";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "YfT-Wb-7ii"; */
+"YfT-Wb-7ii.normalTitle" = "S'inscrire";
+
+/* Class = "UITextField"; placeholder = "Phone number"; ObjectID = "anw-UC-zc8"; */
+"anw-UC-zc8.placeholder" = "Numéro de téléphone";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "bvv-0p-BIe"; */
+"bvv-0p-BIe.text" = "+91";
+
+/* Class = "UIButton"; normalTitle = "Terms of service"; ObjectID = "c8G-sU-EbV"; */
+"c8G-sU-EbV.normalTitle" = "Conditions d'utilisation";
+
+/* Class = "UILabel"; text = "USA"; ObjectID = "cXW-vu-wOz"; */
+"cXW-vu-wOz.text" = "USA";
+
+/* Class = "UILabel"; text = "By signing up, you agree to our"; ObjectID = "dSk-k2-b8l"; */
+"dSk-k2-b8l.text" = "En vous inscrivant, vous acceptez nos";
+
+/* Class = "UITextField"; placeholder = "ID Number"; ObjectID = "dTq-vX-8UZ"; */
+"dTq-vX-8UZ.placeholder" = "ID Number";
+
+/* Class = "UILabel"; text = "01 : 59"; ObjectID = "daL-RH-ope"; */
+"daL-RH-ope.text" = "01 : 59";
+
+/* Class = "UILabel"; text = "Verification Code"; ObjectID = "eCM-4v-olL"; */
+"eCM-4v-olL.text" = "Code de vérification";
+
+/* Class = "UIButton"; normalTitle = "Privacy Policy."; ObjectID = "eeV-CS-np5"; */
+"eeV-CS-np5.normalTitle" = "Politique de confidentialité.";
+
+/* Class = "UIButton"; normalTitle = "Continue with Apple\n\n"; ObjectID = "f6A-kC-3Q4"; */
+"f6A-kC-3Q4.normalTitle" = "Continuer avec Apple \ n \ n";
+
+/* Class = "UIButton"; normalTitle = "Remember me"; ObjectID = "hcZ-vW-kSd"; */
+"hcZ-vW-kSd.normalTitle" = "Souviens-toi de moi";
+
+/* Class = "UIButton"; selectedTitle = "Remember me"; ObjectID = "hcZ-vW-kSd"; */
+"hcZ-vW-kSd.selectedTitle" = "Souviens-toi de moi";
+
+/* Class = "UILabel"; text = "Don’t have an account?"; ObjectID = "iRd-5n-EMH"; */
+"iRd-5n-EMH.text" = "Vous n'avez pas de compte?";
+
+/* Class = "UITextField"; placeholder = "4 digit code"; ObjectID = "kBo-MU-VAW"; */
+"kBo-MU-VAW.placeholder" = "Code à 4 chiffres";
+
+/* Class = "UIButton"; normalTitle = "Email"; ObjectID = "kPn-Qe-ZvC"; */
+"kPn-Qe-ZvC.normalTitle" = "Email";
+
+/* Class = "UILabel"; text = "and"; ObjectID = "l7q-7U-Dto"; */
+"l7q-7U-Dto.text" = "and";
+
+/* Class = "UILabel"; text = "Add Phone number"; ObjectID = "liT-Fe-kqU"; */
+"liT-Fe-kqU.text" = "Ajouter un numéro de téléphone";
+
+/* Class = "UIButton"; normalTitle = "Institutional Account\n\n"; ObjectID = "mLL-ub-rCu"; */
+"mLL-ub-rCu.normalTitle" = "Compte institutionnel \ n \ n";
+
+/* Class = "UILabel"; text = "Didn’t receive your code?"; ObjectID = "mLp-aD-xLd"; */
+"mLp-aD-xLd.text" = "Vous n'avez pas reçu votre code?";
+
+/* Class = "UILabel"; text = "Sign up for moby\nInstitution Account"; ObjectID = "nah-S3-9lh"; */
+"nah-S3-9lh.text" = "S'inscrire à moby \ nCompte institutionnel";
+
+/* Class = "UILabel"; text = "By signing up, you agree to our"; ObjectID = "pON-kn-2kq"; */
+"pON-kn-2kq.text" = "En vous inscrivant, vous acceptez nos";
+
+/* Class = "UILabel"; text = "USA"; ObjectID = "qK8-Zw-H1T"; */
+"qK8-Zw-H1T.text" = "USA";
+
+/* Class = "UILabel"; text = "and"; ObjectID = "qzl-VY-dTN"; */
+"qzl-VY-dTN.text" = "et";
+
+/* Class = "UILabel"; text = "Login with"; ObjectID = "rMs-MN-iqI"; */
+"rMs-MN-iqI.text" = "Connectez-vous avec";
+
+/* Class = "UIButton"; normalTitle = "Resend otp"; ObjectID = "sAZ-gg-4a0"; */
+"sAZ-gg-4a0.normalTitle" = "Renvoyer OTP";
+
+/* Class = "UIButton"; normalTitle = "Continue with Facebook\n\n"; ObjectID = "u8u-HB-hHp"; */
+"u8u-HB-hHp.normalTitle" = "Continuer avec Facebook \ n \ n";
+
+/* Class = "UITextField"; placeholder = "Select Institution name"; ObjectID = "xWE-gK-sC4"; */
+"xWE-gK-sC4.placeholder" = "Sélectionnez le nom de l'institution";
+
+/* Class = "UILabel"; text = "Book or Schedule a Taxi"; ObjectID = "yMc-fp-xCc"; */
+"yMc-fp-xCc.text" = "Réservez ou programmez un taxi";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "ycM-i8-EZo"; */
+"ycM-i8-EZo.placeholder" = "Confirmez le mot de passe";

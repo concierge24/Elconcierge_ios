@@ -1,0 +1,456 @@
+
+/* Class = "UILabel"; text = "Checklist Charge"; ObjectID = "0x8-rO-VsX"; */
+"0x8-rO-VsX.text" = "Carica lista di controllo";
+
+/* Class = "UIButton"; normalTitle = "PLACE REQUEST"; ObjectID = "14l-uS-gvG"; */
+"14l-uS-gvG.normalTitle" = "POSTO RICHIESTA";
+
+/* Class = "UILabel"; text = "784848444"; ObjectID = "1HO-pI-c8x"; */
+"1HO-pI-c8x.text" = "784848444";
+
+/* Class = "UILabel"; text = "Driver"; ObjectID = "1m5-Ue-pvu"; */
+"1m5-Ue-pvu.text" = "Driver";
+
+/* Class = "UILabel"; text = "Booking Fee"; ObjectID = "2H1-Fy-qbq"; */
+"2H1-Fy-qbq.text" = "Tassa di prenotazione";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "33q-7O-2KK"; */
+"33q-7O-2KK.normalTitle" = "Invia";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "3NK-9r-v0g"; */
+"3NK-9r-v0g.text" = "Nome e cognome";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "3Pb-Ur-Sy7"; */
+"3Pb-Ur-Sy7.text" = "0";
+
+/* Class = "UILabel"; text = "CardHolder Name"; ObjectID = "3fL-2n-Rbu"; */
+"3fL-2n-Rbu.text" = "Nome del titolare";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "3qq-mv-JJp"; */
+"3qq-mv-JJp.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "Previous Charges"; ObjectID = "3vV-bn-Zk7"; */
+"3vV-bn-Zk7.text" = "Addebiti precedenti";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "4Bj-bu-vuc"; */
+"4Bj-bu-vuc.normalTitle" = "Selezionare";
+
+/* Class = "UILabel"; text = "VALID UPTO"; ObjectID = "4KY-EQ-891"; */
+"4KY-EQ-891.text" = "VALIDO FINO A";
+
+/* Class = "UIButton"; normalTitle = "Filter "; ObjectID = "5Ll-8t-TE5"; */
+"5Ll-8t-TE5.normalTitle" = "Filtro ";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "5vG-LU-pAx"; */
+"5vG-LU-pAx.text" = "Riguardo a noi";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "6NT-wT-F99"; */
+"6NT-wT-F99.text" = "Completato";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "6bc-fO-lKG"; */
+"6bc-fO-lKG.text" = "notifiche";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "6nF-8B-OIE"; */
+"6nF-8B-OIE.text" = "---";
+
+/* Class = "UIButton"; normalTitle = "Upcoming"; ObjectID = "6w0-w6-OHk"; */
+"6w0-w6-OHk.normalTitle" = "Prossime";
+
+/* Class = "UIButton"; selectedTitle = "Upcoming"; ObjectID = "6w0-w6-OHk"; */
+"6w0-w6-OHk.selectedTitle" = "Prossime";
+
+/* Class = "UILabel"; text = "Please maintain a minimum balance of  0.00 Rs in the wallet in order to receive the booking request."; ObjectID = "7jS-Oe-XII"; */
+"7jS-Oe-XII.text" = "Si prega di mantenere un saldo minimo di 0,00 Rs nel portafoglio per ricevere la richiesta di prenotazione.";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "8O7-4T-U10"; */
+"8O7-4T-U10.text" = "Distanza";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "8RZ-bp-fYz"; */
+"8RZ-bp-fYz.text" = "Tempo";
+
+/* Class = "UILabel"; text = "Add Card"; ObjectID = "8jg-ID-Is7"; */
+"8jg-ID-Is7.text" = "Aggiungi carta";
+
+/* Class = "UILabel"; text = "Numbers"; ObjectID = "8o8-3g-AsL"; */
+"8o8-3g-AsL.text" = "Numeri";
+
+/* Class = "UILabel"; text = "ID : 7647353"; ObjectID = "903-pS-z3c"; */
+"903-pS-z3c.text" = "ID : 7647353";
+
+/* Class = "UILabel"; text = "Suggestion & Complaint"; ObjectID = "99H-Lx-HlA"; */
+"99H-Lx-HlA.text" = "Suggerimenti e reclami";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "99i-Cx-5MI"; */
+"99i-Cx-5MI.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9CA-yG-Mdz"; */
+"9CA-yG-Mdz.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9pF-hG-Qg3"; */
+"9pF-hG-Qg3.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Recent Recharge"; ObjectID = "BNJ-J9-dCH"; */
+"BNJ-J9-dCH.text" = "Ricariche recenti";
+
+/* Class = "UILabel"; text = "ID : "; ObjectID = "CBg-OF-3fC"; */
+"CBg-OF-3fC.text" = "ID : ";
+
+/* Class = "UILabel"; text = "    "; ObjectID = "CEz-7A-Lfr"; */
+"CEz-7A-Lfr.text" = "    ";
+
+/* Class = "UILabel"; text = "Add Money"; ObjectID = "CHj-PY-77k"; */
+"CHj-PY-77k.text" = "Aggiungi denaro";
+
+/* Class = "UILabel"; text = "Your Wallet amount"; ObjectID = "CwO-PI-pWW"; */
+"CwO-PI-pWW.text" = "L'importo del tuo portafoglio";
+
+/* Class = "UITextField"; placeholder = "Enter full name"; ObjectID = "Cwl-Lz-KH6"; */
+"Cwl-Lz-KH6.placeholder" = "Immettere il nome completo";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "D1d-3y-QTL"; */
+"D1d-3y-QTL.normalTitle" = "Annulla";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D78-9b-jfy"; */
+"D78-9b-jfy.text" = "Label";
+
+/* Class = "UILabel"; text = "No bookings found"; ObjectID = "DT4-oy-fUN"; */
+"DT4-oy-fUN.text" = "Nessuna prenotazione trovata";
+
+/* Class = "UITextField"; placeholder = "***"; ObjectID = "Emi-9r-b2L"; */
+"Emi-9r-b2L.placeholder" = "***";
+
+/* Class = "UILabel"; text = "My Bookings"; ObjectID = "Fco-Ef-LJw"; */
+"Fco-Ef-LJw.text" = "Le mie prenotazioni";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GnK-qB-9Ic"; */
+"GnK-qB-9Ic.text" = "Label";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "HIb-fh-nxO"; */
+"HIb-fh-nxO.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "HOx-6P-W1f"; */
+"HOx-6P-W1f.normalTitle" = "Continua";
+
+/* Class = "UILabel"; text = "Service Charge"; ObjectID = "HY4-o0-AyD"; */
+"HY4-o0-AyD.text" = "Costo del servizio";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "Hvy-di-lGr"; */
+"Hvy-di-lGr.text" = "   ";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "IJt-NA-3We"; */
+"IJt-NA-3We.placeholder" = "Quantità";
+
+/* Class = "UIButton"; normalTitle = "Send Money"; ObjectID = "Ih3-ce-xSY"; */
+"Ih3-ce-xSY.normalTitle" = "Inviare soldi";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "JPa-yj-I76"; */
+"JPa-yj-I76.text" = "Modifica Profilo";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "KBC-qf-MbP"; */
+"KBC-qf-MbP.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "KR3-5i-yOe"; */
+"KR3-5i-yOe.text" = "Numero di telefono";
+
+/* Class = "UILabel"; text = "Introducing Royo Ride Packages"; ObjectID = "KZZ-du-y7j"; */
+"KZZ-du-y7j.text" = "Presentazione dei pacchetti Royo Ride";
+
+/* Class = "UILabel"; text = "Reach us via phone"; ObjectID = "KqO-53-WzJ"; */
+"KqO-53-WzJ.text" = "Raggiungici tramite telefono";
+
+/* Class = "UILabel"; text = "05/12"; ObjectID = "KrH-9h-XQa"; */
+"KrH-9h-XQa.text" = "05/12";
+
+/* Class = "UILabel"; text = "Enjoy discounted fares on your daily commute"; ObjectID = "L7O-nC-En0"; */
+"L7O-nC-En0.text" = "Pacchetti di viaggio";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "LZ5-uh-kfb"; */
+"LZ5-uh-kfb.text" = "0";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ML2-TZ-R6i"; */
+"ML2-TZ-R6i.text" = "E-mail";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "MSr-ZN-C7f"; */
+"MSr-ZN-C7f.normalTitle" = "Condividere";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "NOH-Tr-0YD"; */
+"NOH-Tr-0YD.text" = "vita privata";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "NR5-Sx-BHY"; */
+"NR5-Sx-BHY.text" = "+91";
+
+/* Class = "UILabel"; text = "No bookings found"; ObjectID = "NeB-Le-HUO"; */
+"NeB-Le-HUO.text" = "Nessuna prenotazione trovata";
+
+/* Class = "UILabel"; text = "Share with the friends"; ObjectID = "NrM-8l-eSG"; */
+"NrM-8l-eSG.text" = "Condividi con gli amici";
+
+/* Class = "UILabel"; text = "Reach us via mail"; ObjectID = "O4j-vS-NI1"; */
+"O4j-vS-NI1.text" = "Raggiungici via mail";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "Onx-hq-IuG"; */
+"Onx-hq-IuG.text" = "E-Token";
+
+/* Class = "UILabel"; text = "Your Wallet amount"; ObjectID = "PFW-xP-KP5"; */
+"PFW-xP-KP5.text" = "L'importo del tuo portafoglio";
+
+/* Class = "UILabel"; text = "Like Buraq24?"; ObjectID = "Q7F-Gd-iXC"; */
+"Q7F-Gd-iXC.text" = "Like Buraq24?";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "QVc-xM-upU"; */
+"QVc-xM-upU.text" = "impostazioni";
+
+/* Class = "UILabel"; text = "Wallet"; ObjectID = "S1h-rL-azN"; */
+"S1h-rL-azN.text" = "Portafoglio";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "SHf-n2-DvX"; */
+"SHf-n2-DvX.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "SkH-yp-tQp"; */
+"SkH-yp-tQp.normalTitle" = "Indietro";
+
+/* Class = "UILabel"; text = "EXPIRY DATE"; ObjectID = "SxA-5w-zvW"; */
+"SxA-5w-zvW.text" = "DATA DI SCADENZA";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TMo-7w-1gF"; */
+"TMo-7w-1gF.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TXl-HE-vCi"; */
+"TXl-HE-vCi.text" = "Label";
+
+/* Class = "UILabel"; text = "Change Langauge"; ObjectID = "TZP-hQ-WPf"; */
+"TZP-hQ-WPf.text" = "Cambia lingua";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "U1j-dm-ZkB"; */
+"U1j-dm-ZkB.text" = "Riguardo a noi";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "U3J-6q-imK"; */
+"U3J-6q-imK.text" = "Totale";
+
+/* Class = "UILabel"; text = "Add Card"; ObjectID = "U8e-Nz-7I5"; */
+"U8e-Nz-7I5.text" = "Aggiungi carta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Uzz-Z0-wj5"; */
+"Uzz-Z0-wj5.text" = "Label";
+
+/* Class = "UILabel"; text = "Your Wallet amount"; ObjectID = "VVT-qP-Tf2"; */
+"VVT-qP-Tf2.text" = "L'importo del tuo portafoglio";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Vdi-YF-826"; */
+"Vdi-YF-826.text" = "0";
+
+/* Class = "UILabel"; text = "Sub total"; ObjectID = "Vzz-0K-Rkf"; */
+"Vzz-0K-Rkf.text" = "Totale parziale";
+
+/* Class = "UILabel"; text = "Base fare"; ObjectID = "Waq-59-CXF"; */
+"Waq-59-CXF.text" = "Tariffa base";
+
+/* Class = "UILabel"; text = "Payment Methods"; ObjectID = "Wor-mp-3Qm"; */
+"Wor-mp-3Qm.text" = "Modalità di pagamento";
+
+/* Class = "UILabel"; text = "Push Notifications"; ObjectID = "WwF-29-QFl"; */
+"WwF-29-QFl.text" = "Notifiche push";
+
+/* Class = "UILabel"; text = "Send Money"; ObjectID = "XKj-pw-Gh3"; */
+"XKj-pw-Gh3.text" = "Inviare soldi";
+
+/* Class = "UITextField"; placeholder = "MM / YYYY"; ObjectID = "Y9p-yU-nTm"; */
+"Y9p-yU-nTm.placeholder" = "MM / YYYY";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "Zvi-cC-c1d"; */
+"Zvi-cC-c1d.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "*Including tax price Rs. 12"; ObjectID = "aCW-qI-Z0E"; */
+"aCW-qI-Z0E.text" = "*Including tax price Rs. 12";
+
+/* Class = "UILabel"; text = "Version :"; ObjectID = "aIw-HS-hbq"; */
+"aIw-HS-hbq.text" = "Version :";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "aPY-Gj-GzW"; */
+"aPY-Gj-GzW.text" = "CVV";
+
+/* Class = "UITextField"; placeholder = "Enter phone number"; ObjectID = "aYc-fF-feW"; */
+"aYc-fF-feW.placeholder" = "Inserisci il numero di telefono";
+
+/* Class = "UILabel"; text = "Travel Packages"; ObjectID = "aeZ-KL-KSb"; */
+"aeZ-KL-KSb.text" = "Hai valutato";
+
+/* Class = "UILabel"; text = "Package description"; ObjectID = "ahO-MA-qO6"; */
+"ahO-MA-qO6.text" = "Descrizione del pacchetto";
+
+/* Class = "UILabel"; text = "Contact us"; ObjectID = "amc-YR-IFP"; */
+"amc-YR-IFP.text" = "Contattaci";
+
+/* Class = "UIButton"; normalTitle = "Add Debit/Credit card"; ObjectID = "blu-SR-j1f"; */
+"blu-SR-j1f.normalTitle" = "Aggiungi carta di debito / credito";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "caD-I1-CBP"; */
+"caD-I1-CBP.text" = "0";
+
+/* Class = "UILabel"; text = "Royo Ride User"; ObjectID = "d3q-PH-EzB"; */
+"d3q-PH-EzB.text" = "Royo Ride User";
+
+/* Class = "UITextField"; placeholder = "Amount"; ObjectID = "d7f-hj-g8R"; */
+"d7f-hj-g8R.placeholder" = "Quantità";
+
+/* Class = "UILabel"; text = "ID :    "; ObjectID = "dXO-MC-w6t"; */
+"dXO-MC-w6t.text" = "ID :    ";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "dcw-2D-4df"; */
+"dcw-2D-4df.text" = "0.00";
+
+/* Class = "UILabel"; text = "ID : "; ObjectID = "dwV-du-Buk"; */
+"dwV-du-Buk.text" = "ID : ";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "eDr-uj-Ort"; */
+"eDr-uj-Ort.normalTitle" = "Salva";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "eS4-qT-AR1"; */
+"eS4-qT-AR1.text" = "Termini e condizioni";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "ecu-mu-MiK"; */
+"ecu-mu-MiK.text" = "0";
+
+/* Class = "UILabel"; text = "Rs"; ObjectID = "ehB-jF-AzF"; */
+"ehB-jF-AzF.text" = "Rs";
+
+/* Class = "UILabel"; text = "NAME ON CARD"; ObjectID = "erc-t9-a9B"; */
+"erc-t9-a9B.text" = "NOME SULLA CARTA";
+
+/* Class = "UIButton"; normalTitle = "Add Money"; ObjectID = "fGI-uN-TqL"; */
+"fGI-uN-TqL.normalTitle" = "Aggiungi denaro";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "fWr-Os-hCz"; */
+"fWr-Os-hCz.text" = "0";
+
+/* Class = "UILabel"; text = "cash - 125.50 Rs"; ObjectID = "fZo-BR-XNx"; */
+"fZo-BR-XNx.text" = "cash - 125.50 Rs";
+
+/* Class = "UILabel"; text = "No Result"; ObjectID = "frq-pm-Btd"; */
+"frq-pm-Btd.text" = "Nessun risultato";
+
+/* Class = "UISegmentedControl"; fwM-zS-dMr.segmentTitles[0] = "Order Details "; ObjectID = "fwM-zS-dMr"; */
+"fwM-zS-dMr.segmentTitles[0]" = "Dettagli dell'ordine ";
+
+/* Class = "UISegmentedControl"; fwM-zS-dMr.segmentTitles[1] = "Checklist "; ObjectID = "fwM-zS-dMr"; */
+"fwM-zS-dMr.segmentTitles[1]" = "Lista di controllo ";
+
+/* Class = "UILabel"; text = "Maninderjit Singh"; ObjectID = "g0Z-DU-Y1M"; */
+"g0Z-DU-Y1M.text" = "Maninderjit Singh";
+
+/* Class = "UILabel"; text = "Travel Packages"; ObjectID = "gqW-kx-vru"; */
+"gqW-kx-vru.text" = "Hai valutato";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "hWA-G7-Ep8"; */
+"hWA-G7-Ep8.normalTitle" = "Vicino";
+
+/* Class = "UIButton"; normalTitle = "Send Money"; ObjectID = "hj3-Hj-cAW"; */
+"hj3-Hj-cAW.normalTitle" = "Inviare soldi";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "ih9-PF-IeD"; */
+"ih9-PF-IeD.text" = "Totale";
+
+/* Class = "UITextField"; text = "200"; ObjectID = "jae-rC-kdC"; */
+"jae-rC-kdC.text" = "200";
+
+/* Class = "UILabel"; text = "ID : "; ObjectID = "jia-YC-6eR"; */
+"jia-YC-6eR.text" = "ID : ";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "k0y-hd-BYD"; */
+"k0y-hd-BYD.placeholder" = "Numéro de téléphone";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "mbf-hq-SY0"; */
+"mbf-hq-SY0.placeholder" = "Inserisci l'email";
+
+/* Class = "UILabel"; text = "Referral"; ObjectID = "moc-Mk-e0O"; */
+"moc-Mk-e0O.text" = "Referral";
+
+/* Class = "UITextField"; placeholder = "Enter name on card"; ObjectID = "n3W-nU-eFN"; */
+"n3W-nU-eFN.placeholder" = "Inserisci il nome sulla carta";
+
+/* Class = "UILabel"; text = "bike"; ObjectID = "nMC-Pp-2O8"; */
+"nMC-Pp-2O8.text" = "bike";
+
+/* Class = "UIButton"; normalTitle = "Past"; ObjectID = "nMu-6R-zbS"; */
+"nMu-6R-zbS.normalTitle" = "Passato";
+
+/* Class = "UILabel"; text = "Received"; ObjectID = "nkU-QA-Obx"; */
+"nkU-QA-Obx.text" = "Ricevuto";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nyE-av-5Nr"; */
+"nyE-av-5Nr.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "ADD CARD"; ObjectID = "o0c-DM-Mb8"; */
+"o0c-DM-Mb8.normalTitle" = "AGGIUNGI CARTA";
+
+/* Class = "UITextField"; placeholder = "xxxx xxxx xxxx xxxx"; ObjectID = "pgd-iH-kSh"; */
+"pgd-iH-kSh.placeholder" = "xxxx xxxx xxxx xxxx";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "pqG-95-tUe"; */
+"pqG-95-tUe.normalTitle" = "Modificare";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qrn-sL-QOZ"; */
+"qrn-sL-QOZ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add Trusted Contact"; ObjectID = "rIQ-BO-24Z"; */
+"rIQ-BO-24Z.normalTitle" = "Aggiungi contatto fidato";
+
+/* Class = "UILabel"; text = "Tip amount"; ObjectID = "rYI-OD-4l2"; */
+"rYI-OD-4l2.text" = "Importo della mancia";
+
+/* Class = "UIButton"; normalTitle = "Add Card"; ObjectID = "s9l-mM-rRD"; */
+"s9l-mM-rRD.normalTitle" = "Aggiungi carta";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "sVZ-Mg-rYM"; */
+"sVZ-Mg-rYM.text" = "0";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "spY-EU-ChO"; */
+"spY-EU-ChO.text" = "   ";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "tRt-uF-Baq"; */
+"tRt-uF-Baq.text" = "0";
+
+/* Class = "UILabel"; text = "   20"; ObjectID = "tqv-Na-SW8"; */
+"tqv-Na-SW8.text" = "   20";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "vAS-3N-ZKe"; */
+"vAS-3N-ZKe.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "**** **** **** 2568"; ObjectID = "vHF-6R-a3G"; */
+"vHF-6R-a3G.text" = "**** **** **** 2568";
+
+/* Class = "UILabel"; text = "status"; ObjectID = "vfc-MT-2VQ"; */
+"vfc-MT-2VQ.text" = "stato";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vml-8X-W4h"; */
+"vml-8X-W4h.text" = "Label";
+
+/* Class = "UILabel"; text = "Invoice"; ObjectID = "w3O-qo-Lna"; */
+"w3O-qo-Lna.text" = "Fattura";
+
+/* Class = "UILabel"; text = "Your Wallet amount"; ObjectID = "wAw-SR-Wmn"; */
+"wAw-SR-Wmn.text" = "L'importo del tuo portafoglio";
+
+/* Class = "UILabel"; text = "+1"; ObjectID = "xfw-bs-QZB"; */
+"xfw-bs-QZB.text" = "+1";
+
+/* Class = "UILabel"; text = "Normal Fare"; ObjectID = "xu2-7n-VPc"; */
+"xu2-7n-VPc.text" = "Tariffa normale";
+
+/* Class = "UILabel"; text = "CREDIT CARD NUMBER"; ObjectID = "y1w-0l-76c"; */
+"y1w-0l-76c.text" = "NUMERO DI CARTA DI CREDITO";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "yK8-b4-5nl"; */
+"yK8-b4-5nl.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "View all Term & Conditions"; ObjectID = "ycW-PQ-cOU"; */
+"ycW-PQ-cOU.normalTitle" = "Dettagli dei pacchetti";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "yt9-rX-mJ7"; */
+"yt9-rX-mJ7.text" = "0";
+
+/* Class = "UITextField"; placeholder = "Cardholder Name"; ObjectID = "zWt-76-ibt"; */
+"zWt-76-ibt.placeholder" = "Nome del titolare";
+
+/* Class = "UILabel"; text = "Surcharge"; ObjectID = "zi1-Qu-dIY"; */
+"zi1-Qu-dIY.text" = "Sovraccarico";

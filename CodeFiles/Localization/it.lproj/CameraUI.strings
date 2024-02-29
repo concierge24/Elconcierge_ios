@@ -1,0 +1,21 @@
+/* 
+  CameraUI.strings
+  Kashkol
+
+  Created by iReaper on 06/02/17.
+  Copyright © 2017 Code Brew. All rights reserved.
+*/
+
+
+"PHOTO" = "FOTO";
+"AEAF_LOCK_TEXT" = "AE/AF LOCK";
+"API_CANCEL_TITLE" = "Annulla";
+"HDR_AUTO" = "Auto";
+"HDR_ON" = "Sopra";
+"HDR_OFF" = "Off";
+"TIMER_OFF_TEXT" = "Off";
+"PlacePickerTitle" = "Seleziona Posizione";
+"USE_PHOTO" = "USA FOTO";
+"RETAKE" = "Retake";
+"ALL_PHOTOS_IN_LIBRARY" = "Tutte le foto nella libreria";
+"CAMERA_ROLL" = "Rullino fotografico";

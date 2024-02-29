@@ -1,0 +1,18 @@
+
+/* Class = "UILabel"; text = "Order No."; ObjectID = "0RK-YZ-Ii5"; */
+"0RK-YZ-Ii5.text" = "رقم الطلب";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "5Ne-mg-4PS"; */
+"5Ne-mg-4PS.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL  .  NTL"; ObjectID = "7S7-sn-FfU"; */
+"7S7-sn-FfU.text" = "NTL  .  NTL";
+
+/* Class = "UILabel"; text = "Expected Delivery On"; ObjectID = "HTl-Uw-Bbx"; */
+"HTl-Uw-Bbx.text" = "الوقت المتوقع لوصول الطلب";
+
+/* Class = "UILabel"; text = "Placed on"; ObjectID = "Im1-vx-gSq"; */
+"Im1-vx-gSq.text" = "تم الطلب في";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "MIe-QV-nKJ"; */
+"MIe-QV-nKJ.text" = "تم التوصيل";

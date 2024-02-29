@@ -1,0 +1,6 @@
+framework module DBAttachmentPickerController {
+  umbrella header "DBAttachmentPickerController-umbrella.h"
+
+  export *
+  module * { export * }
+}

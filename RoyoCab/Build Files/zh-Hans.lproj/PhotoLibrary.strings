@@ -1,0 +1,16 @@
+/*
+  PhotoLibrary.strings
+  Buraq24
+
+  Created by MANINDER on 16/10/18.
+  Copyright © 2018 CodeBrewLabs. All rights reserved.
+*/
+"CANCEL" = "取消";
+"RETAKE" = "重拍";
+"STREAM_SHARED_BY_ME_SUBTITLE" = "从你那里";
+"STREAM_SHARED_BY_SUBTITLE" = "从 %@";
+"ALBUM_IMAGE_COUNT_FORMAT" = "%@ 相片";
+"ALBUM_VIDEO_COUNT_FORMAT" = "%@ 影片";
+"1_ALBUM_PHOTO" = "1张照片";
+"1_ALBUM_VIDEO" = "1个视频";
+"ALBUM_TWO_TYPES_LABEL_COMMAS" = "%@, %@";

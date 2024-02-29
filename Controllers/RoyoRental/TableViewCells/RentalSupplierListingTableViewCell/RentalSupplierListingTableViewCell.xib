@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14868" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14824"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="OpenSans-Bold.ttf">
+            <string>OpenSans-Bold</string>
+        </array>
+        <array key="OpenSans-Regular.ttf">
+            <string>OpenSans</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="217" id="KGk-i7-Jjw" customClass="RentalSupplierListingTableViewCell" customModule="Royo_Food" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="217"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="217"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="zOb-GI-ekD">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="217"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="gKM-aS-U8s">
+                                <rect key="frame" x="10" y="10" width="394" height="117"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                                        <real key="value" value="7"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillEqually" translatesAutoresizingMaskIntoConstraints="NO" id="5An-Lc-xlM">
+                                <rect key="frame" x="17" y="137" width="380" height="80"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="l2f-8B-CHr">
+                                        <rect key="frame" x="0.0" y="0.0" width="380" height="26.5"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="FUA-wx-Jeh">
+                                                <rect key="frame" x="0.0" y="0.0" width="320" height="26.5"/>
+                                                <fontDescription key="fontDescription" name="OpenSans-Bold" family="Open Sans" pointSize="18"/>
+                                                <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="yMQ-9T-d3f">
+                                                <rect key="frame" x="320" y="0.0" width="60" height="26.5"/>
+                                                <subviews>
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="starRating" translatesAutoresizingMaskIntoConstraints="NO" id="UwK-Eu-xTX">
+                                                        <rect key="frame" x="0.0" y="0.0" width="18" height="26.5"/>
+                                                        <constraints>
+                                                            <constraint firstAttribute="width" constant="18" id="dp2-VZ-uY8"/>
+                                                        </constraints>
+                                                    </imageView>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Bcb-5t-API">
+                                                        <rect key="frame" x="23" y="0.0" width="37" height="26.5"/>
+                                                        <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="14"/>
+                                                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="60" id="WUG-p4-LPr"/>
+                                                </constraints>
+                                            </stackView>
+                                        </subviews>
+                                    </stackView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Npc-0L-cMX">
+                                        <rect key="frame" x="0.0" y="26.5" width="380" height="27"/>
+                                        <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="12"/>
+                                        <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r32-rH-jRY">
+                                        <rect key="frame" x="0.0" y="53.5" width="380" height="26.5"/>
+                                        <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="12"/>
+                                        <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="80" id="sJB-H5-MRh"/>
+                                </constraints>
+                            </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cmX-U7-Xlg">
+                                <rect key="frame" x="354" y="77" width="40" height="40"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="40" id="eEU-ak-3g8"/>
+                                    <constraint firstAttribute="height" constant="40" id="v1C-bH-R6d"/>
+                                </constraints>
+                                <state key="normal" image="ic_favorite_white_normal-1"/>
+                                <state key="selected" image="ic_favorite_white_pressed"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="5An-Lc-xlM" firstAttribute="leading" secondItem="zOb-GI-ekD" secondAttribute="leading" constant="17" id="7Zb-42-MP5"/>
+                            <constraint firstAttribute="trailing" secondItem="5An-Lc-xlM" secondAttribute="trailing" constant="17" id="Ad7-Dz-BkD"/>
+                            <constraint firstItem="5An-Lc-xlM" firstAttribute="top" secondItem="gKM-aS-U8s" secondAttribute="bottom" constant="10" id="B0j-tK-CId"/>
+                            <constraint firstItem="cmX-U7-Xlg" firstAttribute="trailing" secondItem="gKM-aS-U8s" secondAttribute="trailing" constant="-10" id="Cwt-A1-VJz"/>
+                            <constraint firstAttribute="trailing" secondItem="gKM-aS-U8s" secondAttribute="trailing" constant="10" id="R2L-h7-Fyl"/>
+                            <constraint firstItem="gKM-aS-U8s" firstAttribute="leading" secondItem="zOb-GI-ekD" secondAttribute="leading" constant="10" id="ZSS-mZ-EDB"/>
+                            <constraint firstItem="cmX-U7-Xlg" firstAttribute="bottom" secondItem="gKM-aS-U8s" secondAttribute="bottom" constant="-10" id="c37-1D-84u"/>
+                            <constraint firstItem="gKM-aS-U8s" firstAttribute="top" secondItem="zOb-GI-ekD" secondAttribute="top" constant="10" id="gU6-VP-li1"/>
+                            <constraint firstAttribute="bottom" secondItem="5An-Lc-xlM" secondAttribute="bottom" id="h84-qZ-ftj"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="zOb-GI-ekD" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="45A-eC-h8E"/>
+                    <constraint firstAttribute="trailing" secondItem="zOb-GI-ekD" secondAttribute="trailing" id="FLD-uW-w0v"/>
+                    <constraint firstItem="zOb-GI-ekD" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="eJ2-Nu-94a"/>
+                    <constraint firstAttribute="bottom" secondItem="zOb-GI-ekD" secondAttribute="bottom" id="noC-D4-CO9"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="address_label" destination="r32-rH-jRY" id="CMq-1h-r2f"/>
+                <outlet property="carName_label" destination="FUA-wx-Jeh" id="f0W-Ju-tQ7"/>
+                <outlet property="favourite_button" destination="cmX-U7-Xlg" id="ihk-Da-u80"/>
+                <outlet property="productImage_imageView" destination="gKM-aS-U8s" id="MBa-ko-57Q"/>
+                <outlet property="rating_label" destination="Bcb-5t-API" id="BZs-XH-Y4Q"/>
+                <outlet property="supplierName_label" destination="Npc-0L-cMX" id="TdG-3X-WNY"/>
+            </connections>
+            <point key="canvasLocation" x="200.00000000000003" y="135.60267857142856"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic_favorite_white_normal-1" width="24" height="24"/>
+        <image name="ic_favorite_white_pressed" width="24" height="24"/>
+        <image name="starRating" width="16" height="16"/>
+    </resources>
+</document>

@@ -1,0 +1,213 @@
+
+/* Class = "UIButton"; normalTitle = "View Offers"; ObjectID = "0cR-e9-6o6"; */
+"0cR-e9-6o6.normalTitle" = "Shiko Ofertat";
+
+/* Class = "UILabel"; text = "Very Sad"; ObjectID = "1WV-4v-oPh"; */
+"1WV-4v-oPh.text" = "Shumë keq";
+
+/* Class = "UITextField"; placeholder = "Enter pickup location"; ObjectID = "3no-hG-sNh"; */
+"3no-hG-sNh.placeholder" = "Vendos pikën e nisjes";
+
+/* Class = "UITextField"; placeholder = "Search Area"; ObjectID = "4m5-3c-eua"; */
+"4m5-3c-eua.placeholder" = "Kërko zonën";
+
+/* Class = "UILabel"; text = "Driver name"; ObjectID = "6YP-K4-FBy"; */
+"6YP-K4-FBy.text" = "Emri i shoferit";
+
+/* Class = "UILabel"; text = "Sad"; ObjectID = "85e-b1-3cW"; */
+"85e-b1-3cW.text" = "Keq";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "AI8-ws-QHX"; */
+"AI8-ws-QHX.text" = "  ";
+
+/* Class = "UIButton"; normalTitle = "Reject"; ObjectID = "ALW-7x-BqD"; */
+"ALW-7x-BqD.normalTitle" = "Refuzo";
+
+/* Class = "UILabel"; text = "Do you  have  water bottles with you?"; ObjectID = "AhP-f9-xDW"; */
+"AhP-f9-xDW.text" = "A keni shishe për të kthyer?";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Bph-oQ-me8"; */
+"Bph-oQ-me8.text" = " ";
+
+/* Class = "UILabel"; text = "Happy"; ObjectID = "Bqb-mQ-kae"; */
+"Bqb-mQ-kae.text" = "Mirë";
+
+/* Class = "UIButton"; normalTitle = "Cancel Order"; ObjectID = "C7B-WN-OGl"; */
+"C7B-WN-OGl.normalTitle" = "Anullo porosinë";
+
+/* Class = "UIButton"; normalTitle = "Cash"; ObjectID = "CYX-Gv-0wN"; */
+"CYX-Gv-0wN.normalTitle" = "Pará në dorë";
+
+/* Class = "UILabel"; text = "    "; ObjectID = "DpC-V9-SYj"; */
+"DpC-V9-SYj.text" = "    ";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "DsB-CM-3Yu"; */
+"DsB-CM-3Yu.text" = "---";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "FVx-tq-Cc0"; */
+"FVx-tq-Cc0.normalTitle" = "Yes";
+
+/* Class = "UIButton"; selectedTitle = "Yes"; ObjectID = "FVx-tq-Cc0"; */
+"FVx-tq-Cc0.selectedTitle" = "Yes";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Gee-MS-54i"; */
+"Gee-MS-54i.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Drop off location"; ObjectID = "H9Y-i1-Wly"; */
+"H9Y-i1-Wly.text" = "Destinacioni";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "HAJ-7k-fkz"; */
+"HAJ-7k-fkz.text" = "Total";
+
+/* Class = "UIButton"; normalTitle = "Accept"; ObjectID = "I8t-gd-lcm"; */
+"I8t-gd-lcm.normalTitle" = "Prano";
+
+/* Class = "UIButton"; normalTitle = "BUY"; ObjectID = "KAg-N2-1qi"; */
+"KAg-N2-1qi.normalTitle" = "BLI";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "KZ1-54-zWp"; */
+"KZ1-54-zWp.text" = "Etiketa";
+
+/* Class = "UIButton"; normalTitle = "Track Order"; ObjectID = "Lj6-Ay-BiB"; */
+"Lj6-Ay-BiB.normalTitle" = "Track Order";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "RlW-bu-XCJ"; */
+"RlW-bu-XCJ.text" = "1";
+
+/* Class = "UILabel"; text = "Select quantity"; ObjectID = "SFQ-Vp-8XP"; */
+"SFQ-Vp-8XP.text" = "Select quantity";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Uy4-T0-Tyn"; */
+"Uy4-T0-Tyn.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Available tokens"; ObjectID = "V5u-O7-zAs"; */
+"V5u-O7-zAs.text" = "Pikët e disponueshme";
+
+/* Class = "UILabel"; text = "Rate"; ObjectID = "VEk-Un-cXU"; */
+"VEk-Un-cXU.text" = "Vlerëso";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Vlv-My-MdG"; */
+"Vlv-My-MdG.normalTitle" = "Mbrapa";
+
+/* Class = "UILabel"; text = " "; ObjectID = "Wgj-gb-F2I"; */
+"Wgj-gb-F2I.text" = " ";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "WjR-yY-HdS"; */
+"WjR-yY-HdS.text" = "E-Token";
+
+/* Class = "UILabel"; text = "Excellent"; ObjectID = "XXW-dE-TlH"; */
+"XXW-dE-TlH.text" = "Shkëlqyeshëm";
+
+/* Class = "UILabel"; text = "Driver is now serving you"; ObjectID = "YgQ-U3-9fp"; */
+"YgQ-U3-9fp.text" = "Shoferi po ju shërben juve tani";
+
+/* Class = "UIButton"; normalTitle = "Purchased"; ObjectID = "Yy3-mI-RhW"; */
+"Yy3-mI-RhW.normalTitle" = "Blerë";
+
+/* Class = "UIButton"; selectedTitle = "Purchased"; ObjectID = "Yy3-mI-RhW"; */
+"Yy3-mI-RhW.selectedTitle" = "Blerë";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "ac4-mv-6X4"; */
+"ac4-mv-6X4.text" = "E-Token";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "c9l-fs-l9I"; */
+"c9l-fs-l9I.normalTitle" = "Mbrapa";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "cfI-HO-3vD"; */
+"cfI-HO-3vD.text" = "E-Token";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cx7-Ln-RqN"; */
+"cx7-Ln-RqN.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "dtx-qt-akA"; */
+"dtx-qt-akA.text" = "---";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "eAv-fk-3OW"; */
+"eAv-fk-3OW.text" = "---";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "eOm-ZS-G27"; */
+"eOm-ZS-G27.text" = "Etiketa";
+
+/* Class = "UIButton"; normalTitle = "Submit rating"; ObjectID = "ekN-SE-CpB"; */
+"ekN-SE-CpB.normalTitle" = "Vendos vlerësimin";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "eqL-II-d63"; */
+"eqL-II-d63.normalTitle" = "Mbrapa";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "fLq-g0-GUH"; */
+"fLq-g0-GUH.normalTitle" = "Jo";
+
+/* Class = "UIButton"; selectedTitle = "No"; ObjectID = "fLq-g0-GUH"; */
+"fLq-g0-GUH.selectedTitle" = "Jo";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "foX-8o-Hfa"; */
+"foX-8o-Hfa.text" = "E-Token";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "fxy-9T-gvv"; */
+"fxy-9T-gvv.text" = "---";
+
+/* Class = "UILabel"; text = "Aquafina"; ObjectID = "g2a-Jr-gWX"; */
+"g2a-Jr-gWX.text" = "Aquafina";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "g64-S8-yqh"; */
+"g64-S8-yqh.text" = "---";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "gfs-U6-49T"; */
+"gfs-U6-49T.normalTitle" = "Mbrapa";
+
+/* Class = "UILabel"; text = " 2 gallon x 1"; ObjectID = "hAG-43-Zbq"; */
+"hAG-43-Zbq.text" = " 2 gallon x 1";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "hLG-3y-RSD"; */
+"hLG-3y-RSD.text" = "---";
+
+/* Class = "UILabel"; text = " "; ObjectID = "iFX-9c-Y2h"; */
+"iFX-9c-Y2h.text" = " ";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "iQC-2u-kbD"; */
+"iQC-2u-kbD.text" = "  ";
+
+/* Class = "UILabel"; text = "Companies serving in your area"; ObjectID = "jGO-LF-og9"; */
+"jGO-LF-og9.text" = "Kompanitë që shërbejnë në zonën tuaj";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "lp2-pG-jw2"; */
+"lp2-pG-jw2.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nsI-4X-ZF3"; */
+"nsI-4X-ZF3.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Used tokens"; ObjectID = "o0e-jY-jqO"; */
+"o0e-jY-jqO.text" = "Pikët e përdorura";
+
+/* Class = "UILabel"; text = " "; ObjectID = "oc5-9D-t3P"; */
+"oc5-9D-t3P.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "New"; ObjectID = "rDg-1b-0zC"; */
+"rDg-1b-0zC.normalTitle" = "E re";
+
+/* Class = "UIButton"; selectedTitle = "New"; ObjectID = "rDg-1b-0zC"; */
+"rDg-1b-0zC.selectedTitle" = "E re";
+
+/* Class = "UILabel"; text = "Delivers on -"; ObjectID = "s1y-ar-pzr"; */
+"s1y-ar-pzr.text" = "Dorëzohet më -";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "sKs-uk-g1X"; */
+"sKs-uk-g1X.normalTitle" = "Mbrapa";
+
+/* Class = "UILabel"; text = "Good"; ObjectID = "sOz-1h-yt2"; */
+"sOz-1h-yt2.text" = "Mirë";
+
+/* Class = "UILabel"; text = "E-Tokens Used"; ObjectID = "uTb-H9-koX"; */
+"uTb-H9-koX.text" = "Pikët e përdorura";
+
+/* Class = "UILabel"; text = "Choose a payment method"; ObjectID = "vlM-Vu-mYS"; */
+"vlM-Vu-mYS.text" = "Zgjidhni mënyrën e pagesës";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "vwH-nq-cWh"; */
+"vwH-nq-cWh.text" = "E-Token";
+
+/* Class = "UILabel"; text = "Delivers on:"; ObjectID = "xu4-nD-HFa"; */
+"xu4-nD-HFa.text" = "Dorëzohet më:";
+
+/* Class = "UIButton"; normalTitle = "Online"; ObjectID = "zZQ-2q-7MW"; */
+"zZQ-2q-7MW.normalTitle" = "Online";

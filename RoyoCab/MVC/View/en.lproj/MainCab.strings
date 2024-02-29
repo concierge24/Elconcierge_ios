@@ -1,0 +1,150 @@
+
+/* Class = "UILabel"; text = "Hey Welcome, Avinash"; ObjectID = "0aQ-87-kGm"; */
+"0aQ-87-kGm.text" = "Hey Welcome, Avinash";
+
+/* Class = "UILabel"; text = "911"; ObjectID = "2wj-Ma-XjC"; */
+"2wj-Ma-XjC.text" = "911";
+
+/* Class = "UITextField"; placeholder = "Enter your mobile no."; ObjectID = "4A6-Vz-Kz2"; */
+"4A6-Vz-Kz2.placeholder" = "Enter your mobile no.";
+
+/* Class = "UILabel"; text = "Book a cab instantly or schedule it according\nto your needs. to your needs. "; ObjectID = "61Y-sc-8MG"; */
+"61Y-sc-8MG.text" = "Book a cab instantly or schedule it according\nto your needs. to your needs. ";
+
+/* Class = "UILabel"; text = "Book or Schedule a Taxi"; ObjectID = "6jm-H3-1Xk"; */
+"6jm-H3-1Xk.text" = "Book or Schedule a Taxi";
+
+/* Class = "UITextField"; placeholder = "Eg. Jane"; ObjectID = "7pP-np-zN2"; */
+"7pP-np-zN2.placeholder" = "Eg. Jane";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "8SE-Qq-dGY"; */
+"8SE-Qq-dGY.text" = "ADDRESS";
+
+/* Class = "UILabel"; text = "Didn’t receive your code?"; ObjectID = "8gS-G5-41F"; */
+"8gS-G5-41F.text" = "Didn’t receive your code?";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "9VY-cO-xjI"; */
+"9VY-cO-xjI.normalTitle" = "Verify";
+
+/* Class = "UILabel"; text = "Select Location"; ObjectID = "9Vb-bA-xhc"; */
+"9Vb-bA-xhc.text" = "Select Location";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "BQe-4h-4AS"; */
+"BQe-4h-4AS.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Complete your profile"; ObjectID = "CDE-yf-UBY"; */
+"CDE-yf-UBY.text" = "Complete your profile";
+
+/* Class = "UILabel"; text = "I’M A "; ObjectID = "CTP-rQ-4Ex"; */
+"CTP-rQ-4Ex.text" = "I’M A ";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "Drf-TF-9K3"; */
+"Drf-TF-9K3.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "EJg-yY-rvG"; */
+"EJg-yY-rvG.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "EcW-My-SkH"; */
+"EcW-My-SkH.text" = "+91";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "GGy-ZI-EWD"; */
+"GGy-ZI-EWD.normalTitle" = "Back";
+
+/* Class = "UILabel"; text = "COMING SOON"; ObjectID = "J4P-mv-s2d"; */
+"J4P-mv-s2d.text" = "COMING SOON";
+
+/* Class = "UILabel"; text = "LAST NAME"; ObjectID = "NAg-r4-A4e"; */
+"NAg-r4-A4e.text" = "LAST NAME";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "OQs-Cd-N2A"; */
+"OQs-Cd-N2A.normalTitle" = "Proceed";
+
+/* Class = "UILabel"; text = "Enter the code sent on +1 7392874901"; ObjectID = "P3g-TM-VOg"; */
+"P3g-TM-VOg.text" = "Enter the code sent on +1 7392874901";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "PfW-1j-V2P"; */
+"PfW-1j-V2P.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RsP-Ed-7vk"; */
+"RsP-Ed-7vk.text" = "Label";
+
+/* Class = "UILabel"; text = "Buraq 24"; ObjectID = "TLA-bn-Fum"; */
+"TLA-bn-Fum.text" = "Buraq 24";
+
+/* Class = "UITextField"; placeholder = "Eg. doe"; ObjectID = "TeG-wO-QJS"; */
+"TeG-wO-QJS.placeholder" = "Eg. doe";
+
+/* Class = "UILabel"; text = "01 : 59"; ObjectID = "Uw0-Xs-Q1O"; */
+"Uw0-Xs-Q1O.text" = "01 : 59";
+
+/* Class = "UITextField"; placeholder = "Enter location pickup location"; ObjectID = "V6a-Iq-6HP"; */
+"V6a-Iq-6HP.placeholder" = "Enter location pickup location";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "VUb-Gi-T6R"; */
+"VUb-Gi-T6R.text" = "Male";
+
+/* Class = "UILabel"; text = "Just some more information to fill up :)"; ObjectID = "Wb3-99-YGk"; */
+"Wb3-99-YGk.text" = "Just some more information to fill up :)";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xyc-R4-4yE"; */
+"Xyc-R4-4yE.text" = "Label";
+
+/* Class = "UILabel"; text = "Freight delivery is just one tap away"; ObjectID = "Ye1-aG-FfU"; */
+"Ye1-aG-FfU.text" = "Freight delivery is just one tap away";
+
+/* Class = "UILabel"; text = "Delivery care free at your doorstep"; ObjectID = "ZkS-4v-UBQ"; */
+"ZkS-4v-UBQ.text" = "Delivery care free at your doorstep";
+
+/* Class = "UILabel"; text = "Verification Code"; ObjectID = "e8x-8I-hzr"; */
+"e8x-8I-hzr.text" = "Verification Code";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "fMr-Vd-SGe"; */
+"fMr-Vd-SGe.text" = "Female";
+
+/* Class = "UITextField"; placeholder = "Enter your number"; ObjectID = "fVx-BW-8a5"; */
+"fVx-BW-8a5.placeholder" = "Enter your number";
+
+/* Class = "UILabel"; text = "COMING SOON"; ObjectID = "fgQ-vv-8Ul"; */
+"fgQ-vv-8Ul.text" = "COMING SOON";
+
+/* Class = "UILabel"; text = "Connecting your needs in seconds"; ObjectID = "gl4-if-mQn"; */
+"gl4-if-mQn.text" = "Connecting your needs in seconds";
+
+/* Class = "UILabel"; text = "I agree to the"; ObjectID = "hez-sm-JV0"; */
+"hez-sm-JV0.text" = "I agree to the";
+
+/* Class = "UILabel"; text = "Others"; ObjectID = "jXC-qn-u72"; */
+"jXC-qn-u72.text" = "Others";
+
+/* Class = "UILabel"; text = "Delivery care free at your doorstep"; ObjectID = "ltJ-IK-pNn"; */
+"ltJ-IK-pNn.text" = "Delivery care free at your doorstep";
+
+/* Class = "UILabel"; text = "BOOK A TAXI"; ObjectID = "mcH-X9-QHY"; */
+"mcH-X9-QHY.text" = "BOOK A SERVICE";
+
+/* Class = "UIButton"; normalTitle = "Resend otp"; ObjectID = "neP-YF-PQR"; */
+"neP-YF-PQR.normalTitle" = "Resend otp";
+
+/* Class = "UILabel"; text = "Change langauge"; ObjectID = "qGy-YT-C2U"; */
+"qGy-YT-C2U.text" = "Change langauge";
+
+/* Class = "UILabel"; text = "Enter your number to get started"; ObjectID = "qkf-x1-Yz8"; */
+"qkf-x1-Yz8.text" = "Enter your number to get started";
+
+/* Class = "UIButton"; normalTitle = "Terms and Conditions"; ObjectID = "stC-uF-MUz"; */
+"stC-uF-MUz.normalTitle" = "Terms and Conditions";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "uNJ-49-eZt"; */
+"uNJ-49-eZt.text" = "+91";
+
+/* Class = "UILabel"; text = "Select your service to continue further"; ObjectID = "vhF-8L-Fns"; */
+"vhF-8L-Fns.text" = "Select your service to continue further";
+
+/* Class = "UILabel"; text = "Freight delivery is just one tap away"; ObjectID = "y5f-QU-3cT"; */
+"y5f-QU-3cT.text" = "Freight delivery is just one tap away";
+
+/* Class = "UITextField"; placeholder = "Enter drop off location"; ObjectID = "yeQ-di-9ij"; */
+"yeQ-di-9ij.placeholder" = "Enter drop off location";
+
+/* Class = "UILabel"; text = "FIRST NAME"; ObjectID = "yvL-UA-unT"; */
+"yvL-UA-unT.text" = "FIRST NAME";

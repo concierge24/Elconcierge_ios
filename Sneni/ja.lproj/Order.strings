@@ -1,0 +1,546 @@
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "0lF-RK-cOX"; */
+"0lF-RK-cOX.text" = "NTL";
+
+/* Class = "UILabel"; text = "Payment method"; ObjectID = "1XE-jC-OXf"; */
+"1XE-jC-OXf.text" = "支払方法";
+
+/* Class = "UILabel"; text = "Placed"; ObjectID = "1fv-7i-Bkw"; */
+"1fv-7i-Bkw.text" = "置いた";
+
+/* Class = "UIButton"; normalTitle = "S"; ObjectID = "2Dd-h2-C9c"; */
+"2Dd-h2-C9c.normalTitle" = "S";
+
+/* Class = "UIButton"; normalTitle = "T"; ObjectID = "2Oq-QT-PPf"; */
+"2Oq-QT-PPf.normalTitle" = "T";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "3BN-Ko-BV0"; */
+"3BN-Ko-BV0.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "PAY"; ObjectID = "3mf-o5-kf6"; */
+"3mf-o5-kf6.normalTitle" = "支払う";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "3pN-iY-t0L"; */
+"3pN-iY-t0L.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "VIEW SLOT"; ObjectID = "40t-jn-OXl"; */
+"40t-jn-OXl.normalTitle" = "スロットを見る";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "4Y9-ux-olX"; */
+"4Y9-ux-olX.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "4it-FN-s3M"; */
+"4it-FN-s3M.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "PLACE ORDER"; ObjectID = "4mv-Co-NfB"; */
+"4mv-Co-NfB.normalTitle" = "注文する";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "5Bd-ZH-FRg"; */
+"5Bd-ZH-FRg.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Track Order"; ObjectID = "5NC-EL-FFf"; */
+"5NC-EL-FFf.normalTitle" = "注文の追跡";
+
+/* Class = "UILabel"; text = "Items"; ObjectID = "5Rw-JM-NlV"; */
+"5Rw-JM-NlV.text" = "アイテム";
+
+/* Class = "UILabel"; text = "Supplier Service Charge"; ObjectID = "7Ls-cg-FOs"; */
+"7Ls-cg-FOs.text" = "サプライヤーサービス料";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "862-nX-597"; */
+"862-nX-597.text" = "税金";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "8E2-96-ZGT"; */
+"8E2-96-ZGT.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "8vQ-u8-wrS"; */
+"8vQ-u8-wrS.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "90Q-iK-sVd"; */
+"90Q-iK-sVd.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "S"; ObjectID = "98F-ix-Lu4"; */
+"98F-ix-Lu4.normalTitle" = "S";
+
+/* Class = "UILabel"; text = "Delivery"; ObjectID = "9GD-Qg-iqc"; */
+"9GD-Qg-iqc.text" = "配達";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "9Xy-pK-q3D"; */
+"9Xy-pK-q3D.text" = "ディスカウント";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "9r2-0s-S3Y"; */
+"9r2-0s-S3Y.text" = "NTL";
+
+/* Class = "UILabel"; text = "Selected Questions"; ObjectID = "AFc-T0-voK"; */
+"AFc-T0-voK.text" = "選択した質問";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Avz-iM-Tgp"; */
+"Avz-iM-Tgp.text" = "NTL";
+
+/* Class = "UILabel"; text = "Morning"; ObjectID = "AzH-oW-9AR"; */
+"AzH-oW-9AR.text" = "朝";
+
+/* Class = "UIButton"; normalTitle = "Add new"; ObjectID = "BC1-rn-w2p"; */
+"BC1-rn-w2p.normalTitle" = "新しく追加する";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "C2Y-Bc-Xsa"; */
+"C2Y-Bc-Xsa.text" = "NTL";
+
+/* Class = "UITextView"; text = "Write review here...."; ObjectID = "CDx-Bn-wrd"; */
+"CDx-Bn-wrd.text" = "ここにレビューを書いてください...";
+
+/* Class = "UILabel"; text = "Chris Martin"; ObjectID = "CDy-oh-n71"; */
+"CDy-oh-n71.text" = "Chris Martin";
+
+/* Class = "UIButton"; normalTitle = "REORDER"; ObjectID = "Ci6-BE-rzd"; */
+"Ci6-BE-rzd.normalTitle" = "並べ替え";
+
+/* Class = "UILabel"; text = "No orders to Rate!"; ObjectID = "Cmj-bj-jNM"; */
+"Cmj-bj-jNM.text" = "評価する注文はありません！";
+
+/* Class = "UILabel"; text = "Order No."; ObjectID = "DGe-bu-YuJ"; */
+"DGe-bu-YuJ.text" = "注文番号。";
+
+/* Class = "UILabel"; text = "[ 0 Review ]"; ObjectID = "DQF-uh-lBK"; */
+"DQF-uh-lBK.text" = "[0レビュー]";
+
+/* Class = "UILabel"; text = "Select Agent"; ObjectID = "EBJ-9g-StE"; */
+"EBJ-9g-StE.text" = "エージェントを選択";
+
+/* Class = "UILabel"; text = "Items"; ObjectID = "EMC-aK-IVJ"; */
+"EMC-aK-IVJ.text" = "アイテム";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "EpM-1g-UvK"; */
+"EpM-1g-UvK.text" = "NTL";
+
+/* Class = "UILabel"; text = "Occupation here"; ObjectID = "FZp-aA-g4l"; */
+"FZp-aA-g4l.text" = "ここの職業";
+
+/* Class = "UIButton"; normalTitle = "T"; ObjectID = "G4H-f1-IVT"; */
+"G4H-f1-IVT.normalTitle" = "T";
+
+/* Class = "UILabel"; text = "Additional remarks"; ObjectID = "GMw-8s-ZL8"; */
+"GMw-8s-ZL8.text" = "追加備考";
+
+/* Class = "UILabel"; text = "Delivery On"; ObjectID = "GQa-6l-IRJ"; */
+"GQa-6l-IRJ.text" = "配達日";
+
+/* Class = "UILabel"; text = "Occupation here  |  14 Years Experience"; ObjectID = "HhM-af-6Yn"; */
+"HhM-af-6Yn.text" = "Occupation here  |  14 Years Experience";
+
+/* Class = "UILabel"; text = "No Orders Found!"; ObjectID = "I7x-84-u3z"; */
+"I7x-84-u3z.text" = "注文が見つかりませんでした！";
+
+/* Class = "UITextField"; placeholder = "xxxx-xxxx-xxxx-xxxx"; ObjectID = "IyC-Bw-ktv"; */
+"IyC-Bw-ktv.placeholder" = "xxxx-xxxx-xxxx-xxxx";
+
+/* Class = "UIButton"; normalTitle = "Rate Agent"; ObjectID = "Jd4-VL-Etd"; */
+"Jd4-VL-Etd.normalTitle" = "エージェントの評価";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Jki-R9-N7C"; */
+"Jki-R9-N7C.text" = "NTL";
+
+/* Class = "UILabel"; text = "Tip Amount"; ObjectID = "JwB-Vu-MUp"; */
+"JwB-Vu-MUp.text" = "チップ量";
+
+/* Class = "UILabel"; text = "Delivery On"; ObjectID = "Jyf-yT-yhi"; */
+"Jyf-yT-yhi.text" = "配達日";
+
+/* Class = "UILabel"; text = "Net Payable"; ObjectID = "KqJ-8X-mgX"; */
+"KqJ-8X-mgX.text" = "ネット支払い";
+
+/* Class = "UILabel"; text = "AddOn Charges"; ObjectID = "KrE-i3-Epe"; */
+"KrE-i3-Epe.text" = "アドオン料金";
+
+/* Class = "UILabel"; text = "[ 0 Review ]"; ObjectID = "L9v-Zf-5f2"; */
+"L9v-Zf-5f2.text" = "[0レビュー]";
+
+/* Class = "UILabel"; text = "[ 0 Review ]"; ObjectID = "LRT-Nx-qTE"; */
+"LRT-Nx-qTE.text" = "[0レビュー]";
+
+/* Class = "UILabel"; text = "Agent Detail"; ObjectID = "LXd-F9-ZFh"; */
+"LXd-F9-ZFh.text" = "エージェントの詳細";
+
+/* Class = "UILabel"; text = "Rating & Reviews"; ObjectID = "Leh-09-G6f"; */
+"Leh-09-G6f.text" = "評価とレビュー";
+
+/* Class = "UILabel"; text = "Track My Order"; ObjectID = "LgS-aX-L7v"; */
+"LgS-aX-L7v.text" = "注文を追跡する";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Ll8-vF-YbW"; */
+"Ll8-vF-YbW.text" = "NTL";
+
+/* Class = "UILabel"; text = "Address Detail"; ObjectID = "LpV-ze-Qtg"; */
+"LpV-ze-Qtg.text" = "住所詳細";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "LtN-m7-wdV"; */
+"LtN-m7-wdV.text" = "Label";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "MDK-Sn-nua"; */
+"MDK-Sn-nua.text" = "NTL";
+
+/* Class = "UILabel"; text = "Order History"; ObjectID = "MX2-of-BWo"; */
+"MX2-of-BWo.text" = "注文履歴";
+
+/* Class = "UILabel"; text = "Adidas Ultraboost Shoes"; ObjectID = "Mjx-gA-iks"; */
+"Mjx-gA-iks.text" = "Adidas Ultraboost Shoes";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "Mu3-IV-Dr4"; */
+"Mu3-IV-Dr4.text" = "ディスカウント";
+
+/* Class = "UILabel"; text = "by Adidas"; ObjectID = "N1i-dq-xka"; */
+"N1i-dq-xka.text" = "by Adidas";
+
+/* Class = "UILabel"; text = "Schedule your order"; ObjectID = "N2M-TM-d76"; */
+"N2M-TM-d76.text" = "注文をスケジュールする";
+
+/* Class = "UITextField"; placeholder = "Title for your reviews"; ObjectID = "Nt1-s5-F4i"; */
+"Nt1-s5-F4i.placeholder" = "レビューのタイトル";
+
+/* Class = "UIButton"; normalTitle = "F"; ObjectID = "O0g-dd-n6a"; */
+"O0g-dd-n6a.normalTitle" = "F";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "OMz-Jy-pU2"; */
+"OMz-Jy-pU2.text" = "0.0";
+
+/* Class = "UILabel"; text = "Order Schedular"; ObjectID = "OVE-Lh-THk"; */
+"OVE-Lh-THk.text" = "注文スケジューラ";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "OZT-CT-F6m"; */
+"OZT-CT-F6m.text" = "NTL";
+
+/* Class = "UILabel"; text = "Delivery On"; ObjectID = "OaQ-De-mlJ"; */
+"OaQ-De-mlJ.text" = "配達日";
+
+/* Class = "UILabel"; text = "Order Details"; ObjectID = "Occ-eJ-C8A"; */
+"Occ-eJ-C8A.text" = "注文詳細";
+
+/* Class = "UILabel"; text = "Current Orders"; ObjectID = "OhY-KD-9GO"; */
+"OhY-KD-9GO.text" = "現在の注文";
+
+/* Class = "UILabel"; text = "Delivery charges"; ObjectID = "PC1-xr-qOU"; */
+"PC1-xr-qOU.text" = "配送料";
+
+/* Class = "UILabel"; text = "Order Summary"; ObjectID = "QKt-vm-9U6"; */
+"QKt-vm-9U6.text" = "注文の概要";
+
+/* Class = "UILabel"; text = "Uploaded prescription images"; ObjectID = "QOo-ta-rcb"; */
+"QOo-ta-rcb.text" = "アップロードされた処方箋画像";
+
+/* Class = "UILabel"; text = "Expiry"; ObjectID = "RBh-Fj-ZRX"; */
+"RBh-Fj-ZRX.text" = "期限切れ";
+
+/* Class = "UILabel"; text = "Total Amount"; ObjectID = "RSi-vz-BxY"; */
+"RSi-vz-BxY.text" = "合計金額";
+
+/* Class = "UILabel"; text = "Choose payment option"; ObjectID = "RcS-KQ-Rrx"; */
+"RcS-KQ-Rrx.text" = "支払いオプションを選択";
+
+/* Class = "UILabel"; text = "Handling fee"; ObjectID = "Rq6-7M-AV1"; */
+"Rq6-7M-AV1.text" = "手数料";
+
+/* Class = "UILabel"; text = "9"; ObjectID = "SRA-fo-kuz"; */
+"SRA-fo-kuz.text" = "9";
+
+/* Class = "UIButton"; normalTitle = "SET SCHEDULE"; ObjectID = "SwP-cg-VLA"; */
+"SwP-cg-VLA.normalTitle" = "スケジュールを設定";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "T4T-uN-Og3"; */
+"T4T-uN-Og3.normalTitle" = "次";
+
+/* Class = "UIButton"; normalTitle = "Completed Orders"; ObjectID = "TBP-sq-sU9"; */
+"TBP-sq-sU9.normalTitle" = "完了した注文";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Tj8-a1-EcR"; */
+"Tj8-a1-EcR.text" = "NTL";
+
+/* Class = "UILabel"; text = "Order Summary"; ObjectID = "Tk6-cI-SBs"; */
+"Tk6-cI-SBs.text" = "注文の概要";
+
+/* Class = "UIButton"; normalTitle = "PLACE ORDER"; ObjectID = "TsH-wh-uQv"; */
+"TsH-wh-uQv.normalTitle" = "注文する";
+
+/* Class = "UIButton"; normalTitle = "Support Email"; ObjectID = "Uoi-ia-AH1"; */
+"Uoi-ia-AH1.normalTitle" = "サポートメール";
+
+/* Class = "UILabel"; text = "Instructions"; ObjectID = "W6D-dA-hkg"; */
+"W6D-dA-hkg.text" = "指示";
+
+/* Class = "UILabel"; text = "Net total"; ObjectID = "WY4-hb-fLK"; */
+"WY4-hb-fLK.text" = "合計額";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "X7k-RF-R7O"; */
+"X7k-RF-R7O.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Skip"; ObjectID = "XVK-zf-ss2"; */
+"XVK-zf-ss2.normalTitle" = "スキップ";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "XfU-La-oyp"; */
+"XfU-La-oyp.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "XsW-YZ-0Hd"; */
+"XsW-YZ-0Hd.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Xuk-3Y-SSD"; */
+"Xuk-3Y-SSD.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Confirm"; ObjectID = "Z4g-tH-i8e"; */
+"Z4g-tH-i8e.normalTitle" = "確認";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Zeh-ix-nRv"; */
+"Zeh-ix-nRv.text" = "NTL";
+
+/* Class = "UILabel"; text = "Card holder's name"; ObjectID = "Zis-xV-ORg"; */
+"Zis-xV-ORg.text" = "カード所有者の名前";
+
+/* Class = "UIButton"; normalTitle = "PAY NOW"; ObjectID = "aH3-nN-dVK"; */
+"aH3-nN-dVK.normalTitle" = "今払う";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "aNF-Ff-OmE"; */
+"aNF-Ff-OmE.normalTitle" = "変化する";
+
+/* Class = "UILabel"; text = "Delivery Charges"; ObjectID = "b5z-sl-VgK"; */
+"b5z-sl-VgK.text" = "配送料";
+
+/* Class = "UILabel"; text = "Delivery charges"; ObjectID = "b6Z-3e-WrC"; */
+"b6Z-3e-WrC.text" = "配送料";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "bOc-su-lBX"; */
+"bOc-su-lBX.text" = "NTL";
+
+/* Class = "UILabel"; text = "Chris Martin"; ObjectID = "bQz-cH-YSA"; */
+"bQz-cH-YSA.text" = "Chris Martin";
+
+/* Class = "UILabel"; text = "Near You"; ObjectID = "bcE-UB-FP9"; */
+"bcE-UB-FP9.text" = "あなたの近く";
+
+/* Class = "UIButton"; normalTitle = "M"; ObjectID = "bcI-ax-kct"; */
+"bcI-ax-kct.normalTitle" = "M";
+
+/* Class = "UILabel"; text = "Net total"; ObjectID = "cSV-xT-nKl"; */
+"cSV-xT-nKl.text" = "合計額";
+
+/* Class = "UILabel"; text = "No agent found"; ObjectID = "cYO-Yo-9Db"; */
+"cYO-Yo-9Db.text" = "エージェントが見つかりません";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "cm8-up-4V2"; */
+"cm8-up-4V2.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "cmN-LX-K4g"; */
+"cmN-LX-K4g.text" = "NTL";
+
+/* Class = "UITextField"; placeholder = "Search..."; ObjectID = "ctP-Tn-ffZ"; */
+"ctP-Tn-ffZ.placeholder" = "探す...";
+
+/* Class = "UILabel"; text = "Card number"; ObjectID = "d5I-hA-6cF"; */
+"d5I-hA-6cF.text" = "カード番号";
+
+/* Class = "UILabel"; text = "Handling fee"; ObjectID = "d6L-MR-Ais"; */
+"d6L-MR-Ais.text" = "手数料";
+
+/* Class = "UILabel"; text = "Rate My Order"; ObjectID = "d7J-2X-tvY"; */
+"d7J-2X-tvY.text" = "注文を評価する";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "dBg-PK-nUp"; */
+"dBg-PK-nUp.text" = "支払い";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "eaN-l2-h48"; */
+"eaN-l2-h48.text" = "0.0";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "f8l-lI-8vZ"; */
+"f8l-lI-8vZ.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Prevoius"; ObjectID = "fL3-cS-eLw"; */
+"fL3-cS-eLw.normalTitle" = "前";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "fLG-VJ-S8q"; */
+"fLG-VJ-S8q.text" = "NTL";
+
+/* Class = "UILabel"; text = "Additional remarks"; ObjectID = "fRR-km-gYc"; */
+"fRR-km-gYc.text" = "追加備考";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "fVn-56-FsJ"; */
+"fVn-56-FsJ.text" = "NTL";
+
+/* Class = "UILabel"; text = "Start On"; ObjectID = "fnO-ma-tyQ"; */
+"fnO-ma-tyQ.text" = "開始";
+
+/* Class = "UILabel"; text = "Payment Remaining"; ObjectID = "fpY-QO-Mpm"; */
+"fpY-QO-Mpm.text" = "残りの支払い";
+
+/* Class = "UIButton"; normalTitle = "Cash on delivery"; ObjectID = "fxw-Ku-Zeu"; */
+"fxw-Ku-Zeu.normalTitle" = "代金引換";
+
+/* Class = "UILabel"; text = "Placed on"; ObjectID = "g8C-ob-uiw"; */
+"g8C-ob-uiw.text" = "置かれる";
+
+/* Class = "UILabel"; text = "0.0"; ObjectID = "gcG-dP-9ta"; */
+"gcG-dP-9ta.text" = "0.0";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "gq7-Zx-4zA"; */
+"gq7-Zx-4zA.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "gx6-ul-xxe"; */
+"gx6-ul-xxe.text" = "NTL";
+
+/* Class = "UILabel"; text = "RESULTS"; ObjectID = "hSF-ZQ-vZZ"; */
+"hSF-ZQ-vZZ.text" = "結果";
+
+/* Class = "UIButton"; normalTitle = "Rate Supplier"; ObjectID = "hTf-H7-UFS"; */
+"hTf-H7-UFS.normalTitle" = "サプライヤーの評価";
+
+/* Class = "UILabel"; text = "Select Agent"; ObjectID = "hxz-UI-ZS7"; */
+"hxz-UI-ZS7.text" = "エージェントを選択";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "i5n-Jc-Zgz"; */
+"i5n-Jc-Zgz.text" = "状態";
+
+/* Class = "UILabel"; text = "Select Time Slot"; ObjectID = "ieU-iT-xsp"; */
+"ieU-iT-xsp.text" = "タイムスロットを選択";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "izY-pH-xZk"; */
+"izY-pH-xZk.text" = "NTL";
+
+/* Class = "UILabel"; text = "You can only track your order after expected delivery time."; ObjectID = "jEj-Dt-Bwe"; */
+"jEj-Dt-Bwe.text" = "配送予定日を過ぎてからのご注文のみ追跡できます。";
+
+/* Class = "UITextField"; placeholder = "MM/YY"; ObjectID = "jH5-Yn-SEf"; */
+"jH5-Yn-SEf.placeholder" = "MM/YY";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jer-2q-ikc"; */
+"jer-2q-ikc.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "e.g. John Doe"; ObjectID = "kmO-oa-hvq"; */
+"kmO-oa-hvq.placeholder" = "e.g. John Doe";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "ktl-kN-FsA"; */
+"ktl-kN-FsA.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "lfj-rj-QwR"; */
+"lfj-rj-QwR.normalTitle" = "継続する";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "mQY-eW-FFP"; */
+"mQY-eW-FFP.text" = "NTL";
+
+/* Class = "UILabel"; text = "9"; ObjectID = "mSU-I9-6Xo"; */
+"mSU-I9-6Xo.text" = "9";
+
+/* Class = "UIButton"; normalTitle = "W"; ObjectID = "mZW-Fy-uCa"; */
+"mZW-Fy-uCa.normalTitle" = "W";
+
+/* Class = "UILabel"; text = "Select Dates"; ObjectID = "mbw-sf-22R"; */
+"mbw-sf-22R.text" = "日付を選択";
+
+/* Class = "UILabel"; text = "Card details"; ObjectID = "mu2-41-Dpd"; */
+"mu2-41-Dpd.text" = "カード詳細";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "n2C-kU-MfU"; */
+"n2C-kU-MfU.text" = "NTL";
+
+/* Class = "UILabel"; text = "Payment method"; ObjectID = "noL-bv-1ip"; */
+"noL-bv-1ip.text" = "支払方法";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "o8p-wc-UmC"; */
+"o8p-wc-UmC.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "BOOK NOW"; ObjectID = "oO7-Fr-ttX"; */
+"oO7-Fr-ttX.normalTitle" = "今予約する";
+
+/* Class = "UILabel"; text = "DELIVERY AT"; ObjectID = "oOM-El-KD8"; */
+"oOM-El-KD8.text" = "配達場所";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "pTs-eD-iFt"; */
+"pTs-eD-iFt.text" = "NTL";
+
+/* Class = "UILabel"; text = "CVV"; ObjectID = "qC4-np-lSv"; */
+"qC4-np-lSv.text" = "CVV";
+
+/* Class = "UILabel"; text = "Delivery charges"; ObjectID = "qWF-aP-kFx"; */
+"qWF-aP-kFx.text" = "配送料";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "r2c-z0-wB5"; */
+"r2c-z0-wB5.text" = "NTL";
+
+/* Class = "UILabel"; text = "You haven't placed any orders yet!"; ObjectID = "rCp-2R-3y3"; */
+"rCp-2R-3y3.text" = "まだ注文していません。";
+
+/* Class = "UILabel"; text = "No Order Scheduled!"; ObjectID = "sbi-3p-Pq9"; */
+"sbi-3p-Pq9.text" = "注文は予定されていません！";
+
+/* Class = "UILabel"; text = "Promo Code"; ObjectID = "sgu-BS-tzm"; */
+"sgu-BS-tzm.text" = "プロモーションコード";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "t1x-0y-5dx"; */
+"t1x-0y-5dx.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Chris Martin"; ObjectID = "uEo-nc-8UI"; */
+"uEo-nc-8UI.text" = "Chris Martin";
+
+/* Class = "UILabel"; text = "Order Details"; ObjectID = "uMO-00-4QI"; */
+"uMO-00-4QI.text" = "注文詳細";
+
+/* Class = "UILabel"; text = "Referral Discount"; ObjectID = "uXj-YO-jKA"; */
+"uXj-YO-jKA.text" = "紹介割引";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "uhX-LX-hfr"; */
+"uhX-LX-hfr.text" = "NTL";
+
+/* Class = "UILabel"; text = "Occupation here  |  14 Years Experience"; ObjectID = "v2d-4G-Non"; */
+"v2d-4G-Non.text" = "Occupation here  |  14 Years Experience";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "v8I-B8-ILf"; */
+"v8I-B8-ILf.normalTitle" = "参加する";
+
+/* Class = "UILabel"; text = "Delivery On"; ObjectID = "vUC-m0-nVG"; */
+"vUC-m0-nVG.text" = "配達日";
+
+/* Class = "UITextField"; placeholder = "CVV"; ObjectID = "vWj-Tk-HoQ"; */
+"vWj-Tk-HoQ.placeholder" = "CVV";
+
+/* Class = "UIButton"; normalTitle = "Credit/Debit Card"; ObjectID = "vec-Gv-zSn"; */
+"vec-Gv-zSn.normalTitle" = "クレジット/デビットカード";
+
+/* Class = "UIButton"; normalTitle = "Rate Order"; ObjectID = "vpH-Z5-KAM"; */
+"vpH-Z5-KAM.normalTitle" = "レート注文";
+
+/* Class = "UIButton"; disabledTitle = "Edit"; ObjectID = "wUj-2w-Qzs"; */
+"wUj-2w-Qzs.disabledTitle" = "編集する";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "wUj-2w-Qzs"; */
+"wUj-2w-Qzs.normalTitle" = "編集する";
+
+/* Class = "UILabel"; text = "Shipped"; ObjectID = "xF6-SZ-9wF"; */
+"xF6-SZ-9wF.text" = "発送済み";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "xML-mW-8Br"; */
+"xML-mW-8Br.text" = "NTL";
+
+/* Class = "UILabel"; text = "SubTotal"; ObjectID = "xaw-Vn-fLi"; */
+"xaw-Vn-fLi.text" = "小計";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "yM8-3Y-gOU"; */
+"yM8-3Y-gOU.text" = "NTL";
+
+/* Class = "UILabel"; text = "Shipping Status"; ObjectID = "yXD-7z-P5W"; */
+"yXD-7z-P5W.text" = "配送状況";
+
+/* Class = "UIButton"; normalTitle = "Pending Orders"; ObjectID = "z5a-sf-GMr"; */
+"z5a-sf-GMr.normalTitle" = "保留中の注文";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "zLd-6y-fDD"; */
+"zLd-6y-fDD.text" = "NTL";
+
+/* Class = "UILabel"; text = "Net Payable"; ObjectID = "zQc-RD-atX"; */
+"zQc-RD-atX.text" = "ネット支払い";
+
+/* Class = "UILabel"; text = "Scheduled Orders"; ObjectID = "zWB-mT-6YP"; */
+"zWB-mT-6YP.text" = "予定された注文";
+
+/* Class = "UILabel"; text = "Order History"; ObjectID = "zix-nJ-UzP"; */
+"zix-nJ-UzP.text" = "注文履歴";
+
+/* Class = "UILabel"; text = "Click '+ Add new' to add an address"; ObjectID = "zyI-0j-xWB"; */
+"zyI-0j-xWB.text" = "「+新規追加」をクリックしてアドレスを追加します";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "zzk-5X-fcf"; */
+"zzk-5X-fcf.text" = "NTL";

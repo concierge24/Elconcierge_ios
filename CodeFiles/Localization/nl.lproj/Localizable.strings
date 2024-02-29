@@ -1,0 +1,936 @@
+/*
+  Localizable.strings
+  Clikat Supplier
+
+  Created by Night Reaper on 08/04/16.
+  Copyright © 2016 Gagan. All rights reserved.
+*/
+
+
+"AppName" = "Bletani"; //"Thena"
+
+"SIGN_IN_WITH_APPLE" = "Sign in with Apple";
+
+
+
+
+
+
+//Supplier Related
+
+"Service Charge" = "Servicekosten";
+"Min. Service Time" = "De mijne. Servicetijd";
+"Visiting Charges" = "Bezoekkosten";
+"Min. Delivery Time" = "Min. Tijd om te bezorgen";
+"Opens at" = "Opent om";
+"PasswordChangedSuccess" = "Wachtwoord succesvol gewijzigd";
+
+
+
+
+
+
+
+//Order Flow
+"Please select an Address" = "Selecteer een adres";
+"Credit / Debit card" = "Creditcard / betaalkaart";
+"Your Cart has no items.Please add items to cart to Proceed." = "Uw winkelwagen bevat geen artikelen. Voeg artikelen toe aan de winkelwagen om door te gaan." ;
+"Landmark" = "Oriëntatiepunt";
+"Address Line First" = "Adresregel eerst";
+"Address Line Second" = "Adresregel tweede";
+"Pincode" = "Pincode";
+"Delivery Address" = "Bezorgadres";
+"Enter your details." = "Voer uw gegevens in." ;
+"Delivery charges applicable accordingly" = "Bezorgkosten dienovereenkomstig van toepassing";
+"Delivery fees" = "Verzendkosten";
+"Select Time and Date" = "Selecteer tijd en datum";
+"Please select a booking schedule and time" = "Selecteer een boekingsschema en tijd";
+"Select booking time" = "Selecteer boekingstijd";
+"ReOrdering will clear you cart" = "Bij opnieuw ordenen wordt je winkelwagentje leeggemaakt. Druk op OK om door te gaan.";
+
+
+
+
+
+
+
+//Order Related
+
+"PENDING" = "In behandeling";
+"DELIVERED" = "Bezorgd";
+"CONFIRMED" = "Bevestigd";
+"FEEDBACKGIVEN" = "Feedback gegeven";
+"REJECTED" = "Afgewezen";
+"SHIPPED" = "Verzonden";
+"INPROCESS" = "Inproces";
+"NEARBY" = "Onderweg";
+"TRACKED" = "Bijgehouden";
+"CUSTOMER CANCELED" = "Geannuleerd";
+"SCHEDULED" = "Gepland";
+
+"Order Details" = "Bestel Details";
+"items" = "artikelen";
+
+"REORDER" = "HERORDER";
+"TRACK" = "TRACK";
+"BOOKED" = "GEBOEKT";
+"CANCEL ORDER" = "CANCEL ORDER";
+"CONFIRM ORDER" = "CONFIRM ORDER";
+"CANCEL BOOKING" = "ANNULERING BOEKING";
+"BOOK AGAIN" = "OPNIEUW BOEKEN";
+"CONFIRM BOOKING" = "BEVESTIG BOEKING";
+"Booking Details" = "Boekingsdetails";
+"Booking History" = "Boekingsgeschiedenis";
+
+"Monthly" = "Maandelijks";
+"Weekly" = "Wekelijks";
+"Pickup" = "Oppakken";
+
+
+
+//Login SignUp
+"Please enter your email address" = "Voer uw e-mailadres in";
+"Please enter a valid email address" = "Voer een geldig e-mailadres in";
+"Please enter your password" = "Voer uw wachtwoord in";
+"Password should be minimum 6 characters." = "Wachtwoord moet minimaal 6 tekens bevatten.";
+"Session expired login to continue" = "Huidige sessie verlopen \ n Gelieve in te loggen om door te gaan.";
+"OTP Sent" = "OTP verzonden.";
+"Select picture" = "Selecteer afbeelding";
+"Please select your profile picture" = "Selecteer je profielfoto.";
+"Please enter your name" = "Voer uw naam in.";
+"Camera" = "Camera";
+"Photo Library" = "Fotobibliotheek";
+
+
+
+
+
+
+// Home Screen Options
+"Home" = "huis";
+"Live support" = "Live ondersteuning";
+"Cart" = "Winkelwagen";
+"Promotions" = "Promoties";
+"Notifications" = "Notificaties";
+
+"My Account" = "Mijn account";
+
+"My favourites" = "Mijn favorieten";
+"Order history" = "Bestelgeschiedenis";
+"Track my order" = "Volg mijn bestelling";
+"Rate my order" = "Beoordeel mijn bestelling";
+"Upcoming orders" = "Aankomende bestellingen";
+"Loyality points" = "Loyaliteitspunten";
+"Share app" = "Deel app";
+"Share app" = "Deel App";
+"Settings" = "Instellingen";
+"Guest" = "Gast";
+"Welcome" = "Welkom";
+"Points" = "Punten";
+
+"Essentials, delivered at your door steps" = "Essentials, afgeleverd bij uw deur";
+"Health and medicine just a click away." = "Gezondheid en geneeskunde slechts een klik verwijderd.";
+"Distance is no longer a problem." = "Afstand is niet langer een probleem";
+
+
+
+// Home Screen Options
+"Grocery" = "Kruidenier";
+"Laundry" = "Wasserij";
+"Household" = "Huishouden";
+"Flowers" = "Bloemen";
+"Fitness" = "Fitness";
+"Photography" = "Fotografie";
+"Baby sitter" = "Babysitter";
+"Cleaning" = "Schoonmaak";
+"Party" = "Feest";
+"Beauty salon" = "Schoonheidssalon";
+"Medicines" = "Geneesmiddelen";
+"Water delivery" = "Waterafgifte";
+"Packages" = "Pakketjes";
+
+
+
+
+
+
+
+"OK" = "OK";
+"Save" = "Opslaan";
+"Cancel" = "Annuleren";
+"Choose booking cycle" = "Kies boekingscyclus";
+"reviews" = "Recensies";
+"USD" = "USD";
+"mins" = "Minuten";
+"Results for" = "Resultaten voor";
+"days" = "Dagen";
+"Hours" = "Uren";
+
+
+
+
+
+
+
+
+//Filter
+"Discoverability" = "Ontdekbaarheid";
+"Delivery" = "Levering";
+"Supplier Type" = "Type leverancier";
+"Rating" = "Beoordeling";
+
+"1 Star" = "1 ster";
+"2 Star" = "2 sterren";
+"3 Star" = "3 sterren";
+"4 Star and above" = "4 sterren en hoger";
+
+"Gold" = "Goud";
+"Silver" = "Zilver";
+"Platinum" = "Platina";
+
+"Cash on delivery" = "Rembours";
+"Card" = "Kaart";
+"Both" = "Beide";
+
+"Online" = "Online";
+"Busy" = "Bezet";
+"Closed" = "Gesloten";
+
+"Canceled" = "Geannuleerd";
+
+
+
+
+
+
+
+//Settings
+"Change Password" = "Wachtwoord wijzigen";
+"Notifications Language" = "Taal voor meldingen";
+"Manage Address" = "Beheer adres";
+"Logout" = "Uitloggen";
+"Select notification language" = "Selecteer meldingstaal";
+"English" = "Engels";
+"Arabic" = "Arabisch";
+"Spanish" = "Spaans";
+//Loyalty Points
+
+"You haven't earned any loyalty points yet" = "You haven't earned any loyalty points yet.";
+"Select produts from same supplier" = "Please select produts from same supplier";
+"No Remarks" = "No Remarks";
+
+//Laundry Flow
+"When do you want the service" = "When do you want the service?";
+"Pickup location" = "Pickup location";
+"Choose location" = "Choose location";
+"Select pickup date and time" = "Select pickup date and time";
+
+"Are you sure you want to delete this address" = "Are you sure you want to delete this address.";
+
+
+
+
+
+//Location Selection
+"Select Country" = "Selecteer land";
+"Select City" = "Selecteer stad";
+"Select Zone" = "Selecteer Zone";
+"Select Area" = "Selecteer Area";
+
+"Please select all fields above" = "Selecteer alle bovenstaande velden.";
+"Please select a country" = "Selecteer een land";
+"Please select a city" = "Selecteer een stad";
+
+
+
+
+//Delivery Address Cell
+
+"Please fill all details" = "Gelieve alle details in te vullen";
+"Please enter valid Pincode" = "Voer een geldige pincode in";
+
+
+
+
+
+//Change Password
+"Self pickup" = "Zelf ophalen";
+"Old Password" = "Oud wachtwoord";
+"New Password" = "Nieuw wachtwoord";
+"Confirm Password" = "Bevestig wachtwoord";
+"New Password must not be same as old password" = "Nieuw wachtwoord mag niet hetzelfde zijn als oud wachtwoord";
+"Passwords do not match" = "Wachtwoorden komen niet overeen";
+"Forgot Password" = "Wachtwoord vergeten";
+"Password recovery has been sent to your email id" = "Wachtwoordherstel is verzonden naar uw e-mail-id";
+//Share text
+"The Leading Online Home Services In UAE" = "The first Food Delivery application in Venezuela! They have everything: https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+//Share text for yummy
+"ShareAppYummy"  = "Thought you might like this app to make life more simpler:  https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+
+
+
+
+
+
+//API Validation
+"Please check your internet connection" = "Controleer uw internetverbinding.";
+
+
+
+
+
+
+//Sweet Alert
+"Cancel Order" = "Bestelling annuleren";
+"Cancel Booking" = "Boeking annuleren";
+"Success" = "Succes";
+"Do you really want to cancel this order" = "Wil je deze bestelling echt annuleren?";
+"You have cancelled your order successfully" = "U heeft uw bestelling succesvol geannuleerd";
+"LogOut" = "Uitloggen!";
+"Are you sure you want to logout" = "Weet u zeker dat u wilt uitloggen?";
+"You are successfully logged out" = "U bent succesvol uitgelogd";
+
+"Please enter valid country code followed by phone number" = "Voer een geldige landcode in gevolgd door een telefoonnummer";
+
+"You can add only" = "U kunt alleen toevoegen";
+"Agent is not assigned to this order" = "Agent is niet toegewezen aan deze order";
+//Delviery Screen
+"Delivery Speed" = "Delivery Speed";
+"Sorry… Your Order is Below Minimum Order Price." = "Sorry… Your Order is Below Minimum Order Price.";
+
+"Recommended" = "Recommended";
+"Offers" = "Offers";
+
+"Your order have been placed successfully" = "Your order has been placed successfully.";
+"Order placed successfully" = "Order placed successfully";
+"Your order have been sheduled successfully" = "Your order has been scheduled successfully";
+"Booking placed successfully" = "Booking placed successfully";
+
+"Are you sure" = "Are you sure?";
+"Changing the language will clear your cart." = "Changing the language will clear your cart. Are you sure you want to proceed?";
+
+//Live Support
+"Typing" = "Typing";
+"Offline" = "Offline";
+
+"Email" = "Email";
+
+"Not rated yet" = "Not rated yet";
+"Search" = "Search";
+"Other" = "Other";
+"Change Language" = "Verander taal";
+"Privacy Policy" = "Privacybeleid";
+
+
+
+
+//MARK: - After sending localization file
+
+
+
+
+
+
+//TODO: - Localize
+"Issue wth OrderID" = "Uitgifte met OrderID";
+"Status" = "Toestand";
+"Loyalty Points Type" = "Loyaliteitspunten Type";
+"Payment Method" = "Betaalmethode";
+"Terms and Conditions" = "Algemene voorwaarden";
+"About Us" = "Over ons";
+"Sort" = "Sorteren";
+"Open" = "Openen";
+"Adding products from diffrent suppliers will clear your cart" = "Als u producten van verschillende leveranciers toevoegt, wordt uw winkelwagentje leeggemaakt.";
+"Min. Order Amount" = "Min. Bestelbedrag";
+"Min. Delviery Time" = "Min. Delviery tijd";
+"HOME SERVICE" = "Thuishulp";
+"AT PLACE SERVICE" = "Bij Place Service";
+"Select service" = "Selecteer service";
+"Ladies Beauty Salon" = "Dames schoonheidssalon";
+"City" = "Stad";
+"Area" = "Oppervlakte";
+"House No" = "Huisnummer.";
+"Compare Products" = "Vergelijk producten";
+"Somewhere Somehow Something Went Wrong" = "Ergens, ergens, is er iets misgegaan";
+"Adding products from promotions will clear your cart" = "Door producten uit promoties toe te voegen, wordt uw winkelwagen leeggemaakt.";
+
+"Please enter your house no." = "Voer uw huisnummer in.";
+"Please enter your building name" = "Voer alstublieft uw gebouwnaam in";
+"Please select your location" = "Selecteer uw locatie";
+"Please enter a landmark name" = "Voer alstublieft de naam van een herkenningspunt in";
+"Please enter your city" = "Voer alstublieft uw stad in";
+"Please enter your country" = "Voer alstublieft uw land in";
+"Daily Deals" = "Dagelijkse deals";
+"My Orders" = "mijn bestellingen";
+"Not Available" = "niet beschikbaar";
+"Your Order will be confirmed during next supplier working hours/day." = "Uw bestelling wordt bevestigd tijdens de volgende werkuren / dag van de leverancier.";
+
+"Changing the current area will clear you cart" = "Als u het huidige gebied wijzigt, wordt uw winkelwagentje leeggemaakt.";
+"Change pick up time no suppliers are available for this pickup timing" = "Wijzigen ophaaltijd er zijn geen leveranciers beschikbaar voor deze afhaaltijdstip";
+"No supplier found" = "Geen leverancier gevonden!";
+"My Addresses" = "Mijn adressen";
+"Item Detail" = "Item Detail";
+"Scheduled Orders" = "Geplande bestellingen";
+
+"Sorry not enough points to redeem" = "Sorry, niet genoeg punten om in te wisselen.";
+"Orders" = "Bestellingen";
+"Others" = "Anderen";
+
+
+// ======== ride =======
+"LanguageName.English" = "English";
+"LanguageName.Arabic" = "عربى";
+"LanguageName.Urdu" = "اردو";
+"LanguageName.Hindi" = "हिंदी";
+"LanguageName.Chinese" = "中文";
+"LanguageName.Spanish" = "Spanish";
+"LanguageName.French" = "French";
+"LanguageName.Dutch" = "Dutch";
+"LanguageName.Italian" = "Italian";
+"LanguageName.Japanese" = "Japanese";
+"LanguageName.German" = "German";
+
+
+"Alert.VersionUpdateText" = "U moet de nieuwste versie van de app bijwerken.";
+"Validation.InternetNotWorking" = "U moet een internetverbinding inschakelen.";
+"Validation.TermsConditions" = "Selecteer de algemene voorwaarden.";
+"Validation.PhoneNumberMissed" = "Voer een telefoonnummer in.";
+"Validation.PhoneNumberLength" = "Voer een geldig telefoonnummer in.";
+"Validation.OTPValidation" = "Voer otp in.";
+"Validation.UserName" = "Voer de volledige naam in.";
+"Validation.Alert" = "Waarschuwing";
+"Validation.Alert2" = "Bevestiging";
+
+"Validation.Success" = "Succes";
+
+"IntroductionVC.TitleFirst" = "Vrachtbezorging is slechts één tik verwijderd";
+"IntroductionVC.TitleDescription" = "Levering zonder zorgen voor de deur.";
+
+//LandingScreen Strings
+
+"LandingVC.MobileNumber" = "Voer uw mobiele nummer in";
+"LandingVC.AccountAgreement" = "Door een account aan te maken gaat u akkoord";
+"LandingVC.Terms & Conditions" = "Algemene voorwaarden";
+"LandingVC.OtpWillBeSent" = "Een OTP wordt ter verificatie naar uw ingevoerde mobiele nummer verzonden.";
+"LandingVC.Proceed" = "Doorgaan";
+
+//OTP Screen Strings
+"OTPVC.OTPText" = "Voer de OTP ontvangen op in";
+"OTPVC.EditNumber" = "Bewerk dit nummer";
+"OTPVC.ResendOTP" = "OTP opnieuw verzenden";
+"OTPVC.VerificationCode" = "Verificatiecode";
+"OTPVC.DontReceiveCode" = "Heeft u uw code niet ontvangen?";
+
+
+
+//Enter Name Strings
+"UserProfileVC.FullNamePlaceHolder" = "Voor-en achternaam";
+"UserProfileVC.NameText" = "Hey wat is je naam";
+"UserProfileVC.ReferalCode" = "VERWIJZINGSCODE";
+"UserProfileVC.Submit" = "Verzenden";
+"UserProfileVC.JustSomeMore" = "Gewoon wat meer informatie om in te vullen :)";
+
+
+//Services names
+
+"Service.Gas" = "Gas";
+"Service.DrinkingWater" = "Drinking Water";
+"Service.WaterTanker" = "Water Tanker";
+"Service.Freight" = "Trucks";
+"Service.Tow" = "Breakdown Recovery";
+"Service.HeavyMachine" = "Heavy Machine";
+
+//Side Menu Strings
+"LeftMenuOption.Bookings" = "Boekingen";
+"LeftMenuOption.Support" = "Andere diensten";
+"LeftMenuOption.Promotions" = "Promotionen";
+"LeftMenuOption.Payments" = "Zahlungen";
+"LeftMenuOption.Referral" = "Überweisung";
+"LeftMenuOption.EmergencyContacts" = "Notfallkontakte";
+"LeftMenuOption.Settings" = "Einstellungen";
+"LeftMenuOption.ContactUs" = "Kontaktier uns";
+"LeftMenuOption.Signout" = "Abmelden";
+
+//Navigation Bar Strings
+"NavigationButton.Select" = "Selecteer";
+"NavigationButton.Back" = "Terug";
+"NavigationTitle.Location" = "Plaats";
+"NavigationTitle.Location" = "Plaats";
+
+//Order Strings
+"Order.DropOffLocation" = "Voer de afleverlocatie in";
+"Order.DetailEnterTitle" = "Voer de details van de bestelling in";
+"Order.DetailValidation" = "Voer de bestelgegevens in.";
+"Order.SelectBrand" = "Selecteer merk";
+"Order.SelectCapacity" = "Selecteer capaciteit";
+"Order.SelectQuantity" = "Selecteer aantal";
+"Order.Next" = "De volgende";
+
+"Order.Total" = "Totaal";
+"Order.Cash" = "Contante betaling";
+"Order.CashOnDelivery" = "Contre remboursement";
+"Order.Card" = "Kaart";
+"Order.EToken" = "E-token";
+"Order.Promo" = "Promo";
+"Order.Book" = "Boek";
+"Order.ProcessingRequestTitle" = "Nous traitons votre demande";
+"Order.Cancel" = "Annuleer";
+"Order.TimeLeftMins" = "Mins"; //Multiple
+"Order.TimeLeftMin" = "Min" ;   //Single
+
+
+"Order.CancellingReasonValidation" = "Voer een reden voor annulering in.";
+"Order.PlaceHolderCancelReason" = "Schrijf een annuleringsreden.";
+"Order.Invoice" = "Factuur";
+"Order.BaseFair" = "Basistarief" ;
+"Order.Tax" = "Belasting" ;
+"Order.OMR" = "Rs" ; // Currency
+
+"Order.Finish" = "Af hebben" ;
+
+"Order.Rate" = "Tarief" ;
+"Order.VerySad" = "Erg verdrietig" ;
+"Order.Sad" = "Triest";
+"Order.Good" = "Goed";
+"Order.Happy" = "Gelukkig";
+"Order.RatingTextPalceholder" = "Voeg hier een opmerking toe ...";
+"Order.SubmitRating" = "Beoordeling indienen";
+"Order.TokenLeft" = "token left";
+"Order.Token" = "token";
+
+
+"BuyToken.PopUpTitle" = "Do you want to buy this e-token ?";
+"BuyToken.Purchased" = "Purchased";
+"BuyToken.OffersNearYou" = "Offers available near you";
+
+"Bookings.Past" = "Nach";
+"Bookings.Upcoming" = "bevorstehende ";
+
+
+"ContactUs.ReachByPhone" = "Bereik ons via de telefoon";
+"ContactUs.ReachByEmail" = "Bereik ons via mail";
+"ContactUs.PlaceHolder" = "Schrijf hier rechtstreeks een bericht om ons te bereiken ...";
+"ContactUS.ValidationMessage" = "Voer een bericht in";
+
+"Referral.Text" = "Like Buraq 24?";
+"Referral.ShareWithFriends" = "Deel met de vrienden";
+
+
+
+
+"PopUpScheduledBooked.ConfirmationTitle" = "Herzlichen Glückwunsch ";
+"PopUpScheduledBooked.ConfirmationMessage" = "Ihre Buchung war erfolgreich";
+
+"Button.Title.OK" = "OK";
+
+"OrderStatus.Searching" = "Zoeken";
+
+"OrderStatus.Ongoing" = "Lopend";
+
+"OrderStatus.Confirmed" = "Bevestigd";
+"OrderStatus.Reached" = "Bereikt";
+
+"OrderStatus.CustomerCancel" = "Klant geannuleerd";
+
+"OrderStatus.SerComplete" = "Voltooid";
+
+"OrderStatus.SerReject" = "Afgewezen";
+
+"OrderStatus.DriverCancel" = "Stuurprogramma geannuleerd";
+
+"OrderStatus.Scheduled" = "Gepland";
+
+
+"OrderUI.Status.Cancelled" = "Geannuleerd";
+"OrderUI.Status.Scheduled" = "Gepland";
+"OrderUI.Status.Completed" = "Voltooid";
+
+"DriverStatus.AcceptedRequest" = "De chauffeur heeft uw verzoek geaccepteerd.";
+"DriverStatus.YourOrderOnWay" = "Driver is onderweg.";
+"DriverStatus.AnotherOrderOnWay" = "Bestuurder voltooit bestelling in de buurt.";
+"Order.Scheduling.Alert" = "Sorry, u kunt de boeking pas 1 uur later plannen.";
+
+"Button.Title.BookNow" = "Boek nu";
+"Button.Title.Schedule" = "Gepland";
+
+
+"Ok" = "OK";
+
+"app_name" = "Buraq24-Customer";
+"terms_and_conditions" = "Voorwaarden";
+"by_creating_account_you_agree" = "Door een account aan te maken gaat u akkoord";
+"enter_you_mobile_no" = "Voer uw gsm-nummer in.";
+"slogan" = "Verbind uw behoeften in \ nseconden";
+"resend_otp" = "Verzend de verificatiecode opnieuw";
+"edit_this_number" = "Bewerk dit nummer";
+"whats_your_name" = "Hallo! Wat is je naam";
+"full_name" = "Voor-en achternaam";
+"title_activity_maps" = "Kaart";
+"title_activity_main2" = "Main2Activity";
+"navigation_drawer_open" = "Open de navigatielade";
+"navigation_drawer_close" = "Sluit de navigatielade";
+"nav_header_title" = "Gebruikersnaam";
+"nav_header_subtitle" = "Beoordeling";
+"nav_header_desc" = "Navigatiekop";
+"action_settings" = "Instellingen";
+"bookings" = "Boekingen";
+"promotions" = "Promoties";
+"payments" = "Betalingen";
+"referral" = "Doorverwijzing";
+"emergency_contacts" = "Contactpersonen voor noodgevallen";
+"settings" = "Instellingen";
+"contact_us" = "Neem contact op";
+"sign_out" = "Afmelden";
+"back" = "Terug";
+"location" = "Plaats";
+"enter_drop_off_location" = "Voer de afleverlocatie in";
+"enter_pickup_location" = "Voer de ophaallocatie in";
+"enter_details_of_order" = "Voer de details van de bestelling in";
+"select_branch" = "Selecteer merk";
+"select_capacity" = "Selecteer capaciteit";
+"select_quantity" = "Selecteer aantal";
+"next" = "De volgende";
+"total" = "Totaal";
+"cash" = "Contante betaling";
+"promo" = "Promotiecode";
+"book" = "Boek";
+"we_are_requesting_your_request" = "We zijn je verzoek aan het verwerken";
+"cancel" = "Annuleer";
+"invoice" = "Factuur";
+"base_fair" = "Basistarief";
+"tax" = "Belasting";
+"rate" = "Tarief";
+"add_comments_here" = "Voeg hier een opmerking toe ...";
+"submit" = "Verzenden";
+"phone_validation_message" = "Voer alstublieft een geldig telefoonnummer in";
+"otp_validation_message" = "Voer een geldige OTP in.";
+"name_empty_validation_message" = "Voer een naam in om door te gaan.";
+"password_empty_validation_message" = "Voer een wachtwoord in om door te gaan.";
+"PromoCode_empty_validation_message" = "Voer de promotiecode in om door te gaan.";
+"request_cancelled_successfully" = "Uw verzoek is geannuleerd..";
+"no_route_exits" = "Er bestaat geen route";
+"type_reason_for_cancellation" = "Typ uw reden voor annulering";
+"write_your_msg_here" = "Schrijf hier een bericht ...";
+"cancellation_reason_validation_text" = "Voer de annuleringsreden in.";
+"currency" = "CAD";
+"pickup_address_validation_message" = "Selecteer een geldig ophaaladres.";
+"dropoff_address_validation_message" = "Selecteer een geldig afleveradres."; //Need
+
+"finish" = "Af hebben";
+"gas" = "Gas";
+"water_tanker" = "Water Tanker";
+"drinking_water" = "Drinking Water";
+"tow" = "Breakdown Recovery";
+"freight" = "Trucks";
+"currently_no_driver_available" = "Momenteel geen driver beschikbaar.";
+"ongoing_request_cancelled_by_driver" = "Uw lopende aanvraag is geannuleerd door de chauffeur.";
+"cash_on_delivery" = "Onder rembours";
+"card" = "Card";
+"default_selecting_token_error" = "You cannot select E-Tokens as a default payment method.";
+"e_tokens" = "E-Tokens";
+"e_token" = "E-Token";
+"left" = "left";
+"purchased" = "Purchased";
+"offers_available_near_you" = "Aanbiedingen bij u in de buurt";
+"available" = "beschikbaar";
+"no_offers_available" = "Geen aanbiedingen beschikbaar";
+"buy_etoken" = "Buy E-Token";
+"buy_etoken_confirmation" = "Are you sure you want to buy this e-token?";
+"yes" = "Yes";
+"no" = "No";
+"view_e_tokens" = "View E-Tokens";
+"select" = "Selecteer";
+"select_e_token" = "Select E-Tokens";
+"excellent" = "Uitstekend";
+"very_good" = "Heel goed";
+"good" = "Goed";
+"sad" = "Triest";
+"very_sad" = "Erg verdrietig";
+"rating_validation_msg" = "Selecteer een beoordeling om door te gaan.";
+"validations_success" = "Succes van validatie";
+"booking_details" = "Boekingsdetails";
+"drop_off_location" = "Afzet locatie";
+"delivery_location" = "Afleveradres";
+"no_bookings" = "Geen boekingen";
+"like_buraq24_n_nshare_with_the_friends" = "Like Buraq24?\nShare with the friends.";
+"share" = "Delen";
+"contact_us_msg_hint" = "Schrijf hier rechtstreeks een bericht om ons te bereiken ...";
+"no_email_app_installed" = "There are no email clients installed.";
+"send_mail_to_buraq" = "Send mail to Buraq24";
+"please_enter_message" = "Voer een bericht in";
+"we_will_reach_soon" = "We hebben je bericht ontvangen. We zullen u spoedig bereiken.";
+"logout_confirmation" = "Weet u zeker dat u wilt uitloggen?";
+"package_distance_confirmation" = "Uw reisafstand is meer dan de pakketafstand. U kunt hiervoor extra kosten in rekening brengen. \ NWilt u een aanvraag indienen?";
+"cancel_ride_confirmation" = "Er kunnen mogelijk kosten in rekening worden gebracht wanneer u de rit annuleert. Weet je zeker dat je door wilt gaan?";
+"no_driver" = "Momenteel geen driver beschikbaar.";
+"transferRequest" = "We zetten uw boeking over naar een andere chauffeur.";
+"coming_soon" = "Coming soon";
+"buraq_24" = "Buraq 24";
+"error" = "Fout";
+"api_error_msg" = "Er is een fout opgetreden op de server. Probeer het alstublieft opnieuw.";
+"retry" = "Opnieuw proberen";
+"otp_resent_successfully" = "OTP succesvol opnieuw verzonden";
+"change_language" = "Verander taal";
+"enter_otp_on" = "Voer de verzonden code in";
+"reach_us_via_phone" = "Bereik ons via de telefoon";
+"reach_us_via_mail" = "Bereik ons via mail";
+"no_contacts" = "Geen contacten";
+
+"english" = "Engels";
+"spanish" = "Spanish";
+"hindi" = "हिंदी";
+"urdu" = "اردو";
+"chinese" = "中文";
+"arabic" = "العربية";
+
+"schedule" = "Bevestig schema";
+"booking" = "Bevestig uw boeking";
+"book_now" = "Boek nu";
+"schedule_time_selection_validation_msg" = "Oeps, je kunt pas 1 uur later boeken.";
+"congratulations" = "Gefeliciteerd";
+"service_booked_successfully" = "Uw dienst is succesvol geboekt";
+"order_cancelled" = "Uw bestelling is geannuleerd";
+"save" = "Sparen";
+"profile_updated_successfully" = "Profiel succesvol bijgewerkt!";
+"permission_required_to_select_image" = "Toestemming vereist om afbeelding te selecteren";
+"dialog_camera" = "Camera";
+"dialog_gallery" = "Galerij";
+"dialog_select_your_choice" = "Selecteer";
+"push_notifications" = "Push-meldingen";
+"privacy" = "Privacy";
+"about_us" = "Over ons";
+"edit_profile" = "Bewerk profiel";
+"completed" = "Voltooid";
+"breakdown" = "Afbreken";
+"cancelled" = "Geannuleerd";
+"Scheduled" = "Gepland";
+"select_location" = "Selecteer locatie";
+"select_vehicle_type" = "Selecteer voertuigtype";
+"select_sub_model" = "Selecteer submodel";
+"enter_approx_weight" = "Voer ongeveer het gewicht in Kg's in ...";
+"enter_additional_information" = "Voer aanvullende informatie in ...";
+"upload_images" = "Upload afbeeldingen";
+"view_deals" = "bekijk aanbiedingen die beschikbaar zijn via bedrijven";
+"driver_accepted_request" = "Bestuurder heeft uw verzoek geaccepteerd.";
+"driver_is_on_the_way" = "Bestuurder is onderweg";
+"truck_driver_is_on_the_way" = "Uw bestelling is onderweg voor bezorging";
+"driver_is_on_the_way_DriveStarted" = "Uw service is gestart";
+"driver_is_reached" = "Bestuurder heeft bereikt";
+"driver_completing_nearby_order" = "Bestuurder voltooit bestelling in de buurt";
+"version" = "Version : ";
+"support" = "Andere diensten";
+"no_services" = "Geen services beschikbaar";
+"support_msg" = "Selecteer een probleem waarmee we u kunnen helpen";
+"i_agree_to_the" = "Ik ga akkoord met de ";
+"terms_and_conditions_validation_message" = "Ga akkoord met onze algemene voorwaarden";
+"terms_and_conditions_caps" = "Voorwaarden";
+"press_back_again_to_exit" = "Druk nogmaals op Back om af te sluiten.";
+
+"sms_permission" = "Grant read sms permission to auto fetch the OTP.";
+"grant" = "Verlenen";
+"default_category_name" = "Onderhoud";
+"started_at" = "Begon bij";
+"completed_at" = "Voltooid om";
+"past" = "Verleden";
+"uncoming" = "Aankomende";
+
+"session_expired_please_login_again" = "Je sessie is verlopen. Log alsjeblieft nogmaals in";
+"normal" = "Normaal";
+"satellite" = "Satellite";
+"max_images_validation_msg" = "U kunt maximaal 2 afbeeldingen toevoegen";
+
+"work_in_progress" = "Uw boeking is niet voltooid omdat de service-update wordt uitgevoerd. Neem contact op met onze klantenservice voor hulp.";
+"email_not_configured" = "E-mail is niet geconfigureerd op de telefoon";
+
+//MARK:-   Etokens Module
+
+"etoken.eToken" = "E-Token";
+"etoken.orderOutForDelivery" = "Uw bestelling is verzonden.";
+"eToken.orderConfirmed" = "Uw bestelling is bevestigd voor levering.";
+"eToken.orderWaitingConfirmation" = "Een bestelling wacht op uw goedkeuring voor aankomende boekingen.";
+"etoken.orderTimeOut" = "Een bestelling wacht op uw goedkeuring voor aankomende boekingen.";
+"eToken.returnBottleTitle" = "Heeft u (merknaam) flessen bij u?";
+"eToken.onlinePayment" = "Online betaling is nog niet beschikbaar.";
+"eToken.tokenPurchasedSuccessfully" = "Token succesvol gekocht.";
+"eToken.selectAddress" = "Selecteer een adres.";
+"eToken.timeOut" = "Time-out";
+"eToken.approvalPending" = "Goedkeuring in behandeling";
+"eToken.rejected" = "Afgewezen";
+"eToken.trackingNotAvailable" = "Volgen nog niet beschikbaar. Even geduld.";
+"alet.enterDetails" = "Voer de bestelgegevens in.";
+
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "Time-out";
+"etoken.ApprovalPending" = "Goedkeuring in behandeling";
+"etoken.Rejected" = "Afgewezen";
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+
+//New By trava
+"Please enter first name" = "Voer de voornaam in";
+"Please enter last name" = "Voer achternaam in";
+"Please enter address" = "Voer uw adres in";
+"NoOngoigRide" = "Er is momenteel geen rit aan de gang";
+
+"Enter your Address" = "Voer uw adres in";
+"Hi " = "Hoi ";
+"Work" = "Werk";
+"My Bookings" = "Mijn boekingen";
+"Payment method" = "Betalingsmiddel";
+"Travel packages" = "Pakketjes";
+"Notifications" = "Meldingen";
+"Emergency contacts" = "Contactpersonen voor noodgevallen";
+"Settings" = "Instellingen";
+"Help" = "Helpen";
+"Seating capacity" = "Aantal zitplaatsen:";
+
+"View Package" = "Bekijk pakket";
+"Packages details" = "Pakketten details";
+"Valid for" = "Geldig voor";
+"hours" = "uren";
+"days" = "dagen";
+"months" = "maanden";
+"hour" = "uur";
+"day" = "dag";
+"month" = "maand";
+
+"Pay" = "Betalen ";
+"Outstanding from previous trip" = " uitstekend van vorige reis";
+"credit" = "Credits";
+"Are you sure you want to send Panic Request to your nearby?" = "Weet u zeker dat u een paniekverzoek naar uw buurt wilt sturen?";
+"Please wait. we'll contact you shortly." = "Even geduld, we nemen binnenkort contact met u op.";
+"long_distance_confirmation" = "Uw chauffeur kiest voor u root op lange afstand. U kunt hiervoor extra betalen. Weet je zeker dat je door wilt gaan?";
+"Ongoing_AddStop_Confirmation" = "Voor de zekerheid: als u een tussenstop toevoegt aan de huidige rit, kunt u deze niet verwijderen. Weet je zeker dat je door wilt gaan?";
+"Add Home Address" = "Voeg thuisadres toe";
+"Add Work Address" = "Werkadres toevoegen";
+"remove_card_Confirmation" = "Weet u zeker dat u de kaart wilt verwijderen?";
+"Credit Card" = "Kredietkaart";
+"can't_use_credit_point" =  "U kunt geen tegoedpunten gebruiken voor contante betaling";
+
+"Cancel_Ride" = "Annuleer";
+"Cancel_Delivery" = "Levering annuleren";
+
+"Ride_Share" = "Rijd delen";
+"Share_Parcel_Location" = "Deel pakketlocatie";
+"Delivery_In_Progress" = "Levering bezig";
+"Enjoy_Your_Ride" = "Geniet van uw rit";
+
+
+"login" = "Log in";
+"signup" = "Inschrijven";
+"withPhoneEmail" = "met telefoon of e-mail";
+"Signupfor" = "Meld je aan voor";
+"loginTo" = "Inloggen";
+"haveNoAccount" = "Nog geen account?";
+"haveAlreadyAccount" = "Heb je al een account?";
+"institution" = "Instelling";
+"signup_for" = "Meld je aan voor";
+"institution_account" = "Instellingsaccount";
+"otp_text" = "We hebben je een code gestuurd naar";
+
+"CONTINUE_WITH_APPLE" = "CONTINUE WITH APPLE";
+"email" = "E-mail";
+"phone" = "Telefoon";
+
+
+
+"Validation.VerificationValidation" = "Voer de verificatiecode in.";
+"username_email_validation" = "Voer gebruikersnaam of e-mailadres in.";
+"password_empty_validation_message" = "Voer wachtwoord in.";
+"confirm_password_empty_validation_message" = "Voer een bevestigingswachtwoord in.";
+"password_confirmPassword_validation" = "wachtwoord en bevestig wachtwoord moeten overeenkomen.";
+"password_length_validation_message" = "wachtwoord moet minstens 6 karakters bevatten.";
+"institution_type_validation" = "Selecteer het type instelling.";
+"institution_name_validation" = "Selecteer de naam van de instelling.";
+"institution_id_validation" = "Voer het ID-nummer van de instelling in.";
+"empty_institutional_email_validation" = "Voer het e-mailadres van de instelling in.";
+"institutional_cred_Image_validation" = "Voeg afbeelding toe.";
+"materialType" = "Voer het materiaaltype in.";
+"materialType2" = "Voer het item in dat moet worden opgehaald.";
+"pickupLevel" = "Selecteer een ophaalniveau.";
+"dropLevel" = "Selecteer een dropoff-niveau.";
+"approxWeight" = "Voer het geschatte gewicht in.";
+"approxWeight2" = "Voer het artikelgewicht in.";
+"receiverName" = "Voer de naam van de ontvanger in.";
+"receiverName2" = "Voer de naam van de contactpersoon in op de afleverlocatie.";
+"phoneNumber" = "Voer een telefoonnummer in.";
+"phoneNumber2" = "Voer het telefoonnummer van de contactpersoon in op de afhaallocatie.";
+"senderName" = "Voer de naam van de afzender in.";
+"senderName2" = "Voer de naam van de contactpersoon in op de afhaallocatie.";
+"additionalInformation" = "Voer aanvullende informatie in.";
+"Your_ride_has_been_accepted_and_its_pending_from_approval." = "Uw rit is geaccepteerd en is in afwachting van goedkeuring.";
+"pickupAtLocation" = "Voer de ophaallocatie in.";
+"dropAtLocation" = "Geef drop op locatie op";
+
+
+"SideMenu.Book_a_taxi" = "Boek een taxi";
+"SideMenu.New_Services_Coming_soon" = "Nieuwe services - binnenkort beschikbaar";
+"SideMenu.School_Rides" = "Schoolritten";
+"SideMenu.Home" = "Home";
+"SideMenu.My_Bookings" = "Mijn boekingen";
+"SideMenu.Payment_Methods" = "Betaalmethoden";
+"SideMenu.Travel_Packages" = "Reispakketten";
+"SideMenu.Emergency_Contacts" = "Contacten voor noodgevallen";
+"SideMenu.Notifications" = "Meldingen";
+"SideMenu.Settings" = "Instellingen";
+"SideMenu.Help" = "Help";
+"SideMenu.Payment_History" = "Betalingsgeschiedenis";
+"SideMenu.Saved_Cards" = "Registratie van kaarten";
+"SideMenu.Delivery_History" = "Bezorggeschiedenis";
+"SideMenu.Promotions" = "Promoties";
+"SideMenu.Contact_us" = "Neem contact met ons op";
+"SideMenu.Sign_out" = "Afmelden";
+"SideMenu.Book_service" = "Boek een service";
+"SideMenu.Edit_Profile" = "Profiel bewerken";
+"SideMenu.Get_Discount" = "Delen met vrienden";
+"SideMenu.Deliver_with_us" = "Bezorg bij ons!";
+"SideMenu.Wallet" = "Portemonnee";
+"SideMenu.Refer_Earn" = "Verwijs en verdien";
+
+
+"ServiceView.Where_you_want_to_deliver" = "Waar u wilt bezorgen";
+
+
+"Home.Recent_Locations" = "Recente locaties";
+"Home.Book_a_delivery" = "Boek een levering";
+"Home.Book_a_service" = "Boek een service";
+"Home.Switch_Rider" = "Ruiter wisselen";
+"Home.For_me" = "Voor mij";
+"Home.Add_Home_Address" = "Voeg thuisadres toe";
+"Home.Add_Work_Address" = "Werkadres toevoegen";
+"Home.For_Friend" = "Voor vriend";
+
+"Emmergency.Emmergency_Contact" = "Contact voor noodgevallen";
+"Wallet.Please_maintain_minimum" = "Houd een minimum saldo aan van";
+"Wallet.Receive_money" = "in de portemonnee om het boekingsverzoek te ontvangen.";
+
+"Wallet.AddAmountLess" = "Bedrag moet hoger zijn dan 0.";
+
+"AddTrustedContact" = "Vertrouwde contactpersoon toevoegen";
+
+
+"Setting.Push" = "Push-meldingen";
+"Setting.Term" = "Termes en voorwaarden";
+"Setting.ChangeLanguage" = "Taal wijzigen";
+"Setting.Privacy" = "Privacy";
+"Setting.About" = "Over ons";
+
+
+"Booking.Past" = "Verleden";
+"Booking.Upcoming" = "Aankomend";
+"Booking.MyBooking" = "Mijn boekingen";
+
+"Prefer not to say"  = "Zeg ik liever niet" ;
+
+"Order Now" = "Bestel nu";
+"HalfWayStop" = "Halverwege stoppen";

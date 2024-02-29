@@ -1,0 +1,1082 @@
+/* 
+  Localizable.strings
+  Clikat Supplier
+
+  Created by Night Reaper on 08/04/16.
+  Copyright © 2016 Gagan. All rights reserved.
+*/
+
+
+"AppName" = "Bletani"; //"Thena"
+
+"SIGN_IN_WITH_APPLE" = "Sign in with Apple";
+
+//Supplier Related
+
+"Service Charge" = "サービス料" ;
+"Min. Service Time" = "私の。 サービス時間" ;
+"Visiting Charges" = "訪問料" ;
+"Min. Delivery Time" = "最小 納期" ;
+"Opens at " = "で開く " ;
+"PasswordChangedSuccess" = "パスワードは正常に変更されました";
+"Essentials, delivered at your door steps" = "玄関先で届けられる必需品";
+"Health and medicine just a click away." = "クリックするだけで健康と医療。";
+"Distance is no longer a problem." = "距離はもはや問題ではありません。";
+
+//Order Flow
+"Please select an Address" = "住所を選択してください" ;
+"Credit/Debit card" = "クレジット/デビットカード" ;
+"Your Cart has no items.Please add items to cart to Proceed." = "カートには商品がありません。カートに商品を追加して続行してください。" ;
+"Landmark" = "ランドマーク" ;
+"Address Line First" = "最初の住所行" ;
+"Address Line Second" = "2番目の住所行" ;
+"Pincode" = "ピンコード";
+"Delivery Address" = "配送先住所" ;
+"Enter your details." = "詳細を入力してください。" ;
+"Delivery charges applicable accordingly" = "それに応じて適用される配送料" ;
+"Delivery charges" = "配送料" ;
+"Select Time and Date" = "日時を選択" ;
+"Please select a booking schedule and time" = "予約スケジュールと時間を選択してください";
+"Select booking time" = "予約時間を選択" ;
+"ReOrdering will clear you cart" = "再注文するとカートがクリアされます。 OKを押して続行します。";
+
+
+//Order Related
+
+"PENDING" = "保留中";
+"DELIVERED" = "お届け" ;
+"CONFIRMED" = "確認済み" ;
+"FEEDBACKGIVEN" = "与えられたフィードバック";
+"REJECTED" = "拒否されました" ;
+"SHIPPED" = "発送済み" ;
+"INPROCESS" = "インプロセス" ;
+"NEARBY" = "途中" ;
+"TRACKED" = "追跡" ;
+"CUSTOMER CANCELLED" = "キャンセル";
+"SCHEDULED" = "予定";
+
+"Order Details" = "注文詳細" ;
+"items" = "アイテム" ;
+
+"REORDER" = "並べ替え" ;
+"TRACK" = "追跡" ;
+"BOOKED" = "予約済み" ;
+"CANCEL ORDER" = "注文をキャンセルする" ;
+"CONFIRM ORDER" = "注文を確定" ;
+"CANCEL BOOKING" = "予約をキャンセル";
+"BOOK AGAIN" = "もう一度予約する" ;
+"CONFIRM BOOKING" = "予約の確認" ;
+"Booking Details" = "予約明細";
+"Booking History" =  "予約履歴";
+
+"Monthly" = "毎月" ;
+"Weekly" = "毎週" ;
+"Pickup" = "選び出す";
+
+
+
+
+//Login SignUp
+"Please enter your email address" = "メールアドレスを入力してください" ;
+"Please enter a valid email address" = "有効なメールアドレスを入力してください" ;
+"Please enter your password" = "パスワードを入力してください" ;
+"Password should be minimum 6 characters." = "パスワードは6文字以上にする必要があります。";
+"Session expired login to continue" = "現在のセッションが期限切れです\ n続行するにはログインしてください。";
+"OTP Sent" = "OTPが送信されました。";
+"Select picture" = "画像を選択";
+"Please select your profile picture" = "プロフィール写真を選択してください。";
+"Please enter your name" = "お名前を入力してください。";
+"Camera"  ="カメラ";
+"Photo Library" = "フォトライブラリー";
+
+
+
+// Side Menu Options
+"Home" = "ホーム" ;
+"Live support" = "ライブサポート" ;
+"Cart" = "カート" ;
+"Promotions" = "プロモーション" ;
+"Notifications" = "お知らせ" ;
+
+"My Account" = "マイアカウント" ;
+
+"My favorites" = "私のお気に入り";
+"Order history" = "注文履歴" ;
+"Track my order" = "注文を追跡" ;
+"Rate my order" = "注文を評価する" ;
+"Upcoming orders" = "今後の注文" ;
+"Loyality points" = "ロイヤルティポイント" ;
+"Share app" = "アプリを共有" ;
+"Share App" = "アプリを共有" ;
+"Settings" = "設定" ;
+"Guest" = "ゲスト" ;
+"Welcome" = "ようこそ" ;
+"Points" = "ポイント" ;
+
+
+// Home Screen Options
+"Grocery" = "食料品" ;
+"Laundry" = "ランドリー" ;
+"Household" = "家庭" ;
+"Flowers" = "フラワーズ" ;
+"Fitness" = "フィットネス" ;
+"Photography" = "写真撮影" ;
+"Baby sitter" = "ベビーシッター" ;
+"Cleaning" = "クリーニング" ;
+"Party" = "パーティー" ;
+"Beauty salon" = "ビューティーサロン" ;
+"Medicines" = "薬" ;
+"Water delivery" = "給水" ;
+"Packages" = "パッケージ" ;
+
+"Self pickup" = "セルフピックアップ";
+"Others" = "その他";
+"Orders" = "注文";
+
+"OK" = "OK";
+"Save" = "保存する" ;
+"Cancel" = "キャンセル" ;
+"Choose booking cycle" = "予約サイクルを選択" ;
+"reviews" = " レビュー" ;
+"USD" = "USD " ;
+"mins" = " 分" ;
+"Results for " = "の結果 ";
+"days" = "日々";
+"Hours" = "時間";
+
+"Daily Deals" = "日替わり";
+
+//Filter
+"Discoverability" = "発見可能性" ;
+"Delivery" = "配達" ;
+"Supplier Type" = "サプライヤータイプ" ;
+"Rating" = "評価" ;
+
+
+"1 Star" = "1 Star" ;
+"2 Star" = "2 Star" ;
+"3 Star" = "3 Star" ;
+"4 Star and above" = "4 Star and above";
+
+
+"Gold" = "ゴールド";
+"Silver" = "銀";
+"Platinum" = "白金";
+
+"Cash on delivery" = "代金引換";
+"Card" = "カード";
+"Both" = "両方とも";
+
+"Online" = "オンライン";
+"Busy" = "忙しい";
+"Closed" = "閉まっている";
+
+"Cancelled" = "キャンセル";
+
+
+//Settings
+"Change Password" = "パスワードを変更する" ;
+"Notifications Language" = "通知言語" ;
+"Manage Address" = "住所を管理" ;
+"Logout" = "ログアウト" ;
+"Select notification language" = "通知言語を選択";
+"English" = "English";
+"Arabic" = "Arabic";
+"Spanish" = "Spanish";
+//Loyalty Points
+
+"You haven't earned any loyalty points yet" = "まだロイヤルティポイントを獲得していません。";
+"Select produts from same supplier" = "同じサプライヤーの製品を選択してください";
+"No Remarks" = "備考なし";
+
+//Laundry Flow
+"When do you want the service" = "いつサービスが必要ですか？";
+"Pickup location" = "受け取り場所";
+"Choose location" = "場所を選択";
+"Select pickup date and time" = "集荷日時を選択";
+
+"Are you sure you want to delete this address" = "このアドレスを削除してもよろしいですか？";
+
+//Location Selection
+"Select Country" = "国を選択";
+"Select City" = "都市を選択";
+"Select Zone" = "ゾーンを選択";
+"Select Area" = "地域を選択";
+
+"Please select all fields above" = "上記のすべてのフィールドを選択してください。";
+"Please select a country" = "国を選択してください";
+"Please select a city" = "都市を選択してください";
+
+//Delivery Address Cell
+
+"Please fill all details" = "すべての詳細を記入してください";
+"Please enter valid Pincode" = "有効なPINコードを入力してください";
+
+//Change Password
+"Old Password" = "以前のパスワード";
+"New Password" = "新しいパスワード";
+"Confirm Password" = "パスワードを認証する";
+"New Password must not be same as old password" = "新しいパスワードは古いパスワードと同じであってはなりません";
+"Passwords do not match" = "パスワードが一致していません";
+"Forgot Password" = "パスワードをお忘れですか";
+"Password recovery has been sent to your email id" = "パスワードの回復がメールIDに送信されました";
+//Share text
+"The Leading Online Home Services In UAE" = "ベネズエラでの最初のフードデリバリーアプリケーション！ 彼らはすべてを持っています: https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+//Share text for yummy
+"ShareAppYummy"  = "あなたはこのアプリが人生をよりシンプルにするのを好むかもしれないと思った:  https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+//API Validation
+"Please check your internet connection" = "インターネット接続を確認してください。";
+
+//Sweet Alert
+"Cancel Order" = "注文をキャンセルする";
+"Cancel Booking" = "予約をキャンセル";
+"Success" = "成功";
+"Do you really want to cancel this order" = "この注文をキャンセルしてもよろしいですか？";
+"You have cancelled your order successfully" = "注文をキャンセルしました";
+"LogOut" = "ログアウト！";
+"Are you sure you want to logout" = "ログアウトしてもよろしいですか？";
+"You are successfully logged out" = "ログアウトしました";
+
+"Please enter valid country code followed by phone number" = "有効な国コードの後に電話番号を入力してください";
+
+"You can add only " = "追加できるのは";
+"Agent is not assigned to this order" = "エージェントはこの注文に割り当てられていません";
+//Delviery Screen
+"Delivery Speed" = "Delivery Speed";
+"Sorry… Your Order is Below Minimum Order Price." = "申し訳ありませんが、ご注文は最低注文価格を下回っています。";
+
+"Recommended" = "オススメ";
+"Offers" = "オファー";
+
+"Your order have been placed successfully" = "ご注文は正常に行われました。";
+"Order placed successfully" = "注文は正常に行われました";
+"Your order have been sheduled successfully" = "Yご注文は正常にスケジュールされました";
+"Booking placed successfully" = "予約が完了しました";
+
+"Are you sure" = "本気ですか？";
+"Changing the language will clear your cart." = "言語を変更すると、カートがクリアされます。 続行してもよろしいですか？";
+
+//Live Support
+"Typing" = "タイピング";
+"Offline" = "オフライン";
+
+"Email" = "Eメール";
+
+"Not rated yet" = "まだ評価されていません";
+"Search" = "探す";
+"Other" = "その他の";
+
+//MARK: - After sending localization file
+//TODO: - Localize
+"Issue wth OrderID" = "注文IDの問題";
+"Status" = "状態";
+"Loyalty Points Type" = "ポイントプログラムタイプ";
+"Payment Method" = "支払方法";
+"Terms and Conditions" = "利用規約";
+"About Us" = "私たちに関しては";
+"Sort" = "ソート";
+"Open" = "開いた";
+"Adding products from diffrent suppliers will clear your cart" = "さまざまなサプライヤーの製品を追加すると、カートがクリアされます。";
+"Min. Order Amount" = "最小 注文金額";
+"Min. Delviery Time" = "メイン。 納期";
+"HOME SERVICE" = "ホームサービス";
+"AT PLACE SERVICE" = "現場サービス";
+"Select service" = "サービスを選択";
+"Ladies Beauty Salon" = "レディースビューティーサロン";
+"City" = "市";
+"Area" = "範囲";
+"House No" = "ハウス番号";
+"Compare Products" = "製品の比較";
+"Somewhere Somehow Something Went Wrong" = "どこか、どういうわけか、何かが間違っていた";
+"Adding products from promotions will clear your cart" = "プロモーションから商品を追加すると、カートがクリアされます。";
+
+"Please enter your house no." = "住居番号を入力してください。";
+"Please enter your building name" = "建物名を入力してください";
+"Please select your location" = "場所を選択してください";
+"Please enter a landmark name" = "ランドマーク名を入力してください";
+"Please enter your city" = "市を入力してください";
+"Please enter your counrty" = "あなたの国を入力してください";
+
+"My Orders" = "私の注文";
+"Not Available" = " 利用不可 ";
+"Your Order will be confirmed during next supplier working hours/day." = "ご注文は、次のサプライヤーの作業時間/日中に確認されます。";
+
+"Changing the current area will clear you cart" = "現在のエリアを変更すると、カートがクリアされます。";
+"Change pick up time no suppliers are available for this pickup timing" = "集荷時間の変更この集荷タイミングで利用可能なサプライヤーはありません";
+"No supplier found" = "サプライヤーが見つかりません！";
+"My Addresses" = "私のアドレス";
+"Item Detail" = "アイテム詳細";
+"Scheduled Orders" = "予定された注文";
+
+"Sorry not enough points to redeem" = "ポイントを利用するにはポイントが足りません。";
+"Loading" = "読み込み中";
+"Looks like your order has been delivered Would you like to rate your order" = "ご注文の商品は配達されたようです。 注文を評価しますか？";
+"Rate Order" = "レート注文";
+"Quantity" = "数量： ";
+"Delivered on" = "に配信";
+"Pending Orders" = "保留中の注文";
+
+//MARK: - Chat Localization
+"ios.ZDCChat.end" = "End";
+"ios.ZDCChat.emailPlaceholder" = "Email address";
+"ios.ZDCChat.preChatForm.messagePlaceholder" = "Message";
+"ios.ZDCChat.upload.error.type" = "File type not permitted";
+"ios.ZDCChat.cantConnectTitle" = "Could not connect";
+"ios.ZDCChat.access.gallery" = "%@ needs access to your photos";
+"ios.ZDCChat.noAgentsTitle" = "No agents available";
+"ios.ZDCChat.backButton" = "Back";
+"ios.ZDCChat.preChatForm.required" = "Fields marked with * are required";
+"ios.ZDCChat.download.failedMessage" = "Failed to download. Tap to retry.";
+"ios.ZDCChat.preChatForm.invalidEmail" = "Please enter a valid email address";
+
+"ios.ZDCChat.noConnectionTitle" = "No connection";
+"ios.ZDCChat.sendOfflineMessageError.title" = "Could not send message";
+"ios.ZDCChat.rating.comment.title" = "Leave a comment";
+"ios.ZDCChat.imageViewer.saveButton" = "Save image";
+"ios.ZDCChat.reconnecting" = "Reconnecting...";
+"ios.ZDCChat.transcriptEmailAlert.emailPlaceholder" = "email@address.com";
+"ios.ZDCChat.cancelButton" = "Cancel";
+"ios.ZDCChat.access.howto" = "Enable this from the home screen, Settings > %@";
+"ios.ZDCChat.ok" = "OK";
+"ios.ZDCChat.no" = "No";
+"ios.ZDCChat.chatConnectionLost.title" = "Connection lost";
+
+"ios.ZDCChat.preChatForm.requiredTemplate" = "%@ *";
+"ios.ZDCChat.done" = "Done";
+"ios.ZDCChat.transcriptEmailAlert.message" = "Before you end this chat, would you like to email a transcript?";
+"ios.ZDCChat.upload.error.access" = "Error accessing file";
+"ios.ZDCChat.visitorQueue" = "Please wait for an agent. There are currently %@ visitor(s) waiting to be served.";
+"ios.ZDCChat.noConnectionMessage" = "No Internet connection. Please try again when connected";
+"ios.ZDCChat.preChatForm.namePlaceholder" = "Name";
+"ios.ZDCChat.access.camera" = "%@ needs access to your camera";
+"ios.ZDCChat.chatTextEntry.sendButton" = "Send";
+"ios.ZDCChat.retry" = "Retry";
+"ios.ZDCChat.chat.startingChatMessage" = "Starting chat...";
+
+"ios.ZDCChat.chatTextEntry.placeholderText" = "Message";
+"ios.ZDCChat.agentsOffline.message" = "There are no agents currently online.";
+"ios.ZDCChat.preChatForm.departmentPlaceholder" = "What can we help you with?";
+"ios.ZDCChat.agentLeft" = "%@ left the chat";
+"ios.ZDCChat.sendOfflineMessageError.message" = "Would you like to retry?";
+"ios.ZDCChat.unsentMessage" = "Failed to send. Tap to retry.";
+"ios.ZDCChat.preChatForm.phonePlaceholder" = "Phone number";
+"ios.ZDCChat.noAgentsMessage" = "Sorry, there are no agents available to chat. Please try again later or leave us a message.";
+"ios.ZDCChat.timeoutMessage" = "We've not heard from you for a while so this chat session has been closed. Please start a new chat if you still have questions.";
+"ios.ZDCChat.transcriptEmailAlert.sendButton" = "Send";
+"ios.ZDCChat.upload.source.camera" = "Take photo";
+
+"ios.ZDCChat.rating.commentButton" = "Leave a comment...";
+"ios.ZDCChat.network.connectionError" = "No connection";
+"ios.ZDCChat.cantConnectMessage" = "Sorry, we can't connect you right now. Please try again later.";
+"ios.ZDCChat.chatEndedTitle" = "End chat";
+"ios.ZDCChat.upload.error.size" = "File size too large";
+"ios.ZDCChat.preChatForm.invalidPhone" = "Please enter a valid phone number";
+"ios.ZDCChat.sendOfflineMessageError.sendButton" = "Send";
+"ios.ZDCChat.transcriptEmailAlert.title" = "Email a transcript";
+"ios.ZDCChat.endButton" = "End chat";
+"ios.ZDCChat.chatEndedMessage" = "Are you sure you would like to end this chat?";
+"ios.ZDCChat.offlineMessageFailed.message" = "Unable to send message.";
+
+"ios.ZDCChat.rating.comment.placeholder" = "Leave a comment";
+"ios.ZDCChat.agentJoined" = "%@ joined the chat";
+"ios.ZDCChat.noAgentsButton" = "Leave a message";
+"ios.ZDCChat.messageButton" = "Message";
+"ios.ZDCChat.title" = "Chat";
+"ios.ZDCChat.nextButton" = "Next";
+"ios.ZDCChat.cancel" = "Cancel";
+"ios.ZDCChat.accountOffline.message" = "There are currently no agents online. Would you like to send a message?";
+"ios.ZDCChat.upload.source.gallery" = "Photo library";
+"ios.ZDCChat.chatConnectionLost.message" = "We have been unable to reconnect. Do you wish to continue trying?";
+"ios.ZDCChat.rating.title" = "Rate this chat";
+
+"ios.ZDCChat.rating.editButton" = "Edit comment...";
+"ios.ZDCChat.yes" = "Yes";
+"ios.ZDCChat.transcriptEmailAlert.dontSendButton" = "Don't send";
+
+//MARK: - Payfort
+"internetConnectionMessage" = "No connection, please check the internet connection";
+"general_error" = "Sorry, something went wrong please try again!";
+"titleMessage" = "Cancel this payment?";
+"InvaildCard" = "Invalid card number";
+"noBtn" = "NO";
+"doneBtn" = "Done";
+"okBtn" = "Ok";
+"InvaildCardNumber" = "Credit Card number must consist of 16 digits.";
+"PayBtn" = "Pay";
+"Init_conn" = "Init a secure connection...";
+"YourReceiptLbl" = "Your Receipt";
+"pf_cancel_required_field" = "Required field,cannot be left empty";
+"titleviewLbl" = "Credit Card";
+"alertTitle" = "Alert";
+"ExpDateLbl" = "EXPIRY DATE";
+"pf_errors_card_number_mismatch_po" = "The entered credit card type does not match the selected payment option.";
+"CardNamePl" = "CARDHOLDER NAME";
+"PAST_DATE_MSG" = "the date in the past";
+"CardNumberPl" = "CARD NUMBER";
+"monthyearLbl" = "Month & Year";
+"CVCtxt" = "CVV";
+"saveCarLbl" = "SAVE THIS CARD";
+"TechnicalIssue" = "technical problem";
+"yesBtn" = "YES";
+"pf_resp_page_great" = "Great";
+"pf_resp_page_failed" = "Failed";
+"InvalidExp" = "Invalid Expiry Date";
+"InvalidCVV" = "Invalid CVV";
+
+//MARK: - New Localization
+
+"Expected Delivery On" = "Expected Delivery On";
+
+"By signing up you agree to the " = "By signing up you agree to the ";
+"Privacy Policy" = "個人情報保護方針";
+"Terms and conditionsSignUp" = "Terms and conditions.";
+"and" = " and ";
+"I would like to recommend using" = "I would like to recommend using";
+"via Clikat" = "via Sneni";
+"Warning" = "Warning";
+"Please select dates to schedule." = "Please select dates to schedule.";
+"Bronze" = "Bronze";
+"Notification Language Changed Successfully" = "Notification Language Changed Successfully";
+"Order Confirmed Successfully" = "Order Confirmed Successfully";
+"Delivery on" = "Delivery on";
+"No Product Found!" = "No Product Found!";
+"Have you Forgot Completing Your Last Shopping Cart?" = "Have you Forgot Completing Your Last Shopping Cart?";
+"Supplier Rated Successfully" = "Supplier Rated Successfully";
+"Search for product" = "Search for product";
+"Send" = "Send";
+"Sub Total" = "Sub Total";
+
+"Camera Unavailable" = "Camera Unavailable";
+"It looks like your privacy settings are preventing us from accessing your camera." = "It looks like your privacy settings are preventing us from accessing your camera.";
+"Location Unavailable" = "Location Unavailable";
+"Please check to see if you have enabled location services." = "Please check to see if you have enabled location services.";
+"Customizable" = "Customizable";
+"Place Booking" = "Place Booking";
+
+"Completed Bookings" = "Completed Bookings";
+
+
+"New" = "New";
+"Live Tracking" = "Live Tracking";
+"Use current location" = "Use current location";
+"Popular Restaurants" = "Popular Restaurants";
+"Supplier" = "Supplier";
+"Suppliers" = "Suppliers";
+
+"SHARE_SHEET_EDIT_ACTIONS_BUTTON_TITLE" = "Edit Actions";
+"SHARE_SHEET_EDIT_SECTION_TITLE_FAVORITES" = "Favourites";
+"SHARE_SHEET_EDIT_SECTION_TITLE_OTHER" = "Others";
+"Shipping Status" = "Shipping Status";
+"Awaiting Shipment" = "Awaiting Shipment";
+"Shipped" = "Shipped";
+"On hold" = "On hold";
+
+"No file added!" = "No file added!";
+"Please select option" = "Please select your option";
+"customisable" = "customisable";
+"PROCEED" = "PROCEED";
+"Review" = "Review";
+"Reviews" = "Reviews";
+
+
+"Change Language" = "言語を変更";
+
+//MARK:-   Etokens Module
+
+"etoken.eToken" = "E-Token";
+"etoken.orderOutForDelivery" = "Your order has been out for delivery.";
+"eToken.orderConfirmed" = "Your order has been confirmed for delivery.";
+"eToken.orderWaitingConfirmation" = "One order is waiting for your approval in upcoming bookings.";
+"etoken.orderTimeOut" = "One order is waiting for your approval in upcoming bookings.";
+"eToken.returnBottleTitle" = "Do you have (Brand name) bottles with you?";
+"eToken.onlinePayment" = "Online payment not available yet.";
+"eToken.tokenPurchasedSuccessfully" = "Token purchased successfully.";
+"eToken.selectAddress" = "Please select address.";
+"eToken.timeOut" = "Timeout";
+"eToken.approvalPending" = "Approval Pending";
+"eToken.rejected" = "Rejected";
+"eToken.trackingNotAvailable" = "Tracking not available yet. Please wait.";
+"alet.enterDetails" = "Please enter order details.";
+
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "Timeout";
+"etoken.ApprovalPending" = "Approval Pending";
+"etoken.Rejected" = "Rejected";
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+
+
+"delivery_location" = "Delivery location";
+
+
+
+// ======== ride =======
+"LanguageName.English" = "English";
+"LanguageName.Arabic" = "عربى";
+"LanguageName.Urdu" = "اردو";
+"LanguageName.Hindi" = "हिंदी";
+"LanguageName.Chinese" = "中文";
+"LanguageName.Spanish" = "Spanish";
+"LanguageName.French" = "French";
+"LanguageName.Dutch" = "Dutch";
+"LanguageName.Italian" = "Italian";
+"LanguageName.Japanese" = "Japanese";
+"LanguageName.German" = "German";
+
+
+"Alert.VersionUpdateText" = "アプリの最新バージョンを更新する必要があります.";
+"Validation.InternetNotWorking" = "インターネット接続を有効にする必要があります.";
+"Validation.TermsConditions" = "利用規約を選択してください.";
+"Validation.PhoneNumberMissed" = "電話番号を入力してください.";
+"Validation.PhoneNumberLength" = "有効な電話番号を入力してください.";
+"Validation.OTPValidation" = "OTPを入力してください.";
+"Validation.UserName" = "氏名を入力してください.";
+"Validation.Alert" = "警告！";
+"Validation.Alert2" = "確認";
+
+"Validation.Success" = "成功";
+
+"IntroductionVC.TitleFirst" = "貨物の配達はわずか1タップです";
+"IntroductionVC.TitleDescription" = "玄関先で無料で配送。";
+
+//LandingScreen Strings
+
+"LandingVC.MobileNumber" = "携帯番号を入力してください";
+"LandingVC.AccountAgreement" = "アカウントを作成することに同意します";
+"LandingVC.Terms&Conditions" = "規約と条件";
+"LandingVC.OtpWillBeSent" = "確認のため、入力した携帯電話番号にOTPが送信されます.";
+"LandingVC.Proceed" = "続行";
+
+//OTP Screen Strings
+"OTPVC.OTPText" = "受信したOTPを入力してください";
+"OTPVC.EditNumber" = "この番号を編集";
+"OTPVC.ResendOTP" = "OTPを再送信";
+"OTPVC.VerificationCode" = "検証コード";
+"OTPVC.DontReceiveCode" = "コードを受け取りませんか？";
+
+
+
+
+//Enter Name Strings
+"UserProfileVC.FullNamePlaceHolder" = "フルネーム";
+"UserProfileVC.NameText" = "おい、名前は？";
+"UserProfileVC.ReferalCode" = "紹介コード";
+"UserProfileVC.Submit" = "参加する";
+"UserProfileVC.JustSomeMore" = "記入するいくつかのより多くの情報:)
+参加する";
+
+
+//Services names
+
+"Service.Gas" = "Gas";
+"Service.DrinkingWater" = "Drinking Water";
+"Service.WaterTanker" = "Water Tanker";
+"Service.Freight" = "Trucks";
+"Service.Tow" = "Breakdown Recovery";
+"Service.HeavyMachine" = "Heavy Machine";
+
+//Side Menu Strings
+"LeftMenuOption.Bookings" = "ご予約";
+"LeftMenuOption.Support" = "他のサービスs";
+"LeftMenuOption.Promotions" = "プロモーション";
+"LeftMenuOption.Payments" = "お支払い";
+"LeftMenuOption.Referral" = "照会";
+"LeftMenuOption.EmergencyContacts" = "緊急連絡先";
+"LeftMenuOption.Settings" = "設定";
+"LeftMenuOption.ContactUs" = "お問い合わせ";
+"LeftMenuOption.Signout" = "サインアウト";
+
+//Navigation Bar Strings
+"NavigationButton.Select" = "選択する";
+"NavigationButton.Back" = "バック";
+"NavigationTitle.Location" = "ロケーション";
+"NavigationTitle.Location" = "ロケーション";
+
+//Order Strings
+"Order.DropOffLocation" = "降車場所を入力してください";
+"Order.DetailEnterTitle" = "注文の詳細を入力してください";
+"Order.DetailValidation" = "注文の詳細を入力してください.";
+"Order.SelectBrand" = "ブランドを選択";
+"Order.SelectCapacity" = "容量を選択";
+"Order.SelectQuantity" = "量を選んでください";
+"Order.Next" = "次";
+
+"Order.Total" = "合計";
+"Order.Cash" = "現金払い";
+"Order.CashOnDelivery" = "代金引換";
+"Order.Card" = "カード";
+"Order.EToken" = "E-Token";
+"Order.Promo" = "プロモ";
+"Order.Book" = "本";
+"Order.ProcessingRequestTitle" = "リクエストを処理しています";
+"Order.Cancel" = "キャンセル";
+"Order.TimeLeftMins" = "Mins"; //Multiple
+"Order.TimeLeftMin" = "Min" ;   //Single
+
+
+"Order.CancellingReasonValidation" = "キャンセル理由を入力してください.";
+"Order.PlaceHolderCancelReason" = "キャンセルの理由を書いてください.";
+"Order.Invoice" = "請求書" ;
+"Order.BaseFair" = "基本運賃" ;
+"Order.Tax" = "税金" ;
+"Order.OMR" = "Rs" ; // Currency
+
+"Order.Finish" = "仕上げ" ;
+
+"Order.Rate" = "割合" ;
+"Order.VerySad" = "とても悲しい" ;
+"Order.Sad" = "悲しい";
+"Order.Good" = "良い";
+"Order.Happy" = "Happy";
+"Order.RatingTextPalceholder" = "ここにコメントを追加…";
+"Order.SubmitRating" = "評価を送信";
+"Order.TokenLeft" = "token left";
+"Order.Token" = "token";
+
+
+"BuyToken.PopUpTitle" = "Do you want to buy this e-token ?";
+"BuyToken.Purchased" = "Purchased";
+"BuyToken.OffersNearYou" = "Offers available near you";
+
+"Bookings.Past" = "過去";
+"Bookings.Upcoming" = "今後の";
+
+
+"ContactUs.ReachByPhone" = "電話でご連絡ください";
+"ContactUs.ReachByEmail" = "メールでご連絡ください";
+"ContactUs.PlaceHolder" = "ここに直接メッセージを書いてください…";
+"ContactUS.ValidationMessage" = "最初に何か書いてください";
+
+"Referral.Text" = "Like Buraq 24?";
+"Referral.ShareWithFriends" = "友達と共有する";
+
+
+
+
+"PopUpScheduledBooked.ConfirmationTitle" = "おめでとう";
+"PopUpScheduledBooked.ConfirmationMessage" = "サービスが正常に予約されました.";
+
+"Button.Title.OK" = "OK";
+
+"OrderStatus.Searching" = "探す";
+
+"OrderStatus.Ongoing" = "進行中";
+
+"OrderStatus.Confirmed" = "確認済み";
+"OrderStatus.Reached" = "到達した";
+
+"OrderStatus.CustomerCancel" = "顧客はキャンセルしました";
+
+"OrderStatus.SerComplete" = "完了しました";
+
+"OrderStatus.SerReject" = "拒否されました";
+
+"OrderStatus.DriverCancel" = "ドライバーがキャンセルされました";
+
+"OrderStatus.Scheduled" = "予定";
+
+
+"OrderUI.Status.Cancelled" = "キャンセル";
+"OrderUI.Status.Scheduled" = "予定";
+"OrderUI.Status.Completed" = "完成した";
+
+"DriverStatus.AcceptedRequest" = "ドライバーがあなたのリクエストを受け入れました。";
+"DriverStatus.YourOrderOnWay" = "運転手がいます.";
+"DriverStatus.AnotherOrderOnWay" = "ドライバーは近くの注文を完了しています.";
+"Order.Scheduling.Alert" = "申し訳ありませんが、予約は1時間後にしかスケジュールできません.";
+
+"Button.Title.BookNow" = "今予約する";
+"Button.Title.Schedule" = "スケジュール";
+
+
+"Ok" = "OK";
+
+"app_name" = "Buraq24-Customer";
+"terms_and_conditions" = "規約と条件";
+"by_creating_account_you_agree" = "アカウントを作成することに同意します";
+"enter_you_mobile_no" = "携帯番号を入力してください。";
+"slogan" = "ニーズを数秒で接続";
+"resend_otp" = "OTPを再送信";
+"edit_this_number" = "この番号を編集";
+"whats_your_name" = "おい！あなたの名前を教えて";
+"full_name" = "フルネーム";
+"title_activity_maps" = "地図";
+"title_activity_main2" = "Main2Activity";
+"navigation_drawer_open" = "ナビゲーションドロワーを開く";
+"navigation_drawer_close" = "ナビゲーションドロワーを閉じる";
+"nav_header_title" = "ユーザー名";
+"nav_header_subtitle" = "評価";
+"nav_header_desc" = "ナビゲーションヘッダー";
+"action_settings" = "設定";
+"bookings" = "ご予約";
+"promotions" = "プロモーション";
+"payments" = "お支払い";
+"referral" = "照会";
+"emergency_contacts" = "緊急連絡先";
+"settings" = "設定";
+"contact_us" = "お問い合わせ";
+"sign_out" = "サインアウト";
+"back" = "バック";
+"location" = "ロケーション";
+"enter_drop_off_location" = "降車場所を入力してください";
+"enter_pickup_location" = "集荷場所を入力してください";
+"enter_details_of_order" = "注文の詳細を入力してください";
+"select_branch" = "ブランドを選択";
+"select_capacity" = "容量を選択";
+"select_quantity" = "量を選んでください";
+"next" = "次";
+"total" = "合計";
+"cash" = "現金払い";
+"promo" = "プロモーションコード";
+"book" = "本";
+"we_are_requesting_your_request" = "リクエストを処理しています";
+"cancel" = "キャンセル";
+"invoice" = "請求書";
+"base_fair" = "基本運賃";
+"tax" = "税金";
+"rate" = "割合";
+"add_comments_here" = "ここにコメントを追加…";
+"submit" = "参加する";
+"phone_validation_message" = "有効な電話番号を入力して下さい";
+"otp_validation_message" = "有効なOTPを入力してください.";
+"name_empty_validation_message" = "続行するには名前を入力してください。";
+"password_empty_validation_message" = "続行するにはパスワードを入力してください。";
+"PromoCode_empty_validation_message" = "続行するにはプロモーションコードを入力してください。";
+"request_cancelled_successfully" = "リクエストはキャンセルされました。";
+"no_route_exits" = "ルートがありません";
+"type_reason_for_cancellation" = "キャンセルの理由を入力してください";
+"write_your_msg_here" = "ここにメッセージを書いてください…";
+"cancellation_reason_validation_text" = "キャンセル理由を入力してください。";
+"currency" = "CAD";
+"pickup_address_validation_message" = "有効な集荷先住所を選択してください。";
+"dropoff_address_validation_message" = "有効なドロップオフアドレスを選択してください。"; //Need
+
+"finish" = "仕上げ";
+"gas" = "Gas";
+"water_tanker" = "Water Tanker";
+"drinking_water" = "Drinking Water";
+"tow" = "故障回復";
+"freight" = "Trucks";
+"currently_no_driver_available" = "現在、利用可能なドライバーはありません。";
+"ongoing_request_cancelled_by_driver" = "進行中のリクエストはドライバーによってキャンセルされました。";
+"cash_on_delivery" = "代金引換";
+"card" = "カード";
+"default_selecting_token_error" = "You cannot select E-Tokens as a default payment method.";
+"e_tokens" = "E-Tokens";
+"e_token" = "E-Token";
+"left" = "left";
+"purchased" = "Purchased";
+"offers_available_near_you" = "Offers available near you";
+"available" = "available";
+"no_offers_available" = "No offers available";
+"buy_etoken" = "Buy E-Token";
+"buy_etoken_confirmation" = "Are you sure you want to buy this e-token?";
+"yes" = "Yes";
+"no" = "No";
+"view_e_tokens" = "View E-Tokens";
+"select" = "選択する";
+"select_e_token" = "Select E-Tokens";
+"excellent" = "優れた";
+"very_good" = "とても良い";
+"good" = "良い";
+"sad" = "悲しい";
+"very_sad" = "とても悲しい";
+"rating_validation_msg" = "続けるには評価を選択してください。";
+"validations_success" = "検証成功";
+"booking_details" = "予約明細";
+"drop_off_location" = "降車場所";
+"delivery_location" = "配達場所";
+"no_bookings" = "予約なし";
+"like_buraq24_n_nshare_with_the_friends" = "Like Buraq24?\nShare with the friends.";
+"share" = "共有";
+"contact_us_msg_hint" = "ここに直接メッセージを書いてください…";
+"no_email_app_installed" = "There are no email clients installed.";
+"send_mail_to_buraq" = "Send mail to Buraq24";
+"please_enter_message" = "メッセージを入力してください";
+"we_will_reach_soon" = "メッセージをいただきました。すぐにご連絡いたします。";
+"logout_confirmation" = "ログアウトしてもよろしいですか？";
+"package_distance_confirmation" = "Your journey distance is more than Package distance. You may charge extra for this.\nWould you like to procced?";
+"cancel_ride_confirmation" = "乗車をキャンセルすると、料金がかかる場合があります。 続行してもよろしいですか？";
+"no_driver" = "現在、利用可能なドライバーはありません。";
+"transferRequest" = "予約を別の運転手に転送しています.";
+"coming_soon" = "近日公開";
+"buraq_24" = "Buraq 24";
+"error" = "エラー";
+"api_error_msg" = "サーバーでエラーが発生しました。もう一度やり直してください。";
+"retry" = "リトライ";
+"otp_resent_successfully" = "OTPは正常に再送信されます";
+"change_language" = "言語を変更";
+"enter_otp_on" = "確認コードが携帯電話に送信されます";
+"reach_us_via_phone" = "電話でご連絡ください";
+"reach_us_via_mail" = "メールでご連絡ください";
+"no_contacts" = "連絡先なし";
+
+"english" = "英語";
+"spanish" = "Spanish";
+"hindi" = "हिंदी";
+"urdu" = "اردو";
+"chinese" = "中文";
+"arabic" = "العربية";
+
+"schedule" = "スケジュールを確認";
+"booking" = "予約を確認";
+"book_now" = "今予約する";
+"schedule_time_selection_validation_msg" = "申し訳ありませんが、予約は1時間後にしかスケジュールできません。";
+"congratulations" = "おめでとう";
+"service_booked_successfully" = "サービスが正常に予約されました";
+"order_cancelled" = "ご注文はキャンセルされました";
+"save" = "保存する";
+"profile_updated_successfully" = "プロファイルが正常に更新されました！";
+"permission_required_to_select_image" = "画像を選択するために必要な許可";
+"dialog_camera" = "カメラ";
+"dialog_gallery" = "ギャラリー";
+"dialog_select_your_choice" = "選択する";
+"push_notifications" = "プッシュ通知";
+"privacy" = "プライバシー";
+"about_us" = "私たちに関しては";
+"edit_profile" = "プロファイル編集";
+"completed" = "完成した";
+"breakdown" = "壊す";
+"cancelled" = "キャンセル";
+"Scheduled" = "予定";
+"select_location" = "場所を選択";
+"select_vehicle_type" = "車種を選択";
+"select_sub_model" = "サブモデルを選択";
+"enter_approx_weight" = "Kgにおよその重量を入力してください...";
+"enter_additional_information" = "追加情報を入力...";
+"upload_images" = "画像をアップロードする";
+"view_deals" = "view deals available via companies";
+"driver_accepted_request" = "ドライバーがあなたのリクエストを受け入れました。";
+"driver_is_on_the_way" = "運転手がいます";
+"truck_driver_is_on_the_way" = "Your order is on the way for delivery";
+"driver_is_on_the_way_DriveStarted" = "ライドが開始されました。";
+"driver_is_reached" = "ドライバーが到着しました。";
+"driver_completing_nearby_order" = "ドライバーは近くの注文を完了しています";
+"version" = "バージョン：";
+"support" = "他のサービス";
+"no_services" = "利用可能なサービスはありません";
+"support_msg" = "サポートできる問題を選択してください";
+"i_agree_to_the" = "に同意します ";
+"terms_and_conditions_validation_message" = "利用規約に同意してください";
+"terms_and_conditions_caps" = "規約と条件";
+"press_back_again_to_exit" = "もう一度押すと終了します。";
+
+"sms_permission" = "Grant read sms permission to auto fetch the OTP.";
+"grant" = "付与";
+"default_category_name" = "サービス";
+"started_at" = "開始";
+"completed_at" = "完了";
+"past" = "過去";
+"uncoming" = "今後の";
+
+"session_expired_please_login_again" = "セッションは期限切れです。もう一度ログインしてください";
+"normal" = "正常";
+"satellite" = "衛星";
+"max_images_validation_msg" = "最大2つの画像を追加できます";
+
+"work_in_progress" = "サービスの更新中のため、予約は完了していません。 カスタマーサポートにお問い合わせください。";
+"email_not_configured" = "電話でメールが設定されていません";
+
+//MARK:-   Etokens Module
+
+"etoken.eToken" = "E-Token";
+"etoken.orderOutForDelivery" = "ご注文は配送中です.";
+"eToken.orderConfirmed" = "ご注文の配送が確認されました.";
+"eToken.orderWaitingConfirmation" = "次の予約で1つの注文が承認を待っています.";
+"etoken.orderTimeOut" = "次の予約で1つの注文が承認を待っています.";
+"eToken.returnBottleTitle" = "Do you have (Brand name) bottles with you?";
+"eToken.onlinePayment" = "Online payment not available yet.";
+"eToken.tokenPurchasedSuccessfully" = "Token purchased successfully.";
+"eToken.selectAddress" = "Please select address.";
+"eToken.timeOut" = "Timeout";
+"eToken.approvalPending" = "Approval Pending";
+"eToken.rejected" = "Rejected";
+"eToken.trackingNotAvailable" = "Tracking not available yet. Please wait.";
+"alet.enterDetails" = "Please enter order details.";
+
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "タイムアウト";
+"etoken.ApprovalPending" = "承認待ち";
+"etoken.Rejected" = "拒否されました";
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+
+//New By trava
+"Please enter first name" = "名を入力してください";
+"Please enter last name" = "姓を入力してください";
+"Please enter address" = "住所を入力してください";
+"NoOngoigRide" = "現在進行中の配車はありません";
+
+"Enter your Address" = "住所を入力してください";
+"Hi " = "こんにちは ";
+"Work" = "作業";
+"My Bookings" = "私の予約";
+"Payment method" = "支払方法";
+"Travel packages" = "旅行パッケージ";
+"Notifications" = "お知らせ";
+"Emergency contacts" = "緊急連絡先";
+"Settings" = "設定";
+"Help" = "助けて";
+"Seating capacity" = "座席定員 ：";
+
+"View Package" = "パッケージを見る";
+"Packages details" = "パッケージの詳細";
+"Valid for" = "に有効";
+"hours" = "時間";
+"days" = "日々";
+"months" = "か月";
+"hour" = "時間";
+"day" = "日";
+"month" = "月";
+
+"Pay" = "支払う ";
+"Outstanding from previous trip" = " 前の旅行から傑出した";
+"credit" = "クレジット";
+"Are you sure you want to send Panic Request to your nearby?" = "近くにパニックリクエストを送信してもよろしいですか？";
+"Please wait. we'll contact you shortly." = "お待ちください。 すぐにご連絡いたします。";
+"long_distance_confirmation" = "ドライバーが長距離ルートを選択しています。 これには追加料金がかかります。 続行してもよろしいですか？";
+"Ongoing_AddStop_Confirmation" = "確認するために、現在の乗り物にストップを追加している場合、それらを削除することはできません。 続行してもよろしいですか？";
+"Add Home Address" = "自宅の住所を追加";
+"Add Work Address" = "勤務先住所を追加";
+"remove_card_Confirmation" = "カードを削除してもよろしいですか?";
+"Credit Card" = "クレジットカード";
+"can't_use_credit_point" =  "現金支払いにクレジットポイントを使用することはできません";
+
+"Cancel_Ride" = "ライドをキャンセル";
+"Cancel_Delivery" = "配送をキャンセル";
+
+"Ride_Share" = "相乗り";
+"Share_Parcel_Location" = "区画の場所を共有";
+"Delivery_In_Progress" = "配送中";
+"Enjoy_Your_Ride" = "あなたの乗り心地をお楽しみください";
+
+
+"login" = "ログインする";
+"signup" = "サインアップ";
+"withPhoneEmail" = "電話またはメールで";
+"Signupfor" = "申し込みます";
+"loginTo" = "にログイン";
+"haveNoAccount" = "アカウントを持っていないのですか？";
+"haveAlreadyAccount" = "すでにアカウントをお持ちですか？";
+"institution" = "機関";
+"signup_for" = "申し込みます";
+"institution_account" = "機関口座";
+"otp_text" = "にコードを送信しました";
+
+"CONTINUE_WITH_APPLE" = "CONTINUE WITH APPLE";
+"email" = "Email";
+"phone" = "Phone";
+
+
+
+"Validation.VerificationValidation" = "確認コードを入力してください.";
+"username_email_validation" = "ユーザー名またはメールアドレスを入力してください.";
+"password_empty_validation_message" = "パスワードを入力してください.";
+"confirm_password_empty_validation_message" = "確認パスワードを入力してください.";
+"password_confirmPassword_validation" = "パスワードと確認パスワードが一致する必要があります.";
+"password_length_validation_message" = "パスワードは6文字以上にしてください.";
+"institution_type_validation" = "機関タイプを選択してください.";
+"institution_name_validation" = "機関名を選択してください.";
+"institution_id_validation" = "機関ID番号を入力してください.";
+"empty_institutional_email_validation" = "機関のメールアドレスを入力してください.";
+"institutional_cred_Image_validation" = "画像を追加してください.";
+"materialType" = "材料タイプを入力してください.";
+"materialType2" = "受け取りたいアイテムを入力してください.";
+"pickupLevel" = "ピックアップレベルを選択してください.";
+"dropLevel" = "ドロップオフレベルを選択してください.";
+"approxWeight" = "約を入力してください 重量.";
+"approxWeight2" = "アイテムの重量を入力してください.";
+"receiverName" = "受信者名を入力してください.";
+"receiverName2" = "降車場所の担当者の名前を入力してください.";
+"phoneNumber" = "電話番号を入力してください.";
+"phoneNumber2" = "集荷場所の担当者の電話番号を入力してください.";
+"senderName" = "送信者名を入力してください.";
+"senderName2" = "集荷場所の担当者名を入力してください.";
+"additionalInformation" = "追加情報を入力してください。";
+"Your_ride_has_been_accepted_and_its_pending_from_approval." = "あなたの乗車は承認され、承認待ちです。";
+"pickupAtLocation" = "場所で集荷を入力してください。";
+"dropAtLocation" = "場所で集荷を入力してください。";
+
+
+"SideMenu.Book_a_taxi" =  "タクシーを予約する";
+"SideMenu.New_Services_Coming_soon" = "New Services - Coming soon";
+"SideMenu.School_Rides" = "School Rides";
+"SideMenu.Home" = "ホーム";
+"SideMenu.My_Bookings" = "私の予約";
+"SideMenu.Payment_Methods" = "お支払い方法";
+"SideMenu.Travel_Packages" = "旅行パッケージ";
+"SideMenu.Emergency_Contacts" = "緊急連絡先";
+"SideMenu.Notifications" = "お知らせ";
+"SideMenu.Settings" = "設定";
+"SideMenu.Help" = "助けて";
+"SideMenu.Payment_History" = "支払歴";
+"SideMenu.Saved_Cards" = "Cartes enregistrées";
+"SideMenu.Delivery_History" = "配送履歴";
+"SideMenu.Promotions" = "プロモーション";
+"SideMenu.Contact_us" = "お問い合わせ";
+"SideMenu.Sign_out" = "サインアウト";
+"SideMenu.Book_service" = "サービスを予約する";
+"SideMenu.Edit_Profile" = "プロファイル編集";
+"SideMenu.Get_Discount" = "友人たちと分ける";
+"SideMenu.Deliver_with_us" = "私たちと一緒に配達してください！";
+"SideMenu.Wallet" = "財布";
+"SideMenu.Refer_Earn" = "紹介して獲得";
+
+
+"ServiceView.Where_you_want_to_deliver" = "届けたいところ";
+
+
+"Home.Recent_Locations" = "最近の場所";
+"Home.Book_a_delivery" = "配達を予約する";
+"Home.Book_a_service" = "サービスを予約する";
+"Home.Switch_Rider" = "スイッチライダー";
+"Home.For_me" = "私のために";
+"Home.Add_Home_Address" = "自宅の住所を追加";
+"Home.Add_Work_Address" = "勤務先住所を追加";
+"Home.For_Friend" = "友達のために";
+
+"Emmergency.Emmergency_Contact" = "緊急連絡";
+"Wallet.Please_maintain_minimum" = "の最小バランスを維持してください";
+"Wallet.Receive_money" = "ウォレットで予約リクエストを受信します。";
+
+"Wallet.AddAmountLess" = "金額は0より大きい必要があります。";
+
+"AddTrustedContact" = "信頼できる連絡先を追加";
+
+
+"Setting.Push" = "プッシュ通知";
+"Setting.Term" = "利用規約";
+"Setting.ChangeLanguage" = "言語を変更";
+"Setting.Privacy" = "プライバシー";
+"Setting.About" = "私たちに関しては";
+
+
+"Booking.Past" = "過去";
+"Booking.Upcoming" = "今後の";
+"Booking.MyBooking" = "私の予約";
+
+
+"Prefer not to say"  = "どちらかというと言いたくない" ;
+
+"Order Now" = "今すぐ注文";
+"HalfWayStop" = "ハーフウェイストップ";

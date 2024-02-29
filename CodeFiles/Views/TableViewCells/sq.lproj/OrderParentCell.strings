@@ -1,0 +1,24 @@
+
+/* Class = "UILabel"; text = "NTL  .  NTL"; ObjectID = "NW1-po-glh"; */
+"NW1-po-glh.text" = "NTL  .  NTL";
+
+/* Class = "UILabel"; text = "Payment Pending"; ObjectID = "Qyy-N8-q0P"; */
+"Qyy-N8-q0P.text" = "Në pritje të pagesës";
+
+/* Class = "UILabel"; text = "Order No."; ObjectID = "T1q-S4-fQQ"; */
+"T1q-S4-fQQ.text" = "Porosia NR.";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "VzP-7n-84Z"; */
+"VzP-7n-84Z.text" = "NTL";
+
+/* Class = "UILabel"; text = "Placed on"; ObjectID = "a0w-Sn-1FN"; */
+"a0w-Sn-1FN.text" = "Vendosur në";
+
+/* Class = "UIButton"; normalTitle = "Pay Now"; ObjectID = "f7v-Xd-P7m"; */
+"f7v-Xd-P7m.normalTitle" = "Paguaj tani";
+
+/* Class = "UILabel"; text = "Delivered"; ObjectID = "hrk-X1-d41"; */
+"hrk-X1-d41.text" = "Dorëzuar";
+
+/* Class = "UILabel"; text = "Expected Delivery On"; ObjectID = "tBf-h8-jSm"; */
+"tBf-h8-jSm.text" = "Dorëzimi pritet në";

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PROXIMANOVA-REGULAR.OTF">
+            <string>ProximaNova-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="ProductCategoryCell" id="gTV-IL-0wX" customClass="ProductCategoryCell" customModule="Sneni" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="164" height="140"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="164" height="140"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="placeholder_image" translatesAutoresizingMaskIntoConstraints="NO" id="jBJ-sh-8Po">
+                        <rect key="frame" x="0.0" y="0.0" width="164" height="104"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidthW">
+                                <real key="value" value="0.5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                <color key="value" red="0.93725490199999995" green="0.93725490199999995" blue="0.95686274510000002" alpha="0.74547838184931503" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Casual Shoes" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumFontSize="12" translatesAutoresizingMaskIntoConstraints="NO" id="vUp-vn-8eS">
+                        <rect key="frame" x="8" y="112" width="148" height="20"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="20" id="kQk-rd-Ed9"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="16"/>
+                        <color key="textColor" red="0.28235294117647058" green="0.28235294117647058" blue="0.28235294117647058" alpha="1" colorSpace="calibratedRGB"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="jBJ-sh-8Po" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="5TA-Xp-uRx"/>
+                <constraint firstAttribute="bottom" secondItem="vUp-vn-8eS" secondAttribute="bottom" constant="8" id="BsD-Y3-tHB"/>
+                <constraint firstItem="vUp-vn-8eS" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="8" id="IWp-4v-6JI"/>
+                <constraint firstAttribute="trailing" secondItem="vUp-vn-8eS" secondAttribute="trailing" constant="8" id="b9d-YE-WiO"/>
+                <constraint firstAttribute="trailing" secondItem="jBJ-sh-8Po" secondAttribute="trailing" id="g3y-r7-dqQ"/>
+                <constraint firstItem="jBJ-sh-8Po" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="rWU-wo-ILm"/>
+                <constraint firstItem="vUp-vn-8eS" firstAttribute="top" secondItem="jBJ-sh-8Po" secondAttribute="bottom" constant="8" id="wuZ-30-hmu"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="164" height="104"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                    <real key="value" value="5"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="imgProduct" destination="jBJ-sh-8Po" id="mJy-oW-zmL"/>
+                <outlet property="lblProductName" destination="vUp-vn-8eS" id="wK4-it-vzR"/>
+            </connections>
+            <point key="canvasLocation" x="224" y="179.01049475262371"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="placeholder_image" width="152" height="104"/>
+    </resources>
+</document>

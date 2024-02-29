@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PROXIMANOVA-REGULAR.OTF">
+            <string>ProximaNova-Regular</string>
+        </array>
+        <array key="PROXIMANOVA-SEMIBOLD.OTF">
+            <string>ProximaNova-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SubCategoryListingCell" rowHeight="177" id="wMl-VY-lyb" customClass="SubCategoryListingCell" customModule="Sneni" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="366" height="177"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="wMl-VY-lyb" id="7KM-eJ-Rfq">
+                <rect key="frame" x="0.0" y="0.0" width="366" height="176.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="MM5-j1-cqf" customClass="ThemeView" customModule="Sneni" customModuleProvider="target">
+                        <rect key="frame" x="8" y="8" width="350" height="79"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" alignment="top" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="Wpc-Jt-kqr">
+                                <rect key="frame" x="8" y="2" width="334" height="75"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="1000" translatesAutoresizingMaskIntoConstraints="NO" id="um0-cF-djd">
+                                        <rect key="frame" x="0.0" y="0.0" width="100" height="75"/>
+                                        <color key="backgroundColor" red="0.94117647058823528" green="0.94117647058823528" blue="0.94117647058823528" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="75" id="4LT-nU-q28"/>
+                                            <constraint firstAttribute="width" constant="100" id="DWV-LW-UHA"/>
+                                            <constraint firstAttribute="width" secondItem="um0-cF-djd" secondAttribute="height" multiplier="4:3" id="fZh-Y5-oyJ"/>
+                                        </constraints>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidthW">
+                                                <real key="value" value="1"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                                <color key="value" white="0.0" alpha="0.10000000000000001" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                                                <real key="value" value="2"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                    </imageView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="aAe-Me-9x4">
+                                        <rect key="frame" x="112" y="0.0" width="222" height="36"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" verticalCompressionResistancePriority="751" text="xzfszfdsfsdfkj" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="UEi-xW-HV8" customClass="SKThemeLabel" customModule="Sneni" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="96.5" height="16"/>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="16"/>
+                                                <color key="textColor" red="0.31764705882352939" green="0.31764705882352939" blue="0.31764705882352939" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                                </userDefinedRuntimeAttributes>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="fgdsgdfgdf" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7Dh-nx-gCc" customClass="ThemeLabel" customModule="Sneni" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="24" width="57.5" height="12"/>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                                <color key="textColor" red="0.31764705882352939" green="0.31764705882352939" blue="0.31764705882352939" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                                </userDefinedRuntimeAttributes>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Wpc-Jt-kqr" firstAttribute="leading" secondItem="MM5-j1-cqf" secondAttribute="leading" constant="8" id="Btc-53-rEy"/>
+                            <constraint firstAttribute="trailing" secondItem="Wpc-Jt-kqr" secondAttribute="trailing" constant="8" id="F9y-BM-cJ7"/>
+                            <constraint firstAttribute="bottom" secondItem="Wpc-Jt-kqr" secondAttribute="bottom" constant="2" id="flq-ge-VdG"/>
+                            <constraint firstItem="Wpc-Jt-kqr" firstAttribute="top" secondItem="MM5-j1-cqf" secondAttribute="top" constant="2" id="tOv-ft-Vxi"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.10161790780141844" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                                <real key="value" value="8"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowRadius">
+                                <real key="value" value="4"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                                <size key="value" width="2" height="2"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="isTblCellView" value="YES"/>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="isCellView" value="YES"/>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="MM5-j1-cqf" firstAttribute="leading" secondItem="7KM-eJ-Rfq" secondAttribute="leading" constant="8" id="C3z-jZ-lv8"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="MM5-j1-cqf" secondAttribute="bottom" constant="8" id="KIN-cQ-u5Q"/>
+                    <constraint firstItem="MM5-j1-cqf" firstAttribute="top" secondItem="7KM-eJ-Rfq" secondAttribute="top" constant="8" id="sDh-FY-CzE"/>
+                    <constraint firstAttribute="trailing" secondItem="MM5-j1-cqf" secondAttribute="trailing" constant="8" id="uHz-Sj-Zmr"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.94117647058823528" green="0.94117647058823528" blue="0.94117647058823528" alpha="0.095744680851063829" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="imageSubCategory" destination="um0-cF-djd" id="4t9-HL-mcs"/>
+                <outlet property="lblDesc" destination="7Dh-nx-gCc" id="JWT-Oz-ZE4"/>
+                <outlet property="lblTitle" destination="UEi-xW-HV8" id="Off-jI-eJc"/>
+            </connections>
+            <point key="canvasLocation" x="-4.7999999999999998" y="58.920539730134934"/>
+        </tableViewCell>
+    </objects>
+</document>

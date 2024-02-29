@@ -1,0 +1,420 @@
+
+/* Class = "UITextField"; placeholder = "Address & Landmark"; ObjectID = "02y-cb-4Kp"; */
+"02y-cb-4Kp.placeholder" = "Adresa & Monumente";
+
+/* Class = "UILabel"; text = "Sub-Total"; ObjectID = "0oq-64-Lz9"; */
+"0oq-64-Lz9.text" = "Nëntotali";
+
+/* Class = "UILabel"; text = "Fill Card Details"; ObjectID = "0u1-fN-wuA"; */
+"0u1-fN-wuA.text" = "Vendos detajet e kartës";
+
+/* Class = "UILabel"; text = "My Cart"; ObjectID = "1F9-cK-Xqy"; */
+"1F9-cK-Xqy.text" = "Shporta ime";
+
+/* Class = "UILabel"; text = "0 Reviews"; ObjectID = "2DW-XS-d04"; */
+"2DW-XS-d04.text" = "0 Vlerësime";
+
+/* Class = "UILabel"; text = "Try searching for something else!"; ObjectID = "2Zg-g1-u3S"; */
+"2Zg-g1-u3S.text" = "Provoni të kërkoni për diçka tjetër!";
+
+/* Class = "UIButton"; normalTitle = "Order Now"; ObjectID = "2rU-Wl-BDe"; */
+"2rU-Wl-BDe.normalTitle" = "Porosit tani";
+
+/* Class = "UILabel"; text = "Delivery charges"; ObjectID = "391-mi-Ehg"; */
+"391-mi-Ehg.text" = "Tarifa e dërgesës";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "3N1-x2-xyN"; */
+"3N1-x2-xyN.text" = "Pagesa";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "49T-zU-zwc"; */
+"49T-zU-zwc.text" = "NTL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Ow-Un-8XO"; */
+"4Ow-Un-8XO.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "4Sq-hy-CNU"; */
+"4Sq-hy-CNU.text" = "Të preferuarat";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "4r7-m3-C3c"; */
+"4r7-m3-C3c.normalTitle" = "Shto";
+
+/* Class = "UILabel"; text = "Net total"; ObjectID = "5KS-pE-7lT"; */
+"5KS-pE-7lT.text" = "Totali neto";
+
+/* Class = "UIButton"; normalTitle = "CLEAR"; ObjectID = "5yn-yr-Son"; */
+"5yn-yr-Son.normalTitle" = "PASTRO";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "6ad-Bo-dsM"; */
+"6ad-Bo-dsM.text" = "NTL";
+
+/* Class = "UILabel"; text = "Promo Applied"; ObjectID = "6c6-2J-w93"; */
+"6c6-2J-w93.text" = "Kodi promo u aplikua";
+
+/* Class = "UILabel"; text = "YOUR CART IS EMPTY"; ObjectID = "77S-7Z-M3R"; */
+"77S-7Z-M3R.text" = "SHPORTA JUAJ ËSHTË BOSH";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "7Mq-xB-e4X"; */
+"7Mq-xB-e4X.placeholder" = "Çfarë po kërkoni?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "7ge-b2-9XK"; */
+"7ge-b2-9XK.normalTitle" = "Anullo";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "7iW-Lh-12I"; */
+"7iW-Lh-12I.text" = "NTL";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "8H5-f3-71h"; */
+"8H5-f3-71h.text" = "Promocionet";
+
+/* Class = "UILabel"; text = "Customise your Food"; ObjectID = "8Na-ZZ-Ybs"; */
+"8Na-ZZ-Ybs.text" = "Personalizoni ushqimin tuaj";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "8O9-5k-N9t"; */
+"8O9-5k-N9t.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "REDEEM"; ObjectID = "8ii-5X-96K"; */
+"8ii-5X-96K.normalTitle" = "SHPENZO";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8ka-x0-twy"; */
+"8ka-x0-twy.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Ez-x8-sSm"; */
+"9Ez-x8-sSm.text" = "Etiketa";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "AKW-JQ-LFL"; */
+"AKW-JQ-LFL.normalTitle" = "NDRYSHO";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Bfw-gc-1rM"; */
+"Bfw-gc-1rM.normalTitle" = "Mbrapa";
+
+/* Class = "UILabel"; text = "1/2"; ObjectID = "Bsn-13-TTq"; */
+"Bsn-13-TTq.text" = "1/2";
+
+/* Class = "UILabel"; text = "Payments"; ObjectID = "CZv-9Q-stB"; */
+"CZv-9Q-stB.text" = "Pagesat";
+
+/* Class = "UILabel"; text = "Service Date:"; ObjectID = "ClA-q4-Qsp"; */
+"ClA-q4-Qsp.text" = "Data e shërbimit:";
+
+/* Class = "UIButton"; normalTitle = "Redeem"; ObjectID = "DAo-9H-k5R"; */
+"DAo-9H-k5R.normalTitle" = "Shpenzo";
+
+/* Class = "UIButton"; selectedTitle = "Remove"; ObjectID = "DAo-9H-k5R"; */
+"DAo-9H-k5R.selectedTitle" = "Hiq";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "DM2-fe-B9U"; */
+"DM2-fe-B9U.text" = "NTL";
+
+/* Class = "UILabel"; text = "Filters"; ObjectID = "Dqu-ew-4r0"; */
+"Dqu-ew-4r0.text" = "Filtra";
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "EP9-iu-2VH"; */
+"EP9-iu-2VH.text" = "Zgjidh kategorinë";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FN2-Gc-CTk"; */
+"FN2-Gc-CTk.text" = "Etiketa";
+
+/* Class = "UITextField"; placeholder = "Area"; ObjectID = "FNK-VU-5e7"; */
+"FNK-VU-5e7.placeholder" = "Zona";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "Fp9-xf-Pfg"; */
+"Fp9-xf-Pfg.text" = "Taksa";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Gai-ED-Hdh"; */
+"Gai-ED-Hdh.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "GkP-HS-aDg"; */
+"GkP-HS-aDg.text" = "NTL";
+
+/* Class = "UILabel"; text = "No Supplier Found!"; ObjectID = "Gkz-3L-TE2"; */
+"Gkz-3L-TE2.text" = "Nuk ka shitës!";
+
+/* Class = "UILabel"; text = "Bakshish"; ObjectID = "H7R-bf-uMT"; */
+"H7R-bf-uMT.text" = "Bakshish";
+
+/* Class = "UIButton"; normalTitle = "Choose Booking Time Slot"; ObjectID = "HCH-sm-oKA"; */
+"HCH-sm-oKA.normalTitle" = "Zgjidh orarin e prenotimit";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jls-Lj-BHA"; */
+"Jls-Lj-BHA.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "M6B-MR-O8l"; */
+"M6B-MR-O8l.text" = "NTL";
+
+/* Class = "UILabel"; text = "Price details"; ObjectID = "MeO-ud-vcv"; */
+"MeO-ud-vcv.text" = "Detajet e çmimit";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Mfl-Fa-1my"; */
+"Mfl-Fa-1my.text" = "NTL";
+
+/* Class = "UILabel"; text = "Service Time:"; ObjectID = "MvW-Hg-vG9"; */
+"MvW-Hg-vG9.text" = "Ora e shërbimit:";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "N8J-g8-qVB"; */
+"N8J-g8-qVB.text" = "NTL";
+
+/* Class = "UITextField"; placeholder = "Enter Promo"; ObjectID = "Nwh-bR-Iem"; */
+"Nwh-bR-Iem.placeholder" = "Vendos kodin promocional";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "OS4-AX-dto"; */
+"OS4-AX-dto.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Oh2-oi-84j"; */
+"Oh2-oi-84j.text" = "NTL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PK3-cs-Zs0"; */
+"PK3-cs-Zs0.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "DELIVERY AT"; ObjectID = "Q0R-rk-j6v"; */
+"Q0R-rk-j6v.text" = "POROSIA NË";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "QfI-Ef-oZm"; */
+"QfI-Ef-oZm.text" = "NTL";
+
+/* Class = "UITextField"; placeholder = "Apply Promo"; ObjectID = "R3r-Zp-LZo"; */
+"R3r-Zp-LZo.placeholder" = "Apliko kodin promo";
+
+/* Class = "UILabel"; text = "Compare Products"; ObjectID = "Rb2-kh-EG9"; */
+"Rb2-kh-EG9.text" = "Krahaso produkte;
+
+/* Class = "UILabel"; text = "Add-ons"; ObjectID = "SOl-XQ-Zll"; */
+"SOl-XQ-Zll.text" = "Add-ons";
+
+/* Class = "UILabel"; text = "By BurgerGrill"; ObjectID = "Tog-xZ-0hi"; */
+"Tog-xZ-0hi.text" = "Nga BurgerGrill";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "TqJ-Mb-nOs"; */
+"TqJ-Mb-nOs.text" = "Konfigurimet";
+
+/* Class = "UILabel"; text = "Additional Remarks"; ObjectID = "U5J-nm-5gb"; */
+"U5J-nm-5gb.text" = "Komente shtesë";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "URg-eP-FK4"; */
+"URg-eP-FK4.normalTitle" = "Ruaj";
+
+/* Class = "UILabel"; text = "Discount Voucher"; ObjectID = "UU5-aq-B6Y"; */
+"UU5-aq-B6Y.text" = "Kupon zbritje";
+
+/* Class = "UILabel"; text = "The information in this e-mail message,"; ObjectID = "Uyp-d7-YUr"; */
+"Uyp-d7-YUr.text" = "Informacioni ne këtë email,";
+
+/* Class = "UIButton"; normalTitle = "Clear All"; ObjectID = "WiB-3z-FWB"; */
+"WiB-3z-FWB.normalTitle" = "Pastro të gjitha";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XDu-M1-jk0"; */
+"XDu-M1-jk0.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "XKC-Wf-VXW"; */
+"XKC-Wf-VXW.text" = "NTL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XS1-uF-mED"; */
+"XS1-uF-mED.text" = "Etiketa";
+
+/* Class = "UITextField"; placeholder = "Apply Promo"; ObjectID = "XVt-8s-b3L"; */
+"XVt-8s-b3L.placeholder" = "Apliko kodin promocional";
+
+/* Class = "UITextField"; text = "Your referal Amount"; ObjectID = "XVt-8s-b3L"; */
+"XVt-8s-b3L.text" = "Sasia juaj e referimit";
+
+/* Class = "UILabel"; text = "Live support"; ObjectID = "YNR-pM-YRM"; */
+"YNR-pM-YRM.text" = "Ndihmë direkte";
+
+/* Class = "UIButton"; normalTitle = "Add Card"; ObjectID = "YYH-uz-IOA"; */
+"YYH-uz-IOA.normalTitle" = "Shto kartë";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "Yex-zL-vwR"; */
+"Yex-zL-vwR.placeholder" = "Emri i plotë";
+
+/* Class = "UILabel"; text = "Add Customization"; ObjectID = "YrO-mK-9fk"; */
+"YrO-mK-9fk.text" = "Shto personalizim";
+
+/* Class = "UIButton"; normalTitle = "VIEW CART"; ObjectID = "ZYQ-hg-o1b"; */
+"ZYQ-hg-o1b.normalTitle" = "SHIKO SHPORTËN";
+
+/* Class = "UILabel"; text = "Agent"; ObjectID = "Zzp-Qb-RVl"; */
+"Zzp-Qb-RVl.text" = "Agjent";
+
+/* Class = "UITextField"; placeholder = "House No/Plot No"; ObjectID = "a0I-db-qBf"; */
+"a0I-db-qBf.placeholder" = "Shtepia NR./Hyrja NR";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "a6Z-pf-CPz"; */
+"a6Z-pf-CPz.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "ADD A TIP TO YOUR RIDER"; ObjectID = "aQD-Ra-tVZ"; */
+"aQD-Ra-tVZ.text" = "SHTO NJE BAKSHISH PER SHOFERIN";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ao3-5F-VI5"; */
+"ao3-5F-VI5.normalTitle" = "Konfirmo";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "bK5-7H-6OT"; */
+"bK5-7H-6OT.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Orders"; ObjectID = "bc5-VK-L9z"; */
+"bc5-VK-L9z.normalTitle" = "Porosi";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "btJ-TY-9IX"; */
+"btJ-TY-9IX.placeholder" = "Qyteti";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "c1h-hc-99h"; */
+"c1h-hc-99h.placeholder" = "Shteti";
+
+/* Class = "UILabel"; text = "Philips toaster"; ObjectID = "c2r-UT-5dM"; */
+"c2r-UT-5dM.text" = "Philips toaster";
+
+/* Class = "UILabel"; text = "Points earned so far"; ObjectID = "c86-pr-EFn"; */
+"c86-pr-EFn.text" = "Pikët e fituara deri tani";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c88-lc-sKC"; */
+"c88-lc-sKC.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "No Product Found!"; ObjectID = "cCG-AY-q8u"; */
+"cCG-AY-q8u.text" = "Produkti nuk u gjet!";
+
+/* Class = "UILabel"; text = "Select Prescription to upload"; ObjectID = "cMf-ar-NEF"; */
+"cMf-ar-NEF.text" = "Zgjidh recetën për të ngarkuar";
+
+/* Class = "UIButton"; normalTitle = "CLEAR"; ObjectID = "eQ2-K6-94g"; */
+"eQ2-K6-94g.normalTitle" = "PASTRO";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "efR-n8-ben"; */
+"efR-n8-ben.text" = "Total";
+
+/* Class = "UILabel"; text = "Click '+ Add new' to add an address"; ObjectID = "eys-qb-pdf"; */
+"eys-qb-pdf.text" = "Shtyp '+ Shto të re' për të shtuar adresë të re";
+
+/* Class = "UILabel"; text = "Referal Applied"; ObjectID = "eyt-gM-udy"; */
+"eyt-gM-udy.text" = "Kodi i referimit u aplikua";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "f3Q-y7-0Ju"; */
+"f3Q-y7-0Ju.text" = "Shporta";
+
+/* Class = "UILabel"; text = "Delivery Address"; ObjectID = "f3W-tE-A1W"; */
+"f3W-tE-A1W.text" = "Adresa e dorëzimit";
+
+/* Class = "UILabel"; text = "Details"; ObjectID = "fId-Fp-12R"; */
+"fId-Fp-12R.text" = "Detajet";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "fJV-Op-nOV"; */
+"fJV-Op-nOV.text" = "NTL";
+
+/* Class = "UILabel"; text = "ADD SOME"; ObjectID = "fmZ-Gn-pam"; */
+"fmZ-Gn-pam.text" = "SHTO DISA";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gAs-x8-epp"; */
+"gAs-x8-epp.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Scan Products"; ObjectID = "gBs-oD-htH"; */
+"gBs-oD-htH.text" = "Skano produkte";
+
+/* Class = "UILabel"; text = "1 Items | Total USD 178.0"; ObjectID = "gMC-68-QVa"; */
+"gMC-68-QVa.text" = "1 Produkt | Total L 175.0";
+
+/* Class = "UIButton"; normalTitle = "Button isu yiugy ifugydiygidyg idyidfy hidyg uidg idfh fdh"; ObjectID = "gdG-Vc-YbX"; */
+"gdG-Vc-YbX.normalTitle" = "Button isu yiugy ifugydiygidyg idyidfy hidyg uidg idfh fdh";
+
+/* Class = "UILabel"; text = "No Product Found!"; ObjectID = "hHv-vy-PZB"; */
+"hHv-vy-PZB.text" = "Nuk ka produkt!";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "hs1-eC-vAK"; */
+"hs1-eC-vAK.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "if3-mz-QGI"; */
+"if3-mz-QGI.text" = "NTL";
+
+/* Class = "UILabel"; text = "Bakshish"; ObjectID = "ip8-sc-JjM"; */
+"ip8-sc-JjM.text" = "Bakshish";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "j0r-gm-CQ7"; */
+"j0r-gm-CQ7.text" = "NTL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jdK-a0-48u"; */
+"jdK-a0-48u.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "(YOU WON'T REGRET IT)"; ObjectID = "lHn-3t-xEe"; */
+"lHn-3t-xEe.text" = "(NUK DO PENDOHENI)";
+
+/* Class = "UILabel"; text = "Loyality points"; ObjectID = "m8O-bT-G0I"; */
+"m8O-bT-G0I.text" = "Pikët e besnikërise";
+
+/* Class = "UILabel"; text = "AddOn Charges"; ObjectID = "mJY-tO-wk4"; */
+"mJY-tO-wk4.text" = "Tarifat shtesë";
+
+/* Class = "UIButton"; normalTitle = "Donate To Someone"; ObjectID = "mUJ-N8-uSW"; */
+"mUJ-N8-uSW.normalTitle" = "Dhuroni dikujt";
+
+/* Class = "UILabel"; text = "STUFF!"; ObjectID = "n3S-rA-FfF"; */
+"n3S-rA-FfF.text" = "GJËRA!";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "nVv-xB-a7i"; */
+"nVv-xB-a7i.text" = "titulli";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "ohC-jd-HGK"; */
+"ohC-jd-HGK.normalTitle" = "Apliko";
+
+/* Class = "UIButton"; selectedTitle = "Remove"; ObjectID = "ohC-jd-HGK"; */
+"ohC-jd-HGK.selectedTitle" = "Hiq";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "p83-L0-mbH"; */
+"p83-L0-mbH.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Service Provider | 0 Years Experience"; ObjectID = "pFg-oI-82m"; */
+"pFg-oI-82m.text" = "Shërbyesi | 0 Vite Eksperiencë";
+
+/* Class = "UILabel"; text = "Agent to be booked:"; ObjectID = "pQi-F7-0S1"; */
+"pQi-F7-0S1.text" = "Agjenti që do prenotohet:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pcm-8M-IhC"; */
+"pcm-8M-IhC.text" = "Etiketa";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ppa-02-hs4"; */
+"ppa-02-hs4.normalTitle" = "Tjetër";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "qhe-GO-QHw"; */
+"qhe-GO-QHw.normalTitle" = "APLIKO";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "r0e-d9-8Z9"; */
+"r0e-d9-8Z9.normalTitle" = "Apliko";
+
+/* Class = "UIButton"; selectedTitle = "Remove"; ObjectID = "r0e-d9-8Z9"; */
+"r0e-d9-8Z9.selectedTitle" = "Hiq";
+
+/* Class = "UIButton"; disabledTitle = "Edit"; ObjectID = "r4M-tc-cqs"; */
+"r4M-tc-cqs.disabledTitle" = "Ndrysho";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "r4M-tc-cqs"; */
+"r4M-tc-cqs.normalTitle" = "Ndrysho";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "tG2-MS-SJ0"; */
+"tG2-MS-SJ0.text" = "Rezultatet";
+
+/* Class = "UILabel"; text = "100 AED"; ObjectID = "uaA-Ht-7ja"; */
+"uaA-Ht-7ja.text" = "2500 L";
+
+/* Class = "UILabel"; text = "No Notifications Yet!"; ObjectID = "vlX-SE-f1L"; */
+"vlX-SE-f1L.text" = "Nuk ka njoftime!";
+
+/* Class = "UILabel"; text = "No Orders Found!"; ObjectID = "whk-dw-oTd"; */
+"whk-dw-oTd.text" = "Nuk ka porosi!";
+
+/* Class = "UILabel"; text = "The information in this e-mail message, and any files transmitted You haven't talked to Harman before. Why not break the ice with\nan emoticon? (fonzie"; ObjectID = "wuT-pT-oub"; */
+"wuT-pT-oub.text" = "Informacioni ne këtë email dhe cdo dokument i transmetuar. You haven't talked to Bleta before. Why not break the ice with\nan emoticon? (fonzie";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "x5H-dX-iu0"; */
+"x5H-dX-iu0.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Change Date & Time"; ObjectID = "xvL-Pt-cS8"; */
+"xvL-Pt-cS8.normalTitle" = "Ndrysho datën & orën";
+
+/* Class = "UITextField"; placeholder = "Building name"; ObjectID = "yDy-XI-exE"; */
+"yDy-XI-exE.placeholder" = "Emri i ndërtesës";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "z0d-zp-fm2"; */
+"z0d-zp-fm2.text" = "Njoftime";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "z9N-oC-VwD"; */
+"z9N-oC-VwD.text" = "Etiketa";
+
+/* Class = "UITextField"; placeholder = "Cardholder's Name"; ObjectID = "zlA-k2-Qpw"; */
+"zlA-k2-Qpw.placeholder" = "Emri në kartë";
+
+/* Class = "UIButton"; normalTitle = "Add new"; ObjectID = "zyB-DL-Css"; */
+"zyB-DL-Css.normalTitle" = "Shto të re";

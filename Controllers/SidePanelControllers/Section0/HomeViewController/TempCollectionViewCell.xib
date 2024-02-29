@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="OpenSans-Regular.ttf">
+            <string>OpenSans</string>
+        </array>
+        <array key="PROXIMANOVA-LIGHT.OTF">
+            <string>ProximaNova-Light</string>
+        </array>
+        <array key="PROXIMANOVA-REGULAR.OTF">
+            <string>ProximaNova-Regular</string>
+        </array>
+        <array key="PROXIMANOVA-SEMIBOLD.OTF">
+            <string>ProximaNova-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="TempCollectionViewCell" id="eUt-B1-Imr" customClass="TempCollectionViewCell" customModule="Royo_Pharmacy" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="152" height="333"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO">
+                <rect key="frame" x="0.0" y="0.0" width="152" height="333"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="7LQ-Pa-wYK">
+                        <rect key="frame" x="1" y="1" width="150" height="331"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="248" verticalHuggingPriority="248" translatesAutoresizingMaskIntoConstraints="NO" id="6tO-W4-MnO">
+                                <rect key="frame" x="0.0" y="0.0" width="150" height="112.5"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" secondItem="6tO-W4-MnO" secondAttribute="height" multiplier="4:3" id="o1Z-l6-IRC"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                                        <real key="value" value="0.0"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="vL9-1R-vDG">
+                                <rect key="frame" x="0.0" y="92.5" width="150" height="20"/>
+                                <color key="backgroundColor" red="0.92941176469999998" green="0.29411764709999999" blue="0.2470588235" alpha="0.73999999999999999" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="n7M-D6-isS"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="3" translatesAutoresizingMaskIntoConstraints="NO" id="mtt-CR-CzF">
+                                <rect key="frame" x="8" y="243" width="134" height="80"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="CSS-GX-A8p">
+                                        <rect key="frame" x="0.0" y="0.0" width="134" height="19"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="gfdgdfgfgdfgdsfg" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q9k-9u-zal" customClass="SKThemeLabel" customModule="Royo_Pharmacy" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="89" height="19"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="19" id="mXC-TY-7PY"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="16"/>
+                                                <nil key="textColor"/>
+                                                <nil key="highlightedColor"/>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                                </userDefinedRuntimeAttributes>
+                                            </label>
+                                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="pCy-cn-ql0">
+                                                <rect key="frame" x="94" y="0.0" width="40" height="19"/>
+                                                <subviews>
+                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="starRating" translatesAutoresizingMaskIntoConstraints="NO" id="yC0-I6-4Jw">
+                                                        <rect key="frame" x="0.0" y="0.0" width="18" height="19"/>
+                                                        <constraints>
+                                                            <constraint firstAttribute="width" constant="18" id="pY9-m8-7hp"/>
+                                                        </constraints>
+                                                    </imageView>
+                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ivw-5N-q6N">
+                                                        <rect key="frame" x="18" y="0.0" width="22" height="19"/>
+                                                        <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="14"/>
+                                                        <color key="textColor" systemColor="systemOrangeColor" red="1" green="0.58431372550000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                    </label>
+                                                </subviews>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="40" id="ki6-Ad-wXj"/>
+                                                </constraints>
+                                                <viewLayoutGuide key="safeArea" id="JmB-we-tOI"/>
+                                            </stackView>
+                                        </subviews>
+                                    </stackView>
+                                    <label opaque="NO" userInteractionEnabled="NO" alpha="0.80000001192092896" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="hgfghgfhfhgfhgf" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="okg-vt-J9g" customClass="SKThemeLabel" customModule="Royo_Pharmacy" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="22" width="85" height="12"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="12" id="K0f-rN-EaL"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                        <color key="textColor" red="0.31764705879999999" green="0.31764705879999999" blue="0.31764705879999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="dfvfdgfdgfd" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="0.0" translatesAutoresizingMaskIntoConstraints="NO" id="GxB-Ar-8T6" customClass="SKThemeLabel" customModule="Royo_Pharmacy" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="37" width="71.5" height="16"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="16" id="i04-mX-vzr"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" red="0.31764705879999999" green="0.31764705879999999" blue="0.31764705879999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                    <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="751" text="fgdgfsdg" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="IhL-Zo-rtc" customClass="ThemeLabel" customModule="Royo_Pharmacy" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="54.5" width="46.5" height="17"/>
+                                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="17" id="FRt-ji-bgX"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                                        <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isTableDescLbl" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="gJO-B4-CVU">
+                                        <rect key="frame" x="0.0" y="56" width="0.0" height="24"/>
+                                        <subviews>
+                                            <view contentMode="scaleToFill" placeholderIntrinsicWidth="80" placeholderIntrinsicHeight="24" translatesAutoresizingMaskIntoConstraints="NO" id="tmF-2X-Ybt" customClass="GMStepper" customModule="Royo_Pharmacy" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="0.0" height="24"/>
+                                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="24" id="g5j-ft-YMA"/>
+                                                </constraints>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="color" keyPath="buttonsTextColor">
+                                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="color" keyPath="buttonsBackgroundColor">
+                                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="color" keyPath="labelTextColor">
+                                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.4108488475" colorSpace="custom" customColorSpace="sRGB"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                        <real key="value" value="2"/>
+                                                    </userDefinedRuntimeAttribute>
+                                                </userDefinedRuntimeAttributes>
+                                            </view>
+                                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="751" text="customisable" textAlignment="center" lineBreakMode="characterWrap" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" preferredMaxLayoutWidth="0.0" translatesAutoresizingMaskIntoConstraints="NO" id="8El-OF-Mk5" customClass="SKThemeLabel" customModule="Royo_Pharmacy" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="0.0" height="24"/>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="13"/>
+                                                <color key="textColor" red="0.31764705879999999" green="0.31764705879999999" blue="0.31764705879999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                                    <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="customisable"/>
+                                                </userDefinedRuntimeAttributes>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="6tO-W4-MnO" firstAttribute="leading" secondItem="7LQ-Pa-wYK" secondAttribute="leading" id="090-cb-HgZ"/>
+                            <constraint firstItem="mtt-CR-CzF" firstAttribute="top" relation="greaterThanOrEqual" secondItem="6tO-W4-MnO" secondAttribute="bottom" constant="8" id="0sd-kl-ry2"/>
+                            <constraint firstAttribute="trailing" secondItem="6tO-W4-MnO" secondAttribute="trailing" id="4Az-cD-Phx"/>
+                            <constraint firstItem="6tO-W4-MnO" firstAttribute="top" secondItem="7LQ-Pa-wYK" secondAttribute="top" id="5b1-5D-meU"/>
+                            <constraint firstItem="vL9-1R-vDG" firstAttribute="trailing" secondItem="6tO-W4-MnO" secondAttribute="trailing" id="Cbq-E7-wDA"/>
+                            <constraint firstItem="vL9-1R-vDG" firstAttribute="leading" secondItem="6tO-W4-MnO" secondAttribute="leading" id="HnE-5k-9DL"/>
+                            <constraint firstItem="mtt-CR-CzF" firstAttribute="leading" secondItem="7LQ-Pa-wYK" secondAttribute="leading" constant="8" id="Vco-0q-qnc"/>
+                            <constraint firstAttribute="bottom" secondItem="mtt-CR-CzF" secondAttribute="bottom" constant="8" id="Wph-hn-0Tr"/>
+                            <constraint firstItem="vL9-1R-vDG" firstAttribute="bottom" secondItem="6tO-W4-MnO" secondAttribute="bottom" id="cW7-2o-EpC"/>
+                            <constraint firstAttribute="trailing" secondItem="mtt-CR-CzF" secondAttribute="trailing" constant="8" id="mgN-Bx-6Zh"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                                <real key="value" value="3"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="7LQ-Pa-wYK" firstAttribute="leading" secondItem="eUt-B1-Imr" secondAttribute="leading" constant="1" id="D3M-8K-RtG"/>
+                <constraint firstItem="7LQ-Pa-wYK" firstAttribute="centerY" secondItem="eUt-B1-Imr" secondAttribute="centerY" id="J6r-pv-i92"/>
+                <constraint firstItem="7LQ-Pa-wYK" firstAttribute="top" secondItem="eUt-B1-Imr" secondAttribute="top" constant="1" id="PEg-VJ-9lx"/>
+                <constraint firstAttribute="trailing" secondItem="7LQ-Pa-wYK" secondAttribute="trailing" constant="1" id="qEE-9T-wPc"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="heK-n5-azf"/>
+            <size key="customSize" width="152" height="333"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                    <real key="value" value="0.0"/>
+                </userDefinedRuntimeAttribute>
+                <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                    <size key="value" width="1" height="1"/>
+                </userDefinedRuntimeAttribute>
+                <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                    <real key="value" value="0.20000000000000001"/>
+                </userDefinedRuntimeAttribute>
+                <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                    <color key="value" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </userDefinedRuntimeAttribute>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="imgProduct" destination="6tO-W4-MnO" id="oqi-bk-B00"/>
+                <outlet property="labelCustomization" destination="8El-OF-Mk5" id="sTf-TH-b9D"/>
+                <outlet property="labelOfferPrice" destination="vL9-1R-vDG" id="1Tl-Fi-D99"/>
+                <outlet property="labelSupplierName" destination="okg-vt-J9g" id="pil-Y5-v4z"/>
+                <outlet property="lblEmptyPrice" destination="IhL-Zo-rtc" id="JvI-jL-gSN"/>
+                <outlet property="lblPrice" destination="GxB-Ar-8T6" id="Ycm-h0-0TZ"/>
+                <outlet property="lblTitle" destination="Q9k-9u-zal" id="qkT-qI-JpD"/>
+                <outlet property="rating_label" destination="Ivw-5N-q6N" id="fMr-mr-JJc"/>
+                <outlet property="stepper" destination="tmF-2X-Ybt" id="mMg-sA-3ZY"/>
+            </connections>
+            <point key="canvasLocation" x="41.600000000000001" y="42.728635682158924"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="starRating" width="16" height="16"/>
+    </resources>
+</document>

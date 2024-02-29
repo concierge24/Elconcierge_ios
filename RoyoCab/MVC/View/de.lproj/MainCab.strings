@@ -1,0 +1,237 @@
+
+/* Class = "UILabel"; text = "Hey Welcome, Avinash"; ObjectID = "0aQ-87-kGm"; */
+"0aQ-87-kGm.text" = "Hey Willkommen, Avinash";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0mn-He-zoj"; */
+"0mn-He-zoj.text" = "etikette";
+
+/* Class = "UILabel"; text = "12:20 pm"; ObjectID = "1QC-SW-g9O"; */
+"1QC-SW-g9O.text" = "12:20 pm";
+
+/* Class = "UILabel"; text = "Front"; ObjectID = "3Ou-mm-NwI"; */
+"3Ou-mm-NwI.text" = "Vorderseite";
+
+/* Class = "UITextField"; placeholder = "Enter your mobile no."; ObjectID = "4A6-Vz-Kz2"; */
+"4A6-Vz-Kz2.placeholder" = "Geben Sie Ihre Handynummer ein.";
+
+/* Class = "UITextField"; placeholder = "REFERRAL CODE"; ObjectID = "4CC-MZ-7G0"; */
+"4CC-MZ-7G0.placeholder" = "REFERENZCODE";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "4mM-JW-B31"; */
+"4mM-JW-B31.text" = "Plaudern";
+
+/* Class = "UILabel"; text = "Book a cab instantly or schedule it according\nto your needs. to your needs. "; ObjectID = "61Y-sc-8MG"; */
+"61Y-sc-8MG.text" = "Buchen Sie sofort ein Taxi oder planen Sie es nach Ihren Wünschen. auf Ihre Bedürfnisse. ";
+
+/* Class = "UILabel"; text = "Book or Schedule a Taxi"; ObjectID = "6jm-H3-1Xk"; */
+"6jm-H3-1Xk.text" = "Buchen oder planen Sie ein Taxi";
+
+/* Class = "UILabel"; text = "ADD ADDRESS PROOF"; ObjectID = "6nI-4W-Z0b"; */
+"6nI-4W-Z0b.text" = "ADRESSENBEWEIS HINZUFÜGEN";
+
+/* Class = "UIButton"; normalTitle = "Upload Address Proof Image"; ObjectID = "7ey-Sp-a5A"; */
+"7ey-Sp-a5A.normalTitle" = "Adress-Proof-Image hochladen";
+
+/* Class = "UITextField"; placeholder = "Eg. Jane"; ObjectID = "7pP-np-zN2"; */
+"7pP-np-zN2.placeholder" = "Eg. Jane";
+
+/* Class = "UILabel"; text = "ADDRESS"; ObjectID = "8SE-Qq-dGY"; */
+"8SE-Qq-dGY.text" = "ADRESS";
+
+/* Class = "UILabel"; text = "Didn’t receive your code?"; ObjectID = "8gS-G5-41F"; */
+"8gS-G5-41F.text" = "Haben Sie Ihren Code nicht erhalten?";
+
+/* Class = "UIButton"; normalTitle = "Verify"; ObjectID = "9VY-cO-xjI"; */
+"9VY-cO-xjI.normalTitle" = "Überprüfen";
+
+/* Class = "UILabel"; text = "Select Location"; ObjectID = "9Vb-bA-xhc"; */
+"9Vb-bA-xhc.text" = "Ort auswählen";
+
+/* Class = "UILabel"; text = "hi there"; ObjectID = "AlQ-P2-h2g"; */
+"AlQ-P2-h2g.text" = "Hallo";
+
+/* Class = "UILabel"; text = "OFFICIAL ID PHOTOS"; ObjectID = "BEy-0V-zWh"; */
+"BEy-0V-zWh.text" = "OFFIZIELLE ID-FOTOS";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "BQe-4h-4AS"; */
+"BQe-4h-4AS.normalTitle" = "einreichen";
+
+/* Class = "UILabel"; text = "Complete your profile"; ObjectID = "CDE-yf-UBY"; */
+"CDE-yf-UBY.text" = "vervollständige dein Profil";
+
+/* Class = "UILabel"; text = "12:20 pm"; ObjectID = "CGE-uf-REk"; */
+"CGE-uf-REk.text" = "12:20 pm";
+
+/* Class = "UILabel"; text = "12:20 pm"; ObjectID = "CME-AC-tMy"; */
+"CME-AC-tMy.text" = "12:20 pm";
+
+/* Class = "UILabel"; text = "I’M A"; ObjectID = "CTP-rQ-4Ex"; */
+"CTP-rQ-4Ex.text" = "Ich bin A.";
+
+/* Class = "UILabel"; text = "911"; ObjectID = "Dfe-Eq-VIU"; */
+"Dfe-Eq-VIU.text" = "911";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "Drf-TF-9K3"; */
+"Drf-TF-9K3.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "EJg-yY-rvG"; */
+"EJg-yY-rvG.normalTitle" = "zurück";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "EcW-My-SkH"; */
+"EcW-My-SkH.text" = "+91";
+
+/* Class = "UILabel"; text = "EMAIL"; ObjectID = "FzF-j9-sJm"; */
+"FzF-j9-sJm.text" = "EMAIL";
+
+/* Class = "UILabel"; text = "Need something delivered ?"; ObjectID = "GGO-Vj-F4W"; */
+"GGO-Vj-F4W.text" = "Brauchen Sie etwas geliefert?";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "GGy-ZI-EWD"; */
+"GGy-ZI-EWD.normalTitle" = "Zurück";
+
+/* Class = "UITextField"; placeholder = "Eg. email@gmail.com"; ObjectID = "I0W-2y-twd"; */
+"I0W-2y-twd.placeholder" = "Eg. email@gmail.com";
+
+/* Class = "UILabel"; text = "COMING SOON"; ObjectID = "J4P-mv-s2d"; */
+"J4P-mv-s2d.text" = "KOMMT BALD";
+
+/* Class = "UILabel"; text = "No messages yet."; ObjectID = "KsD-kp-cgK"; */
+"KsD-kp-cgK.text" = "Noch keine Nachrichten.";
+
+/* Class = "UILabel"; text = "12:20 pm"; ObjectID = "Mt7-P4-TZq"; */
+"Mt7-P4-TZq.text" = "12:20 pm";
+
+/* Class = "UILabel"; text = "LAST NAME"; ObjectID = "NAg-r4-A4e"; */
+"NAg-r4-A4e.text" = "NACHNAME";
+
+/* Class = "UITextField"; placeholder = "Eg. National ID Number"; ObjectID = "Nhr-e5-iab"; */
+"Nhr-e5-iab.placeholder" = "Eg. National ID Number";
+
+/* Class = "UIButton"; normalTitle = "Proceed"; ObjectID = "OQs-Cd-N2A"; */
+"OQs-Cd-N2A.normalTitle" = "Vorgehen";
+
+/* Class = "UILabel"; text = "Enter the code sent on +1 7392874901"; ObjectID = "P3g-TM-VOg"; */
+"P3g-TM-VOg.text" = "Geben Sie den Code ein, der unter +1 7392874901 gesendet wurde";
+
+/* Class = "UIButton"; normalTitle = "Ok"; ObjectID = "PfW-1j-V2P"; */
+"PfW-1j-V2P.normalTitle" = "Ok";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RsP-Ed-7vk"; */
+"RsP-Ed-7vk.text" = "etikette";
+
+/* Class = "UILabel"; text = "Buraq 24"; ObjectID = "TLA-bn-Fum"; */
+"TLA-bn-Fum.text" = "Buraq 24";
+
+/* Class = "UITextField"; placeholder = "Eg. doe"; ObjectID = "TeG-wO-QJS"; */
+"TeG-wO-QJS.placeholder" = "Eg. doe";
+
+/* Class = "UILabel"; text = "Upload a clear picture of your ID"; ObjectID = "U2U-Gj-tmz"; */
+"U2U-Gj-tmz.text" = "Laden Sie ein klares Bild Ihrer ID hoch";
+
+/* Class = "UILabel"; text = "01 : 59"; ObjectID = "Uw0-Xs-Q1O"; */
+"Uw0-Xs-Q1O.text" = "01 : 59";
+
+/* Class = "UITextField"; placeholder = "Enter location pickup location"; ObjectID = "V6a-Iq-6HP"; */
+"V6a-Iq-6HP.placeholder" = "Geben Sie den Ort der Abholung ein";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "VUb-Gi-T6R"; */
+"VUb-Gi-T6R.text" = "männlich";
+
+/* Class = "UILabel"; text = "Just some more information to fill up :)"; ObjectID = "Wb3-99-YGk"; */
+"Wb3-99-YGk.text" = "Nur noch ein paar Informationen zum Ausfüllen :)";
+
+/* Class = "UILabel"; text = "Bikram"; ObjectID = "XAT-5Y-Dfu"; */
+"XAT-5Y-Dfu.text" = "Bikram";
+
+/* Class = "UILabel"; text = "An OTP will be sent to your entered mobile number for verification."; ObjectID = "XZu-ov-Ghk"; */
+"XZu-ov-Ghk.text" = "Ein OTP wird zur Überprüfung an Ihre eingegebene Handynummer gesendet.";
+
+/* Class = "UILabel"; text = "Freight delivery is just one tap away"; ObjectID = "Ye1-aG-FfU"; */
+"Ye1-aG-FfU.text" = "Die Frachtlieferung ist nur einen Fingertipp entfernt";
+
+/* Class = "UILabel"; text = "Delivery care free at your doorstep"; ObjectID = "ZkS-4v-UBQ"; */
+"ZkS-4v-UBQ.text" = "Lieferung sorglos vor Ihrer Haustür";
+
+/* Class = "UILabel"; text = "We'll pick it up for you"; ObjectID = "bFq-iP-UXo"; */
+"bFq-iP-UXo.text" = "Wir holen es für Sie ab";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dRg-NW-Afa"; */
+"dRg-NW-Afa.text" = "etikette";
+
+/* Class = "UILabel"; text = "REFERRAL CODE(optional)"; ObjectID = "dWH-VY-HxS"; */
+"dWH-VY-HxS.text" = "REFERRAL CODE(optional)";
+
+/* Class = "UILabel"; text = "Verification Code"; ObjectID = "e8x-8I-hzr"; */
+"e8x-8I-hzr.text" = "Bestätigungscode";
+
+/* Class = "UILabel"; text = "Female"; ObjectID = "fMr-Vd-SGe"; */
+"fMr-Vd-SGe.text" = "Weiblich";
+
+/* Class = "UITextField"; placeholder = "Enter your number"; ObjectID = "fVx-BW-8a5"; */
+"fVx-BW-8a5.placeholder" = "Geben Sie ihre Nummer ein";
+
+/* Class = "UILabel"; text = "COMING SOON"; ObjectID = "fgQ-vv-8Ul"; */
+"fgQ-vv-8Ul.text" = "KOMMT BALD";
+
+/* Class = "UILabel"; text = "Connecting your needs in seconds"; ObjectID = "gl4-if-mQn"; */
+"gl4-if-mQn.text" = "Verbinden Sie Ihre Bedürfnisse in Sekunden";
+
+/* Class = "UILabel"; text = "I agree to the"; ObjectID = "hez-sm-JV0"; */
+"hez-sm-JV0.text" = "Ich stimme dem zu";
+
+/* Class = "UILabel"; text = "Other"; ObjectID = "jXC-qn-u72"; */
+"jXC-qn-u72.text" = "Andere";
+
+/* Class = "UITextField"; placeholder = "4 digit Code"; ObjectID = "l1X-it-z6P"; */
+"l1X-it-z6P.placeholder" = "4 digit Code";
+
+/* Class = "UILabel"; text = "Delivery care free at your doorstep"; ObjectID = "ltJ-IK-pNn"; */
+"ltJ-IK-pNn.text" = "Lieferung sorglos vor Ihrer Haustür";
+
+/* Class = "UILabel"; text = "BOOK A SERVICE"; ObjectID = "mcH-X9-QHY"; */
+"mcH-X9-QHY.text" = "BUCHEN SIE EINEN SERVICE";
+
+/* Class = "UILabel"; text = "NATIONAL ID NUMBER"; ObjectID = "nKX-aE-ASZ"; */
+"nKX-aE-ASZ.text" = "NATIONALE ID-NUMMER";
+
+/* Class = "UIButton"; normalTitle = "Resend otp"; ObjectID = "neP-YF-PQR"; */
+"neP-YF-PQR.normalTitle" = "Senden Sie otp erneut";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "noZ-A4-uSb"; */
+"noZ-A4-uSb.text" = "etikette";
+
+/* Class = "UILabel"; text = "* Upload files Max 5 MB & PDF, JPEG or PNG only "; ObjectID = "pOP-gK-R1q"; */
+"pOP-gK-R1q.text" = "*Hochladen von Dateien Maximal 5 MB & PDF, nur JPEG oder PNG ";
+
+/* Class = "UILabel"; text = "Change langauge"; ObjectID = "qGy-YT-C2U"; */
+"qGy-YT-C2U.text" = "Sprache ändern";
+
+/* Class = "UILabel"; text = "Enter your number to get started"; ObjectID = "qkf-x1-Yz8"; */
+"qkf-x1-Yz8.text" = "Geben Sie Ihre Nummer ein, um loszulegen";
+
+/* Class = "UILabel"; text = "Back"; ObjectID = "rea-2s-M3m"; */
+"rea-2s-M3m.text" = "Zurück";
+
+/* Class = "UIButton"; normalTitle = "Terms and Conditions"; ObjectID = "stC-uF-MUz"; */
+"stC-uF-MUz.normalTitle" = "Allgemeine Bedingungen";
+
+/* Class = "UILabel"; text = "00 : 00"; ObjectID = "tfw-TW-5if"; */
+"tfw-TW-5if.text" = "00 : 00";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "uNJ-49-eZt"; */
+"uNJ-49-eZt.text" = "+91";
+
+/* Class = "UILabel"; text = "Select your service to continue further"; ObjectID = "vhF-8L-Fns"; */
+"vhF-8L-Fns.text" = "Wählen Sie Ihren Dienst aus, um fortzufahren";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "xI1-8q-yGi"; */
+"xI1-8q-yGi.text" = "etikette";
+
+/* Class = "UILabel"; text = "Freight delivery is just one tap away"; ObjectID = "y5f-QU-3cT"; */
+"y5f-QU-3cT.text" = "Die Frachtlieferung ist nur einen Fingertipp entfernt";
+
+/* Class = "UITextField"; placeholder = "Enter drop off location"; ObjectID = "yeQ-di-9ij"; */
+"yeQ-di-9ij.placeholder" = "Geben Sie die Abgabestelle ein";
+
+/* Class = "UILabel"; text = "FIRST NAME"; ObjectID = "yvL-UA-unT"; */
+"yvL-UA-unT.text" = "VORNAME";

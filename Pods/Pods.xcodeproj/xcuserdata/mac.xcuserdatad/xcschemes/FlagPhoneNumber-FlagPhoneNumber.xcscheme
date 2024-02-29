@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "1100"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+<<<<<<< HEAD:Pods/Pods.xcodeproj/xcuserdata/mac.xcuserdatad/xcschemes/FlagPhoneNumber-FlagPhoneNumber.xcscheme
+               BlueprintIdentifier = "BE34A30F721FDBE1399B802E0A95F2C7"
+               BuildableName = "FlagPhoneNumber.bundle"
+               BlueprintName = "FlagPhoneNumber-FlagPhoneNumber"
+               ReferencedContainer = "container:Pods.xcodeproj">
+=======
+               BlueprintIdentifier = "10AFB2C320F48A35004B30EB"
+               BuildableName = "Yummy&quot;.app"
+               BlueprintName = "Sneni"
+               ReferencedContainer = "container:Sneni.xcodeproj">
+>>>>>>> 6f62af998e80b26657092ce7d5f6708b64310021:Sneni.xcodeproj/xcshareddata/xcschemes/JnJ's Cafe.xcscheme
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES">
+<<<<<<< HEAD:Pods/Pods.xcodeproj/xcuserdata/mac.xcuserdatad/xcschemes/FlagPhoneNumber-FlagPhoneNumber.xcscheme
+=======
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "10AFB2C320F48A35004B30EB"
+            BuildableName = "Yummy&quot;.app"
+            BlueprintName = "Sneni"
+            ReferencedContainer = "container:Sneni.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+>>>>>>> 6f62af998e80b26657092ce7d5f6708b64310021:Sneni.xcodeproj/xcshareddata/xcschemes/JnJ's Cafe.xcscheme
+      <Testables>
+      </Testables>
+   </TestAction>
+   <LaunchAction
+      buildConfiguration = "Debug"
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      debugServiceExtension = "internal"
+      allowLocationSimulation = "YES">
+<<<<<<< HEAD:Pods/Pods.xcodeproj/xcuserdata/mac.xcuserdatad/xcschemes/FlagPhoneNumber-FlagPhoneNumber.xcscheme
+=======
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "10AFB2C320F48A35004B30EB"
+            BuildableName = "Yummy&quot;.app"
+            BlueprintName = "Sneni"
+            ReferencedContainer = "container:Sneni.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+>>>>>>> 6f62af998e80b26657092ce7d5f6708b64310021:Sneni.xcodeproj/xcshareddata/xcschemes/JnJ's Cafe.xcscheme
+   </LaunchAction>
+   <ProfileAction
+      buildConfiguration = "Release"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      debugDocumentVersioning = "YES">
+<<<<<<< HEAD:Pods/Pods.xcodeproj/xcuserdata/mac.xcuserdatad/xcschemes/FlagPhoneNumber-FlagPhoneNumber.xcscheme
+=======
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "10AFB2C320F48A35004B30EB"
+            BuildableName = "Yummy&quot;.app"
+            BlueprintName = "Sneni"
+            ReferencedContainer = "container:Sneni.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+>>>>>>> 6f62af998e80b26657092ce7d5f6708b64310021:Sneni.xcodeproj/xcshareddata/xcschemes/JnJ's Cafe.xcscheme
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>

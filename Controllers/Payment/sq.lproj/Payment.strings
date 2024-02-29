@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0iS-hl-cKa"; */
+"0iS-hl-cKa.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Código de seguridad:"; ObjectID = "2fW-cz-6qu"; */
+"2fW-cz-6qu.text" = "FNP (Fjalëkalimi një përdorimesh):";
+
+/* Class = "UILabel"; text = "Add card to complete payment"; ObjectID = "3Ed-3z-OTV"; */
+"3Ed-3z-OTV.text" = "Shto një kartë të kryeni pagesën";
+
+/* Class = "UILabel"; text = "Salida de UUID"; ObjectID = "4nb-hW-dYb"; */
+"4nb-hW-dYb.text" = "Fatura NR.";
+
+/* Class = "UIButton"; normalTitle = "TOKENIZE!"; ObjectID = "91z-nl-4mf"; */
+"91z-nl-4mf.normalTitle" = "TOKENIZE!";
+
+/* Class = "UILabel"; text = "Número de tarjeta:"; ObjectID = "DXQ-jB-rdV"; */
+"DXQ-jB-rdV.text" = "Numri i kartës:";
+
+/* Class = "UILabel"; text = "Nombre que aparece en la tarjeta:"; ObjectID = "Eg9-H0-Wcg"; */
+"Eg9-H0-Wcg.text" = "Emri në kartë:";
+
+/* Class = "UITextField"; placeholder = "Mes"; ObjectID = "Hf7-5O-gD3"; */
+"Hf7-5O-gD3.placeholder" = "Muaj";
+
+/* Class = "UILabel"; text = "Fill Card Details"; ObjectID = "JZW-M0-yQP"; */
+"JZW-M0-yQP.text" = "Vendosni detajet e kartës";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "L9t-gA-E6x"; */
+"L9t-gA-E6x.text" = "Email:";
+
+/* Class = "UITextField"; placeholder = "Nombre"; ObjectID = "M6r-ZH-9cv"; */
+"M6r-ZH-9cv.placeholder" = "Emri";
+
+/* Class = "UILabel"; text = "Phone Number:"; ObjectID = "MGk-RD-Lzo"; */
+"MGk-RD-Lzo.text" = "Nr. i telefonit:";
+
+/* Class = "UITextField"; placeholder = "000"; ObjectID = "N1P-uI-Q3L"; */
+"N1P-uI-Q3L.placeholder" = "000";
+
+/* Class = "UILabel"; text = "Expira:"; ObjectID = "NNV-0z-ywZ"; */
+"NNV-0z-ywZ.text" = "Skadenca:";
+
+/* Class = "UIButton"; normalTitle = "Add Card"; ObjectID = "OAM-O4-feA"; */
+"OAM-O4-feA.normalTitle" = "Shto kartë";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "OBb-Xr-7qI"; */
+"OBb-Xr-7qI.normalTitle" = "Fshi";
+
+/* Class = "UILabel"; text = "*Nota: Puedes modificar los datos de la tarjeta para realizar diferentes pruebas."; ObjectID = "R16-Eh-aCh"; */
+"R16-Eh-aCh.text" = "* Shënim: Ju mund të modifikoni detajet e kartës për të kryer teste të ndryshme.";
+
+/* Class = "UITextField"; placeholder = "Número de Tarjeta"; ObjectID = "REd-7y-ksF"; */
+"REd-7y-ksF.placeholder" = "Numri i kartës";
+
+/* Class = "UIButton"; normalTitle = "CHOOSE PAYMENT RECEIPT"; ObjectID = "SYj-du-lYV"; */
+"SYj-du-lYV.normalTitle" = "Zgjidh faturën e pagesës";
+
+/* Class = "UILabel"; text = "Payment Details:"; ObjectID = "UUz-Ng-s8h"; */
+"UUz-Ng-s8h.text" = "Detajet e pagesës:";
+
+/* Class = "UIButton"; normalTitle = "Add Card"; ObjectID = "bKC-x8-Rjj"; */
+"bKC-x8-Rjj.normalTitle" = "Shto kartë";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bvK-OG-kUz"; */
+"bvK-OG-kUz.text" = "Etiketa";
+
+/* Class = "UITextField"; placeholder = "Año"; ObjectID = "coc-zf-1P6"; */
+"coc-zf-1P6.placeholder" = "Viti";
+
+/* Class = "UILabel"; text = "Fill Card Details"; ObjectID = "dsu-lV-Ifu"; */
+"dsu-lV-Ifu.text" = "Vendos detajet e kartës";
+
+/* Class = "UILabel"; text = "Datos de salida:"; ObjectID = "eYp-h4-SMA"; */
+"eYp-h4-SMA.text" = "Detajet e pagesës";
+
+/* Class = "UILabel"; text = "Select Card for Payment"; ObjectID = "nDa-5a-K1Z"; */
+"nDa-5a-K1Z.text" = "Zgjidh kartën për pagesën";
+
+/* Class = "UILabel"; text = "Expiry"; ObjectID = "nk4-m5-7PH"; */
+"nk4-m5-7PH.text" = "Skadenca";
+
+/* Class = "UILabel"; text = "Salida de Token"; ObjectID = "oJx-oQ-EA8"; */
+"oJx-oQ-EA8.text" = "Paguaj me kredite";
+
+/* Class = "UIButton"; normalTitle = "Pay Now"; ObjectID = "v9M-Pe-tem"; */
+"v9M-Pe-tem.normalTitle" = "Paguaj tani";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vav-zn-cou"; */
+"vav-zn-cou.text" = "Etiketa";
+
+/* Class = "UILabel"; text = "Card Holder"; ObjectID = "xPu-o8-MWx"; */
+"xPu-o8-MWx.text" = "Kartë mbajtësi";

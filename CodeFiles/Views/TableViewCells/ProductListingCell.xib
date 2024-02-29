@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="OpenSans-Regular.ttf">
+            <string>OpenSans</string>
+        </array>
+        <array key="PROXIMANOVA-LIGHT.OTF">
+            <string>ProximaNova-Light</string>
+        </array>
+        <array key="PROXIMANOVA-REGULAR.OTF">
+            <string>ProximaNova-Regular</string>
+        </array>
+        <array key="PROXIMANOVA-SEMIBOLD.OTF">
+            <string>ProximaNova-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="ProductListingCell" rowHeight="100" id="OZK-Id-N7u" customClass="ProductListingCell" customModule="YammFood" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="170"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="OZK-Id-N7u" id="UAZ-Xa-HSd">
+                <rect key="frame" x="0.0" y="0.0" width="600" height="170"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Xfg-LA-Vtk" customClass="ThemeView" customModule="YammFood" customModuleProvider="target">
+                        <rect key="frame" x="16" y="4" width="568" height="128.5"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="12" translatesAutoresizingMaskIntoConstraints="NO" id="5eA-8J-JI6">
+                                <rect key="frame" x="8" y="10" width="556" height="108.5"/>
+                                <subviews>
+                                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="VV3-0k-pc5">
+                                        <rect key="frame" x="0.0" y="14.5" width="106.5" height="80"/>
+                                        <subviews>
+                                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="jvH-hj-5Ku">
+                                                <rect key="frame" x="0.0" y="0.0" width="106.5" height="80"/>
+                                                <color key="backgroundColor" red="0.90196078431372551" green="0.90196078431372551" blue="0.90196078431372551" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            </imageView>
+                                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Out Of Stock" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="a66-Vg-L6s" customClass="SKThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="60" width="106.5" height="20"/>
+                                                <color key="backgroundColor" red="0.92941176469999998" green="0.29411764709999999" blue="0.2470588235" alpha="0.73999999999999999" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="height" constant="20" id="UQd-e6-ive"/>
+                                                </constraints>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                <nil key="highlightedColor"/>
+                                            </label>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="mAx-OC-UEJ">
+                                                <rect key="frame" x="0.0" y="0.0" width="106.5" height="80"/>
+                                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <connections>
+                                                    <action selector="btnClickWithSender:" destination="OZK-Id-N7u" eventType="touchUpInside" id="UDw-ML-23H"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstItem="mAx-OC-UEJ" firstAttribute="top" secondItem="VV3-0k-pc5" secondAttribute="top" id="11x-t2-zRJ"/>
+                                            <constraint firstItem="jvH-hj-5Ku" firstAttribute="leading" secondItem="VV3-0k-pc5" secondAttribute="leading" id="87k-vr-2Q0"/>
+                                            <constraint firstItem="mAx-OC-UEJ" firstAttribute="leading" secondItem="VV3-0k-pc5" secondAttribute="leading" id="Ahy-D8-oHk"/>
+                                            <constraint firstAttribute="height" constant="80" id="AzW-ZL-wgq"/>
+                                            <constraint firstAttribute="trailing" secondItem="a66-Vg-L6s" secondAttribute="trailing" id="Drm-EY-PG8"/>
+                                            <constraint firstAttribute="bottom" secondItem="mAx-OC-UEJ" secondAttribute="bottom" id="ETv-y9-qzG"/>
+                                            <constraint firstAttribute="trailing" secondItem="mAx-OC-UEJ" secondAttribute="trailing" id="GGt-ss-r5b"/>
+                                            <constraint firstItem="a66-Vg-L6s" firstAttribute="leading" secondItem="VV3-0k-pc5" secondAttribute="leading" id="Gw9-DF-1iv"/>
+                                            <constraint firstAttribute="trailing" secondItem="jvH-hj-5Ku" secondAttribute="trailing" id="I5T-k9-lAf"/>
+                                            <constraint firstAttribute="width" secondItem="VV3-0k-pc5" secondAttribute="height" multiplier="4:3" id="T4Z-aL-cRY"/>
+                                            <constraint firstAttribute="bottom" secondItem="a66-Vg-L6s" secondAttribute="bottom" id="aQg-CS-cgc"/>
+                                            <constraint firstItem="jvH-hj-5Ku" firstAttribute="top" secondItem="VV3-0k-pc5" secondAttribute="top" id="sr1-AQ-9wc"/>
+                                            <constraint firstAttribute="bottom" secondItem="jvH-hj-5Ku" secondAttribute="bottom" id="tb6-cm-2VA"/>
+                                        </constraints>
+                                    </view>
+                                    <stackView opaque="NO" contentMode="scaleToFill" alignment="top" translatesAutoresizingMaskIntoConstraints="NO" id="a57-ty-tQO">
+                                        <rect key="frame" x="118.5" y="0.0" width="437.5" height="108.5"/>
+                                        <subviews>
+                                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="fOe-TJ-3Jn">
+                                                <rect key="frame" x="0.0" y="0.0" width="405.5" height="108.5"/>
+                                                <subviews>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="BcL-P2-7Br">
+                                                        <rect key="frame" x="0.0" y="0.0" width="405.5" height="19.5"/>
+                                                        <subviews>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="dsafdsffds f ds fds f ds f dsf" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="XzT-eK-6c8" customClass="SKThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                                                <rect key="frame" x="0.0" y="0.0" width="405.5" height="19.5"/>
+                                                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="16"/>
+                                                                <color key="textColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                            <stackView hidden="YES" opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KJf-UF-8fp">
+                                                                <rect key="frame" x="405.5" y="0.0" width="40" height="19.5"/>
+                                                                <subviews>
+                                                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="starRating" translatesAutoresizingMaskIntoConstraints="NO" id="AYK-s9-4Tr">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="18" height="19.5"/>
+                                                                        <constraints>
+                                                                            <constraint firstAttribute="width" constant="18" id="iBV-Mq-kz6"/>
+                                                                        </constraints>
+                                                                    </imageView>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KzF-i8-kjk">
+                                                                        <rect key="frame" x="18" y="0.0" width="22" height="19.5"/>
+                                                                        <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="14"/>
+                                                                        <color key="textColor" systemColor="systemOrangeColor" red="1" green="0.58431372550000005" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                    </label>
+                                                                </subviews>
+                                                                <constraints>
+                                                                    <constraint firstAttribute="width" constant="40" id="IfB-GS-NK9"/>
+                                                                </constraints>
+                                                                <viewLayoutGuide key="safeArea" id="zB9-Zc-8ZF"/>
+                                                            </stackView>
+                                                        </subviews>
+                                                    </stackView>
+                                                    <label opaque="NO" userInteractionEnabled="NO" alpha="0.80000000000000004" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="dfsfsdfdsf" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="L5f-7v-W7r" customClass="SKThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                                        <rect key="frame" x="0.0" y="25.5" width="405.5" height="12"/>
+                                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                                        <nil key="textColor"/>
+                                                        <nil key="highlightedColor"/>
+                                                        <userDefinedRuntimeAttributes>
+                                                            <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                                        </userDefinedRuntimeAttributes>
+                                                    </label>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="nvg-mp-HVW">
+                                                        <rect key="frame" x="0.0" y="43.5" width="405.5" height="16"/>
+                                                        <subviews>
+                                                            <view contentMode="scaleToFill" horizontalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" translatesAutoresizingMaskIntoConstraints="NO" id="KTe-V0-wYw" customClass="CosmosView" customModule="Cosmos">
+                                                                <rect key="frame" x="0.0" y="0.0" width="88" height="16"/>
+                                                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                                <userDefinedRuntimeAttributes>
+                                                                    <userDefinedRuntimeAttribute type="number" keyPath="starSize">
+                                                                        <real key="value" value="16"/>
+                                                                    </userDefinedRuntimeAttribute>
+                                                                    <userDefinedRuntimeAttribute type="number" keyPath="starMargin">
+                                                                        <real key="value" value="2"/>
+                                                                    </userDefinedRuntimeAttribute>
+                                                                    <userDefinedRuntimeAttribute type="color" keyPath="emptyColor">
+                                                                        <color key="value" red="0.84313725490000002" green="0.84313725490000002" blue="0.84313725490000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                    </userDefinedRuntimeAttribute>
+                                                                    <userDefinedRuntimeAttribute type="color" keyPath="emptyBorderColor">
+                                                                        <color key="value" red="0.84313725490000002" green="0.84313725490000002" blue="0.84313725490000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                    </userDefinedRuntimeAttribute>
+                                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="updateOnTouch" value="NO"/>
+                                                                </userDefinedRuntimeAttributes>
+                                                            </view>
+                                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="fR0-xu-Sam">
+                                                                <rect key="frame" x="92" y="0.0" width="313.5" height="16"/>
+                                                                <subviews>
+                                                                    <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="0 Reviews" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="AsH-zF-UHA" customClass="ThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                                                        <rect key="frame" x="0.0" y="0.0" width="54" height="16"/>
+                                                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                        <userDefinedRuntimeAttributes>
+                                                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblTilte" value="YES"/>
+                                                                        </userDefinedRuntimeAttributes>
+                                                                    </label>
+                                                                </subviews>
+                                                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                                <constraints>
+                                                                    <constraint firstItem="AsH-zF-UHA" firstAttribute="leading" secondItem="fR0-xu-Sam" secondAttribute="leading" id="8ON-k4-BPI"/>
+                                                                    <constraint firstItem="AsH-zF-UHA" firstAttribute="top" secondItem="fR0-xu-Sam" secondAttribute="top" id="St2-Al-Bsv"/>
+                                                                    <constraint firstAttribute="bottom" secondItem="AsH-zF-UHA" secondAttribute="bottom" id="qyN-Sg-Yeu"/>
+                                                                </constraints>
+                                                            </view>
+                                                        </subviews>
+                                                        <constraints>
+                                                            <constraint firstAttribute="height" constant="16" id="cqA-fB-aQ4"/>
+                                                        </constraints>
+                                                    </stackView>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="fNK-Rt-JaW">
+                                                        <rect key="frame" x="0.0" y="65.5" width="405.5" height="13"/>
+                                                        <subviews>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" text="dsfsdf" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bfX-Yw-q4l" customClass="SKThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                                                <rect key="frame" x="0.0" y="0.0" width="35.5" height="13"/>
+                                                                <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="13"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                                <userDefinedRuntimeAttributes>
+                                                                    <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                                                </userDefinedRuntimeAttributes>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" alpha="0.80000001192092896" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="dfsfsdfdsf" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0K3-pu-ghX" customClass="SKThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                                                <rect key="frame" x="41.5" y="0.0" width="364" height="13"/>
+                                                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                                                <nil key="textColor"/>
+                                                                <nil key="highlightedColor"/>
+                                                                <userDefinedRuntimeAttributes>
+                                                                    <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                                                </userDefinedRuntimeAttributes>
+                                                            </label>
+                                                        </subviews>
+                                                    </stackView>
+                                                    <label hidden="YES" opaque="NO" userInteractionEnabled="NO" alpha="0.69999999999999996" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="fdsfsd" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="F2L-AN-cCi" customClass="SKThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                                        <rect key="frame" x="0.0" y="81.5" width="405.5" height="0.0"/>
+                                                        <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                                                        <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                        <nil key="highlightedColor"/>
+                                                        <userDefinedRuntimeAttributes>
+                                                            <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                                        </userDefinedRuntimeAttributes>
+                                                    </label>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" alignment="bottom" translatesAutoresizingMaskIntoConstraints="NO" id="QP7-mc-FqL">
+                                                        <rect key="frame" x="0.0" y="84.5" width="405.5" height="24"/>
+                                                        <subviews>
+                                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="eBh-8m-V6P" customClass="GMStepper" customModule="YammFood" customModuleProvider="target">
+                                                                <rect key="frame" x="0.0" y="0.0" width="104" height="24"/>
+                                                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <constraints>
+                                                                    <constraint firstAttribute="height" constant="24" id="sIa-3v-eXv"/>
+                                                                </constraints>
+                                                                <userDefinedRuntimeAttributes>
+                                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="showIntegerIfDoubleIsInteger" value="YES"/>
+                                                                    <userDefinedRuntimeAttribute type="color" keyPath="buttonsTextColor">
+                                                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                    </userDefinedRuntimeAttribute>
+                                                                    <userDefinedRuntimeAttribute type="color" keyPath="buttonsBackgroundColor">
+                                                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                    </userDefinedRuntimeAttribute>
+                                                                    <userDefinedRuntimeAttribute type="color" keyPath="labelTextColor">
+                                                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.24722960992907803" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                    </userDefinedRuntimeAttribute>
+                                                                </userDefinedRuntimeAttributes>
+                                                            </view>
+                                                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Esi-ho-18x">
+                                                                <rect key="frame" x="104" y="0.0" width="277.5" height="24"/>
+                                                                <subviews>
+                                                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="customisable" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="lgM-hx-CoC">
+                                                                        <rect key="frame" x="8" y="0.0" width="269.5" height="24"/>
+                                                                        <fontDescription key="fontDescription" name="OpenSans" family="Open Sans" pointSize="13"/>
+                                                                        <nil key="textColor"/>
+                                                                        <nil key="highlightedColor"/>
+                                                                        <userDefinedRuntimeAttributes>
+                                                                            <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="customisable"/>
+                                                                        </userDefinedRuntimeAttributes>
+                                                                    </label>
+                                                                </subviews>
+                                                                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                                                <constraints>
+                                                                    <constraint firstItem="lgM-hx-CoC" firstAttribute="leading" secondItem="Esi-ho-18x" secondAttribute="leading" constant="8" id="2s8-iG-Llm"/>
+                                                                    <constraint firstAttribute="trailing" secondItem="lgM-hx-CoC" secondAttribute="trailing" id="3XR-r3-6Al"/>
+                                                                    <constraint firstItem="lgM-hx-CoC" firstAttribute="top" secondItem="Esi-ho-18x" secondAttribute="top" id="CV6-Cr-ohD"/>
+                                                                    <constraint firstAttribute="bottom" secondItem="lgM-hx-CoC" secondAttribute="bottom" id="djI-RM-eAU"/>
+                                                                    <constraint firstAttribute="height" constant="24" id="o8t-vh-h0X"/>
+                                                                </constraints>
+                                                            </view>
+                                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="BQJ-zG-ULK" customClass="ThemeButton" customModule="YammFood" customModuleProvider="target">
+                                                                <rect key="frame" x="381.5" y="0.0" width="24" height="24"/>
+                                                                <constraints>
+                                                                    <constraint firstAttribute="height" constant="24" id="lwV-VR-BKv"/>
+                                                                    <constraint firstAttribute="width" constant="24" id="tBh-kl-SOV"/>
+                                                                </constraints>
+                                                                <state key="normal" image="ic_delete"/>
+                                                                <userDefinedRuntimeAttributes>
+                                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="btnTintFlag" value="YES"/>
+                                                                </userDefinedRuntimeAttributes>
+                                                                <connections>
+                                                                    <action selector="deleteCartWithSender:" destination="OZK-Id-N7u" eventType="touchUpInside" id="2w0-M2-oJo"/>
+                                                                </connections>
+                                                            </button>
+                                                        </subviews>
+                                                    </stackView>
+                                                </subviews>
+                                            </stackView>
+                                            <button opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="1000" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aJH-6M-Q4R">
+                                                <rect key="frame" x="405.5" y="0.0" width="32" height="24"/>
+                                                <constraints>
+                                                    <constraint firstAttribute="width" constant="32" id="jnU-Mm-DYn"/>
+                                                </constraints>
+                                                <inset key="contentEdgeInsets" minX="4" minY="0.0" maxX="4" maxY="0.0"/>
+                                                <state key="normal" image="ic_favorite_white_normal-1"/>
+                                                <state key="selected" image="ic_favorite_white_pressed"/>
+                                                <connections>
+                                                    <action selector="addToFav:" destination="OZK-Id-N7u" eventType="touchUpInside" id="WkB-p4-3eF"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Xcr-4j-nIH">
+                                <rect key="frame" x="126.5" y="10" width="405.5" height="78.5"/>
+                                <connections>
+                                    <action selector="btnClickWithSender:" destination="OZK-Id-N7u" eventType="touchUpInside" id="FCZ-op-bSw"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.97647058819999999" green="0.97647058819999999" blue="0.97647058819999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="Xcr-4j-nIH" firstAttribute="trailing" secondItem="fOe-TJ-3Jn" secondAttribute="trailing" id="2nj-dl-B0z"/>
+                            <constraint firstItem="Xcr-4j-nIH" firstAttribute="bottom" secondItem="fNK-Rt-JaW" secondAttribute="bottom" id="N0Q-su-hcc"/>
+                            <constraint firstAttribute="trailing" secondItem="5eA-8J-JI6" secondAttribute="trailing" constant="4" id="RoY-65-hyd"/>
+                            <constraint firstItem="Xcr-4j-nIH" firstAttribute="leading" secondItem="fOe-TJ-3Jn" secondAttribute="leading" id="bea-ES-Ukn"/>
+                            <constraint firstItem="Xcr-4j-nIH" firstAttribute="top" secondItem="fOe-TJ-3Jn" secondAttribute="top" id="gVs-VL-BXe"/>
+                            <constraint firstAttribute="bottom" secondItem="5eA-8J-JI6" secondAttribute="bottom" constant="10" id="iDJ-hU-V9j"/>
+                            <constraint firstItem="5eA-8J-JI6" firstAttribute="leading" secondItem="Xfg-LA-Vtk" secondAttribute="leading" constant="8" id="tFH-BM-6a3"/>
+                            <constraint firstItem="5eA-8J-JI6" firstAttribute="top" secondItem="Xfg-LA-Vtk" secondAttribute="top" constant="10" id="wzg-sr-WcL"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="4"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                                <size key="value" width="0.0" height="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                                <real key="value" value="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowRadius">
+                                <real key="value" value="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="isCellView" value="YES"/>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                                <real key="value" value="8"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                    <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SmJ-Ho-fcO">
+                        <rect key="frame" x="16" y="169" width="568" height="1"/>
+                        <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="yvM-rL-Ce6"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="Xfg-LA-Vtk" firstAttribute="leading" secondItem="UAZ-Xa-HSd" secondAttribute="leading" constant="16" id="27a-lY-LcB"/>
+                    <constraint firstAttribute="trailing" secondItem="Xfg-LA-Vtk" secondAttribute="trailing" constant="16" id="3G3-sv-xbm"/>
+                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="Xfg-LA-Vtk" secondAttribute="bottom" constant="4" id="IWv-4q-ml6"/>
+                    <constraint firstAttribute="bottom" secondItem="SmJ-Ho-fcO" secondAttribute="bottom" id="MdQ-bP-MM6"/>
+                    <constraint firstItem="Xfg-LA-Vtk" firstAttribute="top" secondItem="UAZ-Xa-HSd" secondAttribute="top" constant="4" id="R9R-Qt-MXM"/>
+                    <constraint firstAttribute="trailing" secondItem="SmJ-Ho-fcO" secondAttribute="trailing" constant="16" id="bLl-Fw-bLF"/>
+                    <constraint firstItem="SmJ-Ho-fcO" firstAttribute="leading" secondItem="UAZ-Xa-HSd" secondAttribute="leading" constant="16" id="vwq-6V-eOn"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.94117647058823528" green="0.94117647058823528" blue="0.94117647058823528" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="btnDelete" destination="BQJ-zG-ULK" id="60O-5b-kGx"/>
+                <outlet property="btnFav" destination="aJH-6M-Q4R" id="SWf-a2-ecN"/>
+                <outlet property="imgProduct" destination="jvH-hj-5Ku" id="dIi-rN-3tG"/>
+                <outlet property="labelCustomization" destination="lgM-hx-CoC" id="Ik2-CU-19e"/>
+                <outlet property="labelOfferPrice" destination="0K3-pu-ghX" id="bjA-sX-V5g"/>
+                <outlet property="lblLine" destination="SmJ-Ho-fcO" id="NM6-UP-KS9"/>
+                <outlet property="lblOutOfStock" destination="a66-Vg-L6s" id="aLR-N9-0vs"/>
+                <outlet property="lblPrice" destination="bfX-Yw-q4l" id="H7I-8V-mbW"/>
+                <outlet property="lblQty" destination="F2L-AN-cCi" id="I38-US-a9M"/>
+                <outlet property="lblSupplierName" destination="L5f-7v-W7r" id="7Wn-W0-FrZ"/>
+                <outlet property="lblTitle" destination="XzT-eK-6c8" id="DgQ-7Z-QiG"/>
+                <outlet property="lblTotalReviews" destination="AsH-zF-UHA" id="8Ld-te-HfA"/>
+                <outlet property="leadingBGView" destination="27a-lY-LcB" id="oJT-nY-bz4"/>
+                <outlet property="ratingBgView" destination="KTe-V0-wYw" id="hEy-E4-Dq6"/>
+                <outlet property="rating_label" destination="KzF-i8-kjk" id="v2y-y5-pUv"/>
+                <outlet property="stackProduct" destination="QP7-mc-FqL" id="GZr-8D-5NC"/>
+                <outlet property="stepper" destination="eBh-8m-V6P" id="jez-op-zjT"/>
+                <outlet property="viewBG" destination="Xfg-LA-Vtk" id="jPP-JG-CwP"/>
+                <outlet property="viewRatingFiveStar" destination="nvg-mp-HVW" id="NYW-La-d9I"/>
+                <outlet property="viewStarRating" destination="KJf-UF-8fp" id="acE-yW-e6D"/>
+            </connections>
+            <point key="canvasLocation" x="170" y="255"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic_delete" width="24" height="24"/>
+        <image name="ic_favorite_white_normal-1" width="24" height="24"/>
+        <image name="ic_favorite_white_pressed" width="24" height="24"/>
+        <image name="starRating" width="16" height="16"/>
+    </resources>
+</document>

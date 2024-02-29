@@ -1,0 +1,4258 @@
+/////*
+//// Localizable.strings
+//// Clikat Supplier
+////
+//// Created by Night Reaper on 08/04/16.
+//// Copyright © 2016 Gagan. All rights reserved.
+//// */
+////
+////"SIGN_IN_WITH_APPLE" = "تسجيل الدخول باستخدام Apple";
+////"AppName" = "Bletani"; //"Thena"
+//////Supplier Related
+////"Go to Home" = "اذهب إلى الصفحة الرئيسية";
+////"Service Charge" = "رسوم الخدمة";
+////"Min. Service Time" = "الحد الادنى لمدة الخدمة";
+////"Visiting Charges" = "رسوم الفحص";
+////"Min. Delivery Time" = "الحد الادنى لمدة التوصيل";
+////"Opens at" = "ساعات العمل ";
+////"PasswordChangedSuccess" = "تم تغيير الرقم السري بنجاح";
+////"Enter instructions here" = "أدخل التعليمات هنا";
+//////Order Flow
+////"Please select an Address" = "الرجاء اختيار العنوان";
+////"Credit/Debit card" = "بطاقة الإئتمان/الصراف";
+////"Your Cart has no items.Please add items to cart to Proceed." = "سلة المشتريات فارغة. الرجاء اضافة منتجات للاستمرار";
+////"Landmark" = "معلم";
+////"Address Line First" = "العنوان 1";
+////"Address Line Second" = "العنوان 2";
+////"Pincode" = "رمز الدولة";
+////"Delivery Address" = "عنوان التوصيل";
+////"Enter your details." = "أدخل بياناتك";
+////"Delivery charges applicable accordingly" = "تنطبق رسوم التوصيل إن وجدت";
+////"Delivery charges" = "رسوم التوصيل";
+////"Select Time and Date" = "اختار اليوم والوقت";
+////"Please select a booking schedule and time" = "يرجى تحديد موعد جدولة الحجز والوقت";
+////"Select booking time" = "اختار وقت الحجز";
+////"ReOrdering will clear you cart" = "سيتم مسح جميع المشتريات في السلة في حالة اعادة الطلب. للاستمرار اضغط هنا";
+////
+////
+//////Order Related
+////
+////"PENDING" = "في الإنتظار ";
+////"DELIVERED" = "سيتم التوصيل";
+////"CONFIRMED" = "تم التاكيد";
+////"FEEDBACKGIVEN" = "تم اعطاء التعليق";
+////"REJECTED" = "تم الرفض";
+////"SHIPPED" = "تم ارساله";
+////"INPROCESS" = "Inprocess";
+////"NEARBY" = "قريب منك";
+////"TRACKED" = "تم تتبع الطلب";
+////"CUSTOMER CANCELLED" = "تم اللغاء الطلب";
+////"SCHEDULED" = "تمت جدولة الطلب";
+////
+////"Order Details" = "تفاصيل الطلب";
+////"items" = "منتجات";
+////"Items" = "منتجات";
+////
+////"REORDER" = "اعادة الطلب";
+////"TRACK" = "تتبع الطلب";
+////"BOOKED" = "تم الحجز";
+////"CANCEL ORDER" = "الغاء الطلب";
+////"CONFIRM ORDER" = "تأكيد الطلب";
+////
+////"Monthly" = "شهريا";
+////"Weekly" = "اسبوعيا";
+////"Pickup" = "استلام";
+////"Item" = "بند";
+////
+////
+////
+//////Login SignUp
+////"Please enter your email address" = "الرجاء ادخال بريدك الالكتروني";
+////"Please enter a valid email address" = "الرجاء قم بإدخال بريد الكتروني صحيح";
+////"Please enter your password" = "الرجاء ادخال كلمة المرور";
+////"Password should be minimum 6 characters." = "يجب أن تكون كلمة المرور على الأقل 6 أحرف";
+////"Session expired login to continue" = "تم انتهاء صلاحية تسجيل دخولك / الرجاء تسجيل الدخول للمتابعه";
+////"OTP Sent" = "تم ارسال رمز التحقق";
+////"Select picture" = "اختار صورة";
+////"Please select your profile picture" = "الرجاء اختيار صورة ملفك الشخصي";
+////"Please enter your name" = "الرجاء ادخال اسمك";
+////"Camera" = "كاميرا";
+////"Photo Library" = "البوم الصور";
+////
+////
+////
+////// Side Menu Options
+////"Home" = "الرئيسية";
+////"Live support" = "المحادثة المباشرة";
+////"Cart" = "سلة المشتريات";
+////"Promotions" = "العروض";
+////"Notifications" = "التنبيهات";
+////
+////"My Account" = "حسابي";
+////
+////"My favorites" = "المفضلة";
+////"Order history" = "الطلبات السابقة";
+////"Track my order" = "تتبع الطلب";
+////"Rate my order" = "تقييم الطلب";
+////"Upcoming orders" = "الطلبات المجدولة";
+////"Loyality points" = "نقاط الولاء";
+////"Share app" = "شارك التطبيق";
+////"Share App" = "شارك التطبيق";
+////"Settings" = "الاعدادات";
+////"Guest" = "ضيف";
+////"Welcome" = "اهلا وسهلا";
+////"Points" = "نقاط";
+////"Daily Deals" = "الصفقات اليومية";
+////
+////"Essentials, delivered at your door steps" = "الأساسيات ، يتم توصيلها عند عتبة بابك";
+////"Health and medicine just a click away." = "الصحة والطب فقط نقرة واحدة.";
+////"Distance is no longer a problem." = "المسافة لم تعد مشكلة.";
+////
+////// Home Screen Options
+////"Grocery" = "سوبرماركت";
+////"Laundry" = "المغسلة";
+////"Household" = "الصيانة";
+////"Flowers" = "الزهور";
+////"Fitness" = "الياقة";
+////"Photography" = "التصوير";
+////"Baby sitter" = "رعاية الاطفال";
+////"Cleaning" = "التنظيف";
+////"Party" = "الحفلات";
+////"Beauty salon" = "مركز التجميل";
+////"Medicines" = "ادوية";
+////"Water delivery" = "توصيل الماء";
+////"Packages" = "الباقات المميزه";
+////
+////
+////"OK" = "تم";
+////"Save" = "حفظ";
+////"Cancel" = "إلغاء";
+////"CANCEL" = "إلغاء";
+////"Choose booking cycle" = "اختيار دورة الحجز";
+////"reviews" = " التقيمات";
+////"USD" = "درهم ";
+////"mins" = " دقائق";
+////"Results for " = "النتائج ";
+////"days" = "الايام";
+////"Hours" = "الساعات";
+////
+////
+////
+//////Filter
+////"Discoverability" = "";
+////"Supplier Type" = "نوع المورد";
+////"Rating" = "تقييم";
+////
+////
+////"1 Star" = "نحمة 1";
+////"2 Star" = "نجمة 2";
+////"3 Star" = "نجمة 3";
+////"4 Star and above" = "4 نجوم واكثر";
+////
+////
+////"Gold" = "ذهبي";
+////"Silver" = "فضي";
+////"Bronze" = "برونز";
+////
+////"Cash on delivery" = "الدفع عند إستلام الطلب";
+////"Card" = "بطاقة";
+////"Both" = "الجميع";
+////
+////"Online" = "مفتوح";
+////"Busy" = "مشغول";
+////"Closed" = "مغلق";
+////
+////"Cancelled" = "ملغى";
+////
+////
+//////Settings
+////"Change Password" = "تغيير كلمة السر";
+////"Notifications Language" = "لغة التنبيهات";
+////"Manage Address" = "التحكم بالعناوين";
+////"Logout" = "تسجيل الخروج";
+////"Select notification language" = "اختيار لغة التنبيهات";
+////"English" = "انجليزي";
+////"Arabic" = "عربي";
+////
+//////Loyalty Points
+////
+////"You haven't earned any loyalty points yet" = "لم تكسب اي نقاط الولاء الى الان";
+////"Select produts from same supplier" = "يرجى تحديد المنتجات من نفس المورد";
+////"No Remarks" = "No Remarks";
+////
+//////Laundry Flow
+////"When do you want the service" = "الرجاء اختيار موعد الخدمة";
+////"Pickup location" = "موقع الاستلام";
+////"Choose location" = "موقع الاستلام";
+////"Select pickup date and time" = "الرجاء اختيار تاريخ و وقت الاستلام";
+////
+////"Are you sure you want to delete this address" = "هل أنت متأكد أنك تريد حذف هذا العنوان";
+////
+//////Location Selection
+////"Select Country" = "اختار الدولة";
+////"Select City" = "اختار المدينة";
+////"Select Zone" = "اختار النطاق";
+////"Select Area" = "Sاختار المنطقة";
+////
+////"Please select all fields above" = "يرجى تحديد كافة الحقول أعلاه";
+////"Please select a country" = "الرجاء اختيار الدولة";
+////"Please select a city" = "الرجاء اختيار المدينة";
+////
+//////Delivery Address Cell
+////
+////"Please fill all details" = "الرجاء ملئ جميع التفاصيل";
+////"Please enter valid Pincode" = "الرجاء ادخال رمز الدولة الصحيح";
+////
+//////Change Password
+////"Old Password" = "السابقة";
+////"New Password" = "كلمة المرور الجديدة";
+////"Confirm Password" = "تاكيد كلمة المرور";
+////"New Password must not be same as old password" = "يجب أن لا تكون كلمة المرور الجديدة نفس كلمة المرور القديمة";
+////"Passwords do not match" = "كلمة المرور غير مطابقة";
+////"Forgot Password" = "نسيت كلمة المرور";
+////"Password recovery has been sent to your email id" = "تم ارسال كلمة المرور الجديدة الى بريدك الالكتروني";
+//////Share text
+////"The Leading Online Home Services In UAE" = "اول واكبر منصه اونلاين للخدمات المنزلية في دولة الامارات العربية المتحدة.. clikat://clikat.com/";
+//////Share text for yummy
+////"ShareAppYummy"  = "Thought you might like this app to make life more simpler:  https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+//////API Validation
+////"Please check your internet connection" = "الرجاء التحقق من اتصال الإنترنت الخاص بك";
+////
+//////Sweet Alert
+////"Cancel Order" = "ألغاء الطلب";
+////"Success" = "تم بنجاح";
+////"Do you really want to cancel this order" = "هل تريد إلغاء الطلب؟";
+////"You have cancelled your order successfully" = "لقد تم إلغاء الطلب بنجاح";
+////"LogOut" = "تسجيل الخروج";
+////"Are you sure you want to logout" = "هل انت متاكد من تسجيل الخروج؟";
+////"You are successfully logged out" = "تم تسجيل الخروج بنجاح";
+////
+////"Please enter valid country code followed by phone number" = "الرجاء ادخال رمز الدولة يتبعه رقم الهاتف";
+////
+////"You can add only " = "You can add only ";
+////"Agent is not assigned to this order" = "Agent is not assigned to this order";
+//////Delviery Screen
+////"Delivery Speed" = "سرعة التوصيل";
+////"Sorry… Your Order is Below Minimum Order Price." = "اجمالي الطلب اقل من الحد الادنى";
+////
+////"Recommended" = "ننصح به";
+////"Offers" = "الخصومات";
+////
+////"Your order have been placed successfully" = "تم قبول طلبك بنجاح";
+////"Order placed successfully" = "تم انشاء الطلب";
+////"Your order have been sheduled successfully" = "تم جدوله طلبك بنجاح";
+////
+////"Are you sure" = "هل انت متاكد؟";
+////"Changing the language will clear your cart." = "سيختفي طلبك الحالي في السله في حال تغيير اللغة. هل تريد الاستمرار؟";
+////
+//////Live Support
+////"Typing" = "يكتب";
+////"Offline" = "غير متواجد";
+////
+////"Email" = "بريد الكتروني";
+////
+////"Not rated yet" = "لا توجد تقييمات";
+////"Search" = "بحث";
+////"Other" = "اخرى";
+////
+//////MARK: - After sending localization file
+//////TODO: - Localize
+////
+////"Status" = "الحالة";
+////"Loyalty Points Type" = "فئة نقاط الولاء";
+////"Payment Method" = "طريقة الدفع";
+////"Terms and Conditions" = "الشروط والاحكام";
+////"About Us" = "من نحن";
+////"Sort" = "تصنيف";
+////"Open" = "مفتوح";
+////"Adding products from diffrent suppliers will clear your cart" = "سيتم إلغاء سلة المشتريات الحالية في حالة اضافة منتجات من مورد خدمة اخر ";
+////"Min. Order Amount" = "الحد الادنى للطلب";
+////"Min. Delviery Time" = "الحد الادنى لوقت تسليم الطلب";
+////"HOME SERVICE" = "الخدمة المنزلية";
+////"AT PLACE SERVICE" = "في مكان الخدمة";
+////"Select service" = "اختر الخدمة";
+////"Ladies Beauty Salon" = "صالون تجميل نسائي";
+////"City" = "المدينة";
+////"Area" = "المنطقة";
+////"House No" = "رقم المنزل/رقم الشقة";
+////"Compare Products" = "مقارنة المنتجات";
+////"Somewhere Somehow Something Went Wrong" = "بطريقة ما, في مكان ما, حدث خطأ";
+////"Adding products from promotions will clear your cart" = "سيتم إلغاء سلة المشتريات الحالية في حالة اضافة منتجات من العروض ";
+////
+////"Please enter your house no." = "الرجاء ادخال رقم المنزل/رقم الشقة";
+////"Please enter your building name" = "الرجاء إدخال اسم المبنى";
+////"Please select your location" = "الرجاء إختيار موقعك";
+////"Please enter a landmark name" = "الرجاء إدخال اسم المعلم";
+////"Please enter your city" = "الرجاء إدخال مدينتك";
+////"Please enter your counrty" = "الرجاء إدخال دولتك";
+////
+////"My Orders" = "طلباتي";
+////"Not Available" = " غير متوفر ";
+////"Your Order will be confirmed during next supplier working hours/day." = "سيتم تأكيد طلبك خلال ساعات \ أيام العمل المقبله ";
+////
+////"Changing the current area will clear you cart" = "تغيير عنوانك الحالي سوف يقوم بإلغاء الطلبات في سلتك الحالية";
+////"Change pick up time no suppliers are available for this pickup timing" = "Change pick up time no suppliers are available for this pickup timing";
+////"No supplier found" = "لا يوجد موردين خدمة";
+////"My Addresses" = "عناويني";
+////"Item Detail" = "تفاصيل المنتج";
+////"Scheduled Orders" = "الطلبات المجدولة";
+////
+////"Sorry not enough points to redeem" = "عذرا, لا تملك النقاط الكافية للاستبدالها بقسيمة ";
+////"Loading" = "جاري التحميل";
+////"Looks like your order has been delivered Would you like to rate your order" = "يبدو انه تم تسليم طلبك. هل تود ان تقييم طلبك؟";
+////"Rate Order" = "تقييم الطلب";
+////"Quantity" = "الكمية : ";
+////"Delivered on" = "تم التوصيل في";
+////
+//////MARK: - Chat Localization
+////"ios.ZDCChat.end" = "نهاية";
+////"ios.ZDCChat.emailPlaceholder" = "البريد الالكتروني";
+////"ios.ZDCChat.preChatForm.messagePlaceholder" = "رسالة";
+////"ios.ZDCChat.upload.error.type" = "نوع الملف غير مسموح";
+////"ios.ZDCChat.cantConnectTitle" = "تعذر الاتصال";
+////"ios.ZDCChat.access.gallery" = "يحتاج الدخول للصور";
+////"ios.ZDCChat.noAgentsTitle" = "لا يوجد موظف دعم متواجد";
+////"ios.ZDCChat.backButton" = "عودة";
+////"ios.ZDCChat.preChatForm.required" = "الحقول ذات علامة *, يرجى ملئها";
+////"ios.ZDCChat.download.failedMessage" = "فشل في التحميل. إضغط لإعادة المحاولة.";
+////"ios.ZDCChat.preChatForm.invalidEmail" = "الرجاء ادخال البريد الالكتروني الصحيح";
+////
+////"ios.ZDCChat.noConnectionTitle" = "لا يوجد اتصال";
+////"ios.ZDCChat.sendOfflineMessageError.title" = "لم يتم ارسال الرسالة";
+////"ios.ZDCChat.rating.comment.title" = "اترك تعليقا";
+////"ios.ZDCChat.imageViewer.saveButton" = "حفظ الصورة";
+////"ios.ZDCChat.reconnecting" = "اعادة الاتصال";
+////"ios.ZDCChat.transcriptEmailAlert.emailPlaceholder" = "email@address.com";
+////"ios.ZDCChat.cancelButton" = "إلغاء";
+////"ios.ZDCChat.access.howto" = "Enable this from the home screen, Settings > %@";
+////"ios.ZDCChat.ok" = "تم";
+////"ios.ZDCChat.no" = "لا";
+////"ios.ZDCChat.chatConnectionLost.title" = "تم فقد الاتصال";
+////
+////"ios.ZDCChat.preChatForm.requiredTemplate" = "%@ *";
+////"ios.ZDCChat.done" = "تم";
+////"ios.ZDCChat.transcriptEmailAlert.message" = "قبل انتهاء هذه المحادثة, هل تريد ارسال نسخة لبريدك الالكتروني؟";
+////"ios.ZDCChat.upload.error.access" = "خطأ في الوصول إلى ملف";
+////"ios.ZDCChat.visitorQueue" = "الرجاء انتظار موظف خدمة العملاء, يتواجد الان عدد .. زائر(s) waiting to be served.";
+////"ios.ZDCChat.noConnectionMessage" = "لا يوجد اتصال بالانترنت. يرجى المحاولة مرة أخرى عند الاتصال";
+////"ios.ZDCChat.preChatForm.namePlaceholder" = "الاسم";
+////"ios.ZDCChat.access.camera" = "%@ يحتاج إلى الوصول إلى الكاميرا";
+////"ios.ZDCChat.chatTextEntry.sendButton" = "أرسل";
+////"ios.ZDCChat.retry" = "إعادة المحاولة";
+////"ios.ZDCChat.chat.startingChatMessage" = "بدء المحادثة";
+////
+////"ios.ZDCChat.chatTextEntry.placeholderText" = "رسالة";
+////"ios.ZDCChat.agentsOffline.message" = "لا يوجد موظفين خدمة عملاء متواجدون حاليا";
+////"ios.ZDCChat.preChatForm.departmentPlaceholder" = "هل يمكنا مساعدتك؟";
+////"ios.ZDCChat.agentLeft" = "%@ ترك المحادثة";
+////"ios.ZDCChat.sendOfflineMessageError.message" = "هل تود إعادة المحاولة؟";
+////"ios.ZDCChat.unsentMessage" = "فشل في إلارسال. إضغط لإعادة المحاولة.";
+////"ios.ZDCChat.preChatForm.phonePlaceholder" = "رقم الهاتف";
+////"ios.ZDCChat.noAgentsMessage" = "عذرا, لا يوجد موظف خدمة عملاء حاليا الرجاء المحاولة مرة اخرى او ترك رسالة";
+////"ios.ZDCChat.timeoutMessage" = "لم اسمع منك لبعض الوقت حتى تم إغلاق هذه المحادثة. يرجى بدء محادثة جديدة إذا كانت لديك اسئلة.";
+////"ios.ZDCChat.transcriptEmailAlert.sendButton" = "أرسل";
+////"ios.ZDCChat.upload.source.camera" = "أخذ صورة";
+////
+////"ios.ZDCChat.rating.commentButton" = "ضع تعليق";
+////"ios.ZDCChat.network.connectionError" = "لا يوجد اتصال";
+////"ios.ZDCChat.cantConnectMessage" = "عذرا. لا يمكنك الاتصال الان. الرجاء المحاولة مرة اخرى";
+////"ios.ZDCChat.chatEndedTitle" = "انهاء المحادثة";
+////"ios.ZDCChat.upload.error.size" = "حجم الملف كبير جدا";
+////"ios.ZDCChat.preChatForm.invalidPhone" = "الرجاء ادخال رقم هاتف صحيح";
+////"ios.ZDCChat.sendOfflineMessageError.sendButton" = "أرسل";
+////"ios.ZDCChat.transcriptEmailAlert.title" = "أرسل نسخة";
+////"ios.ZDCChat.endButton" = "انهاء المحادثة";
+////"ios.ZDCChat.chatEndedMessage" = "هل تريد انهاء المحادثة؟";
+////"ios.ZDCChat.offlineMessageFailed.message" = "تعذر إرسال الرسالة.";
+////
+////"ios.ZDCChat.rating.comment.placeholder" = "اترك تعليق";
+////"ios.ZDCChat.agentJoined" = "%@ انضم للمحادثة";
+////"ios.ZDCChat.noAgentsButton" = "اترك رسالة";
+////"ios.ZDCChat.messageButton" = "رسالة";
+////"ios.ZDCChat.title" = "محادثة";
+////"ios.ZDCChat.nextButton" = "التالي";
+////"ios.ZDCChat.cancel" = "إلغاء";
+////"ios.ZDCChat.accountOffline.message" = "لا يوجد موظف خدمة عملاء متصل حاليا. هل تود ترك رسالة؟";
+////"ios.ZDCChat.upload.source.gallery" = "البوم الصور";
+////"ios.ZDCChat.chatConnectionLost.message" = " غير قادر على إعادة الاتصال. هل ترغب في الاستمرار في محاولة؟";
+////"ios.ZDCChat.rating.title" = "قيم هذي المحادثة";
+////
+////"ios.ZDCChat.rating.editButton" = "تعديل التعليق";
+////"ios.ZDCChat.yes" = "Yes";
+////"ios.ZDCChat.transcriptEmailAlert.dontSendButton" = "إلغاء الارسال";
+////"Pickup Time and Location" = "الوقت بيك اب والموقع";
+////"No Product Found!" = "لا المنتج موجود!";
+////
+//////New Arabic
+////"Have you Forgot Completing Your Last Shopping Cart?" = "هل نسيت اتمام عمليه الشراء الاخيره؟";
+////"Search for product" = "ابحث عن منتج";
+////"Sub Total" = "المجموع الجزئي";
+////
+////
+////"Expected Delivery On" = "الزمن المتوقع لوصول الطلب";
+////"By signing up you agree to the " = "التسجيل يعني الموافقة على الشروط والاحكام ";
+////"Privacy Policy" = "سياسة الخصوصية";
+////"Terms and conditionsSignUp" = "الشروط والاحكام";
+////"and" = " و ";
+////"I would like to recommend using" = "اقترح باستخدام";
+////"via Clikat" = "عبر تطبيق كليكات";
+////"Warning" = "تنبيه";
+////"Please select dates to schedule." = "الرجاء اختيار تاريخ لجدولة الطلب";
+////"Bronze" = "برونز";
+////"Notification Language Changed Successfully" = "تم تعديل لغة التنبيهات بنجاح";
+////"Order Confirmed Successfully" = "تم انشاء الطلب بنجاح";
+////"Delivery on" = "وقت التوصيل";
+////"No Product Found!" = "لاتوجد منتجات";
+////"Supplier Rated Successfully" = "تم تقييم الطلب بنجاح";
+////"Send" = "ارسل";
+////
+////"Camera Unavailable" = "الكاميرا غير متاحة حالياً";
+////"It looks like your privacy settings are preventing us from accessing your camera." = "يبدو أن إعدادات الخصوصية لديك تمنعنا من الاتصال بالكاميرا.";
+////"Location Unavailable" = "الموقع الحالي غير متاح";
+////"Please check to see if you have enabled location services." = "الرجاء التأكد من تمكين خدمات الموقع الحالي";
+////
+////
+////"You need to enable Photos access from app settings to share image" = "تحتاج إلى تمكين الوصول إلى الصور من إعدادات التطبيق لمشاركة الصورة";
+////"You need to enable camera access from app settings to share image from camera" = "تحتاج إلى تمكين الوصول إلى الكاميرا من إعدادات التطبيق لمشاركة صورة من الكاميرا";
+////"Please give permissions from app settings to share media" = "يرجى منح أذونات من إعدادات التطبيق لمشاركة الوسائط";
+////"You need to enable internet connection" = "أنت بحاجة إلى تمكين اتصال الإنترنت";
+////"The file you have selected is too large, the max size is 25MB" = "الملف الذي حددته كبير جدًا ، الحد الأقصى للحجم هو 25 ميغابايت";
+////"Camera Denied" = "تم رفض الكاميرا";
+////"Permission Denied" = "طلب الاذن مرفوض";
+////"Media Picker Denied" = "تم رفض منتقي الوسائط";
+////"You need to enable Photos access from app settings to share image" = "تحتاج إلى تمكين الوصول إلى الصور من إعدادات التطبيق لمشاركة الصورة";
+//// "Attach image from" = "إرفاق صورة من";
+//// "Title for a generic action sheet for picking media from the device." = "عنوان ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+//// "Gallery" = "صالة عرض";
+//// "Text for an option that lets the user choose an existing photo in a generic action sheet for picking media from the device." = "نص لخيار يتيح للمستخدم اختيار صورة موجودة في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+////  "Choose existing photo or video" = "اختر صورة أو فيديو موجود";
+////"Text for an option that lets the user choose an existing photo or video in a generic action sheet for picking media from the device" = "نص لخيار يتيح للمستخدم اختيار صورة أو مقطع فيديو موجود في ورقة عمل عامة لانتقاء الوسائط من الجهاز";
+////  "Camera" = "الة تصوير";
+//// "Text for an option that lets the user take a picture with the device camera in a generic action sheet for picking media from the device." = "نص لخيار يتيح للمستخدم التقاط صورة باستخدام كاميرا الجهاز في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+//// "Take a video" = "تأخذ شريط فيديو";
+//// "Text for an option that lets the user take a video with the device camera in a generic action sheet for picking media from the device." = "نص لخيار يتيح للمستخدم التقاط فيديو بكاميرا الجهاز في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+////  "Cancel" = "إلغاء";
+////  "Text for the 'cancel' action in a generic action sheet for picking media from the device." = "نص إجراء' إلغاء 'في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+////  "Choose Video" =  "اختر الفيديو";
+////  "Choose Video" = "اختر الفيديو";
+////  "Cancel" = "إلغاء";
+////  "Open Settings" = "أفتح الإعدادات";
+////   "Cancel" =  "إلغاء";
+////"Permission Required" = "الإذن مطلوب";
+////"for camera access" = "للوصول إلى الكاميرا";
+////"You need to enable interet connection" = "أنت بحاجة إلى تمكين الاتصال البيني";
+////"Session Expired" = "انتهت الجلسة";
+////"Sorry your account has been logged in other device, Please login to continue"= "عذرًا ، تم تسجيل حسابك في جهاز آخر ، يرجى تسجيل الدخول للمتابعة";
+//// "Drop-off Time" = "لا تحتاج الي وقت";
+//// "Pick-up Time"=  "اختار المعاد";
+//// "Alert!" =  "إنذار!";
+////"Please select your pickup point." = "الرجاء تحديد نقطة الالتقاط الخاصة بك.";
+////"Wait!" = "انتظر!";
+////"Please select dates." =  "الرجاء تحديد التواريخ.";
+////"Your pickup and dropoff date is same. Do you want to continue" = "موعد الاستلام والتسليم هو نفسه. هل تريد المتابعة";
+////"Please select pickup time." = "الرجاء تحديد وقت الالتقاط.";
+////"Please select dropoff time." = "الرجاء تحديد وقت الانسحاب.";
+////"Sorry!" = "آسف!";
+////"No provider found, Please change booking date and time." = "لم يتم العثور على مزود ، يرجى تغيير تاريخ ووقت الحجز.";
+//// "Start Date" = "تاريخ البدء";
+//// "End Date" =  "تاريخ الانتهاء";
+////"Say Again!!!" = "كرر!!!";
+////"Say something, I'm listening!" = "قل شيئًا ، أنا أستمع!";
+////"Unable to create an SFSpeechAudioBufferRecognitionRequest object" = "غير قادر على إنشاء كائن SFSpeechAudioBufferRecognitionRequest";
+////"Say something, I'm listening!" = "قل شيئًا ، أنا أستمع!";
+////"Welcome!\nWhat can i help you with?" = "مرحبًا! \ n ما الذي يمكنني مساعدتك به؟";
+////"What can i help you with?" =  "بماذا يمكنني مساعدتك؟";
+////"Welcome!" = "أهلا بك!";
+////"Please enter an agent code!" = "الرجاء إدخال رمز وكيل!";
+////"Please enter a valid code!" = "الرجاء ادخال الكود الصحيح!";
+////"Booking fee" = "رسوم الحجز";
+////"Dont't have an Account?" = "أليس لديك حساب؟";
+////"Sign up" = "سجل";
+////"Please enter OTP." = "الرجاء إدخال OTP.";
+////"OTP is not Valid." = "OTP غير صالح.";
+////"Please enter phone number" = "الرجاء إدخال رقم الهاتف";
+////"Already have an Account?" = "هل لديك حساب؟";
+////"Login" = "تسجيل الدخول";
+////"Extras:" = "إضافات:";
+////"Order Price" = "سعر الطلب";
+////"Cannot upload more than %@ images" = "لا يمكن تحميل أكثر من @% صور";
+////"Address Location" = "موقع العنوان";
+////"Please upload prescription images" = "يرجى تحميل صور وصفة طبية";
+////"Please select payment method" = "الرجاء تحديد طريقة الدفع";
+////"This Restaurant provides both Pickup and Delivery, what you want to do?" = "يقدم هذا المطعم خدمة التوصيل والتوصيل ، ماذا تريد أن تفعل؟";
+////"Choose Payment" = "اختر الدفع";
+////"PICKUP FROM" = "تلتقط من";
+////"DELIVERY AT" = "التسليم عند";
+////"Your address is not saved,please save this address and proceed further." = "لم يتم حفظ عنوانك ، يرجى حفظ هذا العنوان والمضي قدما.";
+////"Details" = "تفاصيل";
+////"Previous" = "السابق";
+////"No Order found!" = "لم يتم العثور على طلب!";
+////"No Booking found!" = "لم يتم العثور على حجز!";
+////"History" = "التاريخ";
+////"No data found." = "لاتوجد بيانات.";
+////"No Order item found." = "لم يتم العثور على عنصر طلب.";
+////"View food items as" = "عرض المواد الغذائية باسم";
+////"View services as" = "عرض الخدمات كـ";
+////"View products as" = "عرض المنتجات كـ";
+////
+////"Search Order Items." = "عناصر طلب البحث.";
+////
+////"Search %@ Items." = "بحث @% العناصر.";
+////
+////"What are you looking for?" = "عما تبحث؟";
+////"Others" = "الآخرين";
+////"Cart" = "عربة التسوق";
+////"Share App" = "شارك التطبيق";
+////"My Wishlist" = "قائمة امنياتي";
+////"Referral" = "الإحالة";
+////"About Us" = "معلومات عنا";
+////"Terms and Conditions" = "الأحكام والشروط";
+////"Privacy Policy" = "سياسة الخصوصية";
+////"Logout" = "تسجيل خروج";
+////"No data found" = "لاتوجد بيانات";
+////"Add Address" = "اضف عنوان";
+////"Use current location" = "استخدام الموقع الحالي";
+////"Edit" = "تعديل";
+////"Delete" = "حذف";
+////"Saved Addresses" = "العناوين المحفوظة";
+////"Order No." = "الأمر رقم";
+////"Restaurants" = "المطاعم";
+////"Restaurant" = "مطعم";
+////"Delivery" = "توصيل";
+////"Self pickup" = "النفس التقاط";
+////"Home" = "الصفحة الرئيسية";
+////"Orders" = "الطلب #٪ s";
+////"Customizable" = "قابل للتخصيص";
+////"Customise your food" = "تخصيص طعامك";
+////"Add" = "إضافة";
+////"Kitchen" = "مطبخ";
+////"Location" = "موقعك";
+////"Customizable" = "قابل للتخصيص";
+////"In The Kitchen" = "في المطبخ" ;
+////"Share App" = "شارك التطبيق";
+////"My Wishlist" = "قائمة امنياتي";
+////"About Us" = "معلومات عنا";
+////"Terms and Conditions" = "الأحكام والشروط";
+////"Privacy Policy" = "سياسة الخصوصية";
+////"Change Language" = "تغيير اللغة";
+////"Logout"= "تسجيل خروج";
+////"Cart" = "عربة التسوق";
+////"Orders" = "الطلب #٪ s";
+////"Favourites" = "المفضلة";
+////"Others" = "الآخرين";
+////"Customise your food" = "تخصيص طعامك";
+////"Please select any one option" = "الرجاء تحديد أي خيار واحد";
+////"Choice of" = "اختيار";
+////"SubTotal" = "المجموع الفرعي";
+////"Tip Amount" = "مبلغ الإكرامية";
+////"Tax" = "ضريبة";
+////"Order Now" = "اطلب الان";
+////"Price details" = "تفاصيل السعر";
+////"ADD A TIP TO YOUR RIDER" = "أضف نصيحة إلى متسابقك";
+////"Total" = "مجموع";
+////"Delivery charges" = "رسوم التوصيل";
+////"Choose Payment" = "اختر الدفع";
+////"Tip Amount" = "مبلغ الإكرامية";
+////"Placed" = "وضعت";
+////"Confirmed" = "تم تأكيد";
+////"Delivered" = "تم التوصيل";
+////"On The Way" = "فى الطريق";
+////"Confirmed On" = "مؤكد";
+////"Delivery Charges" = "رسوم التوصيل";
+////"Total Amount" = "المبلغ الإجمالي";
+////"Placed on" = "موضوع على";
+////"Payment method" = "طريقة الدفع او السداد";
+////"Address Detail" = "تفاصيل العنوان";
+////"Details" = "تفاصيل";
+////"Support Email" = "البريد الإلكتروني للدعم";
+////"Items" = "العناصر";
+////"Status" = "الحالة";
+////"Payment" = "دفع";
+////"Expected delivery on" = "التسليم المتوقع في";
+////"Special Offers" = "عروض خاصة";
+////"Login using Facebook" = "تسجيل الدخول باستخدام Facebook";
+////"Login" = "تسجيل الدخول";
+////"Dont't have an Account?" = "أليس لديك حساب؟";
+////"Sign up" = "سجل";
+////"Signup" = "سجل";
+////"Send OTP" = "إرسال OTP";
+////"Enter Mobile" = "أدخل جوال";
+////
+////"Already have an Account?" = "هل لديك حساب؟";
+////"OTP Verification" = "التحقق OTP";
+////"Enter the OTP sent to" = "أدخل OTP المرسلة إلى";
+////"Resend Code" = "أعد إرسال الرمز";
+////"Submit" = "إرسال";
+////"Tap to add a profile picture" = "انقر لإضافة صورة ملف شخصي";
+////"FINISH" = "إنهاء";
+////"Tap to add a profile picture" = "انقر لإضافة صورة ملف شخصي";
+////"Completed Orders" = "الطلبات المكتملة";
+////"Pending Orders" = "الأوامر المعلقة";
+////"YOUR CART IS EMPTY" = "عربة التسوق فارغة";
+////"ADD SOME" = "اضف بعض";
+////"STUFF!" = "أمور!";
+////"(YOU WON'T REGRET IT)" = "(لن تندم)";
+////"My Cart" = "سلة التسوق";
+////"customisable" = "قابل للتخصيص";
+////"Others" = "الآخرين";
+////"Log in And Sign Up" = "تسجيل الدخول والتسجيل";
+////"View food items as" = "عرض المواد الغذائية باسم";
+////"CHANGE" = "يتغيرون";
+////"PICKUP FROM" = "تلتقط من";
+////"DELIVERY AT" = "التسليم عند";
+////"customisable" = "قابل للتخصيص";
+////"Address Location" = "موقع العنوان";
+////"History" = "التاريخ";
+////"Details" = "تفاصيل";
+////"PleaseEnterAValidEmailAddress" = "من فضلك أدخل بريد أليكترونى صحيح";
+////"Send" = "إرسال";
+////"ForgotPassword" = "هل نسيت كلمة المرور";
+////"Cancel" = "إلغاء";
+////"Settings" = "إعدادات";
+////"Old Password" = "كلمة سر قديمة";
+////"New Password" = "كلمة سر جديدة";
+////"Confirm Password" = "تأكيد كلمة المرور";
+////"Password" = "كلمه السر";
+////"EnterOTP" = "أدخل OTP";
+////"Full name" = "الاسم الكامل";
+////"Other" = "آخر";
+////"Change Password" = "تغيير كلمة المرور";
+////"Enter your details." = "أدخل التفاصيل الخاصة بك.";
+////"Order placed successfully" = "تم تقديم الطلب بنجاح";
+////"Are you sure" =  "هل أنت واثق";
+////"CLEAR" = "واضح";
+////"Your referal Amount : " = "مبلغ الإحالة الخاص بك:";
+////"Remove" = "إزالة";
+////"Apply" = "تطبيق";
+////"VIEW CART" = "عرض السلة";
+////"Your order has been placed successfully" = "تم تقديم طلبك بنجاح";
+////"Do you really want to cancel this order?" = "هل تريد حقًا إلغاء هذا الطلب؟";
+////"Warning" = "تحذير";
+////"Notification language changed successfully" = "تم تغيير لغة الإعلام بنجاح";
+////"Password Changed Success" = "نجاح تغيير كلمة المرور";
+////"LogOut" = "تسجيل خروج";
+////"Are you sure you want to logout?" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+////"Cancel Order" = "الغاء الطلب";
+////"You have cancelled your order successfully" = "لقد ألغيت طلبك بنجاح";
+////"Changing the language will clear your cart" = "سيؤدي تغيير اللغة إلى محو سلة التسوق";
+////"FORGOT PASSWORD?" = "هل نسيت كلمة المرور؟";
+////"Payments" = "المدفوعات";
+////"We will be sending you an OTP (one time password ) on your mobile number. Tap the button below after correctly typing your phone number" = "سنرسل لك OTP (كلمة مرور لمرة واحدة) على رقم هاتفك المحمول. اضغط على الزر أدناه بعد كتابة رقم هاتفك بشكل صحيح";
+////"View More" = "عرض المزيد";
+////"Place Booking" = "حجز مكان";
+////
+////"CANCEL BOOKING" = "إلغاء الحجز";
+////"BOOK AGAIN" = "حجز مرة أخرى" ;
+////"CONFIRM BOOKING" = "تأكيد الحجز" ;
+////"Cancel Booking" = "إلغاء الحجز";
+////"Booking Details" = "تفاصيل الحجز";
+////"Booking History" = "تاريخ الحجز";
+////"Track My Booking" = "تتبع حجزي";
+////"Rate My Booking" = "تقييم حجزي";
+////"Upcoming Bookings" = "الحجوزات القادمة";
+////"My Bookings" = "حجوزاتي";
+////"Scheduled Bookings" = "الحجوزات المجدولة";
+////"Rate Booking" = "الحجز بسعر";
+////"Pending Bookings" = "حجوزات معلقة";
+////"Booking confirmed successfully" = "تم تأكيد الحجز بنجاح";
+////"Booking Address" = "عنوان الحجز";
+////"Booking again will clear you cart" = "الحجز مرة أخرى سوف يمسح سلة التسوق";
+////"Do you really want to cancel this booking?" = "هل تريد حقًا إلغاء هذا الحجز؟";
+////"Your booking has been canceled successfully." = "تم إلغاء الحجز الخاص بك بنجاح.";
+////"Your booking has been placed successfully" = "تم الحجز بنجاح";
+////"Looks like your service had been completed. Would you like to rate the service?" = "يبدو أن الخدمة قد اكتملت. هل ترغب في تقييم الخدمة؟";
+////"Completed Bookings" = "الحجوزات المكتملة";
+////
+////"New" = "جديد";
+////"Live Tracking" = "التتبع المباشر";
+////"Select" = "تحديد";
+////"Select Address" = "حدد العنوان";
+////"Save & Proceed" = "حفظ ومتابعة";
+////"Update" = "تحديث";
+////"Popular Restaurants" = "المطاعم الشعبية";
+////"Supplier" = "المورد";
+////"Suppliers" = "الموردون";
+////"Adding different service will clear your cart" = "ستؤدي إضافة خدمة مختلفة إلى محو سلة التسوق";
+////
+//////MARK: - New Localization
+////"Uploaded prescription images" = "صور الوصفات الطبية المحملة";
+////
+////
+////"First name *" = "الاسم الاول *";
+////"Last name *" = "الكنية *";
+////"Email *" = "البريد الإلكتروني *";
+////"Password * " = "كلمه السر * ";
+////"Confirm Password *" = "تأكيد كلمة المرور *";
+////"Referal code" = "كود الإحالة";
+////
+////"Start a conversation" = "بدء محادثة";
+////
+////"Write something" = "أكتب شيئا";
+////
+////"Add Card" = "إضافة بطاقة";
+////"Fill Card Details" = "تعبئة تفاصيل البطاقة";
+////"Select Card for Payment" = "حدد بطاقة للدفع";
+////"Add card to complete payment" = "إضافة بطاقة لإكمال الدفع";
+////"Card Holder" = "حامل البطاقة";
+////"Expiry" = "انقضاء";
+////"Card Type" = "نوع البطاقة";
+////"CHOOSE PAYMENT RECEIPT" = "اختيار إيصال الدفع";
+////"Payment Details:" = "بيانات الدفع:";
+////"Email : " = "البريد الإلكتروني : ";
+////"Phone Number : " = "رقم الهاتف : ";
+////
+////"Credit Card / Debit Card" = "بطاقة الائتمان بطاقة الخصم";
+////"Credit Card" = "بطاقة الائتمان";
+////"Cash On Delivery" = "الدفع عند الاستلام";
+////
+////"No Items" = "لا توجد عناصر";
+////"Done" = "منجز";
+////"Rating" = "تقييم";
+////"Delivery in" = "التسليم في";
+////"For Delivery" = "للتوصيل";
+////"Refer" = "أشير";
+////"Referred" = "مُحال";
+////"Invite your friend and earn money" = "دعوة صديق لك وكسب المال";
+////"Tap to copy" = "انقر للنسخ";
+////"Refer now" = "راجع الآن";
+////
+////"Product Description" = "وصف المنتج";
+////"Rating & Reviews" = "التقييم والمراجعات";
+////"No Rating Found" = "لم يتم العثور على تصنيف";
+////"Product Detail" = "تفاصيل المنتج";
+////"Service Detail" = "تفاصيل الخدمة";
+////"Popular Brands" = "ماركات مشهورة";
+////"Popular Suppliers" = "الموردين شعبية";
+////"Popular Service Providers" = "مزودي الخدمة الشعبية";
+////"Popular Products" = "المنتجات الشعبية";
+////"Popular Restaurants" = "مطاعم شعبية";
+////"Categories" = "التصنيفات";
+////"Service Description" = "وصف الخدمة";
+////"Agency" = "وكالة";
+////"We hand-picked some great services for you." = "لقد اخترنا لك بعض الخدمات الرائعة يدويًا.";
+////"Awesome deals unlocked every day" = "يتم فتح صفقات رائعة كل يوم";
+////"Shop by Type" = "تسوق حسب النوع";
+////"Services by Type" = "الخدمات حسب النوع";
+////"by" = "بواسطة";
+////"Back" = "عودة";
+////"Next" = "التالى";
+////"% of service" = "٪ بالخدمة";
+////"Select Category" = "اختر الفئة";
+////"SERVICE AT" = "الخدمة في";
+////"Please choose timeslot" = "الرجاء اختيار الفترة الزمنية";
+////"Selected Questions" = "أسئلة مختارة";
+////"Choose Booking Time Slot" = "اختر خانة وقت الحجز";
+////"AddOn Charges" = "رسوم إضافية";
+////"No More Slots Available" = "لا توجد فتحات أخرى متاحة";
+////"SHOW AGENTS" = "وكلاء العرض";
+////"Select Time Slot" = "حدد فتحة الوقت";
+////"Booking Time" = "وقت الحجز";
+////"Morning" = "صباح";
+////"Evening" = "مساء";
+////"Afternoon" = "بعد الظهر";
+////"Night" = "ليل";
+////"No agent found" = "لم يتم العثور على وكيل";
+////"BOOK NOW" = "احجز الآن";
+////"Select Agent" = "حدد وكيل";
+////"Book an Appointment" = "حجز موعد";
+////"Years Experience" = "سنوات خبرة";
+////"Service Provider" = "مقدم الخدمة";
+////"Service Date:" = "تاريخ الخدمة:";
+////"Service Time:" = "وقت الخدمة:";
+////"Agent to be booked:" = "الوكيل المراد حجزه:";
+////"Change Date & Time" = "تغيير التاريخ والوقت";
+////"Razor Pay" = "Razorpay";
+////"Bookings" = "الحجوزات";
+////"Booking No." = "رقم الحجز.";
+////"Canceled" = "ألغيت";
+////"Pending" = "قيد الانتظار";
+////"Reached" = "وصلت";
+////"Start on" = "ابدأ";
+////"End on" = "ينتهي في";
+////"Agent Detail" = "تفاصيل الوكيل";
+////"Track Agent" = "وكيل المسار";
+////"Track Order" = "ترتيب المسار";
+////"Booking" = "الحجز";
+////"When would you like your service?" = "متى تريد خدمتك؟";
+////"NEXT" = "التالى";
+////"RESULTS" = "النتائج";
+////"Search..." = "بحث...";
+////"Popular" = "جمع";
+////"Started" = "بدأت";
+////"Ended" = "انتهى";
+////"Address" = "عنوان";
+////"Details" = "تفاصيل";
+////"CANCEL" = "إلغاء";
+////"CONFIRM" = "تؤكد";
+////"History" = "التاريخ";
+////"Track My" = "تتبع بلدي";
+////"Rate My" = "قيم بلدي";
+////"Upcoming" = "القادمة";
+////"My" = "لي";
+////"Rate" = "معدل";
+////"Pending" = "قيد الانتظار";
+////"Completed" = "منجز";
+////"No." = "رقم";
+////"confirmed successfully" = "تم التأكيد بنجاح";
+////"Service Providers" = "مقدمي الخدمة";
+////
+////"No Notifications Yet!" = "لا إخطارات بعد!";
+////"File downloaded!" = "تم تنزيل الملف!";
+////"Speciality:" = "تخصص:";
+////"Nationality:" = "الجنسية:";
+////"Brand:" = "الماركة:";
+////"SHARE_SHEET_EDIT_ACTIONS_BUTTON_TITLE" = "تحرير الإجراءات";
+////"SHARE_SHEET_EDIT_SECTION_TITLE_FAVORITES" = "المفضلة";
+////"SHARE_SHEET_EDIT_SECTION_TITLE_OTHER" = "الآخرين";
+////
+////"Search %@" = "بحث %@";
+////
+////"Upload Prescription" = "تحميل الوصفة الطبية";
+////
+////"Shipping Status" = "حالة الشحن";
+////"Awaiting Shipment" = "في انتظار الشحن";
+////"Shipped" = "شحنها";
+////"On hold" = "في الانتظار";
+////"No file added!" = "لم يتم إضافة ملف!";
+////"PAY NOW" = "ادفع الآن";
+////"Payment done successfully" = "تم الدفع بنجاح";
+////
+////"PAY NOW" = "ادفع الآن";
+////"Top Deals in" = "أهم الصفقات في";
+////"Upto %@% off" = "خصم يصل إلى @٪";
+////"Adding product from different category will clear your cart" = "ستؤدي إضافة منتج من فئة مختلفة إلى مسح سلة التسوق الخاصة بك";
+////"Shipping Status" = "حالة الشحن";
+////"Awaiting Shipment" = "في انتظار الشحن";
+////"Shipped" = "شحنها";
+////"On hold" = "في الانتظار";
+////"No file added!" = "لم يتم إضافة ملف!";
+////"Return Reason" = "سبب عودة";
+////"Write reason here..." = "اكتب السبب هنا ...";
+////"Please enter a reason" = "يرجى إدخال سبب";
+////"Request Return" = "طلب الإرجاع";
+////"Return Requested" = "مطلوب إرجاع";
+////"Agent on the way" = "وكيل على الطريق";
+////"Product Picked up" = "تم استلام المنتج";
+////"Returned" = "عاد";
+////
+////"By continuing, you agree to CARES's Terms and Conditions and confirm that you have read CARES's Privacy Policy" = "من خلال المتابعة ، فإنك توافق على شروط وأحكام CARES وتؤكد أنك قرأت سياسة خصوصية CARES";
+////"CONTINUE WITH FACEBOOK" = "تواصل مع الفيسبوك";
+////"CREATE NEW ACCOUNT" = "انشاء حساب جديد";
+////"Create your account" = "أنشئ حسابك";
+////
+////"Please check terms and conditions" = "يرجى التحقق من الشروط والأحكام";
+////
+////"No Request Sent" = "لم يتم إرسال طلب";
+////"Requests" = "Requests";
+////"No %@ found." = "لم يتم العثور على %@";
+////"Search %@" = "بحث ٪@";
+////"Search Restaurant" = "مطعم البحث";
+////"Are you sure you want to cancel this request?" = "هل أنت متأكد أنك تريد إلغاء هذا الطلب؟";
+////"Choice of" = "اختيار";
+////"Please select multiple options" = "يرجى تحديد خيارات متعددة";
+////"Min" = "الحد الأدنى";
+////"Max" = "أقصى";
+////"Please select date time" =  "يرجى تحديد وقت التاريخ";
+////"Approved" = "وافق";
+////"Rejected by Admin" = "رفضه المشرف";
+////"Cancelled by User" = "ألغى المستخدم";
+////"Order Created" = "أجل خلق";
+////"Service Charge" = "تكلفة الخدمة";
+////"Request Id:" = "طلب معرف:";
+////"Requested On:" = "تم إنشاؤها على:";
+////"Name:" = "اسم:";
+////"Enter your medical id" = "أدخل هويتك الطبية";
+////"Please enter your medical id" = "يرجى إدخال هويتك الطبية";
+////"Refund Amount" = "المبلغ المسترد";
+////"Payment Remaining" = "الدفع المتبقي";
+////"CONTINUE" = "CONTINUE";
+////"PROCEED" = "تقدم";
+////"Review" = "مراجعة";
+////"Reviews" = "المراجعات";
+////
+////
+////
+////
+////"LanguageName.English" = "English";
+////"LanguageName.Arabic" = "عربى";
+////"LanguageName.Urdu" = "اردو";
+////"LanguageName.Hindi" = "हिंदी";
+////"LanguageName.Chinese" = "中文";
+////"LanguageName.Spanish" = "Spanish";
+////"LanguageName.French" = "French";
+////"LanguageName.Dutch" = "Dutch";
+////"LanguageName.Italian" = "Italian";
+////"LanguageName.Japanese" = "Japanese";
+////"LanguageName.German" = "German";
+////
+////
+////"Alert.VersionUpdateText" = "You must have to update latest verison of the app.";
+////"Validation.TermsConditions" = "يرجى تحديد الشروط والأحكام.";
+////
+////
+////"Validation.InternetNotWorking" = "تحتاج إلى تمكين اتصال الإنترنت.";
+////"Validation.PhoneNumberMissed" = "فون نمبر درج کریں";
+////"Validation.PhoneNumberLength" = "درست فون نمبر درج کریں";
+////"Validation.OTPValidation" = "اس-ام-اس پہ بھیجی گئی OTP کوڈ درج کریں";
+////"Validation.UserName" = "صارف کا نام درج کریں";
+////
+////
+////"Validation.Alert" = "محزر";
+////"Validation.Success" = "نجاح";
+////
+////
+////"IntroductionVC.TitleFirst" = "فریٹ ڈِلیوری صِرف ایک ٹچ کی دُوری پر";
+////"IntroductionVC.TitleDescription" = "تقديم الرعاية مجانا على عتبةداركم.";
+////
+//////LandingScreen Strings
+////
+////"LandingVC.MobileNumber" = "اپنا موبائل نمبر درج کریں";
+////"LandingVC.AccountAgreement" = "اکاؤنٹ بنانے کے لئے";
+////"LandingVC.Terms&Conditions" = "شرائط و ضوابط";
+////"LandingVC.OtpWillBeSent" = "سيتم إرسال OTP على رقم هاتفك المتحرك الذي أدخلته للتحقق.";
+////"LandingVC.Proceed" = "تقدم";
+////
+//////OTP Screen Strings
+////"OTPVC.OTPText" = "اس-ام-اس پہ بھیجی گئی OTP کوڈ درج کریں";
+////"OTPVC.EditNumber" = "نمبر کو دوبارہ لکھیں";
+////"OTPVC.ResendOTP" = " otp کوڈ دوبارہ بھیجیں ";
+////"OTPVC.VerificationCode" = "شيفرة التأكيد";
+////"OTPVC.DontReceiveCode" = "لا تتلقى رمزك؟";
+////
+////
+//////Enter Name Strings
+////"UserProfileVC.FullNamePlacHolder" = "پورا نام";
+////"UserProfileVC.NameText" = "آپ کا نام";
+////"UserProfileVC.ReferalCode" = "كود الإحالة";
+////"UserProfileVC.Submit" = "إرسال";
+////"UserProfileVC.JustSomeMore" = "فقط المزيد من المعلومات لملء :)";
+////
+////
+//////Services names
+////
+////"Service.Gas" = "گیس";
+////"Service.DrinkingWater" = "پانی ";
+////"Service.WaterTanker" = "پانی ٹینکر";
+////"Service.Freight" = "ٹرانسپورٹ";
+////"Service.Tow" = "ریکوّری گاڈی";
+////"Service.HeavyMachine" = "ٹرانسپورٹ";
+////
+//////Side Menu Strings
+////"LeftMenuOption.Bookings" = "الحجوزات";
+////"LeftMenuOption.Support" = "سپورٹ";
+////"LeftMenuOption.Promotions" = "پروموشنز";
+////"LeftMenuOption.Payments" = "ادائیگی";
+////"LeftMenuOption.Referral" = "اپنے دوست کو بھیجیں";
+////"LeftMenuOption.EmergencyContacts" = "اہم ارقَام";
+////"LeftMenuOption.Settings" = "سیٹِنگ";
+////"LeftMenuOption.ContactUs" = "ہم سے رابطہ کریں";
+////"LeftMenuOption.Signout" = "سائن اؤٹ";
+////
+////
+//////Navigation Bar Strings
+////"NavigationButton.Select" = "منتخب کریں";
+////"NavigationButton.Back" = "پیچھے جائیں";
+////"NavigationTitle.Location" = "لوکیشن";
+////
+//////Order Strings
+////"Order.DropOffLocation" = "سامان منتقل کرنے کی جگہ";
+////"Order.DetailEnterTitle" = "آرڈرکی تفصیلات درج کریں";
+////"Order.DetailValidation" = "آرڈرکی تفصیلات درج کریں";
+////"Order.SelectBrand" = "برینڈ منتخب کریں";
+////"Order.SelectCapacity" = "مقدار کا انتخاب کریں";
+////"Order.SelectQuantity" = "تعداد کا انتخاب کریں";
+////"Order.Next" = "التالى";
+////
+////"Order.Total" = "ٹوٹل";
+////"Order.Cash" = "کیش";
+////"Order.CashOnDelivery" = "کیش ادائیگی وصولی کے وقت";
+////"Order.Card" = "بینک کارڈ";
+////"Order.EToken" = "اِی ٹوکن";
+////"Order.Promo" = "پرومو کوڈ";
+////"Order.Book" = "بکنگ";
+////"Order.ProcessingRequestTitle" = "درخواست جاری ہے";
+////"Order.Cancel" = "کینسل";
+////"Order.TimeLeftMins" = "منٹ"; //Multiple
+////"Order.TimeLeftMin" = "منٹ" ;   //Single
+////
+////
+////"Order.CancellingReasonValidation" = "کینسل کرنے کی وجہ لکھیں";
+////"Order.PlaceHolderCancelReason" = "اپنی کینسل کرنے کی وجہ لکھیں";
+////"Order.Invoice" = "انوائس" ;
+////"Order.BaseFair" = "بنیادی رقم" ;
+////"Order.Tax" = "ٹیکس" ;
+////"Order.OMR" = "ريال عُماني";
+////"Order.Finish" = "ختم" ;
+////
+////"Order.Rate" = "ریٹ" ;
+////"Order.VerySad" = "بالکل اچھا نہیں" ;
+////"Order.Sad" = "اچھا نہیں";
+////"Order.Good" = " اچھا";
+////"Order.Happy" = "خُوش";
+////"Order.RatingTextPalceholder" = "اپنی قیمتی رائے سے ہمیں آگاہ کریں…";
+////"Order.SubmitRating" = " اپنی ریٹِنگ  دیں";
+////"Order.TokenLeft" = "ٹوکن باقی";
+////"Order.Token" = "ٹوکن";
+////
+////
+////"BuyToken.PopUpTitle" = "کیا آپ یہ اِی ٹوکن خریدنا چاہتے ہیں؟";
+////"BuyToken.Purchased" = "خرید شدہ";
+////"BuyToken.OffersNearYou" = "آپ کے قریب دستیاب اوفرز";
+////
+////
+////
+////"Bookings.Past" = "ماضی";
+////"Bookings.Upcoming" = "آنے والے";
+////
+////
+////"ContactUs.ReachByPhone" = "ہمیں فون کے ذریعہ پہنچائیں";
+////"ContactUs.ReachByEmail" = "ہمیں ای میل کے ذریعہ پہنچائیں";
+////"ContactUs.PlaceHolder" = "اكتب رسالة هنا مباشرة لتصل إلينا.";
+////"ContactUS.ValidationMessage" = "يرجى كتابة شيء أولا.";
+////
+////
+////
+////"Referral.Text" = "بُراق24 لایک کرتے ھو؟";
+////"Referral.ShareWithFriends" = "اپنے دوستوں کے ساتھ شیئر کریں";
+////
+////
+////"PopUpScheduledBooked.ConfirmationTitle" = "Congratulations";
+////"PopUpScheduledBooked.ConfirmationMessage" = "Your service has been booked.";
+////
+////"Button.Title.OK" = "OK";
+////
+////"OrderStatus.Searching" = "Searching";
+////
+////"OrderStatus.Ongoing" = "Ongoing";
+////
+////"OrderStatus.Confirmed" = "Confirmed";
+////"OrderStatus.Reached" = "Reached";
+////
+////"OrderStatus.CustomerCancel" = "Customer Cancelled";
+////
+////"OrderStatus.SerComplete" = "Completed";
+////
+////"OrderStatus.SerReject" = "Rejected";
+////
+////"OrderStatus.DriverCancel" = "Driver Cancelled";
+////
+////"OrderStatus.Scheduled" = "Scheduled";
+////
+////
+////"OrderUI.Status.Cancelled" = "منسوخ";
+////"OrderUI.Status.Scheduled" = " شیڈول کردہ";
+////"OrderUI.Status.Completed" = " مکمل ";
+////
+////"DriverStatus.AcceptedRequest" = "Driver has accepted your request.";
+////"DriverStatus.YourOrderOnWay" = "Driver is on the way.";
+////"DriverStatus.AnotherOrderOnWay" = "Driver is completing nearby order.";
+////"Order.Scheduling.Alert" = "Sorry, you can only schedule booking 1 hour after now.";
+////
+////"Button.Title.BookNow" = "احجز الآن";
+////"Button.Title.Schedule" = "جدول";
+////
+////"Ok" = "تم";
+////
+//////////   Arabic
+////"app_name"  = "عُملاء - بٌراق 24 ";
+////"terms_and_conditions"  = "الشروط والأحكام";
+////"by_creating_account_you_agree"  = "أنا موافق على إنشاء حساب";
+////"enter_you_mobile_no"  = "أدخل رقم الهاتف";
+////"slogan"  = "ربط احتياجاتك في ثوان";
+////"resend_otp"  = " OTP إعادة إرسال  ";
+////"edit_this_number"  = "تعديل الرقم";
+////"whats_your_name"  = " ما اسمك";
+////"full_name"  = "الإسم الكامل";
+////"title_activity_maps"  = " عنوان نشاط الخرائط";
+////"title_activity_main2"  = "عنوان النشاط الرئيسي ";
+////"navigation_drawer_open"  = "إدراج الخريطة";
+////"navigation_drawer_close"  = "أغلاق الخريطة";
+////"nav_header_title"  = " العنوان الرئيسي";
+////"nav_header_subtitle"  = " العنوان الفرعي";
+////"nav_header_desc"  = " وصف العنوان";
+////"action_settings"  = " إعدادات الضبط";
+////"bookings"  = "الحجوزات";
+////"promotions"  = "ترويج";
+////"payments"  = "المدفوعات";
+////"referral"  = "شارك";
+////"emergency_contacts"  = "أرقام الطوارئ";
+////"settings"  = "الضبط";
+////"contact_us"  = "أتصل بنا";
+////"sign_out"  = "الخروج";
+////"back"  = "رجوع";
+////"location"  = "الموقع";
+////"enter_drop_off_location"  = " أدخل موقع التوصيل";
+////"enter_pickup_location"  = " أدخل موقع الأستلام";
+////"enter_details_of_order"  = "أدخل تفاصيل الطلب";
+////"select_branch"  = "اختر العلامة التجارية";
+////"select_capacity"  = "حدد السعة";
+////"select_quantity"  = "حدد الكمية";
+////"next"  = "التالي";
+////"total"  = "المجموع";
+////"cash"  = "نقداً";
+////"promo"  = "ترويجي";
+////"book"  = "الحجز";
+////"we_are_requesting_your_request"  = "نحن نعالج طلبك";
+////"cancel"  = "إلغاء";
+////"invoice"  = "فاتورة";
+////"base_fair"  = "الاجرة الاساسية";
+////"tax"  = "ضريبة";
+////"rate"  = "السعر";
+////"add_comments_here"  = "أضف ملاحظة هُنا...";
+////"submit"  = "إرسال";
+////"phone_validation_message"  = "يرجى إدخال رقم هاتف صحيح";
+////"otp_validation_message"  = " صحيح OTP يرجى إدخال.";
+////"name_empty_validation_message"  = "يرجى إدخال الاسم للمتابعة.";
+////"request_cancelled_successfully"  = "تم إلغاء طلبك بنجاح.";
+////"no_route_exits"  = "لا يوجد مسار";
+////"type_reason_for_cancellation"  = "اكتب سبب الإلغاء";
+////"write_your_msg_here"  = "اكتب رسالتك هنا ...";
+////"cancellation_reason_validation_text"  = "يرجى إدخال سبب الإلغاء.";
+//////"currency"  = "العملة";
+////"currency"  = "ريال عُماني";
+////"pickup_address_validation_message"  = "يرجى تحديد عنوان استلام صحيح.";
+////"dropoff_address_validation_message" ="الرجاء تحديد عنوان توصيل صالح.";  // Need
+////
+////"finish"  = "إنهاء";
+////"gas"  = "غاز";
+////"water_tanker"  = "صهريج مياه";
+////"drinking_water"  = "مياه معدنية ";
+////"tow"  = "قطر المركبات";
+////"freight"  = "شاحنات النقل";
+////"currently_no_driver_available"  = "حالياً ، لا يوجد سائق";
+////"ongoing_request_cancelled_by_driver"  = "تم إلغاء طلبك المستمر من قبل السائق.";
+////"cash_on_delivery"  = "الدفع عن الاستلام";
+////"card"  = "بطاقة ";
+////"default_selecting_token_error"  = "لا يمكنك تحديد الرمز الإلكتروني كطريقة دفع افتراضية.";
+////"e_tokens"  = "الرموز - الإلكترونية";
+////"e_token"  = "رمز - الإلكتروني";
+////
+////"E-Tokens" =  "رمز - الإلكتروني";
+////"left"  = "غادر";
+////"purchased"  = "أشتري";
+////"offers_available_near_you"  = "العروض المتاحة بالقرب منك";
+////"available"  = "متواجد";
+////"no_offers_available"  = "لا توجد عروض متاحة";
+////"buy_etoken"  = "اشتر رمز - الإلكتروني";
+////"buy_etoken_confirmation"  = "تم تأكيد شراء هذا الرمز الإلكتروني؟";
+////"yes"  = "نعم";
+////"no"  = "لا";
+////"view_e_tokens"  = "عرض الرموز الإلكترونية";
+////"select"  = "حدد";
+////"select_e_token"  = "حدد الرموز الإلكترونية";
+////"excellent"  = "ممتاز";
+////"very_good"  = "جيد جداً";
+////"good"  = "جيد";
+////"sad"  = "حزين";
+////"very_sad"  = "حزين جداً";
+////"rating_validation_msg"  = " للمتابعة يرجى تحديد التقييم.";
+////"validations_success"  = "تم التحقق بنجاح ";
+////
+////"booking_details"  = "تفاصيل الحجز";
+////"drop_off_location"  = "اختر الموقع";
+////"delivery_location" = "Delivery location";
+////
+////"no_bookings"  = "لا توجد حجوزات";
+////"like_buraq24_n_nshare_with_the_friends"  = " أعجبك بُراق 24 يمكنك مشاركة الإصدقاء ";
+////"share"  = "مشاركة";
+////"contact_us_msg_hint"  = "أكتب ملاحظتك هنا ";
+////"no_email_app_installed"  = "لا يوجد بريد الألكتروني مثبت ";
+////"send_mail_to_buraq"  = "أرسل رسالة بالبريد الألكتروني الى بُراق 24";
+////"please_enter_message"  = "يرجى إدخال الرسالة";
+////"we_will_reach_soon"  = " سوف سنتواصل معك قريبا";
+////"logout_confirmation"  = "هل أنت متأكد أنك تريد تسجيل الخروج ؟";
+////"coming_soon"  = "قريبا";
+////"buraq_24"  = "بُراق 24";
+////"error"  = "خطأ";
+////"api_error_msg"  = "نأسف بسبب عطل في الخادم ";
+////"retry"  = "إعادة المحاولة";
+////"otp_resent_successfully"  = " بنجاح OTP تم أعادة أرسال ";
+////"change_language"  = "تغيير اللغة";
+////"enter_otp_on"  = "أدخل رقم  OTP الوارد إليك";
+////"reach_us_via_phone"  = "تواصل معنا عبر الهاتف";
+////"reach_us_via_mail"  = "تواصل معنا عبر البريد الألكتروني ";
+////"no_contacts"  = "لا توجد أرقام تواصل ";
+////"english"  = "English";
+////"hindi"  = "हिंदी";
+////"urdu"  = "اردو";
+////"chinese"  = "中文";
+////"arabic"  = "العربية";
+////
+////"schedule"  = "الجدول";
+////"book_now"  = "أحجز الآن";
+////"schedule_time_selection_validation_msg"  = "تحقق من أختيار الوقت";
+////"congratulations"  = "تهانينا";
+////"service_booked_successfully"  = "تم حجز خدمتك بنجاح";
+////"order_cancelled"  = "تم إلغاء طلبك";
+////"save"  = "حفظ";
+////"profile_updated_successfully"  = "تم تحديث الملف الشخصي بنجاح";
+////"permission_required_to_select_image"  = "يطلب الموافقة لتحديد الصورة";
+////
+////"dialog_camera"  = "من الكاميرا";
+////"dialog_gallery"  = "من الصور";
+////"dialog_select_your_choice"  = "حدد أختيارك";
+////
+////"push_notifications"  = "تفعيل التنبيهات";
+////"privacy"  = "الخصوصية";
+////"about_us"  = "معلومات عنا";
+////"edit_profile"  = "تحرير الملف الشخصي";
+////"completed"  = "مكتمل";
+////"cancelled"  = "تم الإلغاء";
+////"Scheduled"  = "تعيين موعد";
+////"select_location"  = "حدد الموقع";
+////"select_vehicle_type"  = "حدد نوع المركبة";
+////"select_sub_model"  = "حدد نوع الموديل";
+////"enter_approx_weight"  = "أدخل الوزن التقريبي ";
+////"enter_additional_information"  = "أضف معلومات أخرى";
+////"upload_images"  = "تحميل الصور";
+////"view_deals"  = "عرض الصفقات المتاحة ";
+////"driver_accepted_request"  = "لقد قبل السائق طلبك";
+////"driver_is_on_the_way"  = "السائق على الطريق";
+////"truck_driver_is_on_the_way" = "Your order is on the way for delivery";
+////"driver_completing_nearby_order"  = "السائق يكمل الطلب ";
+////"version"  = "الإصدار";
+////"support"  = "خدمات أخرى";
+////"no_services"  = "لا توجد خدمات متاحة";
+////"support_msg"  = "حدد المشكلة يمكننا مساعدتك";
+////"i_agree_to_the"  = "أنا أوافق على";
+////"terms_and_conditions_validation_message"  = "الرجاء الموافقة على الشروط والأحكام";
+////"terms_and_conditions_caps"  = "الشروط والأحكام";
+////"press_back_again_to_exit"  = "اضغط مرة أخرى للخروج";
+////
+////"sms_permission"  = " OTPمنح قراءة الرسالة النصية تلقائي لوصول ";
+////"grant"  = "منح";
+////"default_category_name"  = " اسم الفئة الافتراضي";
+////"started_at"  = "بدأت في";
+////"completed_at"  = "اكتمل في";
+////"past"  = "السابقة";
+////"uncoming"  = "القادمة";
+////"normal"  = "عادي";
+////"satellite"  = "الأقمار الصناعية";
+////
+////"max_images_validation_msg" = "يمكنك إضافة صورتين كحد أقصى.";
+////
+////"work_in_progress" = "الخدمة قيد التنفيذ";
+////
+////"email_not_configured" = "لم تتم تهيئة البريد الإلكتروني على الهاتف";
+////
+////
+//////MARK:-   Etokens Module
+////
+////"etoken.eToken" = "E-Token";
+////"etoken.orderOutForDelivery" = "Your order has been out for delivery.";
+////"eToken.orderConfirmed" = "Your order has been confirmed for delivery.";
+////"eToken.orderWaitingConfirmation" = "One order is waiting for your approval in upcoming bookings.";
+////"etoken.orderTimeOut" = "One order is waiting for your approval in upcoming bookings.";
+////"eToken.returnBottleTitle" = "Do you have (Brand name) bottles with you?";
+////"eToken.onlinePayment" = "Online payment not available yet.";
+////"eToken.tokenPurchasedSuccessfully" = "Token purchased successfully.";
+////"eToken.selectAddress" = "Please select address.";
+////"eToken.timeOut" = "Timeout";
+////"eToken.approvalPending" = "Approval Pending";
+////"eToken.rejected" = "Rejected";
+////"eToken.trackingNotAvailable" = "Tracking not available yet. Please wait.";
+////
+////"alet.enterDetails" = "Please enter order details.";
+////
+//////MARK:- EToken Status
+////
+////"etoken.Timeout" = "Timeout";
+////"etoken.ApprovalPending" = "Approval Pending";
+////"etoken.Rejected" = "Rejected";
+////
+//////MARK:- Etoken Delivery Days
+////
+////"Mon" = "الإثنين";
+////"Tue" = "الثلاثاء";
+////"Wed" = "الأربعاء";
+////"Thu" = "الخميس";
+////"Fri" = "الجمعة";
+////"Sat" = "السبت";
+////"Sun" = "الأحد";
+////
+////// side menu string
+////
+////"SideMenu.Book_a_taxi" = "حجز سيارة أجرة";
+////"SideMenu.New_Services_Coming_soon" = "خدمات جديدة - قريبًا";
+////"SideMenu.School_Rides" = "ركوب المدرسة";
+////"SideMenu.Home" = "الصفحة الرئيسية";
+////"SideMenu.My_Bookings" = "حجوزاتي";
+////"SideMenu.Payment_Methods" = "طرق الدفع";
+////"SideMenu.Travel_Packages" = "باقات السفر";
+////"SideMenu.Emergency_Contacts" = "جهة اتصال للطوارئ";
+////"SideMenu.Notifications" = "إشعارات";
+////"SideMenu.Settings" = "الإعدادات";
+////"SideMenu.Help" = "مساعدة";
+////"SideMenu.Payment_History" = "تاريخ الدفع";
+////"SideMenu.Saved_Cards" = "البطاقات المحفوظة";
+////"SideMenu.Delivery_History" = "تاريخ التسليم";
+////"SideMenu.Promotions" = "الترقيات";
+////"SideMenu.Contact_us" = "اتصل بنا";
+////"SideMenu.Sign_out" = "خروج";
+////"SideMenu.Book_service" = "حجز خدمة";
+////"SideMenu.Edit_Profile" = "تعديل الملف الشخصي";
+////"SideMenu.Get_Discount" = "احصل على الخصم";
+////"SideMenu.Deliver_with_us" = "توصل معنا!";
+////"SideMenu.Wallet" = "محفظة نقود";
+////"SideMenu.Refer_Earn" = "راجع وكسب";
+////
+////
+////"ServiceView.Where_you_want_to_deliver" = "حيث تريد التوصيل";
+////
+////"Home.Recent_Locations" = "المواقع الأخيرة";
+////"Home.Book_a_delivery" = "حجز التسليم";
+////"Home.Book_a_service" = "حجز خدمة";
+////"Home.Switch_Rider" = "تبديل رايدر";
+////"Home.For_me" = "لي";
+////"Home.Add_Home_Address" = "أضف عنوان المنزل";
+////"Home.Add_Work_Address" = "إضافة عنوان العمل";
+////"Home.For_Friend" =  "لصديق";
+////"Emmergency.Emmergency_Contact" = "اتصال الطوارئ";
+////"Wallet.Please_maintain_minimum" = "يرجى الحفاظ على الحد الأدنى للرصيد";
+////"Wallet.Receive_money" = "في المحفظة لاستلام طلب الحجز.";
+////"Notifications" = "إشعارات";
+////
+////
+////"Validation.VerificationValidation" = "يرجى إدخال رمز التحقق.";
+////"username_email_validation" = "Plaese أدخل اسم المستخدم أو البريد الإلكتروني.";
+////"password_empty_validation_message" = "يرجى إدخال كلمة المرور.";
+////"confirm_password_empty_validation_message" = "يرجى إدخال تأكيد كلمة المرور.";
+////"password_confirmPassword_validation" = "يجب أن تتطابق كلمة المرور وتأكيد كلمة المرور.";
+////"password_length_validation_message" = "يجب أن تكون كلمة المرور على الأقل 6 أحرف.";
+////"institution_type_validation" = "يرجى تحديد نوع المؤسسة.";
+////"institution_name_validation" = "يرجى تحديد اسم المؤسسة.";
+////"institution_id_validation" = "يرجى إدخال رقم معرف المؤسسة.";
+////"empty_institutional_email_validation" = "يرجى إدخال البريد الإلكتروني المؤسسي.";
+////"institutional_cred_Image_validation" = "يرجى إضافة صورة.";
+////"materialType" = "الرجاء إدخال نوع المادة.";
+////"pickupLevel" = "يرجى تحديد مستوى الالتقاط";
+////"dropLevel" = "يرجى تحديد مستوى الانسحاب";
+////"approxWeight" = "الرجاء إدخال تقريبا. وزن.";
+////"receiverName" = "الرجاء إدخال اسم المتلقي.";
+////"phoneNumber" = "يرجى إدخال رقم الهاتف.";
+////"senderName" = "يرجى إدخال اسم المرسل.";
+////"additionalInformation" = "يرجى إدخال معلومات إضافية.";
+////"Your_ride_has_been_accepted_and_its_pending_from_approval." = "تم قبول رحلتك وهي في انتظار الموافقة عليها.";
+////
+////
+//////New By trava
+////"Please enter first name" = "يرجى إدخال الاسم الأول";
+////"Please enter last name" = "يرجى إدخال الاسم الأخير";
+////"Please enter address" = "يرجى إدخال العنوان";
+////"NoOngoigRide" = "لا يوجد حاليا رحلة مستمرة";
+////
+////"Enter your Address" = "أدخل عنوانك";
+////"Hi " = "مرحبا ";
+////"Work" = "عمل";
+////"My Bookings" = "حجوزاتي";
+////"Payment method" = "طريقة الدفع او السداد";
+////"Travel packages" = "باقات السفر";
+////"Notifications" = "إشعارات";
+////"Emergency contacts" = "جهة اتصال للطوارئ";
+////"Settings" = "الإعدادات";
+////"Help" = "مساعدة";
+////"Seating capacity" = "سعة الجلوس";
+////
+////"View Package" = "عرض الحزمة";
+////"Packages details" = "تفاصيل الحزم";
+////"Valid for" = "صالحة ل";
+////"hours" = "ساعات";
+////"days" = "أيام";
+////"months" = "الشهور";
+////"hour" = "ساعة";
+////"day" = "يوم";
+////"month" = "شهر";
+////
+////"Pay" = "دفع ";
+////"Outstanding from previous trip" = " معلقة من الرحلة السابقة";
+////"credit" = "ائتمان";
+////"Are you sure you want to send Panic Request to your nearby?" = "هل أنت متأكد أنك تريد إرسال طلب الذعر إلى مكان قريب؟";
+////"Please wait. we'll contact you shortly." = "ارجوك انتظر. سوف نتصل بك قريبا.";
+////"long_distance_confirmation" = "سائقك يختار لك الجذر لمسافات طويلة. يمكنك دفع رسوم إضافية لهذا. هل أنت متأكد أنك تريد المتابعة؟";
+////"Ongoing_AddStop_Confirmation" = "لتتأكد ، إذا كنت تضيف نقطة توقف في الرحلة الحالية ، فلن تتمكن من حذفها. هل أنت متأكد أنك تريد المتابعة؟";
+////"Add Home Address" = "أضف عنوان المنزل";
+////"Add Work Address" = "أضف عنوان العمل";
+////"remove_card_Confirmation" = "هل أنت متأكد أنك تريد إزالة البطاقة؟";
+////"Credit Card" = "بطاقة الائتمان";
+////"can't_use_credit_point" =  "لا يمكنك استخدام نقاط الائتمان للدفع النقدي";
+////
+////"Cancel_Ride" = "إلغاء";
+////"Cancel_Delivery" = "إلغاء التسليم";
+////
+////"Ride_Share" = "حصة ركوب";
+////"Share_Parcel_Location" = "حصة الطرود الموقع";
+////"Delivery_In_Progress" = "التسليم قيد التقدم";
+////"Enjoy_Your_Ride" = "استمتع برحلتك";
+////
+////
+////"login" = "تسجيل الدخول";
+////"signup" = "سجل";
+////"withPhoneEmail" = "باستخدام الهاتف أو البريد الإلكتروني";
+////"Signupfor" = "التسجيل ل";
+////"loginTo" = "تسجيل الدخول إلى";
+////"haveNoAccount" = "ليس لديك حساب؟";
+////"haveAlreadyAccount" = "هل لديك حساب؟";
+////"institution" = "المعهد";
+////"signup_for" = "التسجيل ل";
+////"institution_account" = "حساب المؤسسة";
+////"otp_text" = "لقد أرسلنا لك رمز إلى";
+////
+////"CONTINUE_WITH_APPLE" = "تواصل مع التفاح";
+////"email" = "البريد الإلكتروني";
+////"phone" = "هاتف";
+////
+////
+////"Wallet.Please_maintain_minimum" = "يرجى الحفاظ على الحد الأدنى للرصيد";
+////"Wallet.Receive_money" = "في المحفظة لاستلام طلب الحجز.";
+////"Wallet.AddAmountLess" = "يجب أن يكون المبلغ أكثر من 0.";
+////
+////"AddTrustedContact" = "أضف جهة اتصال موثوقة";
+////
+////"Setting.Push" = "دفع الإخطارات";
+////"Setting.Term" = "الأحكام والشروط";
+////"Setting.ChangeLanguage" = "تغيير اللغة";
+////"Setting.Privacy" = "خصوصية";
+////"Setting.About" = "معلومات عنا";
+////
+////"Booking.Past" = "الماضي";
+////"Booking.Upcoming" = "القادمة";
+////"Booking.MyBooking" = "حجوزاتي";
+////"HalfWayStop" = "توقف نصف الطريق";
+///*
+// Localizable.strings
+// Clikat Supplier
+//
+// Created by Night Reaper on 08/04/16.
+// Copyright © 2016 Gagan. All rights reserved.
+// */
+//
+//"SIGN_IN_WITH_APPLE" = "تسجيل الدخول باستخدام Apple";
+//"AppName" = "Bletani"; //"Thena"
+////Supplier Related
+//"Go to Home" = "الصفحة الرئيسية";
+//"Service Charge" = "رسوم الخدمة";
+//"Min. Service Time" = "الحد الادنى لمدة الخدمة";
+//"Visiting Charges" = "رسوم الفحص";
+//"Min. Delivery Time" = "أقــل وقت للتوصيـل";
+//"Opens at" = "ساعات العمل ";
+//"PasswordChangedSuccess" = "تم تغيير الرقم السري بنجاح";
+//"Enter instructions here" = "إكتب طلباتك الخاصــة هنا";
+////Order Flow
+//"Please select an Address" = "الرجاء اختيار العنوان";
+//"Credit/Debit card" = "بطاقة الإئتمان/الصراف";
+//"Your Cart has no items.Please add items to cart to Proceed." = "سـلّة الشراء فـاضيةة؛ ءآمرونـاا";
+//"Landmark" = "أقرب مَعلَم واضح";
+//"Address Line First" = "العنوان 1";
+//"Address Line Second" = "العنوان 2";
+//"Pincode" = "رمز الدولة";
+//"Delivery Address" = "عنوان التوصيل";
+//"Enter your details." = "أدخل بياناتك";
+//"Delivery charges applicable accordingly" = "تنطبق رسوم التوصيل إن وجدت";
+//"Delivery charges" = "رسوم التوصيل";
+//"Select Time and Date" = "اختار اليوم والوقت";
+//"Please select a booking schedule and time" = "يرجى تحديد موعد جدولة الحجز والوقت";
+//"Select booking time" = "اختار وقت الحجز";
+//"ReOrdering will clear you cart" = "سيتم مسح جميع المشتريات السابقة مِـن السلة .. تبي تكمّل؟";
+//
+//
+////Order Related
+//
+//"PENDING" = "بإنتظارهم يقبلون طلبكم ";
+//"DELIVERED" = "تـم التوصيل";
+//"CONFIRMED" = "تم التـأكيد";
+//"FEEDBACKGIVEN" = "تم التعليق";
+//"REJECTED" = "تم الرفض";
+//"SHIPPED" = "تم إرسال طلبكم :)";
+//"INPROCESS" = "شغالين ع طلبكم :))";
+//"NEARBY" = "قابلنا عند الباب";
+//"TRACKED" = "تم تتبع الطلب";
+//"CUSTOMER CANCELLED" = "تــم إلغــاء طلبكم :( ";
+//"SCHEDULED" = "تمت جدولة الطلب";
+//
+//"Order Details" = "تفاصيل الطلب";
+//"items" = "منتجات";
+//"Items" = "منتجات";
+//
+//"REORDER" = "اعادة الطلب";
+//"TRACK" = "تتبع الطلب";
+//"BOOKED" = "تم الحجز";
+//"CANCEL ORDER" = "إلغــاء الطلب";
+//"CONFIRM ORDER" = "تأكيد الطلب";
+//
+//"Monthly" = "شهريا";
+//"Weekly" = "اسبوعيا";
+//"Pickup" = "استلام";
+//"Item" = "مُنتَـج";
+//
+//
+//
+////Login SignUp
+//"Please enter your email address" = "الرجاء ادخال بريدك الالكتروني";
+//"Please enter a valid email address" = "قم بإدخال بريد الكتروني صحيح";
+//"Please enter your password" = "الرجاء ادخال كلمة المرور";
+//"Password should be minimum 6 characters." = "يجب أن تكون كلمة المرور على الأقل 6 أحرف";
+//"Session expired login to continue" = "تم انتهاء صلاحية تسجيل دخولك / الرجاء تسجيل الدخول للمتابعه";
+//"OTP Sent" = "تم ارسال رمز التحقق";
+//"Select picture" = "اختار صورة";
+//"Please select your profile picture" = "الرجاء اختيار صورة ملفك الشخصي";
+//"Please enter your name" = "الرجاء ادخال اسمك";
+//"Camera" = "كاميرا";
+//"Photo Library" = "البوم الصور";
+//
+//
+//
+//// Side Menu Options
+//"Home" = "الرئيسية";
+//"Live support" = "الدعـم المباشر";
+//"Cart" = "الســلّةة";
+//"Promotions" = "العروض";
+//"Notifications" = "الإشعارات";
+//
+//"My Account" = "حسابي";
+//
+//"My favorites" = "المفضلة";
+//"Order history" = "الطلبات السابقة";
+//"Track my order" = "تتبع الطلب";
+//"Rate my order" = "تقييم الطلب";
+//"Upcoming orders" = "الطلبات القـادمة";
+//"Loyality points" = "نقاط الولاء";
+//"Share app" = "شارك التطبيق";
+//"Share App" = "شارك التطبيق";
+//"Settings" = "الاعدادات";
+//"Guest" = "ضيف";
+//"Welcome" = "أررححببوو:)";
+//"Points" = "نقاط";
+//"Daily Deals" = "العروض اليومية";
+//
+//"Essentials, delivered at your door steps" = "الأساسيات ، يتم توصيلها لباب بيتك";
+//"Health and medicine just a click away." = "الصحة والشفاء فقط نقرة واحدة.";
+//"Distance is no longer a problem." = "قربنا لك البعيد!!";
+//
+//// Home Screen Options
+//"Grocery" = "سوبرماركت";
+//"Laundry" = "المغسلة";
+//"Household" = "الصيانة";
+//"Flowers" = "الزهور";
+//"Fitness" = "الياقة";
+//"Photography" = "التصوير";
+//"Baby sitter" = "رعاية الاطفال";
+//"Cleaning" = "التنظيف";
+//"Party" = "الحفلات";
+//"Beauty salon" = "مركز التجميل";
+//"Medicines" = "صيدليات";
+//"Water delivery" = "توصيل الماء";
+//"Packages" = "الباقات المميزه";
+//
+//
+//"OK" = "تم";
+//"Save" = "حفظ";
+//"Cancel" = "إلغاء";
+//"CANCEL" = "إلغاء";
+//"Choose booking cycle" = "اختيار دورة الحجز";
+//"reviews" = " التقييمات";
+//"SR" = "ريـال ";
+//"mins" = " دقائق";
+//"Results for " = "النتائج ";
+//"days" = "الايام";
+//"Hours" = "الساعات";
+//
+//
+//
+////Filter
+//"Discoverability" = "";
+//"Supplier Type" = "نوع مزود الخدمـة";
+//"Rating" = "تقييم";
+//
+//
+//"1 Star" = "نجمة 1";
+//"2 Star" = "نجمتين 2";
+//"3 Star" = "نجوم 3";
+//"4 Star and above" = "4 نجوم واكثر";
+//
+//
+//"Gold" = "ذهبي";
+//"Silver" = "فضي";
+//"Bronze" = "برونز";
+//
+//"Cash on delivery" = "الدفع عند الإستلام";
+//"Card" = "بطاقة";
+//"Both" = "الكل";
+//
+//"Online" = "مفتوح";
+//"Busy" = "مشغول";
+//"Closed" = "مغلق";
+//
+//"Cancelled" = "ملغي";
+//
+//
+////Settings
+//"Change Password" = "تغيير كلمة السر";
+//"Notifications Language" = "لغة الإشعارات";
+//"Manage Address" = "التحكم بالعناوين";
+//"Logout" = "تسجيل الخروج";
+//"Select notification language" = "اختيار لغة الإشعارات";
+//"English" = "انجليزي";
+//"Arabic" = "عربي";
+//
+////Loyalty Points
+//
+//"You haven't earned any loyalty points yet" = "لم تكسب اي نقاط الولاء الى الان";
+//"Select produts from same supplier" = "يرجى تحديد المنتجات من نفس المورد";
+//"No Remarks" = "لايوجد ملاحظات";
+//
+////Laundry Flow
+//"When do you want the service" = "الرجاء اختيار موعد الخدمة";
+//"Pickup location" = "موقع الاستلام";
+//"Choose location" = "إختر الموقـع";
+//"Select pickup date and time" = "الرجاء اختيار تاريخ و وقت الاستلام";
+//
+//"Are you sure you want to delete this address" = "هل أنت متأكد أنك تريد حذف هذا العنوان";
+//
+////Location Selection
+//"Select Country" = "اختار الدولة";
+//"Select City" = "اختار المدينة";
+//"Select Zone" = "اختار النطاق";
+//"Select Area" = "اختار المنطقة";
+//
+//"Please select all fields above" = "يرجى تحديد كافة الحقول أعلاه";
+//"Please select a country" = "الرجاء اختيار الدولة";
+//"Please select a city" = "الرجاء اختيار المدينة";
+//
+////Delivery Address Cell
+//
+//"Please fill all details" = "الرجاء ملئ جميع التفاصيل";
+//"Please enter valid Pincode" = "الرجاء ادخال رمز الدولة الصحيح";
+//
+////Change Password
+//"Old Password" = " كلمة المرور السابقة";
+//"New Password" = "كلمة المرور الجديدة";
+//"Confirm Password" = "تاكيد كلمة المرور";
+//"New Password must not be same as old password" = "يجب أن لا تكون كلمة المرور الجديدة نفس كلمة المرور القديمة";
+//"Passwords do not match" = "كلمة المرور غير مطابقة";
+//"Forgot Password" = "نسيت كلمة المرور";
+//"Password recovery has been sent to your email id" = "تم ارسال كلمة المرور الجديدة الى بريدك الالكتروني";
+////Share text
+//"The Leading Online Home Services In UAE" = "اول واكبر منصه اونلاين للخدمات المنزلية في دولة الامارات العربية المتحدة.. clikat://clikat.com/";
+////Share text for yummy
+//"ShareAppYummy"  = "Thought you might like this app to make life more simpler:  https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+////API Validation
+//"Please check your internet connection" = "الرجاء التحقق من اتصال الإنترنت الخاص بك";
+//
+////Sweet Alert
+//"Cancel Order" = "إلغـاء الطلب";
+//"Success" = "تم بنجاح";
+//"Do you really want to cancel this order" = "هل تريد إلغاء الطلب؟";
+//"You have cancelled your order successfully" = "تم إلغاء الطلب بنجاح";
+//"LogOut" = "تسجيل الخروج";
+//"Are you sure you want to logout" = "هل انت متاكد من تسجيل الخروج؟";
+//"You are successfully logged out" = "تم تسجيل الخروج بنجاح";
+//
+//"Please enter valid country code followed by phone number" = "الرجاء ادخال رمز الدولة يتبعه رقم الهاتف";
+//
+//"You can add only " = "تقدر تضيف فقط...";
+//"Agent is not assigned to this order" = "لم يتم تعيين مندوب لهذا الطلب ";
+////Delviery Screen
+//"Delivery Speed" = "سرعة التوصيل";
+//"Sorry… Your Order is Below Minimum Order Price." = "اجمالي الطلب اقل من الحد الادنى";
+//
+//"Recommended" = "تقييم عالي";
+//"Offers" = "العروض";
+//
+//"Your order have been placed successfully" = "تم طلبك بنجاح";
+//"Order placed successfully" = "تم إرســال الطلب";
+//"Your order have been sheduled successfully" = "تم جدوله طلبك بنجاح";
+//
+//"Are you sure" = "هل انت متاكد؟";
+//"Changing the language will clear your cart." = "سيختفي طلبك الحالي في السله في حال تغيير اللغة. هل تريد الاستمرار؟";
+//
+////Live Support
+//"Typing" = " يكتب لِك";
+//"Offline" = "غير متواجد";
+//
+//"Email" = "بريد الكتروني";
+//
+//"Not rated yet" = "لا توجد تقييمات";
+//"Search" = "بحث";
+//"Other" = "اخرى";
+//
+////MARK: - After sending localization file
+////TODO: - Localize
+//
+//"Status" = "الحالة";
+//"Loyalty Points Type" = "فئة نقاط الولاء";
+//"Payment Method" = "طريقة الدفع";
+//"Terms and Conditions" = "الشروط والاحكام";
+//"About Us" = "من نحن";
+//"Sort" = "تصنيف";
+//"Open" = "مفتوح";
+//"Adding products from diffrent suppliers will clear your cart" = "سيتم إلغاء سلة المشتريات الحالية في حالة اضافة منتجات من مورد خدمة اخر ";
+//"Min. Order Amount" = "الحد الادنى للطلب";
+//"Min. Delviery Time" = "الحد الادنى لوقت تسليم الطلب";
+//"HOME SERVICE" = "الخدمة المنزلية";
+//"AT PLACE SERVICE" = "في مكان الخدمة";
+//"Select service" = "اختر الخدمة";
+//"Ladies Beauty Salon" = "صالون تجميل نسائي";
+//"City" = "المدينة";
+//"Area" = "المنطقة";
+//"House No" = "رقم المنزل/رقم الشقة";
+//"Compare Products" = "مقارنة المنتجات";
+//"Somewhere Somehow Something Went Wrong" = "حدث خطأ";
+//"Adding products from promotions will clear your cart" = "سيتم إلغاء سلة المشتريات الحالية في حالة اضافة منتجات من العروض ";
+//
+//"Please enter your house no." = "الرجاء ادخال رقم المنزل/رقم الشقة";
+//"Please enter your building name" = "الرجاء إدخال اسم المبنى";
+//"Please select your location" = "الرجاء إختيار موقعك";
+//"Please enter a landmark name" = "الرجاء إدخال اسم اقرب مَعلَم";
+//"Please enter your city" = "الرجاء إدخال مدينتك";
+//"Please enter your counrty" = "الرجاء إدخال دولتك";
+//
+//"My Orders" = "طلباتي";
+//"Not Available" = " غير متوفر ";
+//"Your Order will be confirmed during next supplier working hours/day." = "سيتم تأكيد طلبك خلال ساعات \ أيام العمل المقبله ";
+//
+//"Changing the current area will clear you cart" = "تغيير عنوانك الحالي سوف يقوم بإلغاء الطلبات في سلتك الحالية";
+//"Change pick up time no suppliers are available for this pickup timing" = "يرجى تغيير وقت الاستلام";
+//"No supplier found" = "لا يوجد موردين خدمة";
+//"My Addresses" = "عناويني";
+//"Item Detail" = "تفاصيل المنتج";
+//"Scheduled Orders" = "الطلبات المجدولة";
+//
+//"Sorry not enough points to redeem" = "عذرا, لا تملك النقاط الكافية للاستبدالها بقسيمة ";
+//"Loading" = "جاري التحميل";
+//"Looks like your order has been delivered Would you like to rate your order" = "عليكم بالعافية يارب٫ نتمنى منكم التقييم عشان نخدمكم بشكل افضل";
+//"Rate Order" = "تقييم الطلب";
+//"Quantity" = "الكمية : ";
+//"Delivered on" = "تم التوصيل في";
+//
+////MARK: - Chat Localization
+//"ios.ZDCChat.end" = "نهاية";
+//"ios.ZDCChat.emailPlaceholder" = "البريد الالكتروني";
+//"ios.ZDCChat.preChatForm.messagePlaceholder" = "رسالة";
+//"ios.ZDCChat.upload.error.type" = "نوع الملف غير مسموح";
+//"ios.ZDCChat.cantConnectTitle" = "تعذر الاتصال";
+//"ios.ZDCChat.access.gallery" = "يحتاج الدخول للصور";
+//"ios.ZDCChat.noAgentsTitle" = "لا يوجد موظف دعم متواجد";
+//"ios.ZDCChat.backButton" = "رجوع";
+//"ios.ZDCChat.preChatForm.required" = "الحقول ذات علامة *, يرجى ملئها";
+//"ios.ZDCChat.download.failedMessage" = "فشل في التحميل. إضغط لإعادة المحاولة.";
+//"ios.ZDCChat.preChatForm.invalidEmail" = "الرجاء ادخال البريد الالكتروني الصحيح";
+//
+//"ios.ZDCChat.noConnectionTitle" = "لا يوجد اتصال";
+//"ios.ZDCChat.sendOfflineMessageError.title" = "لم يتم ارسال الرسالة";
+//"ios.ZDCChat.rating.comment.title" = "اترك تعليقا";
+//"ios.ZDCChat.imageViewer.saveButton" = "حفظ الصورة";
+//"ios.ZDCChat.reconnecting" = "اعادة الاتصال";
+//"ios.ZDCChat.transcriptEmailAlert.emailPlaceholder" = "email@address.com";
+//"ios.ZDCChat.cancelButton" = "إلغاء";
+//"ios.ZDCChat.access.howto" = "Enable this from the home screen, Settings > %@";
+//"ios.ZDCChat.ok" = "تم";
+//"ios.ZDCChat.no" = "لا";
+//"ios.ZDCChat.chatConnectionLost.title" = "تم فقد الاتصال";
+//
+//"ios.ZDCChat.preChatForm.requiredTemplate" = "%@ *";
+//"ios.ZDCChat.done" = "تم";
+//"ios.ZDCChat.transcriptEmailAlert.message" = "قبل انتهاء هذه المحادثة, هل تريد ارسال نسخة لبريدك الالكتروني؟";
+//"ios.ZDCChat.upload.error.access" = "خطأ في الوصول إلى ملف";
+//"ios.ZDCChat.visitorQueue" = "الرجاء انتظار موظف خدمة العملاء, يتواجد الان عدد .. زائر(s) waiting to be served.";
+//"ios.ZDCChat.noConnectionMessage" = "لا يوجد اتصال بالانترنت. يرجى المحاولة مرة أخرى عند الاتصال";
+//"ios.ZDCChat.preChatForm.namePlaceholder" = "الاسم";
+//"ios.ZDCChat.access.camera" = "%@ يحتاج إلى الوصول إلى الكاميرا";
+//"ios.ZDCChat.chatTextEntry.sendButton" = "أرسل";
+//"ios.ZDCChat.retry" = "إعادة المحاولة";
+//"ios.ZDCChat.chat.startingChatMessage" = "بدء المحادثة";
+//
+//"ios.ZDCChat.chatTextEntry.placeholderText" = "رسالة";
+//"ios.ZDCChat.agentsOffline.message" = "لا يوجد موظفين خدمة عملاء متواجدون حاليا";
+//"ios.ZDCChat.preChatForm.departmentPlaceholder" = "هل يمكنا مساعدتك؟";
+//"ios.ZDCChat.agentLeft" = "%@ ترك المحادثة";
+//"ios.ZDCChat.sendOfflineMessageError.message" = "هل تود إعادة المحاولة؟";
+//"ios.ZDCChat.unsentMessage" = "فشل في إلارسال. إضغط لإعادة المحاولة.";
+//"ios.ZDCChat.preChatForm.phonePlaceholder" = "رقم الهاتف";
+//"ios.ZDCChat.noAgentsMessage" = "عذرا, لا يوجد موظف خدمة عملاء حاليا الرجاء المحاولة مرة اخرى او ترك رسالة";
+//"ios.ZDCChat.timeoutMessage" = "لم اسمع منك لبعض الوقت حتى تم إغلاق هذه المحادثة. يرجى بدء محادثة جديدة إذا كانت لديك اسئلة.";
+//"ios.ZDCChat.transcriptEmailAlert.sendButton" = "أرسل";
+//"ios.ZDCChat.upload.source.camera" = "أخذ صورة";
+//
+//"ios.ZDCChat.rating.commentButton" = "ضع تعليق";
+//"ios.ZDCChat.network.connectionError" = "لا يوجد اتصال";
+//"ios.ZDCChat.cantConnectMessage" = "عذرا. لا يمكنك الاتصال الان. الرجاء المحاولة مرة اخرى";
+//"ios.ZDCChat.chatEndedTitle" = "انهاء المحادثة";
+//"ios.ZDCChat.upload.error.size" = "حجم الملف كبير جدا";
+//"ios.ZDCChat.preChatForm.invalidPhone" = "الرجاء ادخال رقم هاتف صحيح";
+//"ios.ZDCChat.sendOfflineMessageError.sendButton" = "أرسل";
+//"ios.ZDCChat.transcriptEmailAlert.title" = "أرسل نسخة";
+//"ios.ZDCChat.endButton" = "انهاء المحادثة";
+//"ios.ZDCChat.chatEndedMessage" = "هل تريد انهاء المحادثة؟";
+//"ios.ZDCChat.offlineMessageFailed.message" = "تعذر إرسال الرسالة.";
+//
+//"ios.ZDCChat.rating.comment.placeholder" = "اترك تعليق";
+//"ios.ZDCChat.agentJoined" = "%@ انضم للمحادثة";
+//"ios.ZDCChat.noAgentsButton" = "اترك رسالة";
+//"ios.ZDCChat.messageButton" = "رسالة";
+//"ios.ZDCChat.title" = "محادثة";
+//"ios.ZDCChat.nextButton" = "التالي";
+//"ios.ZDCChat.cancel" = "إلغاء";
+//"ios.ZDCChat.accountOffline.message" = "لا يوجد موظف خدمة عملاء متصل حاليا. هل تود ترك رسالة؟";
+//"ios.ZDCChat.upload.source.gallery" = "البوم الصور";
+//"ios.ZDCChat.chatConnectionLost.message" = " غير قادر على إعادة الاتصال. هل ترغب في الاستمرار في محاولة؟";
+//"ios.ZDCChat.rating.title" = "قيم هذي المحادثة";
+//
+//"ios.ZDCChat.rating.editButton" = "تعديل التعليق";
+//"ios.ZDCChat.yes" = "Yes";
+//"ios.ZDCChat.transcriptEmailAlert.dontSendButton" = "إلغاء الارسال";
+//"Pickup Time and Location" = "وقت و تاريخ الاستلام";
+//"No Product Found!" = "لايوجد منتجات";
+//
+////New Arabic
+//"Have you Forgot Completing Your Last Shopping Cart?" = "متشوّقين لخدمتكم ؛ لاتنسى تكمل طلبك ";
+//"Search for product" = "ابحث عن منتج";
+//"Sub Total" = "المجموع الجزئي";
+//
+//
+//"Expected Delivery On" = "الزمن المتوقع لوصول الطلب";
+//"By signing up you agree to the " = "التسجيل يعني الموافقة على الشروط والاحكام ";
+//"Privacy Policy" = "سياسة الخصوصية";
+//"Terms and conditionsSignUp" = "الشروط والاحكام";
+//"and" = " و ";
+//"I would like to recommend using" = "اقترح باستخدام";
+//"via elconcierge" = "عبر تطبيق كونسيرج";
+//"Warning" = "تنبيه";
+//"Please select dates to schedule." = "الرجاء اختيار تاريخ لجدولة الطلب";
+//"Bronze" = "برونز";
+//"Notification Language Changed Successfully" = "تم تعديل لغة الإشعارات بنجاح";
+//"Order Confirmed Successfully" = "تم انشاء الطلب بنجاح";
+//"Delivery on" = "وقت التوصيل";
+//"No Product Found!" = "لاتوجد منتجات";
+//"Supplier Rated Successfully" = "تم تقييم الطلب بنجاح";
+//"Send" = "ارسل";
+//
+//"Camera Unavailable" = "الكاميرا غير متاحة حالياً";
+//"It looks like your privacy settings are preventing us from accessing your camera." = "يبدو أن إعدادات الخصوصية لديك تمنعنا من الاتصال بالكاميرا.";
+//"Location Unavailable" = "الموقع الحالي غير متاح";
+//"Please check to see if you have enabled location services." = "الرجاء التأكد من تمكين خدمات الموقع الحالي";
+//
+//
+//"You need to enable Photos access from app settings to share image" = "تحتاج إلى تمكين الوصول إلى الصور من إعدادات التطبيق لمشاركة الصورة";
+//"You need to enable camera access from app settings to share image from camera" = "تحتاج إلى تمكين الوصول إلى الكاميرا من إعدادات التطبيق لمشاركة صورة من الكاميرا";
+//"Please give permissions from app settings to share media" = "يرجى منح أذونات من إعدادات التطبيق لمشاركة الوسائط";
+//"You need to enable internet connection" = "أنت بحاجة إلى تمكين اتصال الإنترنت";
+//"The file you have selected is too large, the max size is 25MB" = "الملف الذي حددته كبير جدًا ، الحد الأقصى للحجم هو 25 ميغابايت";
+//"Camera Denied" = "تم رفض الكاميرا";
+//"Permission Denied" = "طلب الاذن مرفوض";
+//"Media Picker Denied" = "تم رفض منتقي الوسائط";
+//"You need to enable Photos access from app settings to share image" = "تحتاج إلى تمكين الوصول إلى الصور من إعدادات التطبيق لمشاركة الصورة";
+// "Attach image from" = "إرفاق صورة من";
+// "Title for a generic action sheet for picking media from the device." = "عنوان ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+// "Gallery" = "صالة عرض";
+// "Text for an option that lets the user choose an existing photo in a generic action sheet for picking media from the device." = "نص لخيار يتيح للمستخدم اختيار صورة موجودة في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+//  "Choose existing photo or video" = "اختر صورة أو فيديو موجود";
+//"Text for an option that lets the user choose an existing photo or video in a generic action sheet for picking media from the device" = "نص لخيار يتيح للمستخدم اختيار صورة أو مقطع فيديو موجود في ورقة عمل عامة لانتقاء الوسائط من الجهاز";
+//  "Camera" = "الة تصوير";
+// "Text for an option that lets the user take a picture with the device camera in a generic action sheet for picking media from the device." = "نص لخيار يتيح للمستخدم التقاط صورة باستخدام كاميرا الجهاز في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+// "Take a video" = "تأخذ شريط فيديو";
+// "Text for an option that lets the user take a video with the device camera in a generic action sheet for picking media from the device." = "نص لخيار يتيح للمستخدم التقاط فيديو بكاميرا الجهاز في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+//  "Cancel" = "إلغاء";
+//  "Text for the 'cancel' action in a generic action sheet for picking media from the device." = "نص إجراء' إلغاء 'في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+//  "Choose Video" =  "اختر الفيديو";
+//  "Choose Video" = "اختر الفيديو";
+//  "Cancel" = "إلغــاء";
+//  "Open Settings" = "أفتح الإعدادات";
+//   "Cancel" =  "إلغــاء";
+//"Permission Required" = "الإذن مطلوب";
+//"for camera access" = "للوصول إلى الكاميرا";
+//"You need to enable interet connection" = "أنت بحاجة إلى تمكين الاتصال";
+//"Session Expired" = "انتهت الجلسة";
+//"Sorry your account has been logged in other device, Please login to continue"= "عذرًا ، تم تسجيل حسابك في جهاز آخر ، يرجى تسجيل الدخول للمتابعة";
+// "Drop-off Time" = "وقت التوصيل";
+// "Pick-up Time"=  "وقت الإستلام";
+// "Alert!" =  "إنذار!";
+//"Please select your pickup point." = "الرجاء تحديد نقطة الإستلام الخاصة بك.";
+//"Wait!" = "انتظر!";
+//"Please select dates." =  "الرجاء تحديد التواريخ.";
+//"Your pickup and dropoff date is same. Do you want to continue" = "موعد الاستلام والتسليم هو نفسه. هل تريد المتابعة";
+//"Please select pickup time." = "الرجاء تحديد وقت الإستلام.";
+//"Please select dropoff time." = "الرجاء تحديد وقت الوصول.";
+//"Sorry!" = "آسف!";
+//"No provider found, Please change booking date and time." = "لم يتم العثور على مزود خدمة ، يرجى تغيير تاريخ ووقت الحجز.";
+// "Start Date" = "تاريخ البدء";
+// "End Date" =  "تاريخ الانتهاء";
+//"Say Again!!!" = "كرر!!!";
+//"Say something, I'm listening!" = "قل شيئًا ، أنا أستمع!";
+//"Unable to create an SFSpeechAudioBufferRecognitionRequest object" = "غير قادر على إنشاء كائن SFSpeechAudioBufferRecognitionRequest";
+//"Say something, I'm listening!" = "قل شيئًا ، أنا أستمع!";
+//"Welcome!\nWhat can i help you with?" = "مرحبًا! \ n ما الذي يمكنني مساعدتك به؟";
+//"What can i help you with?" =  "بماذا يمكنني مساعدتك؟";
+//"Welcome!" = "أررححببو:)";
+//"Please enter an agent code!" = "الرجاء إدخال رمز الخدمة!";
+//"Please enter a valid code!" = "الرجاء ادخال الكود الصحيح!";
+//"Booking fee" = "رسوم الحجز";
+//"Dont't have an Account?" = "أليس لديك حساب؟";
+//"Sign up" = "سجل";
+//"Please enter OTP." = "الرجاء إدخال OTP.";
+//"OTP is not Valid." = "OTP غير صالح.";
+//"Please enter phone number" = "الرجاء إدخال رقم الهاتف";
+//"Already have an Account?" = "هل لديك حساب؟";
+//"Login" = "تسجيل الدخول";
+//"Extras:" = "إضافات:";
+//"Order Price" = "سعر الطلب";
+//"Cannot upload more than %@ images" = "لا يمكن تحميل أكثر من @% صور";
+//"Address Location" = "موقع العنوان";
+//"Please upload prescription images" = "يرجى تحميل صورة";
+//"Please select payment method" = "الرجاء تحديد طريقة الدفع";
+//"This Restaurant provides both Pickup and Delivery, what you want to do?" = "يقدم هذا المطعم خدمة الإستلام والتوصيل ، ماذا تريد أن تفعل؟";
+//"Choose Payment" = "اختر الدفع";
+//"PICKUP FROM" = "تستلم من";
+//"DELIVERY AT" = "التوصيل عند";
+//"Your address is not saved,please save this address and proceed further." = "لم يتم حفظ عنوانك ، يرجى حفظ هذا العنوان والمضي قدما.";
+//"Details" = "تفاصيل";
+//"Previous" = "السابق";
+//"No Order found!" = "لم يتم العثور على طلب!";
+//"No Booking found!" = "لم يتم العثور على حجز!";
+//"History" = "التاريخ";
+//"No data found." = "لاتوجد بيانات.";
+//"No Order item found." = "لم يتم العثور على طلبات.";
+//"View food items as" = "عرض المواد الغذائية باسم";
+//"View services as" = "عرض الخدمات كـ";
+//"View products as" = "عرض المنتجات كـ";
+//
+//"Search Order Items." = "عناصر طلب البحث.";
+//
+//"Search %@ Items." = "بحث @% العناصر.";
+//
+//"What are you looking for?" = "عمّ تبحث؟";
+//"Others" = "التحكم";
+//"Cart" = "السّــلةة";
+//"Share App" = "شارك التطبيق";
+//"My Wishlist" = "قائمة امنياتي";
+//"Referral" = "الإحالة";
+//"About Us" = "معلومات عنا";
+//"Terms and Conditions" = "الأحكام والشروط";
+//"Privacy Policy" = "سياسة الخصوصية";
+//"Logout" = "تسجيل خروج";
+//"No data found" = "لاتوجد بيانات";
+//"Add Address" = "اضف عنوان";
+//"Use current location" = "استخدام الموقع الحالي";
+//"Edit" = "تعديل";
+//"Delete" = "حذف";
+//"Saved Addresses" = "العناوين المحفوظة";
+//"Order No." = "رقـم الطلب";
+//"Restaurants" = "المطاعــم";
+//"Restaurant" = "مطعم";
+//"Delivery" = "توصيل";
+//"Self pickup" = "إستلام ذاتــي";
+//"Home" = "الصفحة الرئيسية";
+//"Orders" = "الطلبــات #٪ s";
+//"Customizable" = "قابل للتخصيص";
+//"Customise your food" = "تخصيص طعامك";
+//"Add" = "إضافــة";
+//"Kitchen" = "مطبخ";
+//"Location" = "موقعك";
+//"Customizable" = "قابل للتخصيص";
+//"In The Kitchen" = "في المطبــخ" ;
+//"Please select any one option" = "الرجاء تحديد أي خيار واحد";
+//"Choice of" = "اختيار";
+//"SubTotal" = "المجموع الجزئي";
+//"Tip Amount" = "مبلغ الإكرامية";
+//"Tax" = "ضريبة";
+//"Order Now" = "أُطلب الان";
+//"Price details" = "تفاصيل السعر";
+//"ADD A TIP TO YOUR RIDER" = "أضف مبلغاً إلى مندوبك";
+//"Total" = "المجموع";
+//"Delivery charges" = "رسوم التوصيل";
+//"Choose Payment" = "اختر الدفع";
+//"Tip Amount" = "مبلغ الإكرامية";
+//"Placed" = "تـم الطلب";
+//"Confirmed" = "تم التأكيــد";
+//"Delivered" = "تم التوصيل";
+//"On The Way" = "جايّينك بالطريــق :)";
+//"Confirmed On" = "مـؤكد";
+//"Delivery Charges" = "رسوم التوصيل";
+//"Total Amount" = "المبلغ الإجمالي";
+//"Placed on" = "تــم الطلب";
+//"Payment method" = "طريقة الدفع او السداد";
+//"Address Detail" = "تفاصيل العنوان";
+//"Details" = "تفاصيل";
+//"Support Email" = "البريد الإلكتروني للدعم";
+//"Items" = "العناصر";
+//"Status" = "الحالة";
+//"Payment" = "دفع";
+//"Expected delivery on" = "التسليم المتوقع في";
+//"Special Offers" = "عروض خاصــة";
+//"Login" = "تسجيل الدخول";
+//"Dont't have an Account?" = "أليس لديك حساب؟";
+//"Sign up" = "سجل";
+//"Signup" = "سجل";
+//"Send OTP" = "إرسال OTP";
+//"Enter Mobile" = "أدخل جوال";
+//
+//"Already have an Account?" = "هل لديك حساب؟";
+//"OTP Verification" = "التحقق OTP";
+//"Enter the OTP sent to" = "أدخل OTP المرسلة إلى";
+//"Resend Code" = "أعد إرسال الرمز";
+//"Submit" = "إرسال";
+//"Tap to add a profile picture" = "انقر لإضافة صورة ملف شخصي";
+//"FINISH" = "إنهاء";
+//"Tap to add a profile picture" = "انقر لإضافة صورة ملف شخصي";
+//"Completed Orders" = "الطلبات المكتملة";
+//"Pending Orders" = "الطلبـات المعلقة";
+//"YOUR CART IS EMPTY" = " سـلّة الشراء فـاضيةة؛ ";
+//"ADD SOME STUFF" = "آمـرنــا ";
+//"(YOU WON'T REGRET IT)" = "( دقــايق وطلبك عندك :) )";
+//"My Cart" = "الـسلّةة";
+//"customisable" = "قابل للتخصيص";
+//"Others" = "التحكُّم";
+//"Log in And Sign Up" = "تسجيل الدخول والتسجيل";
+//"View food items as" = "عرض المواد الغذائية باسم";
+//"CHANGE" = "تغيِيـر";
+//"PICKUP FROM" = "الإسـتلام مِـن";
+//"DELIVERY AT" = "التسليم في";
+//"customisable" = "قابل للتخصيص";
+//"Address Location" = "موقع العنوان";
+//"History" = "السّجل";
+//"Details" = "تفاصيل";
+//"PleaseEnterAValidEmailAddress" = "من فضلك أدخل بريد إلكتروني صحيح";
+//"Send" = "إرسال";
+//"ForgotPassword" = "هل نسيت كلمة المرور";
+//"Cancel" = "إلــغاء";
+//"Settings" = "إعدادات";
+//"Old Password" = "كلمة سر قديمة";
+//"New Password" = "كلمة سر جديدة";
+//"Confirm Password" = "تأكيد كلمة المرور";
+//"Password" = "كلمة السر";
+//"EnterOTP" = "أدخل OTP";
+//"Full name" = "الاسم الكامل";
+//"Other" = "أخرى";
+//"Change Password" = "تغيير كلمة المرور";
+//"Enter your details." = "أدخل التفاصيل الخاصة بك.";
+//"Order placed successfully" = "تم تقديم الطلب بنجاح";
+//"Are you sure" =  "متـأكد؟";
+//"CLEAR" = "مسح";
+//"Your referal Amount : " = "مبلغ الإحالة الخاص بك:";
+//"Remove" = "إزالة";
+//"Apply" = "تطبيق";
+//"VIEW CART" = "عرض السلة";
+//"Your order has been placed successfully" = "تم تقديم طلبك بنجاح";
+//"Do you really want to cancel this order?" = "هل تريد إلغاء الطلب؟";
+//"Warning" = "تحذير";
+//"Notification language changed successfully" = "تم تغيير لغة الإشعارات بنجاح";
+//"Password Changed Success" = "نجاح تغيير كلمة المرور";
+//"LogOut" = "تسجيل خروج";
+//"Are you sure you want to logout?" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+//"Cancel Order" = "الغاء الطلب";
+//"You have cancelled your order successfully" = "تـم إلغــاء الطلب ";
+//"Changing the language will clear your cart" = "سيؤدي تغيير اللغة إلى حذف سلة التسوق";
+//"FORGOT PASSWORD?" = "هل نسيت كلمة المرور؟";
+//"Payments" = "المدفوعات";
+//"We will be sending you an OTP (one time password ) on your mobile number. Tap the button below after correctly typing your phone number" = "سنرسل لك OTP (كلمة مرور لمرة واحدة) على رقم هاتفك المحمول. اضغط على الزر أدناه بعد كتابة رقم هاتفك بشكل صحيح";
+//"View More" = "عرض المزيد";
+//"Place Booking" = "حجـز";
+//
+//"CANCEL BOOKING" = "إلغاء الحجز";
+//"BOOK AGAIN" = "حجز مرة أخرى" ;
+//"CONFIRM BOOKING" = "تأكيد الحجز" ;
+//"Cancel Booking" = "إلغاء الحجز";
+//"Booking Details" = "تفاصيل الحجز";
+//"Booking History" = "سِجـل الحجز";
+//"Track My Booking" = "تتبع حجزي";
+//"Rate My Booking" = "تقييم حجزي";
+//"Upcoming Bookings" = "الحجوزات القادمة";
+//"My Bookings" = "حجوزاتي";
+//"Scheduled Bookings" = "الحجوزات المجدولة";
+//"Rate Booking" = "التقييم";
+//"Pending Bookings" = "حجوزات معلقة";
+//"Booking confirmed successfully" = "تم تأكيد الحجز بنجاح";
+//"Booking Address" = "عنوان الحجز";
+//"Booking again will clear you cart" = "الحجز مرة أخرى سوف يمسح سلة التسوق";
+//"Do you really want to cancel this booking?" = "هل تريد حقًا إلغاء هذا الحجز؟";
+//"Your booking has been canceled successfully." = "تم إلغاء الحجز الخاص بك بنجاح.";
+//"Your booking has been placed successfully" = "تم الحجز بنجاح";
+//"Looks like your service had been completed. Would you like to rate the service?" = "يبدو أن الخدمة قد اكتملت. هل ترغب في تقييم الخدمة؟";
+//"Completed Bookings" = "الحجوزات المكتملة";
+//
+//"New" = "جديد";
+//"Live Tracking" = "التتبع المباشر";
+//"Select" = "تحديد";
+//"Select Address" = "حدد العنوان";
+//"Save & Proceed" = "حفظ ومتابعة";
+//"Update" = "تحديث";
+//"Popular Restaurants" = "مطاعـم مفضّلة";
+//"Supplier" = "المورد";
+//"Suppliers" = "الموردون";
+//"Adding different service will clear your cart" = "ستؤدي إضافة خدمة مختلفة إلى حـذف سلة التسوق";
+//
+////MARK: - New Localization
+//"Uploaded prescription images" = "صور الوصفات المحملة";
+//
+//
+//"First name *" = "الاسم الاول *";
+//"Last name *" = "الكنية *";
+//"Email *" = "البريد الإلكتروني *";
+//"Password * " = "كلمه السر * ";
+//"Confirm Password *" = "تأكيد كلمة المرور *";
+//"Referal code" = "كود الإحالة";
+//
+//"Start a conversation" = "بدء محادثة";
+//
+//"Write something" = "أكتب شيئا";
+//
+//"Add Card" = "إضافة بطاقة";
+//"Fill Card Details" = "تعبئة تفاصيل البطاقة";
+//"Select Card for Payment" = "حدد بطاقة للدفع";
+//"Add card to complete payment" = "إضافة بطاقة لإكمال الدفع";
+//"Card Holder" = "حامل البطاقة";
+//"Expiry" = "انتهاء";
+//"Card Type" = "نوع البطاقة";
+//"CHOOSE PAYMENT RECEIPT" = "اختيار إيصال الدفع";
+//"Payment Details:" = "بيانات الدفع:";
+//"Email : " = "البريد الإلكتروني : ";
+//"Phone Number : " = "رقم الهاتف : ";
+//
+//"Credit Card / Debit Card" = "بطاقة الائتمان / بطاقة الخصم";
+//"Credit Card" = "بطاقة الائتمان";
+//"Cash On Delivery" = "الدفع عند الاستلام";
+//
+//"No Items" = "لا توجد مُنتجات";
+//"Done" = "تــم";
+//"Rating" = "تقييم";
+//"Delivery in" = "التسليم في";
+//"For Delivery" = "للتوصيل";
+//"Refer" = "مشاركة";
+//"Referred" = "مُحال";
+//"Invite your friend and earn money" = "دعوة صديق لك وكسب المال";
+//"Tap to copy" = "انقر للنسخ";
+//"Refer now" = "ارسل الآن";
+//
+//"Product Description" = "وصف المنتج";
+//"Rating & Reviews" = "التقييم والمراجعات";
+//"No Rating Found" = "لم يتم العثور على تصنيف";
+//"Product Detail" = "تفاصيل المنتج";
+//"Service Detail" = "تفاصيل الخدمة";
+//"Popular Brands" = "علامات مفضّلة";
+//"Popular Suppliers" = "المفضّلةة";
+//"Popular Service Providers" = "مزودي الخـدمة ";
+//"Popular Products" = "المنتجات المفضلة";
+//"Popular Restaurants" = "مطاعم مفضلة";
+//"Categories" = "التصنيفات";
+//"Service Description" = "وصف الخدمة";
+//"Agency" = "وكالة";
+//"We hand-picked some great services for you." = "لقد اخترنا لك بعض الخدمات الرائعة.";
+//"Awesome deals unlocked every day" = "عروض رائعة كل يوم";
+//"Shop by Type" = "تسوق حسب النوع";
+//"Services by Type" = "الخدمات حسب النوع";
+//"by" = "بواسطة";
+//"Back" = "عودة";
+//"Next" = "التالى";
+//"% of service" = "٪ بالخدمة";
+//"Select Category" = "اختر الفئة";
+//"SERVICE AT" = "الخدمة في";
+//"Please choose timeslot" = "الرجاء اختيار اليوم والساعة";
+//"Selected Questions" = "أسئلة مختارة";
+//"Choose Booking Time Slot" = "اختر وقت الحجز";
+//"AddOn Charges" = "رسوم إضافية";
+//"No More Slots Available" = "لا توجد اوقـات متاحة";
+//"SHOW AGENTS" = "المناديب";
+//"Select Time Slot" = "حدد الوقت المناسب";
+//"Booking Time" = "وقت الحجز";
+//"Morning" = "صباح";
+//"Evening" = "مساء";
+//"Afternoon" = "بعد الظهر";
+//"Night" = "ليل";
+//"No agent found" = "لم يتم العثور على مندوب";
+//"BOOK NOW" = "احجز الآن";
+//"Select Agent" = "حدد مندوب";
+//"Book an Appointment" = "حجز موعد";
+//"Years Experience" = "سنوات خبرة";
+//"Service Provider" = "مقدم الخدمة";
+//"Service Date:" = "تاريخ الخدمة:";
+//"Service Time:" = "وقت الخدمة:";
+//"Agent to be booked:" = "المندوب المراد حجزه:";
+//"Change Date & Time" = "تغيير التاريخ والوقت";
+//"Razor Pay" = "Razorpay";
+//"Bookings" = "الحجوزات";
+//"Booking No." = "رقم الحجز.";
+//"Canceled" = "ألغيت";
+//"Pending" = "قيد الانتظار";
+//"Reached" = "تـم الوصول";
+//"Start on" = "ابدأ";
+//"End on" = "ينتهي في";
+//"Agent Detail" = "تفاصيل المندوب";
+//"Track Agent" = "تتبع المندوب";
+//"Track Order" = "تتبع الطلب";
+//"Booking" = "الحجز";
+//"When would you like your service?" = "متى تريد خدمتك؟";
+//"NEXT" = "التالى";
+//"RESULTS" = "النتائج";
+//"Search..." = "بحث...";
+//"Popular" = "مفضلة";
+//"Started" = "بدأت";
+//"Ended" = "إنتهت";
+//"Address" = "عنوان";
+//"Details" = "تفاصيل";
+//"CANCEL" = "إلغاء";
+//"CONFIRM" = "تـأكيد";
+//"History" = "السجل";
+//"Track My" = "تتبع";
+//"Rate My" = "تقييم ";
+//"Upcoming" = "القادمة";
+//"My" = "لي";
+//"Rate" = "تقييم";
+//"Pending" = "قيد الانتظار";
+//"Completed" = "تـم";
+//"No." = "رقم";
+//"confirmed successfully" = "تم التأكيد بنجاح";
+//"Service Providers" = "مقدمي الخدمة";
+//
+//"No Notifications Yet!" = "لايوجد إشعارات";
+//"File downloaded!" = "تم تنزيل الملف!";
+//"Speciality:" = "تخصص:";
+//"Nationality:" = "الجنسية:";
+//"Brand:" = "الماركة:";
+//"SHARE_SHEET_EDIT_ACTIONS_BUTTON_TITLE" = "تحرير الإجراءات";
+//"SHARE_SHEET_EDIT_SECTION_TITLE_FAVORITES" = "المفضلة";
+//"SHARE_SHEET_EDIT_SECTION_TITLE_OTHER" = "الآخرين";
+//
+//"Search %@" = "بحث %@";
+//
+//"Upload Prescription" = "تحميل الوصف";
+//
+//"Shipping Status" = "حالة الشحن";
+//"Awaiting Shipment" = "في انتظار الشحن";
+//"Shipped" = "تـم الشحن";
+//"On hold" = "في الانتظار";
+//"No file added!" = "لم يتم إضافة ملف!";
+//"PAY NOW" = "ادفع الآن";
+//"Payment done successfully" = "تم الدفع بنجاح";
+//
+//"PAY NOW" = "ادفع الآن";
+//"Top Deals in" = "أهم العروض في";
+//"Upto %@% off" = "خصم يصل إلى @٪";
+//"Adding product from different category will clear your cart" = "ستؤدي إضافة منتج من فئة مختلفة إلى مسح سلة التسوق الخاصة بك";
+//"Shipping Status" = "حالة الشحن";
+//"Awaiting Shipment" = "في انتظار الشحن";
+//"Shipped" = "تـم الشحن";
+//"On hold" = "في الانتظار";
+//"No file added!" = "لم يتم إضافة ملف!";
+//"Return Reason" = "سبب العودة";
+//"Write reason here..." = "اكتب السبب هنا ...";
+//"Please enter a reason" = "يرجى إدخال سبب";
+//"Request Return" = "طلب الإرجاع";
+//"Return Requested" = "طلب إرجاع";
+//"Agent on the way" = "جايّينك بالطريق";
+//"Product Picked up" = "تم إرسـال المنتج";
+//"Returned" = "تم الإرجاع";
+//
+//"By continuing, you agree to CARES's Terms and Conditions and confirm that you have read CARES's Privacy Policy" = "من خلال المتابعة ، فإنك توافق على شروط وأحكام CARES وتؤكد أنك قرأت سياسة خصوصية CARES";
+//"CREATE NEW ACCOUNT" = "انشاء حساب جديد";
+//"Create your account" = "أنشئ حسابك";
+//
+//"Please check terms and conditions" = "يرجى التحقق من الشروط والأحكام";
+//
+//"No Request Sent" = "لم يتم إرسال طلب";
+//"Requests" = "Requests";
+//"No %@ found." = "لم يتم العثور على %@";
+//"Search %@" = "بحث ٪@";
+//"Search Restaurant" = "البحث عن مطعم";
+//"Are you sure you want to cancel this request?" = "هل تريد إلغـاء هذا الطلب؟";
+//"Choice of" = "اختيار";
+//"Please select multiple options" = "يرجى تحديد خيارات متعددة";
+//"Min" = "الحد الأدنى";
+//"Max" = "الأعلى";
+//"Please select date time" =  "يرجى تحديد اليوم أو الوقت";
+//"Approved" = "تـم قبول الطلب";
+//"Rejected by Admin" = "لم يتم قبول طلبك :( ";
+//"Cancelled by User" = "قمتَ بالإلغاء :(";
+//"Order Created" = "تم الطلب بنجاح :)";
+//"Service Charge" = "تكلفة الخدمة";
+//"Request Id:" = " رقم التعريف ";
+//"Requested On:" = "تم الطلب في:";
+//"Name:" = "اسم:";
+//"Enter your medical id" = "أدخل هويتك الطبية";
+//"Please enter your medical id" = "يرجى إدخال هويتك الطبية";
+//"Refund Amount" = "المبلغ المسترد";
+//"Payment Remaining" = "الدفع المتبقي";
+//"CONTINUE" = "CONTINUE";
+//"PROCEED" = "تقدم";
+//"Review" = "مراجعة";
+//"Reviews" = "المراجعات";
+//
+//
+//
+//
+//"LanguageName.English" = "English";
+//"LanguageName.Arabic" = "العربية";
+//"LanguageName.Urdu" = "اردو";
+//"LanguageName.Hindi" = "हिंदी";
+//"LanguageName.Chinese" = "中文";
+//"LanguageName.Spanish" = "Spanish";
+//"LanguageName.French" = "French";
+//"LanguageName.Dutch" = "Dutch";
+//"LanguageName.Italian" = "Italian";
+//"LanguageName.Japanese" = "Japanese";
+//"LanguageName.German" = "German";
+//
+//
+//"Alert.VersionUpdateText" = "You must have to update latest verison of the app.";
+//"Validation.TermsConditions" = "يرجى تحديد الشروط والأحكام.";
+//
+//
+//"Validation.InternetNotWorking" = "تحتاج إلى تمكين اتصال الإنترنت.";
+//"Validation.PhoneNumberMissed" = "ادخل رقم الجوال";
+//"Validation.PhoneNumberLength" = "أدخل رقم الجوال";
+//"Validation.OTPValidation" = "رمز التحقق";
+//"Validation.UserName" = "اسم المستخدم";
+//
+//
+//"Validation.Alert" = "تنبيـه";
+//"Validation.Success" = "تــم";
+//
+//
+//"IntroductionVC.TitleFirst" = "فریٹ ڈِلیوری صِرف ایک ٹچ کی دُوری پر";
+//"IntroductionVC.TitleDescription" = "تقديم الرعاية مجانا على عتبةداركم.";
+//
+////LandingScreen Strings
+//
+//"LandingVC.MobileNumber" = "رقم الجوال";
+//"LandingVC.AccountAgreement" = "الموافقه على الشروط";
+//"LandingVC.Terms&Conditions" = "الشروط و الأحكام";
+//"LandingVC.OtpWillBeSent" = "سيتم إرسال OTP على رقم جوالك الذي أدخلته للتحقق.";
+//"LandingVC.Proceed" = "إستمرار";
+//
+////OTP Screen Strings
+//"OTPVC.OTPText" = "ارسال رمز OTP";
+//"OTPVC.EditNumber" = "تعديـل الرقم";
+//"OTPVC.ResendOTP" = " otp إعادة ارسال ";
+//"OTPVC.VerificationCode" = "رمـز التأكيد";
+//"OTPVC.DontReceiveCode" = "لم تستلم رمزك؟";
+//
+//
+////Enter Name Strings
+//"UserProfileVC.FullNamePlacHolder" = "الاسم";
+//"UserProfileVC.NameText" = "الإسم";
+//"UserProfileVC.ReferalCode" = "كود الإحالة";
+//"UserProfileVC.Submit" = "إرسال";
+//"UserProfileVC.JustSomeMore" = "فقط المزيد من المعلومات :)";
+//
+//
+////Services names
+//
+//"Service.Gas" = "گیس";
+//"Service.DrinkingWater" = "پانی ";
+//"Service.WaterTanker" = "پانی ٹینکر";
+//"Service.Freight" = "ٹرانسپورٹ";
+//"Service.Tow" = "ریکوّری گاڈی";
+//"Service.HeavyMachine" = "ٹرانسپورٹ";
+//
+////Side Menu Strings
+//"LeftMenuOption.Bookings" = "الحجوزات";
+//"LeftMenuOption.Support" = "الدعـم";
+//"LeftMenuOption.Promotions" = "العروض";
+//"LeftMenuOption.Payments" = "المدفوعات";
+//"LeftMenuOption.Referral" = "الإحالات";
+//"LeftMenuOption.EmergencyContacts" = "الدعـم";
+//"LeftMenuOption.Settings" = "الإعدادات";
+//"LeftMenuOption.ContactUs" = "اتصل بنا";
+//"LeftMenuOption.Signout" = "تسجيل خروج";
+//
+//
+////Navigation Bar Strings
+//"NavigationButton.Select" = "إختيار";
+//"NavigationButton.Back" = "رجـوع";
+//"NavigationTitle.Location" = "الموقـع";
+//
+////Order Strings
+//"Order.DropOffLocation" = "موقــع التوصيل";
+//"Order.DetailEnterTitle" = "تفاصيل الطلب";
+//"Order.DetailValidation" = "أدخـل تفاصيل طلبك";
+//"Order.SelectBrand" = "اختـر براند";
+//"Order.SelectCapacity" = "إختر السعه";
+//"Order.SelectQuantity" = "اختر الكمية";
+//"Order.Next" = "التالى";
+//
+//
+//
+//"Order.CancellingReasonValidation" = "هل تريد الإلغـاء؟";
+//"Order.PlaceHolderCancelReason" = "اكتب سبب الإلغــاء";
+//"Order.Invoice" = "فاتورة" ;
+//"Order.BaseFair" = "الأجــرة الأساسية" ;
+//"Order.Tax" = "ضريبة" ;
+//"Order.SR" = "ريال سعودي";
+//"Order.Finish" = "ختم" ;
+//
+//"Order.Rate" = "التقييم" ;
+//"Order.VerySad" = "غير مقبول" ;
+//"Order.Sad" = "غير راضي";
+//"Order.Good" = " جيد";
+//"Order.Happy" = "ممتاز";
+//"Order.RatingTextPalceholder" = "تقييم";
+//"Order.SubmitRating" = " ارسال";
+//"Order.TokenLeft" = "متبقي";
+//"Order.Token" = "ٹوکن";
+//
+//
+//"BuyToken.PopUpTitle" = "کیا آپ یہ اِی ٹوکن خریدنا چاہتے ہیں؟";
+//"BuyToken.Purchased" = "خرید شدہ";
+//"BuyToken.OffersNearYou" = "آپ کے قریب دستیاب اوفرز";
+//
+//
+//
+//"Bookings.Past" = "الحجوزات السابقــة";
+//"Bookings.Upcoming" = "الحجوزات القادمــة";
+//
+//
+//"ContactUs.ReachByPhone" = "تأكيد عن طريق الجوال";
+//"ContactUs.ReachByEmail" = "تأكيد عن طريق الايميل";
+//"ContactUs.PlaceHolder" = "اكتب رسالة هنا مباشرة لتصل إلينا.";
+//"ContactUS.ValidationMessage" = "يرجى كتابة شيء أولا.";
+//
+//
+//
+//"Referral.Text" = "مشاركه التطبيق";
+//"Referral.ShareWithFriends" = "شارك التطبيق مع اصدقائك";
+//
+//
+//"PopUpScheduledBooked.ConfirmationTitle" = "تهانينا :)";
+//"PopUpScheduledBooked.ConfirmationMessage" = "تـم حجز خدمتك بِـ نجاح";
+//
+//"Button.Title.OK" = "OK";
+//
+//"OrderStatus.Searching" = "جاري البحث";
+//
+//"OrderStatus.Ongoing" = "مستمرة";
+//
+//"OrderStatus.Confirmed" = "تم التأكيد";
+//"OrderStatus.Reached" = "تم الوصول";
+//
+//"OrderStatus.CustomerCancel" = "تم الإلغاء من العميل";
+//
+//"OrderStatus.SerComplete" = "مكتمل";
+//
+//"OrderStatus.SerReject" = "مرفوض";
+//
+//"OrderStatus.DriverCancel" = "قام السائق بالإلغاء";
+//
+//"OrderStatus.Scheduled" = "مجدول";
+//
+//
+//"OrderUI.Status.Cancelled" = "تم إلغـاء طلبك";
+//"OrderUI.Status.Scheduled" = " مجدول";
+//"OrderUI.Status.Completed" = " مكتمل ";
+//
+//"DriverStatus.AcceptedRequest" = "السايق قبل طلبك :)";
+//"DriverStatus.YourOrderOnWay" = "السايــق جايك بالطريق";
+//"DriverStatus.AnotherOrderOnWay" = "السـائق ينهي رحلة بالقرب منك ";
+//"Order.Scheduling.Alert" = "نعتذر، لايمكنك الحجز الا بعد سـاعة كـ حد أدنى..";
+//
+//"Button.Title.BookNow" = "احجز الآن";
+//"Button.Title.Schedule" = "جدول";
+//
+//"Ok" = "تــم";
+//
+////////   Arabic
+//"app_name"  = "عُملاء - بٌراق 24 ";
+//"terms_and_conditions"  = "الشروط والأحكام";
+//"by_creating_account_you_agree"  = "أنا موافق على إنشاء حساب";
+//"enter_you_mobile_no"  = "أدخل رقم الهاتف";
+//"slogan"  = "ربط احتياجاتك في ثوان";
+//"resend_otp"  = " OTP إعادة إرسال  ";
+//"edit_this_number"  = "تعديل الرقم";
+//"whats_your_name"  = " ما اسمك";
+//"full_name"  = "الإسم الكامل";
+//"title_activity_maps"  = " عنوان نشاط الخرائط";
+//"title_activity_main2"  = "عنوان النشاط الرئيسي ";
+//"navigation_drawer_open"  = "فتـح الخريطة";
+//"navigation_drawer_close"  = "أغلاق الخريطة";
+//"nav_header_title"  = " العنوان الرئيسي";
+//"nav_header_subtitle"  = " العنوان الفرعي";
+//"nav_header_desc"  = " وصف العنوان";
+//"action_settings"  = " إعدادات الضبط";
+//"bookings"  = "الحجوزات";
+//"promotions"  = "العروض";
+//"payments"  = "المدفوعات";
+//"referral"  = "شارك";
+//"emergency_contacts"  = "أرقام الطوارئ";
+//"settings"  = "الضبط";
+//"contact_us"  = "أتصل بنا";
+//"sign_out"  = "الخروج";
+//"back"  = "رجوع";
+//"location"  = "الموقع";
+//"enter_drop_off_location"  = " أدخل موقع التوصيل";
+//"enter_pickup_location"  = " أدخل موقع الأستلام";
+//"enter_details_of_order"  = "أدخل تفاصيل الطلب";
+//"select_branch"  = "اختر العلامة التجارية";
+//"select_capacity"  = "حدد السعة";
+//"select_quantity"  = "حدد الكمية";
+//"next"  = "التالي";
+//"total"  = "المجموع";
+//"cash"  = "نقداً";
+//"promo"  = "بروموكـود";
+//"book"  = "حجــز";
+//"we_are_requesting_your_request"  = "نعمــل على طلبك";
+//"cancel"  = "إلغــاء";
+//"invoice"  = "فاتورة";
+//"base_fair"  = "الاجرة الاساسية";
+//"tax"  = "ضريبة";
+//"rate"  = "السعر";
+//"add_comments_here"  = "أضف ملاحظة هُنا...";
+//"submit"  = "إرسال";
+//"phone_validation_message"  = "يرجى إدخال رقم هاتف صحيح";
+//"otp_validation_message"  = " صحيح OTP يرجى إدخال.";
+//"name_empty_validation_message"  = "يرجى إدخال الاسم للمتابعة.";
+//"request_cancelled_successfully"  = "تم إلغاء طلبك بنجاح.";
+//"no_route_exits"  = "لا يوجد مسار";
+//"type_reason_for_cancellation"  = "اكتب سبب الإلغاء";
+//"write_your_msg_here"  = "اكتب رسالتك هنا ...";
+//"cancellation_reason_validation_text"  = "يرجى إدخال سبب الإلغاء.";
+////"currency"  = "العملة";
+//"currency"  = "ريال سعودي";
+//"pickup_address_validation_message"  = "يرجى تحديد عنوان استلام صحيح.";
+//"dropoff_address_validation_message" ="الرجاء تحديد عنوان توصيل صالح.";  // Need
+//
+//"finish"  = "إنهاء";
+//"gas"  = "غاز";
+//"water_tanker"  = "صهريج مياه";
+//"drinking_water"  = "مياه معدنية ";
+//"tow"  = "قطر المركبات";
+//"freight"  = "شاحنات النقل";
+//"currently_no_driver_available"  = " حالياً ، لا يوجد سائق";
+//"ongoing_request_cancelled_by_driver"  = "تم إلغاء الطلب من قِبل السائق.";
+//"cash_on_delivery"  = "الدفع عن الاستلام";
+//"card"  = "بطاقة ";
+//"default_selecting_token_error"  = "لا يمكنك تحديد الرمز الإلكتروني كطريقة دفع افتراضية.";
+//"e_tokens"  = "الرموز - الإلكترونية";
+//"e_token"  = "رمز - الإلكتروني";
+//
+//"E-Tokens" =  "رمز - الإلكتروني";
+//"left"  = "غادر";
+//"purchased"  = "تم الشراء";
+//"offers_available_near_you"  = "العروض المتاحة بالقرب منك";
+//"available"  = "متاح";
+//"no_offers_available"  = "لا توجد عروض متاحة";
+//"buy_etoken"  = "اشتر رمز - الإلكتروني";
+//"buy_etoken_confirmation"  = "تم تأكيد شراء هذا الرمز الإلكتروني؟";
+//"yes"  = "نعم";
+//"no"  = "لا";
+//"view_e_tokens"  = "عرض الرموز الإلكترونية";
+//"select"  = "حدد";
+//"select_e_token"  = "حدد الرموز الإلكترونية";
+//"excellent"  = "ممتاز";
+//"very_good"  = "جيد جداً";
+//"good"  = "جيد";
+//"sad"  = "حزين";
+//"very_sad"  = "حزين جداً";
+//"rating_validation_msg"  = " للمتابعة يرجى تحديد التقييم.";
+//"validations_success"  = "تم التحقق بنجاح ";
+//
+//"booking_details"  = "تفاصيل الحجز";
+//"drop_off_location"  = "اختر الموقع";
+//"delivery_location" = "Delivery location";
+//
+//"no_bookings"  = "لا توجد حجوزات";
+//"like_buraq24_n_nshare_with_the_friends"  = " أعجبك بُراق 24 يمكنك مشاركة الإصدقاء ";
+//"share"  = "مشاركة";
+//"contact_us_msg_hint"  = "أكتب ملاحظتك هنا ";
+//"no_email_app_installed"  = "لا يوجد بريد الألكتروني مثبت ";
+//"send_mail_to_buraq"  = "أرسل رسالة بالبريد الألكتروني الى بُراق 24";
+//"please_enter_message"  = "يرجى إدخال الرسالة";
+//"we_will_reach_soon"  = " سنتواصل معك قريبا";
+//"logout_confirmation"  = "هل أنت متأكد أنك تريد تسجيل الخروج ؟";
+//"coming_soon"  = "قريبا";
+//"buraq_24"  = "بُراق 24";
+//"error"  = "خطأ";
+//"api_error_msg"  = "نأسف بسبب عطل في الخادم ";
+//"retry"  = "إعادة المحاولة";
+//"otp_resent_successfully"  = " بنجاح OTP تم أعادة أرسال ";
+//"change_language"  = "تغيير اللغة";
+//"enter_otp_on"  = "أدخل رقم  OTP";
+//"reach_us_via_phone"  = "تواصل معنا عبر الهاتف";
+//"reach_us_via_mail"  = "تواصل معنا عبر البريد الألكتروني ";
+//"no_contacts"  = "لا توجد أرقام تواصل ";
+//"english"  = "English";
+//"hindi"  = "हिंदी";
+//"urdu"  = "اردو";
+//"chinese"  = "中文";
+//"arabic"  = "العربية";
+//
+//"schedule"  = "الجدول";
+//"book_now"  = "إحجــز الآن";
+//"schedule_time_selection_validation_msg"  = "تحقق من اختيار الوقت";
+//"congratulations"  = "تهانينا :)";
+//"service_booked_successfully"  = "تم حجز خدمتك بنجـاح";
+//"order_cancelled"  = " :( تم إلغاء طلبك";
+//"save"  = "حفظ";
+//"profile_updated_successfully"  = "تم تحديث الملف الشخصي بنجاح";
+//"permission_required_to_select_image"  = "يطلب الموافقة لتحديد الصورة";
+//
+//"dialog_camera"  = "من الكاميرا";
+//"dialog_gallery"  = "من الصور";
+//"dialog_select_your_choice"  = "حدد أختيارك";
+//
+//"push_notifications"  = "تفعيل التنبيهات";
+//"privacy"  = "الخصوصية";
+//"about_us"  = "معلومات عنا";
+//"edit_profile"  = "تحرير الملف الشخصي";
+//"completed"  = "مكتمل";
+//"cancelled"  = "تم الإلغاء";
+//"Scheduled"  = "تعيين موعد";
+//"select_location"  = "حدد الموقع";
+//"select_vehicle_type"  = "حدد نوع المركبة";
+//"select_sub_model"  = "حدد نوع الموديل";
+//"enter_approx_weight"  = "أدخل الوزن التقريبي ";
+//"enter_additional_information"  = "أضف معلومات أخرى";
+//"upload_images"  = "تحميل الصور";
+//"view_deals"  = "عرض العروض المتاحة ";
+//"driver_accepted_request"  = "لقد قبل السائق طلبك";
+//"driver_is_on_the_way"  = "السائق بالطريق جايك";
+//"truck_driver_is_on_the_way" = "السيارة بالطريق صوبك";
+//"driver_completing_nearby_order"  = "السائق يكمل رحلة وبيجيك.. :) ";
+//"version"  = "الإصدار";
+//"support"  = "خدمات أخرى";
+//"no_services"  = "لا توجد خدمات متاحة";
+//"support_msg"  = "حدد المشكلة يمكننا مساعدتك";
+//"i_agree_to_the"  = "أنا أوافق على";
+//"terms_and_conditions_validation_message"  = "الرجاء الموافقة على الشروط والأحكام";
+//"terms_and_conditions_caps"  = "الشروط والأحكام";
+//"press_back_again_to_exit"  = "اضغط مرة أخرى للخروج";
+//
+//"sms_permission"  = " OTPمنح قراءة الرسالة النصية تلقائي لوصول ";
+//"grant"  = "منح";
+//"default_category_name"  = " اسم الفئة الافتراضي";
+//"started_at"  = "بدأت في";
+//"completed_at"  = "اكتمل في";
+//"past"  = "السابقة";
+//"uncoming"  = "القادمة";
+//"normal"  = "عادي";
+//"satellite"  = "الأقمار الصناعية";
+//
+//"max_images_validation_msg" = "يمكنك إضافة صورتين كحد أقصى.";
+//
+//"work_in_progress" = "الخدمة قيد التنفيذ";
+//
+//"email_not_configured" = "لم تتم تهيئة البريد الإلكتروني على الهاتف";
+//
+//
+////MARK:-   Etokens Module
+//
+//"etoken.eToken" = "E-Token";
+//"etoken.orderOutForDelivery" = "Your order has been out for delivery.";
+//"eToken.orderConfirmed" = "Your order has been confirmed for delivery.";
+//"eToken.orderWaitingConfirmation" = "One order is waiting for your approval in upcoming bookings.";
+//"etoken.orderTimeOut" = "One order is waiting for your approval in upcoming bookings.";
+//"eToken.returnBottleTitle" = "Do you have (Brand name) bottles with you?";
+//"eToken.onlinePayment" = "الدفع الإلكتروني غير متاح";
+//"eToken.tokenPurchasedSuccessfully" = "تـم الدفع بنجاح";
+//"eToken.selectAddress" = "اختر العنوان";
+//"eToken.timeOut" = "انتهى الوقت";
+//"eToken.approvalPending" = "قيد الإنتظار";
+//"eToken.rejected" = "مرفوض";
+//"eToken.trackingNotAvailable" = "لايوجد مسار .. إنتظر قليلاً";
+//
+//"alet.enterDetails" = "أدخِل تفاصيل الطلب";
+//
+////MARK:- EToken Status
+//
+//"etoken.Timeout" = "انتهى الوقـت";
+//"etoken.ApprovalPending" = "قيد الانتظار";
+//"etoken.Rejected" = "مرفوض";
+//
+////MARK:- Etoken Delivery Days
+//
+//"Mon" = "الإثنين";
+//"Tue" = "الثلاثاء";
+//"Wed" = "الأربعاء";
+//"Thu" = "الخميس";
+//"Fri" = "الجمعة";
+//"Sat" = "السبت";
+//"Sun" = "الأحد";
+//
+//// side menu string
+//
+//"SideMenu.Book_a_taxi" = "حجز سيارة أجرة";
+//"SideMenu.New_Services_Coming_soon" = "خدمات جديدة - قريبًا";
+//"SideMenu.Home" = "الصفحة الرئيسية";
+//"SideMenu.My_Bookings" = "حجوزاتي";
+//"SideMenu.Payment_Methods" = "طرق الدفع";
+//"SideMenu.Travel_Packages" = "باقات السفر";
+//"SideMenu.Emergency_Contacts" = "جهة اتصال للطوارئ";
+//"SideMenu.Notifications" = "إشعارات";
+//"SideMenu.Settings" = "الإعدادات";
+//"SideMenu.Help" = "مساعدة";
+//"SideMenu.Payment_History" = "سِجـل المدفوعات";
+//"SideMenu.Saved_Cards" = "البطاقات المحفوظة";
+//"SideMenu.Delivery_History" = "سجل التوصيل";
+//"SideMenu.Promotions" = "العروض";
+//"SideMenu.Contact_us" = "اتصل بنا";
+//"SideMenu.Sign_out" = "خروج";
+//"SideMenu.Book_service" = "حجز خدمة";
+//"SideMenu.Edit_Profile" = "تعديل الملف الشخصي";
+//"SideMenu.Get_Discount" = "احصل على الخصم";
+//"SideMenu.Deliver_with_us" = "توصل معنا!";
+//"SideMenu.Wallet" = "المحفظـة";
+//"SideMenu.Refer_Earn" = "شارك و إكسب";
+//
+//
+//"ServiceView.Where_you_want_to_deliver" = "إختر مكان التسليم";
+//
+//"Home.Recent_Locations" = "المواقع الأخيرة";
+//"Home.Book_a_delivery" = "حجز ارسالية";
+//"Home.Book_a_service" = "حجز خدمة";
+//"Home.Switch_Rider" = "تبديل السائــق";
+//"Home.Add_Home_Address" = "أضف عنوان المنزل";
+//"Home.Add_Work_Address" = "إضافة عنوان العمل";
+//"Emmergency.Emmergency_Contact" = "اتصال الطوارئ";
+//"Wallet.Please_maintain_minimum" = "يرجى الحفاظ على الحد الأدنى للرصيد";
+//"Wallet.Receive_money" = "في المحفظة لاستلام طلب الحجز.";
+//"Notifications" = "إشعارات";
+//
+//
+//"Validation.VerificationValidation" = "يرجى إدخال رمز التحقق.";
+//"username_email_validation" = "Plaese أدخل اسم المستخدم أو البريد الإلكتروني.";
+//"password_empty_validation_message" = "يرجى إدخال كلمة المرور.";
+//"confirm_password_empty_validation_message" = "يرجى إدخال تأكيد كلمة المرور.";
+//"password_confirmPassword_validation" = "يجب أن تتطابق كلمة المرور وتأكيد كلمة المرور.";
+//"password_length_validation_message" = "يجب أن تكون كلمة المرور على الأقل 6 أحرف.";
+//"institution_type_validation" = "يرجى تحديد نوع المؤسسة.";
+//"institution_name_validation" = "يرجى تحديد اسم المؤسسة.";
+//"institution_id_validation" = "يرجى إدخال رقم معرف المؤسسة.";
+//"empty_institutional_email_validation" = "يرجى إدخال البريد الإلكتروني المؤسسي.";
+//"institutional_cred_Image_validation" = "يرجى إضافة صورة.";
+//"materialType" = "الرجاء إدخال نوع المادة.";
+//"approxWeight" = "الرجاء إدخال  الوزن التقريبي..";
+//"receiverName" = "الرجاء إدخال اسم المتلقي.";
+//"phoneNumber" = "يرجى إدخال رقم الهاتف.";
+//"senderName" = "يرجى إدخال اسم المرسل.";
+//"additionalInformation" = "يرجى إدخال معلومات إضافية.";
+//"Your_ride_has_been_accepted_and_its_pending_from_approval." = "تم قبول رحلتك وهي في انتظار الموافقة عليها.";
+//
+//
+////New By trava
+//"Please enter first name" = "يرجى إدخال الاسم الأول";
+//"Please enter last name" = "يرجى إدخال الاسم الأخير";
+//"Please enter address" = "يرجى إدخال العنوان";
+//"NoOngoigRide" = "لا يوجد حاليا رحلة مستمرة";
+//
+//"Enter your Address" = "أدخل عنوانك";
+//"Hi " = "أرررححببوآ :) ";
+//"Work" = "عمل";
+//"My Bookings" = "حجوزاتي";
+//"Payment method" = "طريقة الدفع او السداد";
+//"Travel packages" = "باقات السفر";
+//"Notifications" = "إشعارات";
+//"Emergency contacts" = "جهة اتصال للطوارئ";
+//"Settings" = "الإعدادات";
+//"Help" = "مساعدة";
+//"Seating capacity" = "سعة الجلوس";
+//
+//"View Package" = "عرض البـاقة";
+//"Packages details" = "تفاصيل الباقات";
+//"Valid for" = "صالحة ل";
+//"hours" = "ساعات";
+//"days" = "أيام";
+//"months" = "الشهور";
+//"hour" = "ساعة";
+//"day" = "يوم";
+//"month" = "شهر";
+//
+//"Pay" = "دفع ";
+//"Outstanding from previous trip" = " مديونية من الرحلة السابقة";
+//"credit" = "ائتمان";
+//"Are you sure you want to send Panic Request to your nearby?" = "هل أنت متأكد أنك تريد إرسال طلب المساعدة؟";
+//"Please wait. we'll contact you shortly." = "ارجوك انتظر. سوف نتصل بك قريبا.";
+//"long_distance_confirmation" = "سائقك يختار لك المسار لمسافات طويلة. يمكنك دفع رسوم إضافية لهذا. هل أنت متأكد أنك تريد المتابعة؟";
+//"Ongoing_AddStop_Confirmation" = "لتتأكد ، إذا كنت تضيف نقطة توقف في الرحلة الحالية ، فلن تتمكن من حذفها. هل أنت متأكد أنك تريد المتابعة؟";
+//"Add Home Address" = "أضف عنوان المنزل";
+//"Add Work Address" = "أضف عنوان العمل";
+//"remove_card_Confirmation" = "هل أنت متأكد أنك تريد إزالة البطاقة؟";
+//"Credit Card" = "بطاقة الائتمان";
+//"can't_use_credit_point" =  "لا يمكنك استخدام نقاط الائتمان للدفع النقدي";
+//
+//"Cancel_Ride" = "إلغاء";
+//"Cancel_Delivery" = "إلغاء التسليم";
+//
+//"Ride_Share" = "شارك مسار الرحلة";
+//"Share_Parcel_Location" = "شارك موقع الطرد";
+//"Delivery_In_Progress" = "الطلب بالطريق";
+//"Enjoy_Your_Ride" = "استمتع برحلتك";
+//
+//
+//"login" = "تسجيل الدخول";
+//"signup" = " حساب جديد";
+//"withPhoneEmail" = "باستخدام الهاتف أو البريد الإلكتروني";
+//"Signupfor" = "التسجيل ل";
+//"loginTo" = "تسجيل الدخول إلى";
+//"haveNoAccount" = "ليس لديك حساب؟";
+//"haveAlreadyAccount" = "هل لديك حساب؟";
+//"institution" = "المعهد";
+//"signup_for" = "التسجيل ل";
+//"institution_account" = "حساب المؤسسة";
+//"otp_text" = "لقد أرسلنا لك رمز إلى";
+//
+//"CONTINUE_WITH_APPLE" = "تواصل مع apple ";
+//"email" = "البريد الإلكتروني";
+//"phone" = "هاتف";
+//
+//
+//"Wallet.Please_maintain_minimum" = "يرجى الحفاظ على الحد الأدنى للرصيد";
+//"Wallet.Receive_money" = "طلب رصيد";
+//"Wallet.AddAmountLess" = "يجب أن يكون المبلغ أكثر من 0.";
+//
+//"AddTrustedContact" = "أضف جهة اتصال موثوقة";
+//
+//"Setting.Push" = "دفع الإخطارات";
+//"Setting.Term" = "الأحكام والشروط";
+//"Setting.ChangeLanguage" = "تغيير اللغة";
+//"Setting.Privacy" = "خصوصية";
+//"Setting.About" = "معلومات عنا";
+//
+//"Booking.Past" = "الحجوزات السابقـة";
+//"Booking.Upcoming" = "الحجوزات القادمــة";
+//"Booking.MyBooking" = "حجوزاتي";
+//"HalfWayStop" = "محطات نصف الطريق";
+
+/*
+ Localizable.strings
+ Clikat Supplier
+ 
+ Created by Night Reaper on 08/04/16.
+ Copyright © 2016 Gagan. All rights reserved.
+ */
+
+"SIGN_IN_WITH_APPLE" = "تسجيل الدخول باستخدام Apple";
+"AppName" = "elconcierge"; //"Thena"
+//Supplier Related
+"Go to Home" = "الصفحة الرئيسية";
+"Service Charge" = "رسوم الخدمة";
+"Min. Service Time" = "الحد الادنى لمدة الخدمة";
+"Visiting Charges" = "رسوم الفحص";
+"Min. Delivery Time" = "أقــل وقت للتوصيـل";
+"Opens at" = "ساعات العمل ";
+"PasswordChangedSuccess" = "تم تغيير الرقم السري بنجاح";
+"Enter instructions here" = "إكتب طلباتك الخاصــة هنا";
+//Order Flow
+"Please select an Address" = "الرجاء اختيار العنوان";
+"Credit/Debit card" = "بطاقة الإئتمان/الصراف";
+"Your Cart has no items.Please add items to cart to Proceed." = "سـلّة الشراء فـاضيةة؛ ءآمرونـاا";
+"Landmark" = "أقرب مَعلَم واضح";
+"Address Line First" = "العنوان 1";
+"Address Line Second" = "العنوان 2";
+"Pincode" = "رمز الدولة";
+"Delivery Address" = "عنوان التوصيل";
+"Enter your details." = "أدخل بياناتك";
+"Delivery charges applicable accordingly" = "تنطبق رسوم التوصيل إن وجدت";
+"Delivery charges" = "رسوم التوصيل";
+"Select Time and Date" = "اختار اليوم والوقت";
+"Please select a booking schedule and time" = "يرجى تحديد موعد جدولة الحجز والوقت";
+"Select booking time" = "اختار وقت الحجز";
+"ReOrdering will clear you cart" = "سيتم مسح جميع المشتريات السابقة مِـن السلة .. تبي تكمّل؟";
+
+
+//Order Related
+
+"PENDING" = "بإنتظارهم يقبلون طلبكم ";
+"DELIVERED" = "تـم التوصيل";
+"CONFIRMED" = "تم التـأكيد";
+"FEEDBACKGIVEN" = "تم التعليق";
+"REJECTED" = "تم الرفض";
+"SHIPPED" = "تم إرسال طلبكم :)";
+"INPROCESS" = "شغالين ع طلبكم :))";
+"NEARBY" = "قابلنا عند الباب";
+"TRACKED" = "تم تتبع الطلب";
+"CUSTOMER CANCELLED" = "تــم إلغــاء طلبكم :( ";
+"SCHEDULED" = "تمت جدولة الطلب";
+
+"Order Details" = "تفاصيل الطلب";
+"items" = "منتجات";
+"Items" = "منتجات";
+
+"REORDER" = "اعادة الطلب";
+"TRACK" = "تتبع الطلب";
+"BOOKED" = "تم الحجز";
+"CANCEL ORDER" = "إلغــاء الطلب";
+"CONFIRM ORDER" = "تأكيد الطلب";
+
+"Monthly" = "شهريا";
+"Weekly" = "اسبوعيا";
+"Pickup" = "استلام";
+"Item" = "مُنتَـج";
+
+
+
+//Login SignUp
+"Please enter your email address" = "الرجاء ادخال بريدك الالكتروني";
+"Please enter a valid email address" = "قم بإدخال بريد الكتروني صحيح";
+"Please enter your password" = "الرجاء ادخال كلمة المرور";
+"Password should be minimum 6 characters." = "يجب أن تكون كلمة المرور على الأقل 6 أحرف";
+"Session expired login to continue" = "تم انتهاء صلاحية تسجيل دخولك / الرجاء تسجيل الدخول للمتابعه";
+"OTP Sent" = "تم ارسال رمز التحقق";
+"Select picture" = "اختار صورة";
+"Please select your profile picture" = "الرجاء اختيار صورة ملفك الشخصي";
+"Please enter your name" = "الرجاء ادخال اسمك";
+"Camera" = "كاميرا";
+"Photo Library" = "البوم الصور";
+
+
+
+// Side Menu Options
+"Home" = "الرئيسية";
+"Live support" = "الدعـم المباشر";
+"Cart" = "الســلّةة";
+"Promotions" = "العروض";
+"Notifications" = "الإشعارات";
+
+"My Account" = "حسابي";
+
+"My favorites" = "المفضلة";
+"Order history" = "الطلبات السابقة";
+"Track my order" = "تتبع الطلب";
+"Rate my order" = "تقييم الطلب";
+"Upcoming orders" = "الطلبات القـادمة";
+"Loyality points" = "نقاط الولاء";
+"Share app" = "شارك التطبيق";
+"Share App" = "شارك التطبيق";
+"Settings" = "الاعدادات";
+"Guest" = "ضيف";
+"Welcome" = "أررححببوو:)";
+"Points" = "نقاط";
+"Daily Deals" = "العروض اليومية";
+
+"Essentials, delivered at your door steps" = "الأساسيات ، يتم توصيلها لباب بيتك";
+"Health and medicine just a click away." = "الصحة والشفاء فقط نقرة واحدة.";
+"Distance is no longer a problem." = "قربنا لك البعيد!!";
+
+// Home Screen Options
+"Grocery" = "سوبرماركت";
+"Laundry" = "المغسلة";
+"Household" = "الصيانة";
+"Flowers" = "الزهور";
+"Fitness" = "الياقة";
+"Photography" = "التصوير";
+"Baby sitter" = "رعاية الاطفال";
+"Cleaning" = "التنظيف";
+"Party" = "الحفلات";
+"Beauty salon" = "مركز التجميل";
+"Medicines" = "صيدليات";
+"Water delivery" = "توصيل الماء";
+"Packages" = "الباقات المميزه";
+
+
+"OK" = "تم";
+"Save" = "حفظ";
+"Cancel" = "إلغاء";
+"CANCEL" = "إلغاء";
+"Choose booking cycle" = "اختيار دورة الحجز";
+"reviews" = " التقييمات";
+"SR" = "ريـال ";
+"mins" = " دقائق";
+"Results for " = "النتائج ";
+"days" = "الايام";
+"Hours" = "الساعات";
+
+
+
+//Filter
+"Discoverability" = "";
+"Supplier Type" = "نوع مزود الخدمـة";
+"Rating" = "تقييم";
+
+
+"1 Star" = "نجمة 1";
+"2 Star" = "نجمتين 2";
+"3 Star" = "نجوم 3";
+"4 Star and above" = "4 نجوم واكثر";
+
+
+"Gold" = "ذهبي";
+"Silver" = "فضي";
+"Bronze" = "برونز";
+
+"Cash on delivery" = "الدفع عند الإستلام";
+"Card" = "بطاقة";
+"Both" = "الكل";
+
+"Online" = "مفتوح";
+"Busy" = "مشغول";
+"Closed" = "مغلق";
+
+"Cancelled" = "ملغي";
+
+
+//Settings
+"Change Password" = "تغيير كلمة السر";
+"Notifications Language" = "لغة الإشعارات";
+"Manage Address" = "التحكم بالعناوين";
+"Logout" = "تسجيل الخروج";
+"Select notification language" = "اختيار لغة الإشعارات";
+"English" = "انجليزي";
+"Arabic" = "عربي";
+
+//Loyalty Points
+
+"You haven't earned any loyalty points yet" = "لم تكسب اي نقاط الولاء الى الان";
+"Select produts from same supplier" = "يرجى تحديد المنتجات من نفس المورد";
+"No Remarks" = "لايوجد ملاحظات";
+
+//Laundry Flow
+"When do you want the service" = "الرجاء اختيار موعد الخدمة";
+"Pickup location" = "موقع الاستلام";
+"Choose location" = "إختر الموقـع";
+"Select pickup date and time" = "الرجاء اختيار تاريخ و وقت الاستلام";
+
+"Are you sure you want to delete this address" = "هل أنت متأكد أنك تريد حذف هذا العنوان";
+
+//Location Selection
+"Select Country" = "اختار الدولة";
+"Select City" = "اختار المدينة";
+"Select Zone" = "اختار النطاق";
+"Select Area" = "اختار المنطقة";
+
+"Please select all fields above" = "يرجى تحديد كافة الحقول أعلاه";
+"Please select a country" = "الرجاء اختيار الدولة";
+"Please select a city" = "الرجاء اختيار المدينة";
+
+//Delivery Address Cell
+
+"Please fill all details" = "الرجاء ملئ جميع التفاصيل";
+"Please enter valid Pincode" = "الرجاء ادخال رمز الدولة الصحيح";
+
+//Change Password
+"Old Password" = " كلمة المرور السابقة";
+"New Password" = "كلمة المرور الجديدة";
+"Confirm Password" = "تاكيد كلمة المرور";
+"New Password must not be same as old password" = "يجب أن لا تكون كلمة المرور الجديدة نفس كلمة المرور القديمة";
+"Passwords do not match" = "كلمة المرور غير مطابقة";
+"Forgot Password" = "نسيت كلمة المرور";
+"Password recovery has been sent to your email id" = "تم ارسال كلمة المرور الجديدة الى بريدك الالكتروني";
+//Share text
+"The Leading Online Home Services In UAE" = "اول واكبر منصه اونلاين للخدمات المنزلية في دولة الامارات العربية المتحدة.. clikat://clikat.com/";
+//Share text for yummy
+"ShareAppYummy"  = "Thought you might like this app to make life more simpler:  https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+//API Validation
+"Please check your internet connection" = "الرجاء التحقق من اتصال الإنترنت الخاص بك";
+
+//Sweet Alert
+"Cancel Order" = "إلغـاء الطلب";
+"Success" = "تم بنجاح";
+"Do you really want to cancel this order" = "هل تريد إلغاء الطلب؟";
+"You have cancelled your order successfully" = "تم إلغاء الطلب بنجاح";
+"LogOut" = "تسجيل الخروج";
+"Are you sure you want to logout" = "هل انت متاكد من تسجيل الخروج؟";
+"You are successfully logged out" = "تم تسجيل الخروج بنجاح";
+
+"Please enter valid country code followed by phone number" = "الرجاء ادخال رمز الدولة يتبعه رقم الهاتف";
+
+"You can add only " = "تقدر تضيف فقط...";
+"Agent is not assigned to this order" = "لم يتم تعيين مندوب لهذا الطلب ";
+//Delviery Screen
+"Delivery Speed" = "سرعة التوصيل";
+"Sorry… Your Order is Below Minimum Order Price." = "اجمالي الطلب اقل من الحد الادنى";
+
+"Recommended" = "تقييم عالي";
+"Offers" = "العروض";
+
+"Your order have been placed successfully" = "تم طلبك بنجاح";
+"Order placed successfully" = "تم إرســال الطلب";
+"Your order have been sheduled successfully" = "تم جدوله طلبك بنجاح";
+
+"Are you sure" = "هل انت متاكد؟";
+"Changing the language will clear your cart." = "سيختفي طلبك الحالي في السله في حال تغيير اللغة. هل تريد الاستمرار؟";
+
+//Live Support
+"Typing" = " يكتب لِك";
+"Offline" = "غير متواجد";
+
+"Email" = "بريد الكتروني";
+
+"Not rated yet" = "لا توجد تقييمات";
+"Search" = "بحث";
+"Other" = "اخرى";
+
+//MARK: - After sending localization file
+//TODO: - Localize
+
+"Status" = "الحالة";
+"Loyalty Points Type" = "فئة نقاط الولاء";
+"Payment Method" = "طريقة الدفع";
+"Terms and Conditions" = "الشروط والاحكام";
+"About Us" = "من نحن";
+"Sort" = "تصنيف";
+"Open" = "مفتوح";
+"Adding products from diffrent suppliers will clear your cart" = "سيتم إلغاء سلة المشتريات الحالية في حالة اضافة منتجات من مورد خدمة اخر ";
+"Min. Order Amount" = "الحد الادنى للطلب";
+"Min. Delviery Time" = "الحد الادنى لوقت تسليم الطلب";
+"HOME SERVICE" = "الخدمة المنزلية";
+"AT PLACE SERVICE" = "في مكان الخدمة";
+"Select service" = "اختر الخدمة";
+"Ladies Beauty Salon" = "صالون تجميل نسائي";
+"City" = "المدينة";
+"Area" = "المنطقة";
+"House No" = "رقم المنزل/رقم الشقة";
+"Compare Products" = "مقارنة المنتجات";
+"Somewhere Somehow Something Went Wrong" = "حدث خطأ";
+"Adding products from promotions will clear your cart" = "سيتم إلغاء سلة المشتريات الحالية في حالة اضافة منتجات من العروض ";
+
+"Please enter your house no." = "الرجاء ادخال رقم المنزل/رقم الشقة";
+"Please enter your building name" = "الرجاء إدخال اسم المبنى";
+"Please select your location" = "الرجاء إختيار موقعك";
+"Please enter a landmark name" = "الرجاء إدخال اسم اقرب مَعلَم";
+"Please enter your city" = "الرجاء إدخال مدينتك";
+"Please enter your counrty" = "الرجاء إدخال دولتك";
+
+"My Orders" = "طلباتي";
+"Not Available" = " غير متوفر ";
+"Your Order will be confirmed during next supplier working hours/day." = "سيتم تأكيد طلبك خلال ساعات \ أيام العمل المقبله ";
+
+"Changing the current area will clear you cart" = "تغيير عنوانك الحالي سوف يقوم بإلغاء الطلبات في سلتك الحالية";
+"Change pick up time no suppliers are available for this pickup timing" = "يرجى تغيير وقت الاستلام";
+"No supplier found" = "لا يوجد موردين خدمة";
+"My Addresses" = "عناويني";
+"Item Detail" = "تفاصيل المنتج";
+"Scheduled Orders" = "الطلبات المجدولة";
+
+"Sorry not enough points to redeem" = "عذرا, لا تملك النقاط الكافية للاستبدالها بقسيمة ";
+"Loading" = "جاري التحميل";
+"Looks like your order has been delivered Would you like to rate your order" = "عليكم بالعافية يارب٫ نتمنى منكم التقييم عشان نخدمكم بشكل افضل";
+"Rate Order" = "تقييم الطلب";
+"Quantity" = "الكمية : ";
+"Delivered on" = "تم التوصيل في";
+
+//MARK: - Chat Localization
+"ios.ZDCChat.end" = "نهاية";
+"ios.ZDCChat.emailPlaceholder" = "البريد الالكتروني";
+"ios.ZDCChat.preChatForm.messagePlaceholder" = "رسالة";
+"ios.ZDCChat.upload.error.type" = "نوع الملف غير مسموح";
+"ios.ZDCChat.cantConnectTitle" = "تعذر الاتصال";
+"ios.ZDCChat.access.gallery" = "يحتاج الدخول للصور";
+"ios.ZDCChat.noAgentsTitle" = "لا يوجد موظف دعم متواجد";
+"ios.ZDCChat.backButton" = "رجوع";
+"ios.ZDCChat.preChatForm.required" = "الحقول ذات علامة *, يرجى ملئها";
+"ios.ZDCChat.download.failedMessage" = "فشل في التحميل. إضغط لإعادة المحاولة.";
+"ios.ZDCChat.preChatForm.invalidEmail" = "الرجاء ادخال البريد الالكتروني الصحيح";
+
+"ios.ZDCChat.noConnectionTitle" = "لا يوجد اتصال";
+"ios.ZDCChat.sendOfflineMessageError.title" = "لم يتم ارسال الرسالة";
+"ios.ZDCChat.rating.comment.title" = "اترك تعليقا";
+"ios.ZDCChat.imageViewer.saveButton" = "حفظ الصورة";
+"ios.ZDCChat.reconnecting" = "اعادة الاتصال";
+"ios.ZDCChat.transcriptEmailAlert.emailPlaceholder" = "email@address.com";
+"ios.ZDCChat.cancelButton" = "إلغاء";
+"ios.ZDCChat.access.howto" = "Enable this from the home screen, Settings > %@";
+"ios.ZDCChat.ok" = "تم";
+"ios.ZDCChat.no" = "لا";
+"ios.ZDCChat.chatConnectionLost.title" = "تم فقد الاتصال";
+
+"ios.ZDCChat.preChatForm.requiredTemplate" = "%@ *";
+"ios.ZDCChat.done" = "تم";
+"ios.ZDCChat.transcriptEmailAlert.message" = "قبل انتهاء هذه المحادثة, هل تريد ارسال نسخة لبريدك الالكتروني؟";
+"ios.ZDCChat.upload.error.access" = "خطأ في الوصول إلى ملف";
+"ios.ZDCChat.visitorQueue" = "الرجاء انتظار موظف خدمة العملاء, يتواجد الان عدد .. زائر(s) waiting to be served.";
+"ios.ZDCChat.noConnectionMessage" = "لا يوجد اتصال بالانترنت. يرجى المحاولة مرة أخرى عند الاتصال";
+"ios.ZDCChat.preChatForm.namePlaceholder" = "الاسم";
+"ios.ZDCChat.access.camera" = "%@ يحتاج إلى الوصول إلى الكاميرا";
+"ios.ZDCChat.chatTextEntry.sendButton" = "أرسل";
+"ios.ZDCChat.retry" = "إعادة المحاولة";
+"ios.ZDCChat.chat.startingChatMessage" = "بدء المحادثة";
+
+"ios.ZDCChat.chatTextEntry.placeholderText" = "رسالة";
+"ios.ZDCChat.agentsOffline.message" = "لا يوجد موظفين خدمة عملاء متواجدون حاليا";
+"ios.ZDCChat.preChatForm.departmentPlaceholder" = "هل يمكنا مساعدتك؟";
+"ios.ZDCChat.agentLeft" = "%@ ترك المحادثة";
+"ios.ZDCChat.sendOfflineMessageError.message" = "هل تود إعادة المحاولة؟";
+"ios.ZDCChat.unsentMessage" = "فشل في إلارسال. إضغط لإعادة المحاولة.";
+"ios.ZDCChat.preChatForm.phonePlaceholder" = "رقم الهاتف";
+"ios.ZDCChat.noAgentsMessage" = "عذرا, لا يوجد موظف خدمة عملاء حاليا الرجاء المحاولة مرة اخرى او ترك رسالة";
+"ios.ZDCChat.timeoutMessage" = "لم اسمع منك لبعض الوقت حتى تم إغلاق هذه المحادثة. يرجى بدء محادثة جديدة إذا كانت لديك اسئلة.";
+"ios.ZDCChat.transcriptEmailAlert.sendButton" = "أرسل";
+"ios.ZDCChat.upload.source.camera" = "أخذ صورة";
+
+"ios.ZDCChat.rating.commentButton" = "ضع تعليق";
+"ios.ZDCChat.network.connectionError" = "لا يوجد اتصال";
+"ios.ZDCChat.cantConnectMessage" = "عذرا. لا يمكنك الاتصال الان. الرجاء المحاولة مرة اخرى";
+"ios.ZDCChat.chatEndedTitle" = "انهاء المحادثة";
+"ios.ZDCChat.upload.error.size" = "حجم الملف كبير جدا";
+"ios.ZDCChat.preChatForm.invalidPhone" = "الرجاء ادخال رقم هاتف صحيح";
+"ios.ZDCChat.sendOfflineMessageError.sendButton" = "أرسل";
+"ios.ZDCChat.transcriptEmailAlert.title" = "أرسل نسخة";
+"ios.ZDCChat.endButton" = "انهاء المحادثة";
+"ios.ZDCChat.chatEndedMessage" = "هل تريد انهاء المحادثة؟";
+"ios.ZDCChat.offlineMessageFailed.message" = "تعذر إرسال الرسالة.";
+
+"ios.ZDCChat.rating.comment.placeholder" = "اترك تعليق";
+"ios.ZDCChat.agentJoined" = "%@ انضم للمحادثة";
+"ios.ZDCChat.noAgentsButton" = "اترك رسالة";
+"ios.ZDCChat.messageButton" = "رسالة";
+"ios.ZDCChat.title" = "محادثة";
+"ios.ZDCChat.nextButton" = "التالي";
+"ios.ZDCChat.cancel" = "إلغاء";
+"ios.ZDCChat.accountOffline.message" = "لا يوجد موظف خدمة عملاء متصل حاليا. هل تود ترك رسالة؟";
+"ios.ZDCChat.upload.source.gallery" = "البوم الصور";
+"ios.ZDCChat.chatConnectionLost.message" = " غير قادر على إعادة الاتصال. هل ترغب في الاستمرار في محاولة؟";
+"ios.ZDCChat.rating.title" = "قيم هذي المحادثة";
+
+"ios.ZDCChat.rating.editButton" = "تعديل التعليق";
+"ios.ZDCChat.yes" = "Yes";
+"ios.ZDCChat.transcriptEmailAlert.dontSendButton" = "إلغاء الارسال";
+"Pickup Time and Location" = "وقت و تاريخ الاستلام";
+"No Product Found!" = "لايوجد منتجات";
+
+//New Arabic
+"Have you Forgot Completing Your Last Shopping Cart?" = "متشوّقين لخدمتكم ؛ لاتنسى تكمل طلبك ";
+"Search for product" = "ابحث عن منتج";
+"Sub Total" = "المجموع الجزئي";
+
+
+"Expected Delivery On" = "الزمن المتوقع لوصول الطلب";
+"By signing up you agree to the " = "التسجيل يعني الموافقة على الشروط والاحكام ";
+"Privacy Policy" = "سياسة الخصوصية";
+"Terms and conditionsSignUp" = "الشروط والاحكام";
+"and" = " و ";
+"I would like to recommend using" = "اقترح باستخدام";
+"via elconcierge" = "عبر تطبيق كونسيرج";
+"Warning" = "تنبيه";
+"Please select dates to schedule." = "الرجاء اختيار تاريخ لجدولة الطلب";
+"Bronze" = "برونز";
+"Notification Language Changed Successfully" = "تم تعديل لغة الإشعارات بنجاح";
+"Order Confirmed Successfully" = "تم انشاء الطلب بنجاح";
+"Delivery on" = "وقت التوصيل";
+"No Product Found!" = "لاتوجد منتجات";
+"Supplier Rated Successfully" = "تم تقييم الطلب بنجاح";
+"Send" = "ارسل";
+
+"Camera Unavailable" = "الكاميرا غير متاحة حالياً";
+"It looks like your privacy settings are preventing us from accessing your camera." = "يبدو أن إعدادات الخصوصية لديك تمنعنا من الاتصال بالكاميرا.";
+"Location Unavailable" = "الموقع الحالي غير متاح";
+"Please check to see if you have enabled location services." = "الرجاء التأكد من تمكين خدمات الموقع الحالي";
+
+
+"You need to enable Photos access from app settings to share image" = "تحتاج إلى تمكين الوصول إلى الصور من إعدادات التطبيق لمشاركة الصورة";
+"You need to enable camera access from app settings to share image from camera" = "تحتاج إلى تمكين الوصول إلى الكاميرا من إعدادات التطبيق لمشاركة صورة من الكاميرا";
+"Please give permissions from app settings to share media" = "يرجى منح أذونات من إعدادات التطبيق لمشاركة الوسائط";
+"You need to enable internet connection" = "أنت بحاجة إلى تمكين اتصال الإنترنت";
+"The file you have selected is too large, the max size is 25MB" = "الملف الذي حددته كبير جدًا ، الحد الأقصى للحجم هو 25 ميغابايت";
+"Camera Denied" = "تم رفض الكاميرا";
+"Permission Denied" = "طلب الاذن مرفوض";
+"Media Picker Denied" = "تم رفض منتقي الوسائط";
+"You need to enable Photos access from app settings to share image" = "تحتاج إلى تمكين الوصول إلى الصور من إعدادات التطبيق لمشاركة الصورة";
+ "Attach image from" = "إرفاق صورة من";
+ "Title for a generic action sheet for picking media from the device." = "عنوان ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+ "Gallery" = "صالة عرض";
+ "Text for an option that lets the user choose an existing photo in a generic action sheet for picking media from the device." = "نص لخيار يتيح للمستخدم اختيار صورة موجودة في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+  "Choose existing photo or video" = "اختر صورة أو فيديو موجود";
+"Text for an option that lets the user choose an existing photo or video in a generic action sheet for picking media from the device" = "نص لخيار يتيح للمستخدم اختيار صورة أو مقطع فيديو موجود في ورقة عمل عامة لانتقاء الوسائط من الجهاز";
+  "Camera" = "الة تصوير";
+ "Text for an option that lets the user take a picture with the device camera in a generic action sheet for picking media from the device." = "نص لخيار يتيح للمستخدم التقاط صورة باستخدام كاميرا الجهاز في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+ "Take a video" = "تأخذ شريط فيديو";
+ "Text for an option that lets the user take a video with the device camera in a generic action sheet for picking media from the device." = "نص لخيار يتيح للمستخدم التقاط فيديو بكاميرا الجهاز في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+  "Cancel" = "إلغاء";
+  "Text for the 'cancel' action in a generic action sheet for picking media from the device." = "نص إجراء' إلغاء 'في ورقة عمل عامة لانتقاء الوسائط من الجهاز.";
+  "Choose Video" =  "اختر الفيديو";
+  "Choose Video" = "اختر الفيديو";
+  "Cancel" = "إلغــاء";
+  "Open Settings" = "أفتح الإعدادات";
+   "Cancel" =  "إلغــاء";
+"Permission Required" = "الإذن مطلوب";
+"for camera access" = "للوصول إلى الكاميرا";
+"You need to enable interet connection" = "أنت بحاجة إلى تمكين الاتصال";
+"Session Expired" = "انتهت الجلسة";
+"Sorry your account has been logged in other device, Please login to continue"= "عذرًا ، تم تسجيل حسابك في جهاز آخر ، يرجى تسجيل الدخول للمتابعة";
+ "Drop-off Time" = "وقت التوصيل";
+ "Pick-up Time"=  "وقت الإستلام";
+ "Alert!" =  "إنذار!";
+"Please select your pickup point." = "الرجاء تحديد نقطة الإستلام الخاصة بك.";
+"Wait!" = "انتظر!";
+"Please select dates." =  "الرجاء تحديد التواريخ.";
+"Your pickup and dropoff date is same. Do you want to continue" = "موعد الاستلام والتسليم هو نفسه. هل تريد المتابعة";
+"Please select pickup time." = "الرجاء تحديد وقت الإستلام.";
+"Please select dropoff time." = "الرجاء تحديد وقت الوصول.";
+"Sorry!" = "آسف!";
+"No provider found, Please change booking date and time." = "لم يتم العثور على مزود خدمة ، يرجى تغيير تاريخ ووقت الحجز.";
+ "Start Date" = "تاريخ البدء";
+ "End Date" =  "تاريخ الانتهاء";
+"Say Again!!!" = "كرر!!!";
+"Say something, I'm listening!" = "قل شيئًا ، أنا أستمع!";
+"Unable to create an SFSpeechAudioBufferRecognitionRequest object" = "غير قادر على إنشاء كائن SFSpeechAudioBufferRecognitionRequest";
+"Say something, I'm listening!" = "قل شيئًا ، أنا أستمع!";
+"Welcome!\nWhat can i help you with?" = "مرحبًا! \ n ما الذي يمكنني مساعدتك به؟";
+"What can i help you with?" =  "بماذا يمكنني مساعدتك؟";
+"Welcome!" = "أررححببو:)";
+"Please enter an agent code!" = "الرجاء إدخال رمز الخدمة!";
+"Please enter a valid code!" = "الرجاء ادخال الكود الصحيح!";
+"Booking fee" = "رسوم الحجز";
+"Dont't have an Account?" = "أليس لديك حساب؟";
+"Sign up" = "سجل";
+"Please enter OTP." = "الرجاء إدخال OTP.";
+"OTP is not Valid." = "OTP غير صالح.";
+"Please enter phone number" = "الرجاء إدخال رقم الهاتف";
+"Already have an Account?" = "هل لديك حساب؟";
+"Login" = "تسجيل الدخول";
+"Extras:" = "إضافات:";
+"Order Price" = "سعر الطلب";
+"Cannot upload more than %@ images" = "لا يمكن تحميل أكثر من @% صور";
+"Address Location" = "موقع العنوان";
+"Please upload prescription images" = "يرجى تحميل صورة";
+"Please select payment method" = "الرجاء تحديد طريقة الدفع";
+"This Restaurant provides both Pickup and Delivery, what you want to do?" = "يقدم هذا المطعم خدمة الإستلام والتوصيل ، ماذا تريد أن تفعل؟";
+"Choose Payment" = "اختر الدفع";
+"PICKUP FROM" = "تستلم من";
+"DELIVERY AT" = "التوصيل عند";
+"Your address is not saved,please save this address and proceed further." = "لم يتم حفظ عنوانك ، يرجى حفظ هذا العنوان والمضي قدما.";
+"Details" = "تفاصيل";
+"Previous" = "السابق";
+"No Order found!" = "لم يتم العثور على طلب!";
+"No Booking found!" = "لم يتم العثور على حجز!";
+"History" = "التاريخ";
+"No data found." = "لاتوجد بيانات.";
+"No Order item found." = "لم يتم العثور على طلبات.";
+"View food items as" = "عرض المواد الغذائية باسم";
+"View services as" = "عرض الخدمات كـ";
+"View products as" = "عرض المنتجات كـ";
+
+"Search Order Items." = "عناصر طلب البحث.";
+
+"Search %@ Items." = "بحث @% العناصر.";
+
+"What are you looking for?" = "عمّ تبحث؟";
+"Others" = "التحكم";
+"Cart" = "السّــلةة";
+"Share App" = "شارك التطبيق";
+"My Wishlist" = "قائمة امنياتي";
+"Referral" = "الإحالة";
+"About Us" = "معلومات عنا";
+"Terms and Conditions" = "الأحكام والشروط";
+"Privacy Policy" = "سياسة الخصوصية";
+"Logout" = "تسجيل خروج";
+"No data found" = "لاتوجد بيانات";
+"Add Address" = "اضف عنوان";
+"Use current location" = "استخدام الموقع الحالي";
+"Edit" = "تعديل";
+"Delete" = "حذف";
+"Saved Addresses" = "العناوين المحفوظة";
+"Order No." = "رقـم الطلب";
+"Restaurants" = "المطاعــم";
+"Restaurant" = "مطعم";
+"Delivery" = "توصيل";
+"Self pickup" = "إستلام ذاتــي";
+"Home" = "الصفحة الرئيسية";
+"Orders" = "الطلبــات #٪ s";
+"Customizable" = "قابل للتخصيص";
+"Customise your food" = "تخصيص طعامك";
+"Add" = "إضافــة";
+"Kitchen" = "مطبخ";
+"Location" = "موقعك";
+"Customizable" = "قابل للتخصيص";
+"In The Kitchen" = "في المطبــخ" ;
+"Please select any one option" = "الرجاء تحديد أي خيار واحد";
+"Choice of" = "اختيار";
+"SubTotal" = "المجموع الجزئي";
+"Tip Amount" = "مبلغ الإكرامية";
+"Tax" = "ضريبة";
+"Order Now" = "أُطلب الان";
+"Price details" = "تفاصيل السعر";
+"ADD A TIP TO YOUR RIDER" = "أضف مبلغاً إلى مندوبك";
+"Total" = "المجموع";
+"Delivery charges" = "رسوم التوصيل";
+"Choose Payment" = "اختر الدفع";
+"Tip Amount" = "مبلغ الإكرامية";
+"Placed" = "تـم الطلب";
+"Confirmed" = "تم التأكيــد";
+"Delivered" = "تم التوصيل";
+"On The Way" = "جايّينك بالطريــق :)";
+"Confirmed On" = "مـؤكد";
+"Delivery Charges" = "رسوم التوصيل";
+"Total Amount" = "المبلغ الإجمالي";
+"Placed on" = "تــم الطلب";
+"Payment method" = "طريقة الدفع او السداد";
+"Address Detail" = "تفاصيل العنوان";
+"Details" = "تفاصيل";
+"Support Email" = "البريد الإلكتروني للدعم";
+"Items" = "العناصر";
+"Status" = "الحالة";
+"Payment" = "دفع";
+"Expected delivery on" = "التسليم المتوقع في";
+"Special Offers" = "عروض خاصــة";
+"Login" = "تسجيل الدخول";
+"Dont't have an Account?" = "أليس لديك حساب؟";
+"Sign up" = "سجل";
+"Signup" = "سجل";
+"Send OTP" = "إرسال OTP";
+"Enter Mobile" = "أدخل جوال";
+
+"Already have an Account?" = "هل لديك حساب؟";
+"OTP Verification" = "التحقق OTP";
+"Enter the OTP sent to" = "أدخل OTP المرسلة إلى";
+"Resend Code" = "أعد إرسال الرمز";
+"Submit" = "إرسال";
+"Tap to add a profile picture" = "انقر لإضافة صورة ملف شخصي";
+"FINISH" = "إنهاء";
+"Tap to add a profile picture" = "انقر لإضافة صورة ملف شخصي";
+"Completed Orders" = "الطلبات المكتملة";
+"Pending Orders" = "الطلبـات المعلقة";
+"YOUR CART IS EMPTY" = " سـلّة الشراء فـاضيةة؛ ";
+"ADD SOME STUFF" = "آمـرنــا ";
+"(YOU WON'T REGRET IT)" = "( دقــايق وطلبك عندك :) )";
+"My Cart" = "الـسلّةة";
+"customisable" = "قابل للتخصيص";
+"Others" = "التحكُّم";
+"Log in And Sign Up" = "تسجيل الدخول والتسجيل";
+"View food items as" = "عرض المواد الغذائية باسم";
+"CHANGE" = "تغيِيـر";
+"PICKUP FROM" = "الإسـتلام مِـن";
+"DELIVERY AT" = "التسليم في";
+"customisable" = "قابل للتخصيص";
+"Address Location" = "موقع العنوان";
+"History" = "السّجل";
+"Details" = "تفاصيل";
+"PleaseEnterAValidEmailAddress" = "من فضلك أدخل بريد إلكتروني صحيح";
+"Send" = "إرسال";
+"ForgotPassword" = "هل نسيت كلمة المرور";
+"Cancel" = "إلــغاء";
+"Settings" = "إعدادات";
+"Old Password" = "كلمة سر قديمة";
+"New Password" = "كلمة سر جديدة";
+"Confirm Password" = "تأكيد كلمة المرور";
+"Password" = "كلمة السر";
+"EnterOTP" = "أدخل OTP";
+"Full name" = "الاسم الكامل";
+"Other" = "أخرى";
+"Change Password" = "تغيير كلمة المرور";
+"Enter your details." = "أدخل التفاصيل الخاصة بك.";
+"Order placed successfully" = "تم تقديم الطلب بنجاح";
+"Are you sure" =  "متـأكد؟";
+"CLEAR" = "مسح";
+"Your referal Amount : " = "مبلغ الإحالة الخاص بك:";
+"Remove" = "إزالة";
+"Apply" = "تطبيق";
+"VIEW CART" = "عرض السلة";
+"Your order has been placed successfully" = "تم تقديم طلبك بنجاح";
+"Do you really want to cancel this order?" = "هل تريد إلغاء الطلب؟";
+"Warning" = "تحذير";
+"Notification language changed successfully" = "تم تغيير لغة الإشعارات بنجاح";
+"Password Changed Success" = "نجاح تغيير كلمة المرور";
+"LogOut" = "تسجيل خروج";
+"Are you sure you want to logout?" = "هل أنت متأكد أنك تريد تسجيل الخروج؟";
+"Cancel Order" = "الغاء الطلب";
+"You have cancelled your order successfully" = "تـم إلغــاء الطلب ";
+"Changing the language will clear your cart" = "سيؤدي تغيير اللغة إلى حذف سلة التسوق";
+"FORGOT PASSWORD?" = "هل نسيت كلمة المرور؟";
+"Payments" = "المدفوعات";
+"We will be sending you an OTP (one time password ) on your mobile number. Tap the button below after correctly typing your phone number" = "سنرسل لك OTP (كلمة مرور لمرة واحدة) على رقم هاتفك المحمول. اضغط على الزر أدناه بعد كتابة رقم هاتفك بشكل صحيح";
+"View More" = "عرض المزيد";
+"Place Booking" = "حجـز";
+
+"CANCEL BOOKING" = "إلغاء الحجز";
+"BOOK AGAIN" = "حجز مرة أخرى" ;
+"CONFIRM BOOKING" = "تأكيد الحجز" ;
+"Cancel Booking" = "إلغاء الحجز";
+"Booking Details" = "تفاصيل الحجز";
+"Booking History" = "سِجـل الحجز";
+"Track My Booking" = "تتبع حجزي";
+"Rate My Booking" = "تقييم حجزي";
+"Upcoming Bookings" = "الحجوزات القادمة";
+"My Bookings" = "حجوزاتي";
+"Scheduled Bookings" = "الحجوزات المجدولة";
+"Rate Booking" = "التقييم";
+"Pending Bookings" = "حجوزات معلقة";
+"Booking confirmed successfully" = "تم تأكيد الحجز بنجاح";
+"Booking Address" = "عنوان الحجز";
+"Booking again will clear you cart" = "الحجز مرة أخرى سوف يمسح سلة التسوق";
+"Do you really want to cancel this booking?" = "هل تريد حقًا إلغاء هذا الحجز؟";
+"Your booking has been canceled successfully." = "تم إلغاء الحجز الخاص بك بنجاح.";
+"Your booking has been placed successfully" = "تم الحجز بنجاح";
+"Looks like your service had been completed. Would you like to rate the service?" = "يبدو أن الخدمة قد اكتملت. هل ترغب في تقييم الخدمة؟";
+"Completed Bookings" = "الحجوزات المكتملة";
+
+"New" = "جديد";
+"Live Tracking" = "التتبع المباشر";
+"Select" = "تحديد";
+"Select Address" = "حدد العنوان";
+"Save & Proceed" = "حفظ ومتابعة";
+"Update" = "تحديث";
+"Popular Restaurants" = "مطاعـم مفضّلة";
+"Supplier" = "المورد";
+"Suppliers" = "الموردون";
+"Adding different service will clear your cart" = "ستؤدي إضافة خدمة مختلفة إلى حـذف سلة التسوق";
+
+//MARK: - New Localization
+"Uploaded prescription images" = "صور الوصفات المحملة";
+
+
+"First name *" = "الاسم الاول *";
+"Last name *" = "الكنية *";
+"Email *" = "البريد الإلكتروني *";
+"Password * " = "كلمه السر * ";
+"Confirm Password *" = "تأكيد كلمة المرور *";
+"Referal code" = "كود الإحالة";
+
+"Start a conversation" = "بدء محادثة";
+
+"Write something" = "أكتب شيئا";
+
+"Add Card" = "إضافة بطاقة";
+"Fill Card Details" = "تعبئة تفاصيل البطاقة";
+"Select Card for Payment" = "حدد بطاقة للدفع";
+"Add card to complete payment" = "إضافة بطاقة لإكمال الدفع";
+"Card Holder" = "حامل البطاقة";
+"Expiry" = "انتهاء";
+"Card Type" = "نوع البطاقة";
+"CHOOSE PAYMENT RECEIPT" = "اختيار إيصال الدفع";
+"Payment Details:" = "بيانات الدفع:";
+"Email : " = "البريد الإلكتروني : ";
+"Phone Number : " = "رقم الهاتف : ";
+
+"Credit Card / Debit Card" = "بطاقة الائتمان / بطاقة الخصم";
+"Credit Card" = "بطاقة الائتمان";
+"Cash On Delivery" = "الدفع عند الاستلام";
+
+"No Items" = "لا توجد مُنتجات";
+"Done" = "تــم";
+"Rating" = "تقييم";
+"Delivery in" = "التسليم في";
+"For Delivery" = "للتوصيل";
+"Refer" = "مشاركة";
+"Referred" = "مُحال";
+"Invite your friend and earn money" = "دعوة صديق لك وكسب المال";
+"Tap to copy" = "انقر للنسخ";
+"Refer now" = "ارسل الآن";
+
+"Product Description" = "وصف المنتج";
+"Rating & Reviews" = "التقييم والمراجعات";
+"No Rating Found" = "لم يتم العثور على تصنيف";
+"Product Detail" = "تفاصيل المنتج";
+"Service Detail" = "تفاصيل الخدمة";
+"Popular Brands" = "علامات مفضّلة";
+"Popular Suppliers" = "المفضّلةة";
+"Popular Service Providers" = "مزودي الخـدمة ";
+"Popular Products" = "المنتجات المفضلة";
+"Popular Restaurants" = "مطاعم مفضلة";
+"Categories" = "التصنيفات";
+"Service Description" = "وصف الخدمة";
+"Agency" = "وكالة";
+"We hand-picked some great services for you." = "لقد اخترنا لك بعض الخدمات الرائعة.";
+"Awesome deals unlocked every day" = "عروض رائعة كل يوم";
+"Shop by Type" = "تسوق حسب النوع";
+"Services by Type" = "الخدمات حسب النوع";
+"by" = "بواسطة";
+"Back" = "عودة";
+"Next" = "التالى";
+"% of service" = "٪ بالخدمة";
+"Select Category" = "اختر الفئة";
+"SERVICE AT" = "الخدمة في";
+"Please choose timeslot" = "الرجاء اختيار اليوم والساعة";
+"Selected Questions" = "أسئلة مختارة";
+"Choose Booking Time Slot" = "اختر وقت الحجز";
+"AddOn Charges" = "رسوم إضافية";
+"No More Slots Available" = "لا توجد اوقـات متاحة";
+"SHOW AGENTS" = "المناديب";
+"Select Time Slot" = "حدد الوقت المناسب";
+"Booking Time" = "وقت الحجز";
+"Morning" = "صباح";
+"Evening" = "مساء";
+"Afternoon" = "بعد الظهر";
+"Night" = "ليل";
+"No agent found" = "لم يتم العثور على مندوب";
+"BOOK NOW" = "احجز الآن";
+"Select Agent" = "حدد مندوب";
+"Book an Appointment" = "حجز موعد";
+"Years Experience" = "سنوات خبرة";
+"Service Provider" = "مقدم الخدمة";
+"Service Date:" = "تاريخ الخدمة:";
+"Service Time:" = "وقت الخدمة:";
+"Agent to be booked:" = "المندوب المراد حجزه:";
+"Change Date & Time" = "تغيير التاريخ والوقت";
+"Razor Pay" = "Razorpay";
+"Bookings" = "الحجوزات";
+"Booking No." = "رقم الحجز.";
+"Canceled" = "ألغيت";
+"Pending" = "قيد الانتظار";
+"Reached" = "تـم الوصول";
+"Start on" = "ابدأ";
+"End on" = "ينتهي في";
+"Agent Detail" = "تفاصيل المندوب";
+"Track Agent" = "تتبع المندوب";
+"Track Order" = "تتبع الطلب";
+"Booking" = "الحجز";
+"When would you like your service?" = "متى تريد خدمتك؟";
+"NEXT" = "التالى";
+"RESULTS" = "النتائج";
+"Search..." = "بحث...";
+"Popular" = "مفضلة";
+"Started" = "بدأت";
+"Ended" = "إنتهت";
+"Address" = "عنوان";
+"Details" = "تفاصيل";
+"CANCEL" = "إلغاء";
+"CONFIRM" = "تـأكيد";
+"History" = "السجل";
+"Track My" = "تتبع";
+"Rate My" = "تقييم ";
+"Upcoming" = "القادمة";
+"My" = "لي";
+"Rate" = "تقييم";
+"Pending" = "قيد الانتظار";
+"Completed" = "تـم";
+"No." = "رقم";
+"confirmed successfully" = "تم التأكيد بنجاح";
+"Service Providers" = "مقدمي الخدمة";
+
+"No Notifications Yet!" = "لايوجد إشعارات";
+"File downloaded!" = "تم تنزيل الملف!";
+"Speciality:" = "تخصص:";
+"Nationality:" = "الجنسية:";
+"Brand:" = "الماركة:";
+"SHARE_SHEET_EDIT_ACTIONS_BUTTON_TITLE" = "تحرير الإجراءات";
+"SHARE_SHEET_EDIT_SECTION_TITLE_FAVORITES" = "المفضلة";
+"SHARE_SHEET_EDIT_SECTION_TITLE_OTHER" = "الآخرين";
+
+"Search %@" = "بحث %@";
+
+"Upload Prescription" = "تحميل الوصف";
+
+"Shipping Status" = "حالة الشحن";
+"Awaiting Shipment" = "في انتظار الشحن";
+"Shipped" = "تـم الشحن";
+"On hold" = "في الانتظار";
+"No file added!" = "لم يتم إضافة ملف!";
+"PAY NOW" = "ادفع الآن";
+"Payment done successfully" = "تم الدفع بنجاح";
+
+"PAY NOW" = "ادفع الآن";
+"Top Deals in" = "أهم العروض في";
+"Upto %@% off" = "خصم يصل إلى @٪";
+"Adding product from different category will clear your cart" = "ستؤدي إضافة منتج من فئة مختلفة إلى مسح سلة التسوق الخاصة بك";
+"Shipping Status" = "حالة الشحن";
+"Awaiting Shipment" = "في انتظار الشحن";
+"Shipped" = "تـم الشحن";
+"On hold" = "في الانتظار";
+"No file added!" = "لم يتم إضافة ملف!";
+"Return Reason" = "سبب العودة";
+"Write reason here..." = "اكتب السبب هنا ...";
+"Please enter a reason" = "يرجى إدخال سبب";
+"Request Return" = "طلب الإرجاع";
+"Return Requested" = "طلب إرجاع";
+"Agent on the way" = "جايّينك بالطريق";
+"Product Picked up" = "تم إرسـال المنتج";
+"Returned" = "تم الإرجاع";
+
+"By continuing, you agree to CARES's Terms and Conditions and confirm that you have read CARES's Privacy Policy" = "من خلال المتابعة ، فإنك توافق على شروط وأحكام CARES وتؤكد أنك قرأت سياسة خصوصية CARES";
+"CREATE NEW ACCOUNT" = "انشاء حساب جديد";
+"Create your account" = "أنشئ حسابك";
+
+"Please check terms and conditions" = "يرجى التحقق من الشروط والأحكام";
+
+"No Request Sent" = "لم يتم إرسال طلب";
+"Requests" = "Requests";
+"No %@ found." = "لم يتم العثور على %@";
+"Search %@" = "بحث ٪@";
+"Search Restaurant" = "البحث عن مطعم";
+"Are you sure you want to cancel this request?" = "هل تريد إلغـاء هذا الطلب؟";
+"Choice of" = "اختيار";
+"Please select multiple options" = "يرجى تحديد خيارات متعددة";
+"Min" = "الحد الأدنى";
+"Max" = "الأعلى";
+"Please select date time" =  "يرجى تحديد اليوم أو الوقت";
+"Approved" = "تـم قبول الطلب";
+"Rejected by Admin" = "لم يتم قبول طلبك :( ";
+"Cancelled by User" = "قمتَ بالإلغاء :(";
+"Order Created" = "تم الطلب بنجاح :)";
+"Service Charge" = "تكلفة الخدمة";
+"Request Id:" = " رقم التعريف ";
+"Requested On:" = "تم الطلب في:";
+"Name:" = "اسم:";
+"Refund Amount" = "المبلغ المسترد";
+"Payment Remaining" = "الدفع المتبقي";
+"CONTINUE" = "CONTINUE";
+"PROCEED" = "تقدم";
+"Review" = "مراجعة";
+"Reviews" = "المراجعات";
+
+
+
+
+"LanguageName.English" = "English";
+"LanguageName.Arabic" = "العربية";
+"LanguageName.Urdu" = "اردو";
+"LanguageName.Hindi" = "हिंदी";
+"LanguageName.Chinese" = "中文";
+"LanguageName.Spanish" = "Spanish";
+"LanguageName.French" = "French";
+"LanguageName.Dutch" = "Dutch";
+"LanguageName.Italian" = "Italian";
+"LanguageName.Japanese" = "Japanese";
+"LanguageName.German" = "German";
+
+
+"Alert.VersionUpdateText" = "You must have to update latest verison of the app.";
+"Validation.TermsConditions" = "يرجى تحديد الشروط والأحكام.";
+
+
+"Validation.InternetNotWorking" = "تحتاج إلى تمكين اتصال الإنترنت.";
+"Validation.PhoneNumberMissed" = "ادخل رقم الجوال";
+"Validation.PhoneNumberLength" = "أدخل رقم الجوال";
+"Validation.OTPValidation" = "رمز التحقق";
+"Validation.UserName" = "اسم المستخدم";
+
+
+"Validation.Alert" = "تنبيـه";
+"Validation.Success" = "تــم";
+
+
+"IntroductionVC.TitleFirst" = "فریٹ ڈِلیوری صِرف ایک ٹچ کی دُوری پر";
+"IntroductionVC.TitleDescription" = "تقديم الرعاية مجانا على عتبةداركم.";
+
+//LandingScreen Strings
+
+"LandingVC.MobileNumber" = "رقم الجوال";
+"LandingVC.AccountAgreement" = "الموافقه على الشروط";
+"LandingVC.Terms&Conditions" = "الشروط و الأحكام";
+"LandingVC.OtpWillBeSent" = "سيتم إرسال OTP على رقم جوالك الذي أدخلته للتحقق.";
+"LandingVC.Proceed" = "إستمرار";
+
+//OTP Screen Strings
+"OTPVC.OTPText" = "ارسال رمز OTP";
+"OTPVC.EditNumber" = "تعديـل الرقم";
+"OTPVC.ResendOTP" = " otp إعادة ارسال ";
+"OTPVC.VerificationCode" = "رمـز التأكيد";
+"OTPVC.DontReceiveCode" = "لم تستلم رمزك؟";
+
+
+//Enter Name Strings
+"UserProfileVC.FullNamePlacHolder" = "الاسم";
+"UserProfileVC.NameText" = "الإسم";
+"UserProfileVC.ReferalCode" = "كود الإحالة";
+"UserProfileVC.Submit" = "إرسال";
+"UserProfileVC.JustSomeMore" = "فقط المزيد من المعلومات :)";
+
+
+//Services names
+
+"Service.Gas" = "گیس";
+"Service.DrinkingWater" = "پانی ";
+"Service.WaterTanker" = "پانی ٹینکر";
+"Service.Freight" = "ٹرانسپورٹ";
+"Service.Tow" = "ریکوّری گاڈی";
+"Service.HeavyMachine" = "ٹرانسپورٹ";
+
+//Side Menu Strings
+"LeftMenuOption.Bookings" = "الحجوزات";
+"LeftMenuOption.Support" = "الدعـم";
+"LeftMenuOption.Promotions" = "العروض";
+"LeftMenuOption.Payments" = "المدفوعات";
+"LeftMenuOption.Referral" = "الإحالات";
+"LeftMenuOption.EmergencyContacts" = "الدعـم";
+"LeftMenuOption.Settings" = "الإعدادات";
+"LeftMenuOption.ContactUs" = "اتصل بنا";
+"LeftMenuOption.Signout" = "تسجيل خروج";
+
+
+//Navigation Bar Strings
+"NavigationButton.Select" = "إختيار";
+"NavigationButton.Back" = "رجـوع";
+"NavigationTitle.Location" = "الموقـع";
+
+//Order Strings
+"Order.DropOffLocation" = "موقــع التوصيل";
+"Order.DetailEnterTitle" = "تفاصيل الطلب";
+"Order.DetailValidation" = "أدخـل تفاصيل طلبك";
+"Order.SelectBrand" = "اختـر براند";
+"Order.SelectCapacity" = "إختر السعه";
+"Order.SelectQuantity" = "اختر الكمية";
+"Order.Next" = "التالى";
+
+
+
+"Order.CancellingReasonValidation" = "هل تريد الإلغـاء؟";
+"Order.PlaceHolderCancelReason" = "اكتب سبب الإلغــاء";
+"Order.Invoice" = "فاتورة" ;
+"Order.BaseFair" = "الأجــرة الأساسية" ;
+"Order.Tax" = "ضريبة" ;
+"Order.SR" = "ريال سعودي";
+"Order.Finish" = "ختم" ;
+
+"Order.Rate" = "التقييم" ;
+"Order.VerySad" = "غير مقبول" ;
+"Order.Sad" = "غير راضي";
+"Order.Good" = " جيد";
+"Order.Happy" = "ممتاز";
+"Order.RatingTextPalceholder" = "تقييم";
+"Order.SubmitRating" = " ارسال";
+"Order.TokenLeft" = "متبقي";
+"Order.Token" = "ٹوکن";
+
+
+"BuyToken.PopUpTitle" = "کیا آپ یہ اِی ٹوکن خریدنا چاہتے ہیں؟";
+"BuyToken.Purchased" = "خرید شدہ";
+"BuyToken.OffersNearYou" = "آپ کے قریب دستیاب اوفرز";
+
+
+
+"Bookings.Past" = "الحجوزات السابقــة";
+"Bookings.Upcoming" = "الحجوزات القادمــة";
+
+
+"ContactUs.ReachByPhone" = "تأكيد عن طريق الجوال";
+"ContactUs.ReachByEmail" = "تأكيد عن طريق الايميل";
+"ContactUs.PlaceHolder" = "اكتب رسالة هنا مباشرة لتصل إلينا.";
+"ContactUS.ValidationMessage" = "يرجى كتابة شيء أولا.";
+
+
+
+"Referral.Text" = "مشاركه التطبيق";
+"Referral.ShareWithFriends" = "شارك التطبيق مع اصدقائك";
+
+
+"PopUpScheduledBooked.ConfirmationTitle" = "تهانينا :)";
+"PopUpScheduledBooked.ConfirmationMessage" = "تـم حجز خدمتك بِـ نجاح";
+
+"Button.Title.OK" = "OK";
+
+"OrderStatus.Searching" = "جاري البحث";
+
+"OrderStatus.Ongoing" = "مستمرة";
+
+"OrderStatus.Confirmed" = "تم التأكيد";
+"OrderStatus.Reached" = "تم الوصول";
+
+"OrderStatus.CustomerCancel" = "تم الإلغاء من العميل";
+
+"OrderStatus.SerComplete" = "مكتمل";
+
+"OrderStatus.SerReject" = "مرفوض";
+
+"OrderStatus.DriverCancel" = "قام السائق بالإلغاء";
+
+"OrderStatus.Scheduled" = "مجدول";
+
+
+"OrderUI.Status.Cancelled" = "تم إلغـاء طلبك";
+"OrderUI.Status.Scheduled" = " مجدول";
+"OrderUI.Status.Completed" = " مكتمل ";
+
+"DriverStatus.AcceptedRequest" = "السايق قبل طلبك :)";
+"DriverStatus.YourOrderOnWay" = "السايــق جايك بالطريق";
+"DriverStatus.AnotherOrderOnWay" = "السـائق ينهي رحلة بالقرب منك ";
+"Order.Scheduling.Alert" = "نعتذر، لايمكنك الحجز الا بعد سـاعة كـ حد أدنى..";
+
+"Button.Title.BookNow" = "احجز الآن";
+"Button.Title.Schedule" = "جدول";
+
+"Ok" = "تــم";
+
+//////   Arabic
+"app_name"  = "عُملاء - بٌراق 24 ";
+"terms_and_conditions"  = "الشروط والأحكام";
+"by_creating_account_you_agree"  = "أنا موافق على إنشاء حساب";
+"enter_you_mobile_no"  = "أدخل رقم الهاتف";
+"slogan"  = "ربط احتياجاتك في ثوان";
+"resend_otp"  = " OTP إعادة إرسال  ";
+"edit_this_number"  = "تعديل الرقم";
+"whats_your_name"  = " ما اسمك";
+"full_name"  = "الإسم الكامل";
+"title_activity_maps"  = " عنوان نشاط الخرائط";
+"title_activity_main2"  = "عنوان النشاط الرئيسي ";
+"navigation_drawer_open"  = "فتـح الخريطة";
+"navigation_drawer_close"  = "أغلاق الخريطة";
+"nav_header_title"  = " العنوان الرئيسي";
+"nav_header_subtitle"  = " العنوان الفرعي";
+"nav_header_desc"  = " وصف العنوان";
+"action_settings"  = " إعدادات الضبط";
+"bookings"  = "الحجوزات";
+"promotions"  = "العروض";
+"payments"  = "المدفوعات";
+"referral"  = "شارك";
+"emergency_contacts"  = "أرقام الطوارئ";
+"settings"  = "الضبط";
+"contact_us"  = "أتصل بنا";
+"sign_out"  = "الخروج";
+"back"  = "رجوع";
+"location"  = "الموقع";
+"enter_drop_off_location"  = " أدخل موقع التوصيل";
+"enter_pickup_location"  = " أدخل موقع الأستلام";
+"enter_details_of_order"  = "أدخل تفاصيل الطلب";
+"select_branch"  = "اختر العلامة التجارية";
+"select_capacity"  = "حدد السعة";
+"select_quantity"  = "حدد الكمية";
+"next"  = "التالي";
+"total"  = "المجموع";
+"cash"  = "نقداً";
+"promo"  = "بروموكـود";
+"book"  = "حجــز";
+"we_are_requesting_your_request"  = "نعمــل على طلبك";
+"cancel"  = "إلغــاء";
+"invoice"  = "فاتورة";
+"base_fair"  = "الاجرة الاساسية";
+"tax"  = "ضريبة";
+"rate"  = "السعر";
+"add_comments_here"  = "أضف ملاحظة هُنا...";
+"submit"  = "إرسال";
+"phone_validation_message"  = "يرجى إدخال رقم هاتف صحيح";
+"otp_validation_message"  = " صحيح OTP يرجى إدخال.";
+"name_empty_validation_message"  = "يرجى إدخال الاسم للمتابعة.";
+"request_cancelled_successfully"  = "تم إلغاء طلبك بنجاح.";
+"no_route_exits"  = "لا يوجد مسار";
+"type_reason_for_cancellation"  = "اكتب سبب الإلغاء";
+"write_your_msg_here"  = "اكتب رسالتك هنا ...";
+"cancellation_reason_validation_text"  = "يرجى إدخال سبب الإلغاء.";
+//"currency"  = "العملة";
+"currency"  = "ريال سعودي";
+"pickup_address_validation_message"  = "يرجى تحديد عنوان استلام صحيح.";
+"dropoff_address_validation_message" ="الرجاء تحديد عنوان توصيل صالح.";  // Need
+
+"finish"  = "إنهاء";
+"gas"  = "غاز";
+"water_tanker"  = "صهريج مياه";
+"drinking_water"  = "مياه معدنية ";
+"tow"  = "قطر المركبات";
+"freight"  = "شاحنات النقل";
+"currently_no_driver_available"  = " حالياً ، لا يوجد سائق";
+"ongoing_request_cancelled_by_driver"  = "تم إلغاء الطلب من قِبل السائق.";
+"cash_on_delivery"  = "الدفع عن الاستلام";
+"card"  = "بطاقة ";
+"default_selecting_token_error"  = "لا يمكنك تحديد الرمز الإلكتروني كطريقة دفع افتراضية.";
+"e_tokens"  = "الرموز - الإلكترونية";
+"e_token"  = "رمز - الإلكتروني";
+
+"E-Tokens" =  "رمز - الإلكتروني";
+"left"  = "غادر";
+"purchased"  = "تم الشراء";
+"offers_available_near_you"  = "العروض المتاحة بالقرب منك";
+"available"  = "متاح";
+"no_offers_available"  = "لا توجد عروض متاحة";
+"buy_etoken"  = "اشتر رمز - الإلكتروني";
+"buy_etoken_confirmation"  = "تم تأكيد شراء هذا الرمز الإلكتروني؟";
+"yes"  = "نعم";
+"no"  = "لا";
+"view_e_tokens"  = "عرض الرموز الإلكترونية";
+"select"  = "حدد";
+"select_e_token"  = "حدد الرموز الإلكترونية";
+"excellent"  = "ممتاز";
+"very_good"  = "جيد جداً";
+"good"  = "جيد";
+"sad"  = "حزين";
+"very_sad"  = "حزين جداً";
+"rating_validation_msg"  = " للمتابعة يرجى تحديد التقييم.";
+"validations_success"  = "تم التحقق بنجاح ";
+
+"booking_details"  = "تفاصيل الحجز";
+"drop_off_location"  = "اختر الموقع";
+"delivery_location" = "Delivery location";
+
+"no_bookings"  = "لا توجد حجوزات";
+"like_buraq24_n_nshare_with_the_friends"  = " أعجبك بُراق 24 يمكنك مشاركة الإصدقاء ";
+"share"  = "مشاركة";
+"contact_us_msg_hint"  = "أكتب ملاحظتك هنا ";
+"no_email_app_installed"  = "لا يوجد بريد الألكتروني مثبت ";
+"send_mail_to_buraq"  = "أرسل رسالة بالبريد الألكتروني الى بُراق 24";
+"please_enter_message"  = "يرجى إدخال الرسالة";
+"we_will_reach_soon"  = " سنتواصل معك قريبا";
+"logout_confirmation"  = "هل أنت متأكد أنك تريد تسجيل الخروج ؟";
+"coming_soon"  = "قريبا";
+"buraq_24"  = "بُراق 24";
+"error"  = "خطأ";
+"api_error_msg"  = "نأسف بسبب عطل في الخادم ";
+"retry"  = "إعادة المحاولة";
+"otp_resent_successfully"  = " بنجاح OTP تم أعادة أرسال ";
+"change_language"  = "تغيير اللغة";
+"enter_otp_on"  = "أدخل رقم  OTP";
+"reach_us_via_phone"  = "تواصل معنا عبر الهاتف";
+"reach_us_via_mail"  = "تواصل معنا عبر البريد الألكتروني ";
+"no_contacts"  = "لا توجد أرقام تواصل ";
+"english"  = "English";
+"hindi"  = "हिंदी";
+"urdu"  = "اردو";
+"chinese"  = "中文";
+"arabic"  = "العربية";
+
+"schedule"  = "الجدول";
+"book_now"  = "إحجــز الآن";
+"schedule_time_selection_validation_msg"  = "تحقق من اختيار الوقت";
+"congratulations"  = "تهانينا :)";
+"service_booked_successfully"  = "تم حجز خدمتك بنجـاح";
+"order_cancelled"  = " :( تم إلغاء طلبك";
+"save"  = "حفظ";
+"profile_updated_successfully"  = "تم تحديث الملف الشخصي بنجاح";
+"permission_required_to_select_image"  = "يطلب الموافقة لتحديد الصورة";
+
+"dialog_camera"  = "من الكاميرا";
+"dialog_gallery"  = "من الصور";
+"dialog_select_your_choice"  = "حدد أختيارك";
+
+"push_notifications"  = "تفعيل التنبيهات";
+"privacy"  = "الخصوصية";
+"about_us"  = "معلومات عنا";
+"edit_profile"  = "تحرير الملف الشخصي";
+"completed"  = "مكتمل";
+"cancelled"  = "تم الإلغاء";
+"Scheduled"  = "تعيين موعد";
+"select_location"  = "حدد الموقع";
+"select_vehicle_type"  = "حدد نوع المركبة";
+"select_sub_model"  = "حدد نوع الموديل";
+"enter_approx_weight"  = "أدخل الوزن التقريبي ";
+"enter_additional_information"  = "أضف معلومات أخرى";
+"upload_images"  = "تحميل الصور";
+"view_deals"  = "عرض العروض المتاحة ";
+"driver_accepted_request"  = "لقد قبل السائق طلبك";
+"driver_is_on_the_way"  = "السائق بالطريق جايك";
+"truck_driver_is_on_the_way" = "السيارة بالطريق صوبك";
+"driver_completing_nearby_order"  = "السائق يكمل رحلة وبيجيك.. :) ";
+"version"  = "الإصدار";
+"support"  = "خدمات أخرى";
+"no_services"  = "لا توجد خدمات متاحة";
+"support_msg"  = "حدد المشكلة يمكننا مساعدتك";
+"i_agree_to_the"  = "أنا أوافق على";
+"terms_and_conditions_validation_message"  = "الرجاء الموافقة على الشروط والأحكام";
+"terms_and_conditions_caps"  = "الشروط والأحكام";
+"press_back_again_to_exit"  = "اضغط مرة أخرى للخروج";
+
+"sms_permission"  = " OTPمنح قراءة الرسالة النصية تلقائي لوصول ";
+"grant"  = "منح";
+"default_category_name"  = " اسم الفئة الافتراضي";
+"started_at"  = "بدأت في";
+"completed_at"  = "اكتمل في";
+"past"  = "السابقة";
+"uncoming"  = "القادمة";
+"normal"  = "عادي";
+"satellite"  = "الأقمار الصناعية";
+
+"max_images_validation_msg" = "يمكنك إضافة صورتين كحد أقصى.";
+
+"work_in_progress" = "الخدمة قيد التنفيذ";
+
+"email_not_configured" = "لم تتم تهيئة البريد الإلكتروني على الهاتف";
+
+
+//MARK:-   Etokens Module
+
+"etoken.eToken" = "E-Token";
+"etoken.orderOutForDelivery" = "Your order has been out for delivery.";
+"eToken.orderConfirmed" = "Your order has been confirmed for delivery.";
+"eToken.orderWaitingConfirmation" = "One order is waiting for your approval in upcoming bookings.";
+"etoken.orderTimeOut" = "One order is waiting for your approval in upcoming bookings.";
+"eToken.returnBottleTitle" = "Do you have (Brand name) bottles with you?";
+"eToken.onlinePayment" = "الدفع الإلكتروني غير متاح";
+"eToken.tokenPurchasedSuccessfully" = "تـم الدفع بنجاح";
+"eToken.selectAddress" = "اختر العنوان";
+"eToken.timeOut" = "انتهى الوقت";
+"eToken.approvalPending" = "قيد الإنتظار";
+"eToken.rejected" = "مرفوض";
+"eToken.trackingNotAvailable" = "لايوجد مسار .. إنتظر قليلاً";
+
+"alet.enterDetails" = "أدخِل تفاصيل الطلب";
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "انتهى الوقـت";
+"etoken.ApprovalPending" = "قيد الانتظار";
+"etoken.Rejected" = "مرفوض";
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "الإثنين";
+"Tue" = "الثلاثاء";
+"Wed" = "الأربعاء";
+"Thu" = "الخميس";
+"Fri" = "الجمعة";
+"Sat" = "السبت";
+"Sun" = "الأحد";
+
+// side menu string
+
+"SideMenu.Book_a_taxi" = "حجز سيارة أجرة";
+"SideMenu.New_Services_Coming_soon" = "خدمات جديدة - قريبًا";
+"SideMenu.Home" = "الصفحة الرئيسية";
+"SideMenu.My_Bookings" = "حجوزاتي";
+"SideMenu.Payment_Methods" = "طرق الدفع";
+"SideMenu.Travel_Packages" = "باقات السفر";
+"SideMenu.Emergency_Contacts" = "جهة اتصال للطوارئ";
+"SideMenu.Notifications" = "إشعارات";
+"SideMenu.Settings" = "الإعدادات";
+"SideMenu.Help" = "مساعدة";
+"SideMenu.Payment_History" = "سِجـل المدفوعات";
+"SideMenu.Saved_Cards" = "البطاقات المحفوظة";
+"SideMenu.Delivery_History" = "سجل التوصيل";
+"SideMenu.Promotions" = "العروض";
+"SideMenu.Contact_us" = "اتصل بنا";
+"SideMenu.Sign_out" = "خروج";
+"SideMenu.Book_service" = "حجز خدمة";
+"SideMenu.Edit_Profile" = "تعديل الملف الشخصي";
+"SideMenu.Get_Discount" = "احصل على الخصم";
+"SideMenu.Deliver_with_us" = "توصل معنا!";
+"SideMenu.Wallet" = "المحفظـة";
+"SideMenu.Refer_Earn" = "شارك و إكسب";
+
+
+"ServiceView.Where_you_want_to_deliver" = "إختر مكان التسليم";
+
+//"Home.Recent_Locations" = "المواقع الأخيرة";
+"Home.Book_a_delivery" = "حجز ارسالية";
+//"Home.Book_a_service" = "حجز خدمة";
+"Home.Switch_Rider" = "تبديل السائــق";
+"Home.Add_Home_Address" = "أضف عنوان المنزل";
+"Home.Add_Work_Address" = "إضافة عنوان العمل";
+"Emmergency.Emmergency_Contact" = "اتصال الطوارئ";
+"Wallet.Please_maintain_minimum" = "يرجى الحفاظ على الحد الأدنى للرصيد";
+"Wallet.Receive_money" = "في المحفظة لاستلام طلب الحجز.";
+"Notifications" = "إشعارات";
+
+
+"Validation.VerificationValidation" = "يرجى إدخال رمز التحقق.";
+"username_email_validation" = "Plaese أدخل اسم المستخدم أو البريد الإلكتروني.";
+"password_empty_validation_message" = "يرجى إدخال كلمة المرور.";
+"confirm_password_empty_validation_message" = "يرجى إدخال تأكيد كلمة المرور.";
+"password_confirmPassword_validation" = "يجب أن تتطابق كلمة المرور وتأكيد كلمة المرور.";
+"password_length_validation_message" = "يجب أن تكون كلمة المرور على الأقل 6 أحرف.";
+"institution_type_validation" = "يرجى تحديد نوع المؤسسة.";
+"institution_name_validation" = "يرجى تحديد اسم المؤسسة.";
+"institution_id_validation" = "يرجى إدخال رقم معرف المؤسسة.";
+"empty_institutional_email_validation" = "يرجى إدخال البريد الإلكتروني المؤسسي.";
+"institutional_cred_Image_validation" = "يرجى إضافة صورة.";
+"materialType" = "الرجاء إدخال نوع المادة.";
+"approxWeight" = "الرجاء إدخال  الوزن التقريبي..";
+"receiverName" = "الرجاء إدخال اسم المتلقي.";
+"phoneNumber" = "يرجى إدخال رقم الهاتف.";
+"senderName" = "يرجى إدخال اسم المرسل.";
+"additionalInformation" = "يرجى إدخال معلومات إضافية.";
+"Your_ride_has_been_accepted_and_its_pending_from_approval." = "تم قبول رحلتك وهي في انتظار الموافقة عليها.";
+
+
+//New By trava
+"Please enter first name" = "يرجى إدخال الاسم الأول";
+"Please enter last name" = "يرجى إدخال الاسم الأخير";
+"Please enter address" = "يرجى إدخال العنوان";
+"NoOngoigRide" = "لا يوجد حاليا رحلة مستمرة";
+
+"Enter your Address" = "أدخل عنوانك";
+"Hi " = "أرررححببوآ :) ";
+"Work" = "عمل";
+"My Bookings" = "حجوزاتي";
+"Payment method" = "طريقة الدفع او السداد";
+"Travel packages" = "باقات السفر";
+"Notifications" = "إشعارات";
+"Emergency contacts" = "جهة اتصال للطوارئ";
+"Settings" = "الإعدادات";
+"Help" = "مساعدة";
+"Seating capacity" = "سعة الجلوس";
+
+"View Package" = "عرض البـاقة";
+"Packages details" = "تفاصيل الباقات";
+"Valid for" = "صالحة ل";
+"hours" = "ساعات";
+"days" = "أيام";
+"months" = "الشهور";
+"hour" = "ساعة";
+"day" = "يوم";
+"month" = "شهر";
+
+"Pay" = "دفع ";
+"Outstanding from previous trip" = " مديونية من الرحلة السابقة";
+"credit" = "ائتمان";
+"Are you sure you want to send Panic Request to your nearby?" = "هل أنت متأكد أنك تريد إرسال طلب المساعدة؟";
+"Please wait. we'll contact you shortly." = "ارجوك انتظر. سوف نتصل بك قريبا.";
+"long_distance_confirmation" = "سائقك يختار لك المسار لمسافات طويلة. يمكنك دفع رسوم إضافية لهذا. هل أنت متأكد أنك تريد المتابعة؟";
+"Ongoing_AddStop_Confirmation" = "لتتأكد ، إذا كنت تضيف نقطة توقف في الرحلة الحالية ، فلن تتمكن من حذفها. هل أنت متأكد أنك تريد المتابعة؟";
+"Add Home Address" = "أضف عنوان المنزل";
+"Add Work Address" = "أضف عنوان العمل";
+"remove_card_Confirmation" = "هل أنت متأكد أنك تريد إزالة البطاقة؟";
+"Credit Card" = "بطاقة الائتمان";
+"can't_use_credit_point" =  "لا يمكنك استخدام نقاط الائتمان للدفع النقدي";
+
+"Cancel_Ride" = "إلغاء";
+"Cancel_Delivery" = "إلغاء التسليم";
+
+"Ride_Share" = "شارك مسار الرحلة";
+"Share_Parcel_Location" = "شارك موقع الطرد";
+"Delivery_In_Progress" = "الطلب بالطريق";
+"Enjoy_Your_Ride" = "استمتع برحلتك";
+
+
+"login" = "تسجيل الدخول";
+"signup" = " حساب جديد";
+"withPhoneEmail" = "باستخدام الهاتف أو البريد الإلكتروني";
+"Signupfor" = "التسجيل ل";
+"loginTo" = "تسجيل الدخول إلى";
+"haveNoAccount" = "ليس لديك حساب؟";
+"haveAlreadyAccount" = "هل لديك حساب؟";
+"institution" = "المعهد";
+"signup_for" = "التسجيل ل";
+"institution_account" = "حساب المؤسسة";
+"otp_text" = "لقد أرسلنا لك رمز إلى";
+
+"CONTINUE_WITH_APPLE" = "تواصل مع apple ";
+"email" = "البريد الإلكتروني";
+"phone" = "هاتف";
+
+
+"Wallet.Please_maintain_minimum" = "يرجى الحفاظ على الحد الأدنى للرصيد";
+"Wallet.Receive_money" = "طلب رصيد";
+"Wallet.AddAmountLess" = "يجب أن يكون المبلغ أكثر من 0.";
+
+"AddTrustedContact" = "أضف جهة اتصال موثوقة";
+
+"Setting.Push" = "دفع الإخطارات";
+"Setting.Term" = "الأحكام والشروط";
+"Setting.ChangeLanguage" = "تغيير اللغة";
+"Setting.Privacy" = "خصوصية";
+"Setting.About" = "معلومات عنا";
+
+"Booking.Past" = "الحجوزات السابقـة";
+"Booking.Upcoming" = "الحجوزات القادمــة";
+"Booking.MyBooking" = "حجوزاتي";
+"HalfWayStop" = "محطات نصف الطريق";
+
+
+"Hope you’re having a great day!" = "نتمنى أن تحظى بيومٍ رائـعٍ مثلك ♥️:)";
+"Where are you going ?" = " ويــن رايح؟";
+"Go to Home" = "الذهاب للرئيسية";
+
+"Email/Phone Number" = "بريد إلكتروني/رقم جوال";
+"Book a service" = "إحجِـز";
+"Home.Book_a_service" = "إحجِـز";
+"Where to drop?" = " نقطــة الوصول تحديداً؟";
+"RECENT LOCATIONS" = " المواقـع الأخيرة";
+"Home.Recent_Locations" = " المواقـع الأخيرة";
+"Please select option:" = " الرجـاء الاختيار";
+"Add Location" = "إضـافة موقع";
+"By Search Address" = "بالبحث عن العنوان";
+"OR" = "أو";
+"Select From Map" = "حـدِد من الخريطــة";
+"Select Vehicle type" = "اختر نوع السيارة";
+"Select Package type" = "اِختـر نوع الباقـة";
+"Select Parcel type" = " اختر نوع الارسالية";
+
+"Apply Promo Code" = "تعميد كود الخصـم";
+"No Driver" = "لايوجـد سائق حالياً";
+"Porceed" = "استمِـــر";
+"Continue" = "اِستمِـرار";
+"Select delivery type" = "اختر نوع التوصيل";
+"Choose a delivery type or swipe up for more." = "اِختـر نوع التوصيل أو ارفع لأعلى للمزيـد";
+"Select a service" = "اختر الخدمة";
+"Choose a service or swipe up for more" = "اختر نوع الخدمـة أو ارفع لأعلى للمزيـد";
+"Schedule" = "جـدولة مستقبلاً";
+"Book now" = "إحجـز الآن";
+"Select date and time to proceed further" = " اختر الوقت والتاريـخ للمتابعـة";
+"Pickup date & time" = "تاريخ ووقت الاستلام";
+"Set Pickup Time" = "إضبط وقت المغادرة";
+"APPLY PROMO CODE" = "تعميـد كود خصـم";
+"REMOVE" = "إزالـة";
+"Promo code" = "كــود الخصم";
+"Use Wallet Amount" = "اِستخدم رصيد المحفظـة";
+"Use Credit Amount" = "استخدم رصيد بطاقـة";
+"Use Credit Points" = "استخدم النقاط";
+"Driver Type" = "نـوع السـائق ";
+"Male" = "Male";
+"Female" = "Female";
+"Cash Payment" = "الدفــع نقداً";
+"booking" = "حجـــز";
+"No bookings found" = "لايوجـد حجوزات";
+"Your Wallet amount" = "رصيـد المحفظة";
+"Wallet" = "المحفظــة";
+"Send Money" = "إرسـال رصيد";
+"Add Money" = " إضـافـة رصيد";
+"Home.For_me" = "لي";
+"Choose Address" = "اختر العنوان";
+"Please select this address for:" = "الرجاء تحديد هذا العنوان لـ:";
+"PICKUP ADDRESS" = "عنوان بيك اب";
+"DROPOFF ADDRESS" = "إسقاط العنوان";
+"No Driver" = "لا سائق";
+"Set your pickup spot" = "حدد مكان الالتقاء";
+"Select your exact pickup point" = "حدد نقطة الالتقاء الخاصة بك بالضبط";
+"Confirm Pickup" = "تأكيد الاستلام";
+"We are processing your request" = "نحن نعالج طلبك";
+"Cancel" = "يلغي";

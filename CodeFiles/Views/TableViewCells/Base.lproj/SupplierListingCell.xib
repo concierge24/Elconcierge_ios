@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15400" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15404"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PROXIMANOVA-REGULAR.OTF">
+            <string>ProximaNova-Regular</string>
+        </array>
+        <array key="PROXIMANOVA-SEMIBOLD.OTF">
+            <string>ProximaNova-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SupplierListingCell" rowHeight="124" id="FB4-f9-Nnn" customClass="SupplierListingCell" customModule="LittleCeasors" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="140"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" multipleTouchEnabled="YES" contentMode="center" tableViewCell="FB4-f9-Nnn" id="2zL-R3-adA">
+                <rect key="frame" x="0.0" y="0.0" width="600" height="140"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="LdZ-R0-0na" customClass="ThemeView" customModule="LittleCeasors" customModuleProvider="target">
+                        <rect key="frame" x="8" y="4" width="584" height="132"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="CLOSED" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="L1p-HU-zgd" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                <rect key="frame" x="520" y="8" width="56" height="14"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="56" id="55D-YB-O03"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleTilteLblThemeColor" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleSubTilteLblThemeColor" value="NO"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isLblTilte" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="16" baselineRelativeArrangement="YES" translatesAutoresizingMaskIntoConstraints="NO" id="mkJ-Kz-F6S">
+                                <rect key="frame" x="122.5" y="8" width="373.5" height="14"/>
+                                <subviews>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="1Dt-20-aiy">
+                                        <rect key="frame" x="0.0" y="0.0" width="373.5" height="14"/>
+                                        <subviews>
+                                            <stackView opaque="NO" contentMode="scaleToFill" alignment="center" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="4KR-Vc-Dgy">
+                                                <rect key="frame" x="0.0" y="0.0" width="373.5" height="14"/>
+                                                <subviews>
+                                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" alignment="center" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="YOs-vr-fba">
+                                                        <rect key="frame" x="0.0" y="0.0" width="373.5" height="14"/>
+                                                        <subviews>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" text="NTL" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jyX-V4-xVZ" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                                                <rect key="frame" x="0.0" y="0.0" width="25" height="14"/>
+                                                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <nil key="highlightedColor"/>
+                                                                <userDefinedRuntimeAttributes>
+                                                                    <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                                                </userDefinedRuntimeAttributes>
+                                                            </label>
+                                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" horizontalCompressionResistancePriority="748" verticalCompressionResistancePriority="751" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zhE-yg-lmX">
+                                                                <rect key="frame" x="29" y="6.5" width="344.5" height="1"/>
+                                                                <constraints>
+                                                                    <constraint firstAttribute="height" constant="1" id="40g-FH-HxG"/>
+                                                                </constraints>
+                                                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                                <nil key="highlightedColor"/>
+                                                            </label>
+                                                        </subviews>
+                                                    </stackView>
+                                                </subviews>
+                                            </stackView>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="XKA-OI-YVN">
+                                <rect key="frame" x="122.5" y="26" width="33" height="12"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_star_big_yellow" translatesAutoresizingMaskIntoConstraints="NO" id="Yk3-b9-pKK">
+                                        <rect key="frame" x="0.0" y="0.0" width="12" height="12"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="12" id="mdL-ri-hAL"/>
+                                            <constraint firstAttribute="height" constant="12" id="oNx-sp-T4z"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="252" verticalHuggingPriority="251" text="4.5" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Chj-Zs-c9o">
+                                        <rect key="frame" x="16" y="0.0" width="17" height="12"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="17" id="B25-dF-HkL"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                        <color key="textColor" red="0.98039215686274506" green="0.78431372549019607" blue="0.38039215686274508" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="•   NTL" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Mwa-hA-5yO" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                        <rect key="frame" x="33" y="0.0" width="0.0" height="12"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleLblTextColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleNavLblTxtColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleTilteLblThemeColor" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleSubTilteLblThemeColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblTilte" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isTableSubTitleLbl" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="4" translatesAutoresizingMaskIntoConstraints="NO" id="v1I-6u-wWq">
+                                <rect key="frame" x="122.5" y="46" width="88" height="28"/>
+                                <subviews>
+                                    <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Minimum order" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hx4-a7-msh" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="79.5" height="0.0"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                        <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleLblTextColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleNavLblTxtColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleTilteLblThemeColor" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleSubTilteLblThemeColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblTilte" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblLightTxt" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isTableDescLbl" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Delivery time" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="QxY-86-gGK" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="69" height="12"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                        <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleLblTextColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleNavLblTxtColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleTilteLblThemeColor" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleSubTilteLblThemeColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblTilte" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblLightTxt" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isTableDescLbl" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Payment options" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="m8i-qq-BEQ" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="16" width="88" height="12"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                        <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleLblTextColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleNavLblTxtColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleTilteLblThemeColor" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleSubTilteLblThemeColor" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblTilte" value="NO"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblLightTxt" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isTableDescLbl" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Acd-Pa-zsa">
+                                <rect key="frame" x="8" y="8" width="98.5" height="74"/>
+                                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="74" id="5PP-aO-cFv"/>
+                                    <constraint firstAttribute="width" secondItem="Acd-Pa-zsa" secondAttribute="height" multiplier="4:3" id="fzu-d6-EE1"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="borderWidthW">
+                                        <real key="value" value="1"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="borderColor">
+                                        <color key="value" white="0.0" alpha="0.10000000000000001" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadiusR">
+                                        <real key="value" value="2"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="252" verticalHuggingPriority="251" image="ic_status_online" translatesAutoresizingMaskIntoConstraints="NO" id="r0y-4v-YZ2">
+                                <rect key="frame" x="504" y="9" width="12" height="12"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="12" id="hkb-cs-G4B"/>
+                                </constraints>
+                            </imageView>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="myo-Qx-LlE" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                <rect key="frame" x="122.5" y="82" width="34" height="14"/>
+                                <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                <color key="textColor" red="0.56470588239999997" green="0.53333333329999999" blue="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleTilteLblThemeColor" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isLblLightTxt" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                            </label>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iZh-9d-HnB" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                <rect key="frame" x="8" y="62" width="98.5" height="20"/>
+                                <color key="backgroundColor" red="0.92549019610000005" green="0.3294117647" blue="0.27450980390000002" alpha="0.57191932619999997" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="vVe-U5-bN0"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleLblTextColor" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                            </label>
+                            <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="badge_sponsor" translatesAutoresizingMaskIntoConstraints="NO" id="TLl-gx-bkh">
+                                <rect key="frame" x="0.0" y="0.0" width="61" height="60"/>
+                            </imageView>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="253" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="kkY-1A-Bok" customClass="ThemeImgView" customModule="LittleCeasors" customModuleProvider="target">
+                                <rect key="frame" x="552" y="24" width="16" height="16"/>
+                                <color key="tintColor" red="0.16862745100000001" green="0.51764705879999995" blue="0.53333333329999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="16" id="24G-9b-PPx"/>
+                                    <constraint firstAttribute="height" constant="16" id="Lc5-GB-coO"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isImgIconTintClr" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="NTL" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9bk-ar-OjA" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                <rect key="frame" x="546.5" y="46" width="21.5" height="12"/>
+                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleLblTextColor" value="NO"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleTilteLblThemeColor" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleSubTilteLblThemeColor" value="NO"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleNavLblTxtColor" value="NO"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isLblLightTxt" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isTableDescLbl" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                            </label>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="253" text="NTL" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="b3h-nD-8Dx" customClass="ThemeLabel" customModule="LittleCeasors" customModuleProvider="target">
+                                <rect key="frame" x="546.5" y="40" width="21.5" height="12"/>
+                                <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                <color key="textColor" red="0.66666666666666663" green="0.66666666666666663" blue="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleLblTextColor" value="NO"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleTilteLblThemeColor" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="NO"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isLblLightTxt" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isTableDescLbl" value="YES"/>
+                                </userDefinedRuntimeAttributes>
+                            </label>
+                            <stackView opaque="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="XRM-Il-DWk">
+                                <rect key="frame" x="536" y="60" width="32" height="16"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="252" image="ic_payment_cash" translatesAutoresizingMaskIntoConstraints="NO" id="U72-BV-tvZ" customClass="ThemeImgView" customModule="LittleCeasors" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="16" height="16"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="16" id="GRY-Vc-DR6"/>
+                                            <constraint firstAttribute="width" constant="16" id="LLY-U7-JJc"/>
+                                        </constraints>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isImgIconTintClr" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </imageView>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="252" image="ic_payment_card" translatesAutoresizingMaskIntoConstraints="NO" id="Wj2-Bj-a0I" customClass="ThemeImgView" customModule="LittleCeasors" customModuleProvider="target">
+                                        <rect key="frame" x="16" y="0.0" width="16" height="16"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="16" id="FmC-im-zck"/>
+                                            <constraint firstAttribute="height" constant="16" id="Xym-hI-W9f"/>
+                                        </constraints>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isImgIconTintClr" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </imageView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="myo-Qx-LlE" firstAttribute="leading" secondItem="v1I-6u-wWq" secondAttribute="leading" id="5Ya-HP-gYf"/>
+                            <constraint firstItem="kkY-1A-Bok" firstAttribute="centerY" secondItem="Mwa-hA-5yO" secondAttribute="centerY" id="8q4-d2-JGw"/>
+                            <constraint firstAttribute="trailing" secondItem="kkY-1A-Bok" secondAttribute="trailing" constant="16" id="9fC-FT-IeM"/>
+                            <constraint firstAttribute="trailing" secondItem="b3h-nD-8Dx" secondAttribute="trailing" constant="16" id="BvQ-MX-pXx"/>
+                            <constraint firstItem="XRM-Il-DWk" firstAttribute="trailing" secondItem="9bk-ar-OjA" secondAttribute="trailing" id="CW1-qz-VkS"/>
+                            <constraint firstItem="TLl-gx-bkh" firstAttribute="top" secondItem="LdZ-R0-0na" secondAttribute="top" id="EMJ-4g-dgv"/>
+                            <constraint firstItem="mkJ-Kz-F6S" firstAttribute="top" secondItem="LdZ-R0-0na" secondAttribute="top" constant="8" id="EY7-Za-FKw"/>
+                            <constraint firstItem="v1I-6u-wWq" firstAttribute="top" secondItem="XKA-OI-YVN" secondAttribute="bottom" constant="8" id="Eds-kq-CrK"/>
+                            <constraint firstItem="r0y-4v-YZ2" firstAttribute="centerY" secondItem="L1p-HU-zgd" secondAttribute="centerY" id="FHz-Mt-gP2"/>
+                            <constraint firstItem="9bk-ar-OjA" firstAttribute="trailing" secondItem="b3h-nD-8Dx" secondAttribute="trailing" id="Ie8-dZ-vxz"/>
+                            <constraint firstItem="Acd-Pa-zsa" firstAttribute="top" secondItem="1Dt-20-aiy" secondAttribute="top" id="J2T-4U-en6"/>
+                            <constraint firstItem="TLl-gx-bkh" firstAttribute="leading" secondItem="LdZ-R0-0na" secondAttribute="leading" id="KWn-S1-0Qx"/>
+                            <constraint firstItem="iZh-9d-HnB" firstAttribute="leading" secondItem="Acd-Pa-zsa" secondAttribute="leading" id="O2z-L6-l6c"/>
+                            <constraint firstAttribute="trailing" secondItem="L1p-HU-zgd" secondAttribute="trailing" constant="8" id="RZO-RG-qe3"/>
+                            <constraint firstItem="iZh-9d-HnB" firstAttribute="trailing" secondItem="Acd-Pa-zsa" secondAttribute="trailing" id="Rpz-g8-ESU"/>
+                            <constraint firstItem="v1I-6u-wWq" firstAttribute="leading" secondItem="1Dt-20-aiy" secondAttribute="leading" id="SvT-XS-OC0"/>
+                            <constraint firstItem="XRM-Il-DWk" firstAttribute="centerY" secondItem="m8i-qq-BEQ" secondAttribute="centerY" id="cGD-6z-4Vf"/>
+                            <constraint firstItem="b3h-nD-8Dx" firstAttribute="centerY" secondItem="hx4-a7-msh" secondAttribute="centerY" id="djd-Tm-59D"/>
+                            <constraint firstItem="iZh-9d-HnB" firstAttribute="bottom" secondItem="Acd-Pa-zsa" secondAttribute="bottom" id="fyl-Sg-t1d"/>
+                            <constraint firstItem="myo-Qx-LlE" firstAttribute="top" secondItem="v1I-6u-wWq" secondAttribute="bottom" constant="8" id="gZP-Sr-BeG"/>
+                            <constraint firstItem="XKA-OI-YVN" firstAttribute="leading" secondItem="mkJ-Kz-F6S" secondAttribute="leading" id="hkt-08-DbP"/>
+                            <constraint firstItem="L1p-HU-zgd" firstAttribute="leading" secondItem="r0y-4v-YZ2" secondAttribute="trailing" constant="4" id="kVf-8L-K1c"/>
+                            <constraint firstItem="XKA-OI-YVN" firstAttribute="top" secondItem="mkJ-Kz-F6S" secondAttribute="bottom" constant="4" id="nvo-8W-ZMG"/>
+                            <constraint firstItem="Acd-Pa-zsa" firstAttribute="leading" secondItem="LdZ-R0-0na" secondAttribute="leading" constant="8" id="pGg-ep-3BR"/>
+                            <constraint firstItem="mkJ-Kz-F6S" firstAttribute="leading" secondItem="Acd-Pa-zsa" secondAttribute="trailing" constant="16" id="pP0-nN-NSY"/>
+                            <constraint firstItem="9bk-ar-OjA" firstAttribute="centerY" secondItem="QxY-86-gGK" secondAttribute="centerY" id="pl1-ES-aqx"/>
+                            <constraint firstItem="r0y-4v-YZ2" firstAttribute="leading" secondItem="YOs-vr-fba" secondAttribute="trailing" constant="8" id="sNy-KT-7BO"/>
+                            <constraint firstItem="L1p-HU-zgd" firstAttribute="top" secondItem="LdZ-R0-0na" secondAttribute="topMargin" id="zhn-Gc-hab"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="_layer.cornerRadius">
+                                <integer key="value" value="4"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.095744680851063829" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                                <real key="value" value="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowRadius">
+                                <real key="value" value="3"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                                <size key="value" width="1" height="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="borderWidth">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="isCellView" value="YES"/>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                <constraints>
+                    <constraint firstItem="LdZ-R0-0na" firstAttribute="top" secondItem="2zL-R3-adA" secondAttribute="top" constant="4" id="XZ0-bs-KZH"/>
+                    <constraint firstAttribute="bottom" secondItem="LdZ-R0-0na" secondAttribute="bottom" constant="4" id="YbJ-Uk-rLV"/>
+                    <constraint firstItem="LdZ-R0-0na" firstAttribute="leading" secondItem="2zL-R3-adA" secondAttribute="leading" constant="8" id="dzh-j7-INq"/>
+                    <constraint firstAttribute="trailing" secondItem="LdZ-R0-0na" secondAttribute="trailing" constant="8" id="k2l-79-MFT"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="imgBadge" destination="kkY-1A-Bok" id="hCC-BK-DAO"/>
+                <outlet property="imgLogo" destination="Acd-Pa-zsa" id="AV4-gU-BgK"/>
+                <outlet property="imgPaymentCOD" destination="U72-BV-tvZ" id="msO-vF-F8d"/>
+                <outlet property="imgPaymentCard" destination="Wj2-Bj-a0I" id="lOg-NW-J4D"/>
+                <outlet property="imgStatus" destination="r0y-4v-YZ2" id="z6t-I8-Rcf"/>
+                <outlet property="labelOfferPrice" destination="iZh-9d-HnB" id="Oei-Z8-V0Q"/>
+                <outlet property="labelPrice" destination="myo-Qx-LlE" id="Gb5-eH-FKi"/>
+                <outlet property="labelStatus" destination="L1p-HU-zgd" id="BcS-gt-NbH"/>
+                <outlet property="lblDeliveryTime" destination="9bk-ar-OjA" id="HRw-VF-Uoh"/>
+                <outlet property="lblMinOrder" destination="b3h-nD-8Dx" id="lDA-EE-GOC"/>
+                <outlet property="lblName" destination="jyX-V4-xVZ" id="tlD-e3-JT4"/>
+                <outlet property="lblRating" destination="Chj-Zs-c9o" id="aHw-ae-xP5"/>
+                <outlet property="lblTotalReviews" destination="Mwa-hA-5yO" id="eJN-M0-44q"/>
+                <outlet property="sponsorImage" destination="TLl-gx-bkh" id="l2j-iq-mmR"/>
+                <outlet property="viewContainer" destination="LdZ-R0-0na" id="DgA-xo-guu"/>
+            </connections>
+            <point key="canvasLocation" x="1034" y="415"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="badge_sponsor" width="61" height="60"/>
+        <image name="ic_payment_card" width="16" height="16"/>
+        <image name="ic_payment_cash" width="16" height="16"/>
+        <image name="ic_star_big_yellow" width="24" height="24"/>
+        <image name="ic_status_online" width="12" height="12"/>
+    </resources>
+</document>

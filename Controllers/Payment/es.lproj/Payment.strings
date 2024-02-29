@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0bL-RZ-o0j"; */
+"0bL-RZ-o0j.text" = "Label";
+
+/* Class = "UILabel"; text = "Código de seguridad:"; ObjectID = "2fW-cz-6qu"; */
+"2fW-cz-6qu.text" = "Código de seguridad:";
+
+/* Class = "UILabel"; text = "Salida de UUID"; ObjectID = "4nb-hW-dYb"; */
+"4nb-hW-dYb.text" = "Salida de UUID";
+
+/* Class = "UILabel"; text = "Select Card for Payment"; ObjectID = "6Ij-VB-gKZ"; */
+"6Ij-VB-gKZ.text" = "Seleccionar tarjeta para pago";
+
+/* Class = "UIButton"; normalTitle = "TOKENIZE!"; ObjectID = "91z-nl-4mf"; */
+"91z-nl-4mf.normalTitle" = "TOKENIZE!";
+
+/* Class = "UITextField"; placeholder = "Enter Cardholder's Name"; ObjectID = "ATs-zJ-8oh"; */
+"ATs-zJ-8oh.placeholder" = "Ingrese el nombre del titular de la tarjeta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "CVQ-QO-zwU"; */
+"CVQ-QO-zwU.text" = "Label";
+
+/* Class = "UILabel"; text = "Número de tarjeta:"; ObjectID = "DXQ-jB-rdV"; */
+"DXQ-jB-rdV.text" = "Número de tarjeta:";
+
+/* Class = "UILabel"; text = "Nombre que aparece en la tarjeta:"; ObjectID = "Eg9-H0-Wcg"; */
+"Eg9-H0-Wcg.text" = "Nombre que aparece en la tarjeta:";
+
+/* Class = "UITextField"; placeholder = "Mes"; ObjectID = "Hf7-5O-gD3"; */
+"Hf7-5O-gD3.placeholder" = "Mes";
+
+/* Class = "UILabel"; text = "Fill Card Details"; ObjectID = "JZW-M0-yQP"; */
+"JZW-M0-yQP.text" = "Completar detalles de la tarjeta";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "L9t-gA-E6x"; */
+"L9t-gA-E6x.text" = "Email:";
+
+/* Class = "UITextField"; placeholder = "Nombre"; ObjectID = "M6r-ZH-9cv"; */
+"M6r-ZH-9cv.placeholder" = "Nombre";
+
+/* Class = "UILabel"; text = "Phone Number:"; ObjectID = "MGk-RD-Lzo"; */
+"MGk-RD-Lzo.text" = "Número de teléfono:";
+
+/* Class = "UITextField"; placeholder = "000"; ObjectID = "N1P-uI-Q3L"; */
+"N1P-uI-Q3L.placeholder" = "000";
+
+/* Class = "UILabel"; text = "Expira:"; ObjectID = "NNV-0z-ywZ"; */
+"NNV-0z-ywZ.text" = "Expira:";
+
+/* Class = "UIButton"; normalTitle = "Add Card"; ObjectID = "OAM-O4-feA"; */
+"OAM-O4-feA.normalTitle" = "Agregar tarjeta";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PcU-It-dkb"; */
+"PcU-It-dkb.text" = "Label";
+
+/* Class = "UILabel"; text = "*Nota: Puedes modificar los datos de la tarjeta para realizar diferentes pruebas."; ObjectID = "R16-Eh-aCh"; */
+"R16-Eh-aCh.text" = "*Nota: Puedes modificar los datos de la tarjeta para realizar diferentes pruebas.";
+
+/* Class = "UITextField"; placeholder = "Número de Tarjeta"; ObjectID = "REd-7y-ksF"; */
+"REd-7y-ksF.placeholder" = "Número de Tarjeta";
+
+/* Class = "UIButton"; normalTitle = "CHOOSE PAYMENT RECEIPT"; ObjectID = "SYj-du-lYV"; */
+"SYj-du-lYV.normalTitle" = "ELEGIR RECIBO DE PAGO";
+
+/* Class = "UILabel"; text = "Add card to complete payment"; ObjectID = "Tia-pA-BDj"; */
+"Tia-pA-BDj.text" = "Agregar tarjeta para completar el pago";
+
+/* Class = "UILabel"; text = "Payment Details:"; ObjectID = "UUz-Ng-s8h"; */
+"UUz-Ng-s8h.text" = "Detalles del pago:";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "XN9-HZ-K8v"; */
+"XN9-HZ-K8v.normalTitle" = "Delete";
+
+/* Class = "UITextField"; placeholder = "Año"; ObjectID = "coc-zf-1P6"; */
+"coc-zf-1P6.placeholder" = "Año";
+
+/* Class = "UILabel"; text = "Datos de salida:"; ObjectID = "eYp-h4-SMA"; */
+"eYp-h4-SMA.text" = "Datos de salida:";
+
+/* Class = "UILabel"; text = "Salida de Token"; ObjectID = "oJx-oQ-EA8"; */
+"oJx-oQ-EA8.text" = "Salida de Token";
+
+/* Class = "UILabel"; text = "Card Holder"; ObjectID = "p8x-cb-95X"; */
+"p8x-cb-95X.text" = "Titular de la tarjeta";
+
+/* Class = "UIButton"; normalTitle = "Add Card"; ObjectID = "rKi-rj-T8l"; */
+"rKi-rj-T8l.normalTitle" = "Agregar tarjeta";
+
+/* Class = "UILabel"; text = "Expiry"; ObjectID = "xxz-9j-Lfb"; */
+"xxz-9j-Lfb.text" = "Expiración";

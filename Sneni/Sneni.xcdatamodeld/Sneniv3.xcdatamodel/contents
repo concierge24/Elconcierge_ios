@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15702" systemVersion="19D76" minimumToolsVersion="Xcode 7.3" sourceLanguage="Objective-C" userDefinedModelVersionIdentifier="">
+    <entity name="Addons" syncable="YES">
+        <attribute name="addonData" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="addonId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="typeId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Cart" representedClassName="" syncable="YES">
+        <attribute name="addOnId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="addOns" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="agentlist" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="arrayAddOnValue" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="averageRating" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="canUrgent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="category" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="categoryId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="dateModified" optional="YES" attributeType="Date" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="deliveryCharges" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="deliveryMaxTime" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="displayPrice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="duration" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="fixedPrice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="handlingAdmin" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="handlingSupplier" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="hourlyPrice" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="image" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isAddon" optional="YES" attributeType="Boolean" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="isAgent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="isProduct" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="latitude" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="longitude" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="measuringUnit" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="price" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="priceType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="productType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="purchased_quantity" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="quantity" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="questionsSelected" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="radius_price" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="selfPickup" optional="YES" attributeType="Integer 16" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="sku" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="supplier_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="supplier_name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="supplierAddrerss" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="supplierBranchId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="totalQuantity" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="NO" syncable="YES"/>
+        <attribute name="typeId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="urgentType" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="urgentValue" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="variants" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <entity name="Message" syncable="YES">
+        <attribute name="adminId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="message" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="status" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="type" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Addons" positionX="0" positionY="153" width="128" height="118"/>
+        <element name="Cart" positionX="0" positionY="0" width="128" height="703"/>
+        <element name="Message" positionX="0" positionY="0" width="128" height="135"/>
+    </elements>
+</model>

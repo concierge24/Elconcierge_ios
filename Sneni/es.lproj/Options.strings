@@ -1,0 +1,291 @@
+
+/* Class = "UITextField"; placeholder = "Address & Landmark"; ObjectID = "02y-cb-4Kp"; */
+"02y-cb-4Kp.placeholder" = "Dirección y punto de referencia";
+
+/* Class = "UILabel"; text = "Sub-Total"; ObjectID = "0oq-64-Lz9"; */
+"0oq-64-Lz9.text" = "Total parcial";
+
+/* Class = "UILabel"; text = "My Cart"; ObjectID = "1F9-cK-Xqy"; */
+"1F9-cK-Xqy.text" = "Mi carrito";
+
+/* Class = "UILabel"; text = "Try searching for something else!"; ObjectID = "2Zg-g1-u3S"; */
+"2Zg-g1-u3S.text" = "¡Intenta buscar otra cosa!";
+
+/* Class = "UIButton"; normalTitle = "Pay Now"; ObjectID = "2rU-Wl-BDe"; */
+"2rU-Wl-BDe.normalTitle" = "Pagar ahora";
+
+/* Class = "UILabel"; text = "Delivery charges"; ObjectID = "391-mi-Ehg"; */
+"391-mi-Ehg.text" = "Los gastos de envío";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "3N1-x2-xyN"; */
+"3N1-x2-xyN.text" = "Pago";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4Ow-Un-8XO"; */
+"4Ow-Un-8XO.text" = "Label";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "4Sq-hy-CNU"; */
+"4Sq-hy-CNU.text" = "Favoritos";
+
+/* Class = "UILabel"; text = "Net total"; ObjectID = "5KS-pE-7lT"; */
+"5KS-pE-7lT.text" = "Total neto";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "6ad-Bo-dsM"; */
+"6ad-Bo-dsM.text" = "NTL";
+
+/* Class = "UILabel"; text = "Promo Applied"; ObjectID = "6c6-2J-w93"; */
+"6c6-2J-w93.text" = "Promoción aplicada";
+
+/* Class = "UILabel"; text = "YOUR CART IS EMPTY"; ObjectID = "77S-7Z-M3R"; */
+"77S-7Z-M3R.text" = "TU CARRITO ESTA VACÍO";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "7Mq-xB-e4X"; */
+"7Mq-xB-e4X.placeholder" = "¿Qué estás buscando?";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "7iW-Lh-12I"; */
+"7iW-Lh-12I.text" = "NTL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8Eg-QK-8Ak"; */
+"8Eg-QK-8Ak.text" = "Label";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "8H5-f3-71h"; */
+"8H5-f3-71h.text" = "Promociones";
+
+/* Class = "UIButton"; normalTitle = "REDEEM"; ObjectID = "8ii-5X-96K"; */
+"8ii-5X-96K.normalTitle" = "REDIMIR";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9Ez-x8-sSm"; */
+"9Ez-x8-sSm.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CHANGE"; ObjectID = "AKW-JQ-LFL"; */
+"AKW-JQ-LFL.normalTitle" = "CAMBIO";
+
+/* Class = "UIButton"; normalTitle = "Redeem"; ObjectID = "DAo-9H-k5R"; */
+"DAo-9H-k5R.normalTitle" = "Redimir";
+
+/* Class = "UIButton"; selectedTitle = "Remove"; ObjectID = "DAo-9H-k5R"; */
+"DAo-9H-k5R.selectedTitle" = "Eliminar";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "DM2-fe-B9U"; */
+"DM2-fe-B9U.text" = "NTL";
+
+/* Class = "UILabel"; text = "Filters"; ObjectID = "Dqu-ew-4r0"; */
+"Dqu-ew-4r0.text" = "Filtros";
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "EP9-iu-2VH"; */
+"EP9-iu-2VH.text" = "selecciona una categoría";
+
+/* Class = "UITextField"; placeholder = "Area"; ObjectID = "FNK-VU-5e7"; */
+"FNK-VU-5e7.placeholder" = "Zona";
+
+/* Class = "UILabel"; text = "Tax"; ObjectID = "Fp9-xf-Pfg"; */
+"Fp9-xf-Pfg.text" = "Impuesto";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Gai-ED-Hdh"; */
+"Gai-ED-Hdh.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "GkP-HS-aDg"; */
+"GkP-HS-aDg.text" = "NTL";
+
+/* Class = "UILabel"; text = "No Supplier Found!"; ObjectID = "Gkz-3L-TE2"; */
+"Gkz-3L-TE2.text" = "No se encontró proveedor!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Jls-Lj-BHA"; */
+"Jls-Lj-BHA.text" = "Label";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "LBO-q9-Tf6"; */
+"LBO-q9-Tf6.text" = "Notificaciones";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "Mas-lF-ppZ"; */
+"Mas-lF-ppZ.normalTitle" = "Añadir";
+
+/* Class = "UILabel"; text = "Price details"; ObjectID = "MeO-ud-vcv"; */
+"MeO-ud-vcv.text" = "Detalles de precio";
+
+/* Class = "UITextField"; placeholder = "Enter Promo"; ObjectID = "Nwh-bR-Iem"; */
+"Nwh-bR-Iem.placeholder" = "Entrar Promo";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Oh2-oi-84j"; */
+"Oh2-oi-84j.text" = "NTL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "PK3-cs-Zs0"; */
+"PK3-cs-Zs0.text" = "Label";
+
+/* Class = "UILabel"; text = "DELIVERY AT"; ObjectID = "Q0R-rk-j6v"; */
+"Q0R-rk-j6v.text" = "ENTREGA A";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "QfI-Ef-oZm"; */
+"QfI-Ef-oZm.text" = "NTL";
+
+/* Class = "UITextField"; placeholder = "Add Promo"; ObjectID = "R3r-Zp-LZo"; */
+"R3r-Zp-LZo.placeholder" = "Agregar promoción";
+
+/* Class = "UILabel"; text = "Compare Products"; ObjectID = "Rb2-kh-EG9"; */
+"Rb2-kh-EG9.text" = "Comparar productos";
+
+/* Class = "UILabel"; text = "Add-ons"; ObjectID = "SOl-XQ-Zll"; */
+"SOl-XQ-Zll.text" = "Complementos";
+
+/* Class = "UILabel"; text = "By BurgerGrill"; ObjectID = "Tog-xZ-0hi"; */
+"Tog-xZ-0hi.text" = "By BurgerGrill";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "TqJ-Mb-nOs"; */
+"TqJ-Mb-nOs.text" = "Configuraciones";
+
+/* Class = "UILabel"; text = "Additional Remarks"; ObjectID = "U5J-nm-5gb"; */
+"U5J-nm-5gb.text" = "Observaciones adicionales";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "URg-eP-FK4"; */
+"URg-eP-FK4.normalTitle" = "Salvar";
+
+/* Class = "UILabel"; text = "Discount Voucher"; ObjectID = "UU5-aq-B6Y"; */
+"UU5-aq-B6Y.text" = "Cupón de descuento";
+
+/* Class = "UILabel"; text = "Customise your Food"; ObjectID = "Wkn-uy-Ean"; */
+"Wkn-uy-Ean.text" = "Personaliza tu comida";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XDu-M1-jk0"; */
+"XDu-M1-jk0.text" = "Label";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "XKC-Wf-VXW"; */
+"XKC-Wf-VXW.text" = "NTL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "XS1-uF-mED"; */
+"XS1-uF-mED.text" = "Label";
+
+/* Class = "UILabel"; text = "Live support"; ObjectID = "YNR-pM-YRM"; */
+"YNR-pM-YRM.text" = "Soporte vital";
+
+/* Class = "UITextField"; placeholder = "Full Name"; ObjectID = "Yex-zL-vwR"; */
+"Yex-zL-vwR.placeholder" = "Nombre completo";
+
+/* Class = "UILabel"; text = "Add Customization"; ObjectID = "YrO-mK-9fk"; */
+"YrO-mK-9fk.text" = "Agregar personalización";
+
+/* Class = "UITextField"; placeholder = "House No/Plot No"; ObjectID = "a0I-db-qBf"; */
+"a0I-db-qBf.placeholder" = "No Casa / No Parcela";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "bK5-7H-6OT"; */
+"bK5-7H-6OT.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Orders"; ObjectID = "bc5-VK-L9z"; */
+"bc5-VK-L9z.normalTitle" = "Pedidos";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "btJ-TY-9IX"; */
+"btJ-TY-9IX.placeholder" = "Ciudad";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "c1h-hc-99h"; */
+"c1h-hc-99h.placeholder" = "País";
+
+/* Class = "UILabel"; text = "Philips toaster"; ObjectID = "c2r-UT-5dM"; */
+"c2r-UT-5dM.text" = "Philips toaster";
+
+/* Class = "UILabel"; text = "Points earned so far"; ObjectID = "c86-pr-EFn"; */
+"c86-pr-EFn.text" = "Puntos ganados hasta ahora";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c88-lc-sKC"; */
+"c88-lc-sKC.text" = "Label";
+
+/* Class = "UILabel"; text = "No Product Found!"; ObjectID = "cCG-AY-q8u"; */
+"cCG-AY-q8u.text" = "¡Ningún producto encontrado!";
+
+/* Class = "UILabel"; text = "The information in this e-mail message, and any files transmitted You haven't talked to Harman before. Why not break the ice with\nan emoticon? (fonzie"; ObjectID = "cDf-K6-EpZ"; */
+"cDf-K6-EpZ.text" = "The information in this e-mail message, and any files transmitted You haven't talked to Harman before. Why not break the ice with\nan emoticon? (fonzie";
+
+/* Class = "UIButton"; normalTitle = "CLEAR"; ObjectID = "eQ2-K6-94g"; */
+"eQ2-K6-94g.normalTitle" = "CLARO";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "efR-n8-ben"; */
+"efR-n8-ben.text" = "Total";
+
+/* Class = "UILabel"; text = "Click '+ Add new' to add an address"; ObjectID = "eys-qb-pdf"; */
+"eys-qb-pdf.text" = "Haga clic en '+ Agregar nuevo' para agregar una dirección.";
+
+/* Class = "UILabel"; text = "Cart"; ObjectID = "f3Q-y7-0Ju"; */
+"f3Q-y7-0Ju.text" = "Carro";
+
+/* Class = "UILabel"; text = "Delivery Address"; ObjectID = "f3W-tE-A1W"; */
+"f3W-tE-A1W.text" = "Dirección de entrega";
+
+/* Class = "UILabel"; text = "No Notifications Yet!"; ObjectID = "f5L-xJ-3YG"; */
+"f5L-xJ-3YG.text" = "¡Aún no hay notificaciones!";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "fJV-Op-nOV"; */
+"fJV-Op-nOV.text" = "NTL";
+
+/* Class = "UILabel"; text = "ADD SOME"; ObjectID = "fmZ-Gn-pam"; */
+"fmZ-Gn-pam.text" = "AÑADIR ALGUNOS";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gAs-x8-epp"; */
+"gAs-x8-epp.text" = "Label";
+
+/* Class = "UILabel"; text = "Scan Products"; ObjectID = "gBs-oD-htH"; */
+"gBs-oD-htH.text" = "Productos de escaneo";
+
+/* Class = "UILabel"; text = "1 Items | Total USD 178.0"; ObjectID = "gMC-68-QVa"; */
+"gMC-68-QVa.text" = "1 Items | Total USD 178.0";
+
+/* Class = "UILabel"; text = "No Product Found!"; ObjectID = "hHv-vy-PZB"; */
+"hHv-vy-PZB.text" = "¡Ningún producto encontrado!";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "hs1-eC-vAK"; */
+"hs1-eC-vAK.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "if3-mz-QGI"; */
+"if3-mz-QGI.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "j0r-gm-CQ7"; */
+"j0r-gm-CQ7.text" = "NTL";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jdK-a0-48u"; */
+"jdK-a0-48u.text" = "Label";
+
+/* Class = "UILabel"; text = "(YOU WON'T REGRET IT)"; ObjectID = "lHn-3t-xEe"; */
+"lHn-3t-xEe.text" = "(NO TE ARREPENTIRÁS)";
+
+/* Class = "UILabel"; text = "Loyality points"; ObjectID = "m8O-bT-G0I"; */
+"m8O-bT-G0I.text" = "Puntos de lealtad";
+
+/* Class = "UILabel"; text = "STUFF!"; ObjectID = "n3S-rA-FfF"; */
+"n3S-rA-FfF.text" = "COSAS!";
+
+/* Class = "UILabel"; text = "title"; ObjectID = "nVv-xB-a7i"; */
+"nVv-xB-a7i.text" = "título";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "ohC-jd-HGK"; */
+"ohC-jd-HGK.normalTitle" = "Aplicar";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "qhe-GO-QHw"; */
+"qhe-GO-QHw.normalTitle" = "Aplicar";
+
+/* Class = "UIButton"; disabledTitle = "Edit"; ObjectID = "r4M-tc-cqs"; */
+"r4M-tc-cqs.disabledTitle" = "Editar";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "r4M-tc-cqs"; */
+"r4M-tc-cqs.normalTitle" = "Editar";
+
+/* Class = "UILabel"; text = "Result"; ObjectID = "tG2-MS-SJ0"; */
+"tG2-MS-SJ0.text" = "Resultado";
+
+/* Class = "UILabel"; text = "100 AED"; ObjectID = "uaA-Ht-7ja"; */
+"uaA-Ht-7ja.text" = "100 AED";
+
+/* Class = "UILabel"; text = "No Orders Found!"; ObjectID = "whk-dw-oTd"; */
+"whk-dw-oTd.text" = "¡No se encontraron pedidos!";
+
+/* Class = "UILabel"; text = "The information in this e-mail message, and any files transmitted You haven't talked to Harman before. Why not break the ice with\nan emoticon? (fonzie"; ObjectID = "wuT-pT-oub"; */
+"wuT-pT-oub.text" = "The information in this e-mail message, and any files transmitted You haven't talked to Harman before. Why not break the ice with\nan emoticon? (fonzie";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "x5H-dX-iu0"; */
+"x5H-dX-iu0.text" = "NTL";
+
+/* Class = "UITextField"; placeholder = "Building name"; ObjectID = "yDy-XI-exE"; */
+"yDy-XI-exE.placeholder" = "Nombre del edificio";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "zYa-Cc-eKH"; */
+"zYa-Cc-eKH.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Clear All"; ObjectID = "zxU-vM-cqd"; */
+"zxU-vM-cqd.normalTitle" = "Limpiar todo";
+
+/* Class = "UIButton"; normalTitle = "Add new"; ObjectID = "zyB-DL-Css"; */
+"zyB-DL-Css.normalTitle" = "Añadir nuevo";

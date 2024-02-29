@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PROXIMANOVA-LIGHT.OTF">
+            <string>ProximaNova-Light</string>
+        </array>
+        <array key="PROXIMANOVA-REGULAR.OTF">
+            <string>ProximaNova-Regular</string>
+        </array>
+        <array key="PROXIMANOVA-SEMIBOLD.OTF">
+            <string>ProximaNova-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="OrderParentCell" rowHeight="322" id="FSu-jh-p3V" customClass="OrderParentCell" customModule="Letta" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="332"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="FSu-jh-p3V" id="ipK-GU-Vxd">
+                <rect key="frame" x="0.0" y="0.0" width="600" height="332"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xQz-sg-465">
+                        <rect key="frame" x="15" y="4" width="570" height="324"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="uXk-Q7-iCZ">
+                                <rect key="frame" x="16" y="20" width="469.5" height="69"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Delivered" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hrk-X1-d41" customClass="ThemeLabel" customModule="Letta" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="469.5" height="14"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" red="0.2470588235" green="0.80784313730000001" blue="0.54901960780000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblStatusColor" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Payment Pending" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qyy-N8-q0P">
+                                        <rect key="frame" x="0.0" y="22" width="469.5" height="14"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" red="0.92156862750000001" green="0.45098039220000002" blue="0.1137254902" alpha="1" colorSpace="calibratedRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" alignment="top" spacing="2" translatesAutoresizingMaskIntoConstraints="NO" id="Pfl-4o-eIg">
+                                        <rect key="frame" x="0.0" y="44" width="469.5" height="25"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" verticalCompressionResistancePriority="752" text="Placed on" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="a0w-Sn-1FN" customClass="ThemeLabel" customModule="Letta" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="0.0" width="52" height="12"/>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                                                <color key="textColor" red="0.66666666669999997" green="0.66666666669999997" blue="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isLblLightTxt" value="YES"/>
+                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isTableSubTitleLbl" value="YES"/>
+                                                </userDefinedRuntimeAttributes>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="WZT-Ox-FoA" customClass="ThemeLabel" customModule="Letta" customModuleProvider="target">
+                                                <rect key="frame" x="0.0" y="14" width="466.5" height="11"/>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="YES"/>
+                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isTableTitleLbl" value="YES"/>
+                                                </userDefinedRuntimeAttributes>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="C2B-SC-kNb">
+                                <rect key="frame" x="485.5" y="20" width="68.5" height="48"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="1000" verticalHuggingPriority="251" horizontalCompressionResistancePriority="1000" text="NTL  .  NTL" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NW1-po-glh" customClass="ElementLabel" customModule="Letta" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="68.5" height="14"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="bottom" spacing="2" translatesAutoresizingMaskIntoConstraints="NO" id="yTd-ok-jIe">
+                                        <rect key="frame" x="0.0" y="22" width="68.5" height="26"/>
+                                        <subviews>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Order No." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="T1q-S4-fQQ" customClass="ThemeLabel" customModule="Letta" customModuleProvider="target">
+                                                <rect key="frame" x="17" y="0.0" width="51.5" height="12"/>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="YES"/>
+                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isTableSubTitleLbl" value="YES"/>
+                                                </userDefinedRuntimeAttributes>
+                                            </label>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="NTL" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VzP-7n-84Z" customClass="ThemeLabel" customModule="Letta" customModuleProvider="target">
+                                                <rect key="frame" x="47.5" y="14" width="21" height="12"/>
+                                                <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                <nil key="highlightedColor"/>
+                                                <userDefinedRuntimeAttributes>
+                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="YES"/>
+                                                    <userDefinedRuntimeAttribute type="boolean" keyPath="isTableSubTitleLbl" value="YES"/>
+                                                </userDefinedRuntimeAttributes>
+                                            </label>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" axis="vertical" spacing="2" translatesAutoresizingMaskIntoConstraints="NO" id="zeQ-7m-L6f">
+                                <rect key="frame" x="16" y="255" width="528" height="66"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="Expected Delivery On" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tBf-h8-jSm" customClass="ThemeLabel" customModule="Letta" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="528" height="14"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="14" id="VYM-Gn-C7O"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" red="0.66666666669999997" green="0.66666666669999997" blue="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblLightTxt" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isTableSubTitleLbl" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="tJ6-MO-t1T" customClass="ThemeLabel" customModule="Letta" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="16" width="528" height="50"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="12" id="aTO-Lh-Mxa"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isTableTitleLbl" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <stackView opaque="NO" contentMode="scaleToFill" ambiguous="YES" spacing="32" translatesAutoresizingMaskIntoConstraints="NO" id="EXF-ib-Cor">
+                                <rect key="frame" x="434" y="269" width="120" height="38"/>
+                                <subviews>
+                                    <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" horizontalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fPp-qF-YIy" customClass="ThemeButton" customModule="Letta" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="0.0" width="16" height="38"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="38" id="NIG-Y2-7PR"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                        <inset key="contentEdgeInsets" minX="8" minY="0.0" maxX="8" maxY="0.0"/>
+                                        <state key="normal">
+                                            <color key="titleColor" red="0.2470588235" green="0.80784313730000001" blue="0.54901960780000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="_layer.cornerRadius">
+                                                <integer key="value" value="4"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isBorderColor" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="actionOrderTypeWithSender:" destination="FSu-jh-p3V" eventType="touchUpInside" id="sB5-vz-4Rk"/>
+                                        </connections>
+                                    </button>
+                                    <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" horizontalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="f7v-Xd-P7m" customClass="ThemeButton" customModule="Letta" customModuleProvider="target">
+                                        <rect key="frame" x="48" y="0.0" width="72" height="38"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="38" id="8Xb-10-9kE"/>
+                                        </constraints>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                        <inset key="contentEdgeInsets" minX="8" minY="0.0" maxX="8" maxY="0.0"/>
+                                        <state key="normal" title="Pay Now">
+                                            <color key="titleColor" red="0.2470588235" green="0.80784313730000001" blue="0.54901960780000003" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        </state>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="_layer.cornerRadius">
+                                                <integer key="value" value="4"/>
+                                            </userDefinedRuntimeAttribute>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="isBorderColor" value="YES"/>
+                                            <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="Pay Now"/>
+                                            <userDefinedRuntimeAttribute type="boolean" keyPath="btnTextColor" value="YES"/>
+                                        </userDefinedRuntimeAttributes>
+                                        <connections>
+                                            <action selector="payNow:" destination="FSu-jh-p3V" eventType="touchUpInside" id="cmi-wM-Fa5"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                            </stackView>
+                            <view hidden="YES" contentMode="scaleToFill" ambiguous="YES" translatesAutoresizingMaskIntoConstraints="NO" id="38k-Fp-go5">
+                                <rect key="frame" x="390" y="269" width="164" height="38"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="164" id="TTs-UH-Yui"/>
+                                    <constraint firstAttribute="height" constant="38" id="cik-KX-C4d"/>
+                                </constraints>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" alpha="0.20000000298023224" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="NT5-ad-7aA">
+                                <rect key="frame" x="16" y="122" width="538" height="1"/>
+                                <color key="backgroundColor" red="0.66666666669999997" green="0.66666666669999997" blue="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="1" id="t0G-Wj-pdI"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" ambiguous="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="Cle-Zf-4QT">
+                                <rect key="frame" x="0.0" y="139" width="570" height="100"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="100" id="KfV-8b-jll"/>
+                                </constraints>
+                                <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="16" minimumInteritemSpacing="16" id="vPS-G0-6Mh">
+                                    <size key="itemSize" width="100" height="100"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="16" minY="0.0" maxX="16" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                            </collectionView>
+                        </subviews>
+                        <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="C2B-SC-kNb" secondAttribute="trailing" constant="16" id="07E-vK-kLA"/>
+                            <constraint firstItem="38k-Fp-go5" firstAttribute="trailing" secondItem="EXF-ib-Cor" secondAttribute="trailing" id="4Ku-Cq-jus"/>
+                            <constraint firstItem="uXk-Q7-iCZ" firstAttribute="top" secondItem="C2B-SC-kNb" secondAttribute="top" id="5X4-3S-hUv"/>
+                            <constraint firstItem="Cle-Zf-4QT" firstAttribute="leading" secondItem="xQz-sg-465" secondAttribute="leading" id="8Mq-sY-pyc"/>
+                            <constraint firstItem="uXk-Q7-iCZ" firstAttribute="top" secondItem="xQz-sg-465" secondAttribute="top" constant="20" symbolic="YES" id="GCq-X3-G6K"/>
+                            <constraint firstItem="C2B-SC-kNb" firstAttribute="leading" secondItem="uXk-Q7-iCZ" secondAttribute="trailing" id="I7y-D3-DR7"/>
+                            <constraint firstItem="EXF-ib-Cor" firstAttribute="centerY" secondItem="zeQ-7m-L6f" secondAttribute="centerY" id="IUT-Bp-gvR"/>
+                            <constraint firstAttribute="trailing" secondItem="Cle-Zf-4QT" secondAttribute="trailing" id="Nqb-nC-eAd"/>
+                            <constraint firstItem="uXk-Q7-iCZ" firstAttribute="top" secondItem="C2B-SC-kNb" secondAttribute="top" id="OKr-2b-2vc"/>
+                            <constraint firstItem="38k-Fp-go5" firstAttribute="height" secondItem="EXF-ib-Cor" secondAttribute="height" id="OjI-8V-uBR"/>
+                            <constraint firstAttribute="trailing" secondItem="EXF-ib-Cor" secondAttribute="trailing" constant="16" id="RvA-BC-gNP"/>
+                            <constraint firstItem="NT5-ad-7aA" firstAttribute="trailing" secondItem="C2B-SC-kNb" secondAttribute="trailing" id="S8n-3x-EQ3"/>
+                            <constraint firstItem="zeQ-7m-L6f" firstAttribute="top" secondItem="Cle-Zf-4QT" secondAttribute="bottom" constant="16" id="WAx-iQ-cg3"/>
+                            <constraint firstAttribute="bottom" secondItem="zeQ-7m-L6f" secondAttribute="bottom" constant="20" symbolic="YES" id="ZI5-1U-4tq"/>
+                            <constraint firstItem="C2B-SC-kNb" firstAttribute="top" secondItem="xQz-sg-465" secondAttribute="top" constant="20" symbolic="YES" id="dgu-w9-bJG"/>
+                            <constraint firstItem="zeQ-7m-L6f" firstAttribute="leading" secondItem="xQz-sg-465" secondAttribute="leading" constant="16" id="dlH-4J-RW7"/>
+                            <constraint firstItem="NT5-ad-7aA" firstAttribute="leading" secondItem="uXk-Q7-iCZ" secondAttribute="leading" id="kPS-t3-Xl2"/>
+                            <constraint firstItem="Cle-Zf-4QT" firstAttribute="top" secondItem="NT5-ad-7aA" secondAttribute="bottom" constant="16" id="oEz-pR-4hX"/>
+                            <constraint firstItem="NT5-ad-7aA" firstAttribute="top" secondItem="uXk-Q7-iCZ" secondAttribute="bottom" constant="16" id="obP-FR-r9a"/>
+                            <constraint firstItem="uXk-Q7-iCZ" firstAttribute="leading" secondItem="xQz-sg-465" secondAttribute="leading" constant="16" id="p4r-7d-NDp"/>
+                            <constraint firstItem="38k-Fp-go5" firstAttribute="centerY" secondItem="EXF-ib-Cor" secondAttribute="centerY" id="pEq-cE-NoI"/>
+                            <constraint firstAttribute="bottom" secondItem="EXF-ib-Cor" secondAttribute="bottom" constant="20" symbolic="YES" id="wFu-0B-ffZ"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="color" keyPath="dividerColor">
+                                <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                                <real key="value" value="0.10000000000000001"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowRadius">
+                                <real key="value" value="2"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                <color key="value" red="0.1843137255" green="0.36470588240000001" blue="0.4431372549" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                                <size key="value" width="0.0" height="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="masksToBounds" value="NO"/>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="isSkeletonable" value="YES"/>
+                        </userDefinedRuntimeAttributes>
+                        <variation key="default">
+                            <mask key="constraints">
+                                <exclude reference="GCq-X3-G6K"/>
+                                <exclude reference="OKr-2b-2vc"/>
+                                <exclude reference="wFu-0B-ffZ"/>
+                            </mask>
+                        </variation>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="xQz-sg-465" firstAttribute="leading" secondItem="ipK-GU-Vxd" secondAttribute="leadingMargin" id="NeY-xc-WLy"/>
+                    <constraint firstAttribute="bottom" secondItem="xQz-sg-465" secondAttribute="bottom" constant="4" id="OrH-nA-Z3b"/>
+                    <constraint firstItem="xQz-sg-465" firstAttribute="top" secondItem="ipK-GU-Vxd" secondAttribute="top" constant="4" id="ZbF-hP-o63"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="xQz-sg-465" secondAttribute="trailing" id="vpC-Df-gOq"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.94117647059999998" green="0.94117647059999998" blue="0.94117647059999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <userDefinedRuntimeAttributes>
+                <userDefinedRuntimeAttribute type="boolean" keyPath="isSkeletonable" value="YES"/>
+            </userDefinedRuntimeAttributes>
+            <connections>
+                <outlet property="btnOrderType" destination="fPp-qF-YIy" id="nlL-iB-bgM"/>
+                <outlet property="btnPayNow" destination="f7v-Xd-P7m" id="kd6-3J-Ylc"/>
+                <outlet property="collectionView" destination="Cle-Zf-4QT" id="OiR-t3-kI5"/>
+                <outlet property="labelExpectedDelivery" destination="tBf-h8-jSm" id="60U-JP-LdX"/>
+                <outlet property="labelPlacedOn" destination="a0w-Sn-1FN" id="Vbc-TC-Et7"/>
+                <outlet property="lblDeliveryDate" destination="tJ6-MO-t1T" id="6Zu-1B-mpe"/>
+                <outlet property="lblOrderNo" destination="VzP-7n-84Z" id="YXm-4f-4M5"/>
+                <outlet property="lblPaymentStatus" destination="Qyy-N8-q0P" id="fMF-8i-Dru"/>
+                <outlet property="lblPlacedDate" destination="WZT-Ox-FoA" id="ejS-bS-AFT"/>
+                <outlet property="lblPriceItems" destination="NW1-po-glh" id="6f4-BJ-6ev"/>
+                <outlet property="lblStatus" destination="hrk-X1-d41" id="sr1-De-OWx"/>
+                <outlet property="lblTitleOrderNo" destination="T1q-S4-fQQ" id="nGP-ob-5XT"/>
+                <outlet property="viewRating" destination="38k-Fp-go5" id="wJ2-Rh-mr6"/>
+            </connections>
+            <point key="canvasLocation" x="144" y="-11.694152923538232"/>
+        </tableViewCell>
+    </objects>
+</document>

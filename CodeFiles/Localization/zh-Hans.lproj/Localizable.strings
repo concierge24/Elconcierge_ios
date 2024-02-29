@@ -1,0 +1,1287 @@
+/*
+  Localizable.strings
+  Clikat Supplier
+
+  Created by Night Reaper on 08/04/16.
+  Copyright © 2016 Gagan. All rights reserved.
+*/
+
+
+"AppName" = "Bletani"; //"Thena"
+
+"SIGN_IN_WITH_APPLE" = "Sign in with Apple";
+
+
+
+
+
+
+//Supplier Related
+
+"Service Charge" = "服务费" ;
+"Min. Service Time" = "最小服务时间
+" ;
+"Visiting Charges" = "探访费
+" ;
+"Min. Delivery Time" = "最小交货时间
+" ;
+"Opens at " = "营业时间
+ " ;
+"PasswordChangedSuccess" = "密码修改成功
+";
+
+
+//Order Flow
+"Please select an Address" = "请选择一个地址
+" ;
+"Credit/Debit card" = "信用卡/借记卡
+" ;
+"Your Cart has no items.Please add items to cart to Proceed." = "您的购物车中没有商品。请将商品添加到购物车中。
+" ;
+"Landmark" = "地标
+" ;
+"Address Line First" = "地址行优先
+" ;
+"Address Line Second" = "地址行第二
+" ;
+"Pincode" = "PIN码
+";
+"Delivery Address" = "邮寄地址
+" ;
+"Enter your details." = "输入您的详细资料
+." ;
+"Delivery charges applicable accordingly" = "相应地收取送货费
+" ;
+"Delivery charges" = "送货费
+" ;
+"Select Time and Date" = "选择时间和日期
+" ;
+"Please select a booking schedule and time" = "请选择预订时间表和时间
+";
+"Select booking time" = "选择预订时间
+" ;
+"ReOrdering will clear you cart" = "重新排序将清除您的购物车。按确定继续
+.";
+
+
+
+//Order Related
+
+"PENDING" = "待定
+";
+"DELIVERED" = "已交付
+" ;
+"CONFIRMED" = "已确认
+" ;
+"FEEDBACKGIVEN" = "给定反馈
+";
+"REJECTED" = "拒绝
+" ;
+"SHIPPED" = "已出货
+" ;
+"INPROCESS" = "进行中
+" ;
+"NEARBY" = "在途中
+" ;
+"TRACKED" = "已追踪
+" ;
+"CUSTOMER CANCELLED" = "取消
+";
+"SCHEDULED" = "预定的
+";
+
+"Order Details" = "订单详细信息
+" ;
+"items" = "项目
+" ;
+
+"REORDER" = "重新订购
+" ;
+"TRACK" = "跟踪
+" ;
+"BOOKED" = "已预订
+" ;
+"CANCEL ORDER" = "取消订单
+" ;
+"CONFIRM ORDER" = "确认订单
+" ;
+"CANCEL BOOKING" = "取消预订
+";
+"BOOK AGAIN" = "再次预定
+" ;
+"CONFIRM BOOKING" = "确认预订
+" ;
+"Booking Details" = "订房详情
+";
+"Booking History" =  "预订历史
+";
+
+"Monthly" = "每月一次
+" ;
+"Weekly" = "每周
+" ;
+"Pickup" = "拾起
+";
+
+
+//Login SignUp
+"Please enter your email address" = "请输入您的电子邮件地址
+" ;
+"Please enter a valid email address" = "请输入有效的电子邮件地址
+" ;
+"Please enter your password" = "请输入您的密码
+" ;
+"Password should be minimum 6 characters." = "密码最少6个字符
+.";
+"Session expired login to continue" = "当前会话已过期\ n请登录以继续
+.";
+"OTP Sent" = "已发送OTP
+.";
+"Select picture" = "选择图片
+";
+"Please select your profile picture" = "请选择您的个人资料图片。
+";
+"Please enter your name" = "请输入你的名字
+.";
+"Camera"  ="相机
+";
+"Photo Library" = "照片库
+";
+
+
+// Side Menu Options
+"Home" = "家
+" ;
+"Live support" = "现场支持
+" ;
+"Cart" = "大车
+" ;
+"Promotions" = "促销活动
+" ;
+"Notifications" = "通知事项
+" ;
+
+"My Account" = "我的帐户
+" ;
+
+"My favorites" = "我最喜欢的
+";
+"Order history" = "订单历史
+" ;
+"Track my order" = "追踪我的订单
+" ;
+"Rate my order" = "评价我的订单
+" ;
+"Upcoming orders" = "即将到来的订单
+" ;
+"Loyality points" = "忠诚点" ;
+"Share app" = "分享应用" ;
+"Share App" = "分享应用" ;
+"Settings" = "设置" ;
+"Guest" = "客人" ;
+"Welcome" = "欢迎" ;
+"Points" = "点数
+" ;
+
+"Essentials, delivered at your door steps" = "必备品，在您的家门口提供";
+"Health and medicine just a click away." = "只需点击一下即可轻松获得卫生和医药服务。";
+"Distance is no longer a problem." = "距离不再是问题。";
+
+
+
+
+// Home Screen Options
+"Grocery" = "杂货店" ;
+"Laundry" = "洗衣房" ;
+"Household" = "家庭" ;
+
+"Flowers" = "花卉" ;
+"Fitness" = "健身" ;
+"Photography" = "摄影" ;
+"Baby sitter" = "保姆" ;
+"Cleaning" = "清洁用品" ;
+"Party" = "派对" ;
+"Beauty salon" = "美容院" ;
+"Medicines" = "药物" ;
+"Water delivery" = "输水" ;
+"Packages" = "配套" ;
+
+
+
+
+
+
+
+"OK" = "好";
+"Save" = "保存" ;
+"Cancel" = "取消" ;
+"Choose booking cycle" = "选择预订周期" ;
+"reviews" = " 评论" ;
+"USD" = "美元" ;
+"mins" = " 分钟" ;
+"Results for " = "结果";
+"days" = "天";
+"Hours" = "小时";
+
+
+
+
+
+
+
+//Filter
+"Discoverability" = "可发现性" ;
+"Delivery" = "交货" ;
+"Supplier Type" = "供应商类型" ;
+"Rating" = "评分" ;
+
+"1 Star" = "1星" ;
+"2 Star" = "2星" ;
+"3 Star" = "3星" ;
+"4 Star and above" = "4星及以上";
+
+"Gold" = "金";
+"Silver" = "银";
+"Platinum" = "铂";
+
+"Cash on delivery" = "货到付款";
+"Card" = "卡";
+"Both" = "都";
+
+"Online" = "线上";
+"Busy" = "忙";
+"Closed" = "关闭";
+
+"Cancelled" = "取消";
+
+
+
+
+
+
+
+//Settings
+"Change Password" = "更改密码" ;
+"Notifications Language" = "通知语言" ;
+"Manage Address" = "管理地址" ;
+"Logout" = "登出" ;
+"Select notification language" = "选择通知语言";
+"English" = "英语";
+"Arabic" = "阿拉伯";
+"Spanish" = "西班牙语"
+;
+//Loyalty Points
+
+"You haven't earned any loyalty points yet" = "You haven't earned any loyalty points yet.";
+"Select produts from same supplier" = "Please select produts from same supplier";
+"No Remarks" = "No Remarks";
+
+//Laundry Flow
+"When do you want the service" = "When do you want the service?";
+"Pickup location" = "Pickup location";
+"Choose location" = "Choose location";
+"Select pickup date and time" = "Select pickup date and time";
+
+"Are you sure you want to delete this address" = "Are you sure you want to delete this address.";
+
+
+
+
+
+
+//Location Selection
+"Select Country" = "选择国家";
+"Select City" = "选择城市";
+"Select Zone" = "选择区域";
+"Select Area" = "选择地区";
+
+"Please select all fields above" = "请选择上面的所有字段.";
+"Please select a country" = "请选择一个国家";
+"Please select a city" = "请选择一个城市";
+
+
+
+
+
+//Delivery Address Cell
+
+"Please fill all details" = "Please fill all details";
+"Please enter valid Pincode" = "Please enter valid Pincode";
+
+
+
+
+
+//Change Password
+"Old Password" = "旧密码";
+"New Password" = "新密码";
+"Confirm Password" = "C确认密码";
+"New Password must not be same as old password" = "新密码不得与旧密码相同";
+"Passwords do not match" = "密码不匹配";
+"Forgot Password" = "忘记密码";
+"Password recovery has been sent to your email id" = "密码恢复已发送到您的电子邮件ID";
+//Share text
+"The Leading Online Home Services In UAE" = "委内瑞拉第一个送餐应用程序！他们拥有一切
+: https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+//Share text for yummy
+"ShareAppYummy"  = "以为您可能会喜欢此应用程序以使生活更简单：
+  https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+
+
+
+
+
+
+//API Validation
+"Please check your internet connection" = "请检查您的互联网连接。";
+
+
+
+
+
+
+//Sweet Alert
+"Cancel Order" = "取消订单";
+"Cancel Booking" = "取消预订";
+"Success" = "成功";
+"Do you really want to cancel this order" = "您真的要取消此订单吗？";
+"You have cancelled your order successfully" = "您已成功取消订单";
+"LogOut" = "登出!";
+"Are you sure you want to logout" = "您确定要注销吗?";
+"You are successfully logged out" = "您已成功注销";
+
+"Please enter valid country code followed by phone number" = "请输入有效的国家/地区代码，然后输入电话号码";
+
+"You can add only " = "您只能添加 ";
+"Agent is not assigned to this order" = "代理未分配给该订单";
+//Delviery Screen
+"Delivery Speed" = "Delivery Speed";
+"Sorry… Your Order is Below Minimum Order Price." = "Sorry… Your Order is Below Minimum Order Price.";
+
+"Recommended" = "Recommended";
+"Offers" = "Offers";
+
+"Your order have been placed successfully" = "Your order has been placed successfully.";
+"Order placed successfully" = "Order placed successfully";
+"Your order have been sheduled successfully" = "Your order has been scheduled successfully";
+"Booking placed successfully" = "Booking placed successfully";
+
+"Are you sure" = "Are you sure?";
+"Changing the language will clear your cart." = "Changing the language will clear your cart. Are you sure you want to proceed?";
+
+//Live Support
+"Typing" = "Typing";
+"Offline" = "Offline";
+
+"Email" = "Email";
+
+"Not rated yet" = "Not rated yet";
+"Search" = "Search";
+"Other" = "Other";
+
+
+
+
+//MARK: - After sending localization file
+
+
+
+
+
+//TODO: - Localize
+"Issue wth OrderID" = "发出订购编号";
+"Status" = "状态";
+"Loyalty Points Type" = "会员积分类型";
+"Payment Method" = "付款方法";
+"Terms and Conditions" = "条款及细则";
+"About Us" = "关于我们";
+"Sort" = "分类";
+"Open" = "打开";
+"Adding products from diffrent suppliers will clear your cart" = "添加其他供应商的产品将清除您的购物车
+.";
+"Min. Order Amount" = "最小订单金额
+";
+"Min. Delviery Time" = "最小发运时间
+";
+"HOME SERVICE" = "上门服务
+";
+"AT PLACE SERVICE" = "上门服务
+";
+"Select service" = "选择服务
+";
+"Ladies Beauty Salon" = "女士美容院
+";
+"City" = "市
+";
+"Area" = "区"
+;
+"House No" = "门牌号
+";
+"Compare Products" = "比较产品
+";
+"Somewhere Somehow Something Went Wrong" = "某处某处出了错
+";
+"Adding products from promotions will clear your cart" = "通过促销添加产品将清除您的购物车
+.";
+
+"Please enter your house no." = "请输入您的房子
+.";
+"Please enter your building name" = "请输入您的建筑物名称
+";
+"Please select your location" = "请选择您的位置
+";
+"Please enter a landmark name" = "请输入地标名称
+";
+"Please enter your city" = "请输入您的城市
+";
+"Please enter your counrty" = "请输入您的身份
+";
+
+"My Orders" = "我的订单
+";
+"Not Available" = " 无法使用
+ ";
+"Your Order will be confirmed during next supplier working hours/day." = "您的订单将在下一个供应商的工作时间/天得到确认。
+";
+
+"Changing the current area will clear you cart" = "更改当前区域将清除您的购物车
+.";
+"Change pick up time no suppliers are available for this pickup timing" = "更改取货时间在此取货时间没有供应商可用
+";
+"No supplier found" = "找不到供应商
+!";
+"My Addresses" = "我的地址
+";
+"Item Detail" = "项目明细
+";
+"Scheduled Orders" = "预定订单
+";
+
+"Sorry not enough points to redeem" = "抱歉，积分不足以兑换
+.";
+"Loading" = "载入中
+";
+"Looks like your order has been delivered Would you like to rate your order" = "看来您的订单已经送达。您想对订单评分吗？
+";
+"Rate Order" = "价目表
+";
+"Quantity" = "数量：
+ ";
+"Delivered on" = "送货到达
+";
+"Pending Orders" = "待处理订单
+";
+"Orders" = "命令";
+"Others" = "其他";
+//MARK: - Chat Localization
+"ios.ZDCChat.end" = "End";
+"ios.ZDCChat.emailPlaceholder" = "Email address";
+"ios.ZDCChat.preChatForm.messagePlaceholder" = "Message";
+"ios.ZDCChat.upload.error.type" = "File type not permitted";
+"ios.ZDCChat.cantConnectTitle" = "Could not connect";
+"ios.ZDCChat.access.gallery" = "%@ needs access to your photos";
+"ios.ZDCChat.noAgentsTitle" = "No agents available";
+"ios.ZDCChat.backButton" = "Back";
+"ios.ZDCChat.preChatForm.required" = "Fields marked with * are required";
+"ios.ZDCChat.download.failedMessage" = "Failed to download. Tap to retry.";
+"ios.ZDCChat.preChatForm.invalidEmail" = "Please enter a valid email address";
+
+"ios.ZDCChat.noConnectionTitle" = "No connection";
+"ios.ZDCChat.sendOfflineMessageError.title" = "Could not send message";
+"ios.ZDCChat.rating.comment.title" = "Leave a comment";
+"ios.ZDCChat.imageViewer.saveButton" = "Save image";
+"ios.ZDCChat.reconnecting" = "Reconnecting...";
+"ios.ZDCChat.transcriptEmailAlert.emailPlaceholder" = "email@address.com";
+"ios.ZDCChat.cancelButton" = "Cancel";
+"ios.ZDCChat.access.howto" = "Enable this from the home screen, Settings > %@";
+"ios.ZDCChat.ok" = "OK";
+"ios.ZDCChat.no" = "No";
+"ios.ZDCChat.chatConnectionLost.title" = "Connection lost";
+
+"ios.ZDCChat.preChatForm.requiredTemplate" = "%@ *";
+"ios.ZDCChat.done" = "Done";
+"ios.ZDCChat.transcriptEmailAlert.message" = "Before you end this chat, would you like to email a transcript?";
+"ios.ZDCChat.upload.error.access" = "Error accessing file";
+"ios.ZDCChat.visitorQueue" = "Please wait for an agent. There are currently %@ visitor(s) waiting to be served.";
+"ios.ZDCChat.noConnectionMessage" = "No Internet connection. Please try again when connected";
+"ios.ZDCChat.preChatForm.namePlaceholder" = "Name";
+"ios.ZDCChat.access.camera" = "%@ needs access to your camera";
+"ios.ZDCChat.chatTextEntry.sendButton" = "Send";
+"ios.ZDCChat.retry" = "Retry";
+"ios.ZDCChat.chat.startingChatMessage" = "Starting chat...";
+
+"ios.ZDCChat.chatTextEntry.placeholderText" = "Message";
+"ios.ZDCChat.agentsOffline.message" = "There are no agents currently online.";
+"ios.ZDCChat.preChatForm.departmentPlaceholder" = "What can we help you with?";
+"ios.ZDCChat.agentLeft" = "%@ left the chat";
+"ios.ZDCChat.sendOfflineMessageError.message" = "Would you like to retry?";
+"ios.ZDCChat.unsentMessage" = "Failed to send. Tap to retry.";
+"ios.ZDCChat.preChatForm.phonePlaceholder" = "Phone number";
+"ios.ZDCChat.noAgentsMessage" = "Sorry, there are no agents available to chat. Please try again later or leave us a message.";
+"ios.ZDCChat.timeoutMessage" = "We've not heard from you for a while so this chat session has been closed. Please start a new chat if you still have questions.";
+"ios.ZDCChat.transcriptEmailAlert.sendButton" = "Send";
+"ios.ZDCChat.upload.source.camera" = "Take photo";
+
+"ios.ZDCChat.rating.commentButton" = "Leave a comment...";
+"ios.ZDCChat.network.connectionError" = "No connection";
+"ios.ZDCChat.cantConnectMessage" = "Sorry, we can't connect you right now. Please try again later.";
+"ios.ZDCChat.chatEndedTitle" = "End chat";
+"ios.ZDCChat.upload.error.size" = "File size too large";
+"ios.ZDCChat.preChatForm.invalidPhone" = "Please enter a valid phone number";
+"ios.ZDCChat.sendOfflineMessageError.sendButton" = "Send";
+"ios.ZDCChat.transcriptEmailAlert.title" = "Email a transcript";
+"ios.ZDCChat.endButton" = "End chat";
+"ios.ZDCChat.chatEndedMessage" = "Are you sure you would like to end this chat?";
+"ios.ZDCChat.offlineMessageFailed.message" = "Unable to send message.";
+
+"ios.ZDCChat.rating.comment.placeholder" = "Leave a comment";
+"ios.ZDCChat.agentJoined" = "%@ joined the chat";
+"ios.ZDCChat.noAgentsButton" = "Leave a message";
+"ios.ZDCChat.messageButton" = "Message";
+"ios.ZDCChat.title" = "Chat";
+"ios.ZDCChat.nextButton" = "Next";
+"ios.ZDCChat.cancel" = "Cancel";
+"ios.ZDCChat.accountOffline.message" = "There are currently no agents online. Would you like to send a message?";
+"ios.ZDCChat.upload.source.gallery" = "Photo library";
+"ios.ZDCChat.chatConnectionLost.message" = "We have been unable to reconnect. Do you wish to continue trying?";
+"ios.ZDCChat.rating.title" = "Rate this chat";
+
+"ios.ZDCChat.rating.editButton" = "Edit comment...";
+"ios.ZDCChat.yes" = "Yes";
+"ios.ZDCChat.transcriptEmailAlert.dontSendButton" = "Don't send";
+
+//MARK: - Payfort
+"internetConnectionMessage" = "No connection, please check the internet connection";
+"general_error" = "Sorry, something went wrong please try again!";
+"titleMessage" = "Cancel this payment?";
+"InvaildCard" = "Invalid card number";
+"noBtn" = "NO";
+"doneBtn" = "Done";
+"okBtn" = "Ok";
+"InvaildCardNumber" = "Credit Card number must consist of 16 digits.";
+"PayBtn" = "Pay";
+"Init_conn" = "Init a secure connection...";
+"YourReceiptLbl" = "Your Receipt";
+"pf_cancel_required_field" = "Required field,cannot be left empty";
+"titleviewLbl" = "Credit Card";
+"alertTitle" = "Alert";
+"ExpDateLbl" = "EXPIRY DATE";
+"pf_errors_card_number_mismatch_po" = "The entered credit card type does not match the selected payment option.";
+"CardNamePl" = "CARDHOLDER NAME";
+"PAST_DATE_MSG" = "the date in the past";
+"CardNumberPl" = "CARD NUMBER";
+"monthyearLbl" = "Month & Year";
+"CVCtxt" = "CVV";
+"saveCarLbl" = "SAVE THIS CARD";
+"TechnicalIssue" = "technical problem";
+"yesBtn" = "YES";
+"pf_resp_page_great" = "Great";
+"pf_resp_page_failed" = "Failed";
+"InvalidExp" = "Invalid Expiry Date";
+"InvalidCVV" = "Invalid CVV";
+
+
+
+
+
+
+
+//MARK: - New Localization
+
+"Expected Delivery On" = "预计交货时间
+";
+
+"By signing up you agree to the " = "签署即表示您同意
+";
+"Privacy Policy" = "隐私政策
+";
+"Terms and conditionsSignUp" = "条款和条件
+.";
+"and" = " 和
+ ";
+"I would like to recommend using" = "我想推荐使用
+";
+"via Clikat" = "通过Sneni
+";
+"Warning" = "警告
+";
+"Please select dates to schedule." = "请选择要安排的日期
+.";
+"Bronze" = "青铜
+";
+"Notification Language Changed Successfully" = "通知语言更改成功
+";
+"Order Confirmed Successfully" = "订单已成功确认
+";
+"Delivery on" = "交货时间
+";
+"No Product Found!" = "找不到产品
+!";
+"Have you Forgot Completing Your Last Shopping Cart?" = "您忘了填写最后的购物车吗？
+";
+"Supplier Rated Successfully" = "供应商评级成功
+";
+"Search for product" = "搜索产品
+";
+"Send" = "发送
+";
+"Sub Total" = "小计
+";
+
+"Camera Unavailable" = "Camera Unavailable";
+"It looks like your privacy settings are preventing us from accessing your camera." = "It looks like your privacy settings are preventing us from accessing your camera.";
+"Location Unavailable" = "Location Unavailable";
+"Please check to see if you have enabled location services." = "Please check to see if you have enabled location services.";
+"Customizable" = "Customizable";
+"Place Booking" = "Place Booking";
+
+"Completed Bookings" = "Completed Bookings";
+
+
+"New" = "New";
+"Live Tracking" = "Live Tracking";
+"Use current location" = "Use current location";
+"Popular Restaurants" = "Popular Restaurants";
+"Supplier" = "Supplier";
+"Suppliers" = "Suppliers";
+
+"SHARE_SHEET_EDIT_ACTIONS_BUTTON_TITLE" = "Edit Actions";
+"SHARE_SHEET_EDIT_SECTION_TITLE_FAVORITES" = "Favourites";
+"SHARE_SHEET_EDIT_SECTION_TITLE_OTHER" = "Others";
+"Shipping Status" = "Shipping Status";
+"Awaiting Shipment" = "Awaiting Shipment";
+"Shipped" = "Shipped";
+"On hold" = "On hold";
+
+"No file added!" = "No file added!";
+"Please select option" = "Please select your option";
+"customisable" = "customisable";
+"PROCEED" = "PROCEED";
+"Review" = "Review";
+"Reviews" = "Reviews";
+
+
+
+
+
+
+
+
+//MARK:-   Etokens Module
+
+"etoken.eToken" = "电子通证
+";
+"etoken.orderOutForDelivery" = "您的订单已交货
+.";
+"eToken.orderConfirmed" = "您的订单已确认可发货
+.";
+"eToken.orderWaitingConfirmation" = "一份订单正在等待您的批准
+.";
+"etoken.orderTimeOut" = "一份订单正在等待您的批准
+.";
+"eToken.returnBottleTitle" = "您是否有（品牌）瓶子？
+";
+"eToken.onlinePayment" = "尚无在线支付
+.";
+"eToken.tokenPurchasedSuccessfully" = "令牌已成功购买。
+";
+"eToken.selectAddress" = "请选择地址
+.";
+"eToken.timeOut" = "超时
+";
+"eToken.approvalPending" = "等待批准
+";
+"eToken.rejected" = "拒绝
+";
+"eToken.trackingNotAvailable" = "跟踪尚不可用。请稍候
+.";
+"alet.enterDetails" = "请输入订单明细
+.";
+
+
+
+
+
+
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "超时
+";
+"etoken.ApprovalPending" = "等待批准
+";
+"etoken.Rejected" = "拒绝";
+
+
+
+
+
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "周一
+";
+"Tue" = "周一
+";
+"Wed" = "星期三
+";
+"Thu" = "Thu";
+"Fri" = "周五
+";
+"Sat" = "周六
+";
+"Sun" = "太阳
+";
+
+
+"delivery_location" = "交货地点
+";
+
+
+
+
+
+// ======== ride =======
+"LanguageName.English" = "English";
+"LanguageName.Arabic" = "عربى";
+"LanguageName.Urdu" = "اردو";
+"LanguageName.Hindi" = "हिंदी";
+"LanguageName.Chinese" = "中文";
+"LanguageName.Spanish" = "Spanish";
+"LanguageName.French" = "French";
+
+
+"Alert.VersionUpdateText" = "您必須更新應用程序的最新版本.";
+"Validation.InternetNotWorking" = "您需要啟用互聯網連接.";
+"Validation.TermsConditions" = "請選擇條款和條件.";
+"Validation.PhoneNumberMissed" = "請輸入電話號碼.";
+"Validation.PhoneNumberLength" = "請輸入有效的電話號碼.";
+"Validation.OTPValidation" = "請輸入otp.";
+"Validation.UserName" = "請輸入全名.";
+"Validation.Alert" = "警報";
+"Validation.Success" = "成功";
+
+
+"IntroductionVC.TitleFirst" = "貨運只需輕輕一點";
+"IntroductionVC.TitleDescription" = "在您家門口免費送貨.";
+
+//LandingScreen Strings
+
+"LandingVC.MobileNumber" = "輸入你的手機號碼";
+"LandingVC.AccountAgreement" = "通過創建帳戶，您同意";
+"LandingVC.Terms&Conditions" = "條款和條件";
+
+//OTP Screen Strings
+"OTPVC.OTPText" = "輸入已接收的OTP ";
+"OTPVC.EditNumber" = "編輯這個號碼";
+"OTPVC.ResendOTP" = "重新發送OTP ";
+
+
+//Enter Name Strings
+"UserProfileVC.FullNamePlaceHolder" = "全名";
+"UserProfileVC.NameText" = "嘿！你叫什麼名字";
+
+
+//Services names
+
+"Service.Gas" = "加油站";
+"Service.DrinkingWater" = "飲用水";
+"Service.WaterTanker" = "水車";
+"Service.Freight" = "卡車";
+"Service.Tow" = "細分恢復";
+"Service.HeavyMachine" = "重型機器";
+
+//Side Menu Strings
+"LeftMenuOption.Bookings" = "預訂";
+"LeftMenuOption.Support" = "其他服務";
+"LeftMenuOption.Promotions" = "促銷";
+"LeftMenuOption.Payments" = "支付";
+"LeftMenuOption.Referral" = "推薦";
+"LeftMenuOption.EmergencyContacts" = "重要數字";
+"LeftMenuOption.Settings" = "設置";
+"LeftMenuOption.ContactUs" = "聯繫我們";
+"LeftMenuOption.Signout" = "登出";
+
+
+//Navigation Bar Strings
+"NavigationButton.Select" = "選擇";
+"NavigationButton.Back" = "背部";
+"NavigationTitle.Location" = "地點";
+"NavigationTitle.Location" = "地點";
+
+//Order Strings
+"Order.DropOffLocation" = "輸入下車位置";
+"Order.DetailEnterTitle" = "輸入訂單詳情";
+"Order.DetailValidation" = "請輸入訂單詳情.";
+"Order.SelectBrand" = "選擇品牌";
+"Order.SelectCapacity" = "選擇容量";
+"Order.SelectQuantity" = "選擇數量";
+"Order.Next" = "下一個";
+
+"Order.Total" = "總";
+"Order.Cash" = "現金";
+"Order.CashOnDelivery" = "貨到付款";
+"Order.Card" = "卡";
+"Order.EToken" = " E-令牌";
+"Order.Promo" = "促銷";
+"Order.Book" = "預訂";
+"Order.ProcessingRequestTitle" = "我們正在處理您的請求";
+"Order.Cancel" = "取消";
+"Order.TimeLeftMins" = "Mins"; //Multiple
+"Order.TimeLeftMin" = "Min" ;   //Single
+
+
+"Order.CancellingReasonValidation" = "請輸入取消原因.";
+"Order.PlaceHolderCancelReason" = "寫下取消原因.";
+"Order.Invoice" = "發票" ;
+"Order.BaseFair" = "基本票價" ;
+"Order.Tax" = "稅" ;
+"Order.OMR" = "OMR" ; // Currency
+
+"Order.Finish" = "完" ;
+
+"Order.Rate" = "率" ;
+"Order.VerySad" = "很傷心" ;
+"Order.Sad" = "傷心";
+"Order.Good" = "好";
+"Order.Happy" = "快樂";
+"Order.RatingTextPalceholder" = "在這裡添加評論 ...";
+"Order.SubmitRating" = "提交評分";
+"Order.TokenLeft" = "令牌左";
+"Order.Token" = "代幣";
+
+
+"BuyToken.PopUpTitle" = "你想買這個電子令牌嗎？?";
+"BuyToken.Purchased" = "購買";
+"BuyToken.OffersNearYou" = "您附近的優惠";
+
+"Bookings.Past" = "過去";
+"Bookings.Upcoming" = "即將到來";
+
+
+"ContactUs.ReachByPhone" = "通過電話聯繫我們";
+"ContactUs.ReachByEmail" = "通過電子郵件聯繫我們";
+"ContactUs.PlaceHolder" = "在這裡直接寫信給我們..";
+"ContactUS.ValidationMessage" = "請先寫點東西.";
+
+"Referral.Text" = "像布拉克24?";
+"Referral.ShareWithFriends" = "與朋友分享";
+
+"Change Language" = "改变语言";
+"Daily Deals" = "每日特惠";
+
+"PopUpScheduledBooked.ConfirmationTitle" = "祝賀";
+"PopUpScheduledBooked.ConfirmationMessage" = "您的服務已被預訂.";
+
+"Button.Title.OK" = "好";
+
+"OrderStatus.Searching" = "搜索";
+
+"OrderStatus.Ongoing" = "不斷的";
+
+"OrderStatus.Confirmed" = "確認";
+"OrderStatus.Reached" = "Reached";
+
+"OrderStatus.CustomerCancel" = "客戶已取消";
+
+"OrderStatus.SerComplete" = "已完成";
+
+"OrderStatus.SerReject" = "被拒絕";
+
+"OrderStatus.DriverCancel" = "司機取消了";
+
+"OrderStatus.Scheduled" = "計劃";
+
+
+"OrderUI.Status.Cancelled" = "取消";
+"OrderUI.Status.Scheduled" = "計劃";
+"OrderUI.Status.Completed" = "已完成";
+
+"DriverStatus.AcceptedRequest" = "司機已接受您的請求.";
+"DriverStatus.YourOrderOnWay" = "司機正在路上.";
+"DriverStatus.AnotherOrderOnWay" = "司機正在完成附近的訂單.";
+"Order.Scheduling.Alert" = "對不起，您只能在1小時後安排預訂.";
+
+"Button.Title.BookNow" = "現在預訂";
+"Button.Title.Schedule" = "時間表";
+
+
+"Ok" = "好";
+
+"app_name" = "布拉克24 -顧客";
+"terms_and_conditions" = "條款和條件.";
+"by_creating_account_you_agree" = "通過創建帳戶，您同意";
+"enter_you_mobile_no" = "輸入你的手機號碼.";
+"slogan" = "在幾秒鐘內連接您的需求";
+"resend_otp" = "重新發送otp ";
+"edit_this_number" = "編輯這個號碼";
+"whats_your_name" = "嘿! 你叫什麼名字";
+"full_name" = "全名";
+"title_activity_maps" = "地圖";
+"title_activity_main2" = "Main2Activity";
+"navigation_drawer_open" = "打開導航抽屜";
+"navigation_drawer_close" = "關閉導航抽屜";
+"nav_header_title" = "用戶名";
+"nav_header_subtitle" = "評分";
+"nav_header_desc" = "導航標題";
+"action_settings" = "設置";
+"bookings" = "預訂";
+"promotions" = "促銷";
+"payments" = "支付";
+"referral" = "推薦";
+"emergency_contacts" = "重要數字";
+"settings" = "設置";
+"contact_us" = "聯繫我們";
+"sign_out" = "登出";
+"back" = "背部";
+"location" = "地點";
+"enter_drop_off_location" = "輸入下車位置";
+"enter_pickup_location" = "輸入取件地點";
+"enter_details_of_order" = "輸入訂單詳情";
+"select_branch" = "選擇品牌";
+"select_capacity" = "選擇容量";
+"select_quantity" = "選擇數量";
+"next" = "下一個";
+"total" = "總";
+"cash" = "現金";
+"promo" = "促銷";
+"book" = "預訂";
+"we_are_requesting_your_request" = "我們正在處理您的請求";
+"cancel" = "取消";
+"invoice" = "發票";
+"base_fair" = "基本票價";
+"tax" = "稅";
+"rate" = "率";
+"add_comments_here" = "在這裡添加評論…";
+"submit" = "提交";
+"phone_validation_message" = "請輸入一個有效的電話號碼";
+"otp_validation_message" = "請輸入有效的OTP.";
+"name_empty_validation_message" = "請輸入名稱繼續.";
+"request_cancelled_successfully" = "您的請求已被取消.";
+"no_route_exits" = "沒有路線";
+"type_reason_for_cancellation" = "輸入您取消的原因";
+"write_your_msg_here" = "在這裡寫一條消息…";
+"cancellation_reason_validation_text" = "請輸入取消原因.";
+"currency" = "OMR";
+"pickup_address_validation_message" = "請選擇有效的取件地址.";
+"dropoff_address_validation_message" = "請選擇有效的下車地址."; //Need
+
+"finish" = "完";
+"gas" = "加油站";
+"water_tanker" = "水車";
+"drinking_water" = "飲用水";
+"tow" = "細分恢復";
+"freight" = "卡車";
+"currently_no_driver_available" = "目前，沒有可用的驅動程序.";
+"ongoing_request_cancelled_by_driver" = "您的持續請求已被驅動程序取消.";
+"cash_on_delivery" = "貨到付款";
+"卡" = "卡";
+"default_selecting_token_error" = "您無法選擇電子代幣作為默認付款方式.";
+"e_tokens" = " E-令牌s";
+"e_token" = " E-令牌";
+"left" = "left";
+"purchased" = "購買";
+"offers_available_near_you" = "您附近的優惠";
+"available" = "可得到";
+"no_offers_available" = "沒有優惠";
+"buy_etoken" = "購買 E-令牌";
+"buy_etoken_confirmation" = "您確定要購買此電子令牌嗎？?";
+"yes" = "是";
+"no" = "沒有";
+"view_e_tokens" = "查看電子代幣";
+"select" = "選擇";
+"select_e_token" = "選擇電子代幣";
+"excellent" = "優秀";
+"very_good" = "很好";
+"good" = "好";
+"sad" = "傷心";
+"very_sad" = "很傷心";
+"rating_validation_msg" = "請選擇評分以繼續.";
+"validations_success" = "驗證成功";
+"booking_details" = "預訂詳情";
+"drop_off_location" = "放下位置";
+"delivery_location" = "Delivery location";
+
+"no_bookings" = "沒有預訂";
+"like_buraq24_n_nshare_with_the_friends" = "像布拉克24?\n與朋友分享.";
+"share" = "分享";
+"contact_us_msg_hint" = "在這裡直接寫信給我們…";
+"no_email_app_installed" = "沒有安裝電子郵件客戶端.";
+"send_mail_to_buraq" = "發送郵件給Buraq24";
+"please_enter_message" = "請輸入留言";
+"we_will_reach_soon" = "我們收到了你的消息。 我們會盡快與您聯繫.";
+"logout_confirmation" = "您確定要退出嗎？?";
+"coming_soon" = "快來了";
+"buraq_24" = "布拉克24";
+"error" = "錯誤";
+"api_error_msg" = "服務器上發生錯誤。 請再試一次.";
+"retry" = "重試";
+"otp_resent_successfully" = " OTP成功反感";
+"change_language" = "改變語言";
+"enter_otp_on" = "輸入收到的OTP ";
+"reach_us_via_phone" = "通過電話聯繫我們";
+"reach_us_via_mail" = "通過郵件聯繫我們";
+"no_contacts" = "沒有聯繫人";
+
+"english" = "English";
+"hindi" = "हिंदी";
+"spanish" = "Spanish";
+"urdu" = "اردو";
+"chinese" = "中文";
+"arabic" = "العربية";
+"Self pickup" = "自取";
+"schedule" = "時間表";
+"book_now" = "現在預訂";
+"schedule_time_selection_validation_msg" = "糟糕，您只能在1小時後安排預訂.";
+"congratulations" = "祝賀";
+"service_booked_successfully" = "您的服務已成功預訂";
+"order_cancelled" = "您的訂單已被取消";
+"save" = "保存";
+"profile_updated_successfully" = "資料更新成功!";
+"permission_required_to_select_image" = " 選擇圖像所需的權限";
+"dialog_camera" = "相機";
+"dialog_gallery" = "畫廊";
+"dialog_select_your_choice" = "選擇";
+"push_notifications" = "推送通知";
+"privacy" = "隱私";
+"about_us" = "關於我們";
+"edit_profile" = "編輯個人資料";
+"completed" = "已完成";
+"cancelled" = "取消";
+"Scheduled" = "計劃";
+"select_location" = "選擇位置";
+"select_vehicle_type" = "選擇車輛類型";
+"select_sub_model" = "選擇子模型";
+"enter_approx_weight" = "以千克為單位輸入近似重量...";
+"enter_additional_information" = "輸入其他信息...";
+"upload_images" = "上傳圖片";
+"view_deals" = "查看公司提供的優惠";
+"driver_accepted_request" = "司機已接受您的請求.";
+"driver_is_on_the_way" = "司機正在路上";
+"truck_driver_is_on_the_way" = "Your order is on the way for delivery";
+"driver_is_on_the_way_DriveStarted" = "Your service has been started";
+"driver_is_reached" = "Driver has reached";
+
+"driver_completing_nearby_order" = "司機正在完成附近的訂單";
+"version" = "版: ";
+"support" = "其他服務";
+"no_services" = "沒有可用的服務";
+"support_msg" = "選擇我們可以幫助您解決的問題";
+"i_agree_to_the" = "我同意";
+"terms_and_conditions_validation_message" = "請同意我們的條款和條件";
+"terms_and_conditions_caps" = "條款和條件";
+"press_back_again_to_exit" = "再按一次退出.";
+
+"sms_permission" = "授予讀取sms權限以自動獲取OTP.";
+"grant" = "格蘭特";
+"default_category_name" = "服務";
+"started_at" = "開始於";
+"completed_at" = "完成於";
+"past" = "過去";
+"uncoming" = "即將到來";
+
+"session_expired_please_login_again" = "您的會話已過期。 請再次登錄";
+"normal" = "正常";
+"satellite" = "衛星";
+"max_images_validation_msg" = "您最多可以添加2張圖像";
+
+"work_in_progress" = "您的預訂尚未完成，因為正在進行服務更新。 請聯繫我們的客戶支持以獲取幫助.";
+"email_not_configured" = "電話未在手機上配置";
+
+//MARK:-   Etokens Module
+
+"etoken.eToken" = "E-Token";
+"etoken.orderOutForDelivery" = "您的订单已交货.";
+"eToken.orderConfirmed" = "您的订单已确认可发货.";
+"eToken.orderWaitingConfirmation" = "一份订单正在等待您的批准，即将进行的预订s.";
+"etoken.orderTimeOut" = "一份订单正在等待您的批准.";
+"eToken.returnBottleTitle" = "您有（品牌）瓶子吗?";
+"eToken.onlinePayment" = "尚无在线支付.";
+"eToken.tokenPurchasedSuccessfully" = "代币购买成功.";
+"eToken.selectAddress" = "请选择地址s.";
+"eToken.timeOut" = "超时";
+"eToken.approvalPending" = "等待批准";
+"eToken.rejected" = "拒绝";
+"eToken.trackingNotAvailable" = "跟踪尚不可用。 请稍候.";
+"alert.enterDetails" = "请输入订单明细.";
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "超时";
+"etoken.ApprovalPending" = "等待批准";
+"etoken.Rejected" = "拒绝";
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "Mon";
+"Tue" = "Tue";
+"Wed" = "Wed";
+"Thu" = "Thu";
+"Fri" = "Fri";
+"Sat" = "Sat";
+"Sun" = "Sun";
+
+
+//MARK:- new trava
+
+
+//New By trava
+"Please enter first name" = "请输入名字";
+"Please enter last name" = "请输入姓氏";
+"Please enter address" = "请输入地址";
+"NoOngoigRide" = "目前没有正在进行的旅程";
+
+"Enter your Address" = "输入你的地址";
+"Hi " = "你好 ";
+"Work" = "工作";
+"My Bookings" = "我的预订";
+"Payment method" = "付款方法";
+"Travel packages" = "旅游套票";
+"Notifications" = "通知事项";
+"Emergency contacts" = "紧急联络人";
+"Settings" = "设定值";
+"Help" = "救命";
+"Seating capacity" = "座位数：";
+
+"View Package" = "查看套餐";
+"Packages details" = "套餐详情";
+"Valid for" = "适用于";
+"hours" = "小时";
+"days" = "天";
+"months" = "月";
+"hour" = "小时";
+"day" = "天";
+"month" = "月";
+
+"Pay" = "工资 ";
+"Outstanding from previous trip" = " 上一次旅行表现出色";
+"credit" = "学分";
+"Are you sure you want to send Panic Request to your nearby?" = "您确定要向附近发送紧急请求吗？";
+"Please wait. we'll contact you shortly." = "请稍候。 我们会尽快与您联系.";
+"long_distance_confirmation" = "您的驱动程序正在为您选择远程根。 您可能需要为此支付额外费用。 你确定你要继续吗？";
+"Ongoing_AddStop_Confirmation" = "请确定，如果您要在当前骑行中添加停靠点，那么您将无法删除它们。 你确定你要继续吗？";
+"Add Home Address" = "添加家庭住址";
+"Add Work Address" = "添加工作地址";
+"remove_card_Confirmation" = "您确定要删除卡吗?";
+"Credit Card" = "信用卡";
+"can't_use_credit_point" =  "您不能使用积分来支付现金";
+
+"Cancel_Ride" = "取消";
+"Cancel_Delivery" = "取消送货";
+
+"Ride_Share" = "乘车份额";
+"Share_Parcel_Location" = "共享包裹位置";
+"Delivery_In_Progress" = "交货进行中";
+"Enjoy_Your_Ride" = "享受你的旅程";
+
+
+"login" = "登录";
+"signup" = "注册";
+"withPhoneEmail" = "通过电话或电子邮件";
+"Signupfor" = "报名参加";
+"loginTo" = "登录到";
+"haveNoAccount" = "还没有帐号？";
+"haveAlreadyAccount" = "已经有帐号了？";
+"institution" = "机构";
+"signup_for" = "报名参加";
+"institution_account" = "机构账户";
+"otp_text" = "我们已将代码发送给您";
+
+"CONTINUE_WITH_APPLE" = "CONTINUE WITH APPLE";
+"email" = "电子邮件";
+"phone" = "电话号码";
+
+
+
+"Validation.VerificationValidation" = "请输入验证码.";
+"username_email_validation" = "请输入用户名或电子邮件.";
+"password_empty_validation_message" = "请输入密码.";
+"confirm_password_empty_validation_message" = "请输入确认密码.";
+"password_confirmPassword_validation" = "密码并确认密码应该匹配.";
+"password_length_validation_message" = "密码至少应为6个字符.";
+"institution_type_validation" = "请选择机构类型.";
+"institution_name_validation" = "请选择机构名称.";
+"institution_id_validation" = "请输入机构编号.";
+"empty_institutional_email_validation" = "请输入机构电子邮件。";
+"institutional_cred_Image_validation" = "请添加图片.";
+"materialType" = "请输入材料类型.";
+"materialType2" = "请输入要领取的物品.";
+"pickupLevel" = "请选择皮卡级别.";
+"dropLevel" = "请选择下车等级.";
+"approxWeight" = "请输入大约 重量.";
+"approxWeight2" = "请输入物品重量.";
+"receiverName" = "请输入收货人姓名.";
+"receiverName2" = "请在下车地点输入联系人姓名.";
+"phoneNumber" = "请输入电话号码.";
+"phoneNumber2" = "请在接送地点输入联系人的电话号码.";
+"senderName" = "请输入发件人姓名.";
+"senderName2" = "请在接送地点输入联系人姓名.";
+"additionalInformation" = "请输入其他信息.";
+"Your_ride_has_been_accepted_and_its_pending_from_approval." = "您的行程已被接受，尚待批准.";
+"pickupAtLocation" = "请在当地输入取件.";
+"dropAtLocation" = "请在位置输入下拉";
+
+
+"SideMenu.Book_a_taxi" =  "预定出租车";
+"SideMenu.New_Services_Coming_soon" = "New Services - Coming soon";
+"SideMenu.School_Rides" = "School Rides";
+"SideMenu.Home" = "家";
+"SideMenu.My_Bookings" = "我的预订";
+"SideMenu.Payment_Methods" = "付款方法";
+"SideMenu.Travel_Packages" = "旅游套票";
+"SideMenu.Emergency_Contacts" = "紧急联络人";
+"SideMenu.Notifications" = "通知事项";
+"SideMenu.Settings" = "设定值";
+"SideMenu.Help" = "救命";
+"SideMenu.Payment_History" = "支付历史";
+"SideMenu.Saved_Cards" = "Cartes enregistrées";
+"SideMenu.Delivery_History" = "交货历史";
+"SideMenu.Promotions" = "促销活动";
+"SideMenu.Contact_us" = "联系我们";
+"SideMenu.Sign_out" = "登出";
+"SideMenu.Book_service" = "预订服务";
+"SideMenu.Edit_Profile" = "编辑个人资料";
+"SideMenu.Get_Discount" = "和朋友分享";
+"SideMenu.Deliver_with_us" = "与我们一起交付!";
+"SideMenu.Wallet" = "钱包";
+"SideMenu.Refer_Earn" = "推荐并赚钱";
+
+
+"ServiceView.Where_you_want_to_deliver" = "您想送货的地方";
+
+
+"Home.Recent_Locations" = "最近的位置";
+"Home.Book_a_delivery" = "预订送货";
+"Home.Book_a_service" = "预订服务";
+"Home.Switch_Rider" = "切换骑士";
+"Home.For_me" = "为了我";
+"Home.Add_Home_Address" = "添加家庭住址";
+"Home.Add_Work_Address" = "添加工作地址";
+"Home.For_Friend" = "给朋友";
+
+"Emmergency.Emmergency_Contact" = "紧急联络人";
+"Wallet.Please_maintain_minimum" = "请保持最低余额";
+"Wallet.Receive_money" = "在钱包里以便收到预订请求。";
+
+"Wallet.AddAmountLess" = "金额应大于0.";
+
+"AddTrustedContact" = "添加受信任的联系人";
+
+
+"Setting.Push" = "推送通知";
+"Setting.Term" = "条款和条件";
+"Setting.ChangeLanguage" = "改变语言";
+"Setting.Privacy" = "隐私";
+"Setting.About" = "关于我们";
+
+
+"Booking.Past" = "过去";
+"Booking.Upcoming" = "即将来临";
+"Booking.MyBooking" = "我的预订";
+
+
+"Prefer not to say"  = "不想说" ;
+
+"Order Now" = "现在下单";
+"HalfWayStop" = "半途停止";
+

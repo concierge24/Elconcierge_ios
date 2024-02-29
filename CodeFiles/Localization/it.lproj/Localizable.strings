@@ -1,0 +1,1159 @@
+/*
+  Localizable.strings
+  Clikat Supplier
+
+  Created by Night Reaper on 08/04/16.
+  Copyright © 2016 Gagan. All rights reserved.
+*/
+
+
+"AppName" = "Bletani"; //"Thena"
+
+"SIGN_IN_WITH_APPLE" = "Sign in with Apple";
+
+
+
+
+
+
+//Supplier Related
+
+"Service Charge" = "Costo del servizio";
+"Min. Service Time" = "Il mio. Tempo di servizio";
+"Visiting Charges" = "Spese di visita";
+"Min. Delivery Time" = "Min. Tempo di consegna";
+"Opens at" = "Apre alle";
+"PasswordChangedSuccess" = "Password modificata con successo";
+
+
+
+
+
+
+
+//Order Flow
+"Please select an Address" = "Si prega di selezionare un indirizzo";
+"Credit / Debit card" = "Carta di credito / debito";
+"Il tuo carrello non ha articoli. Aggiungi articoli al carrello per procedere." = "Il tuo carrello non ha articoli. Aggiungi articoli al carrello per procedere." ;
+"Landmark" = "Landmark";
+"Address Line First" = "Prima riga indirizzo";
+"Address Line Second" = "Seconda riga dell'indirizzo";
+"Pincode" = "Codice PIN";
+"Delivery Address" = "Indirizzo di consegna";
+"Inserisci i tuoi dati." = "Inserisci i tuoi dati." ;
+"Spese di spedizione applicabili di conseguenza" = "Spese di spedizione applicabili di conseguenza";
+"Spese di spedizione" = "Spese di spedizione";
+"Select Time and Date" = "Seleziona ora e data";
+"Please select a booking schedule and time" = "Please select a booking schedule and time";
+"Select booking time" = "Seleziona l'orario di prenotazione";
+"ReOrdering will clear you cart" = "Il riordino cancellerà il tuo carrello. Premi OK per continuare.";
+
+
+
+
+
+
+
+//Order Related
+
+"PENDING" = "In attesa";
+"DELIVERED" = "Consegnato";
+"CONFIRMED" = "Confermato";
+"FEEDBACKGIVEN" = "Feedback fornito";
+"REJECTED" = "Respinto";
+"SHIPPED" = "Spedito";
+"INPROCESS" = "In corso";
+"NEARBY" = "Sulla strada";
+"TRACKED" = "Monitorato";
+"CUSTOMER CANCELED" = "Annullato";
+"SCHEDULED" = "Schedulato";
+
+"Order Details" = "Dettagli dell'ordine";
+"items" = "elementi";
+
+"REORDER" = "RIORDINA";
+"TRACK" = "TRACCIA";
+"BOOKED" = "PRENOTATO";
+"CANCEL ORDER" = "ANNULLA ORDINE";
+"CONFIRM ORDER" = "CONFERMARE L'ORDINE";
+"CANCEL BOOKING" = "ANNULLA PRENOTAZIONE";
+"BOOK AGAIN" = "PRENOTA ANCORA";
+"CONFIRM BOOKING" = "CONFERMA LA PRENOTAZIONE";
+"Dettagli prenotazione" = "Dettagli prenotazione";
+"Booking History" = "Cronologia prenotazioni";
+
+"Monthly" = "Mensile";
+"Weekly" = "settimanalmente";
+"Pickup" = "Raccogliere";
+
+
+
+
+
+
+
+//Login SignUp
+"Please enter your email address" = "Inserisci il tuo indirizzo email";
+"Please enter a valid email address" = "Si prega di inserire un indirizzo email valido";
+"Please enter your password" = "per favore inserisci LA TUA password";
+"Password should be minimum 6 characters." = "La password deve contenere almeno 6 caratteri.";
+"Session expired login to continue" = "Sessione corrente scaduta \ n Accedi per continuare.";
+"OTP Sent" = "OTP inviato.";
+"Select picture" = "Seleziona immagine";
+"Please select your profile picture" = "Seleziona la tua immagine del profilo.";
+"Please enter your name" = "Per favore inserisci il tuo nome.";
+"Camera" = "telecamera";
+"Photo Library" = "Libreria fotografica";
+
+
+
+
+
+
+// Side Menu Options
+"Home" = "Casa";
+"Live support" = "Supporto dal vivo";
+"Cart" = "Carrello";
+"Promotions" = "Promozioni";
+"Notifications" = "Notifiche";
+
+"My Account" = "Il mio account";
+
+"My favorites" = "I miei preferiti";
+"Order history" = "Cronologia ordini";
+"Track my order" = "Traccia il mio ordine";
+"Rate my order" = "Valuta il mio ordine";
+"Upcoming orders" = "Prossimi ordini";
+"Loyality points" = "Punti fedeltà";
+"Share app" = "Condividi app";
+"Share App" = "Condividi app";
+"Settings" = "Impostazioni";
+"Guest" = "Ospite";
+"Welcome" = "Benvenuto";
+"Points" = "Punti";
+"Daily Deals" = "Offerte giornaliere";
+
+"Essentials, delivered at your door steps" = "Essentials, consegnato a casa tua";
+"Health and medicine just a click away." = "Salute e medicina a portata di clic.";
+"Distance is no longer a problem." = "La distanza non è più un problema.";
+
+
+
+// Home Screen Options
+"Grocery" = "Drogheria";
+"Laundry" = "Lavanderia";
+"Household" = "Domestico";
+"Flowers" = "Fiori";
+"Fitness" = "Fitness";
+"Photography" = "Fotografia";
+"Baby sitter" = "Baby sitter";
+"Cleaning" = "Pulizia";
+"Party" = "Festa";
+"Beauty salon" = "Salone di bellezza";
+"Medicines" = "Medicinali";
+"Water delivery" = "Consegna dell'acqua";
+"Pacchetti" = "Pacchetti";
+
+
+
+
+
+
+
+"OK" = "ok";
+"Save" = "Salva";
+"Cancel" = "Annulla";
+"Choose booking cycle" = "Scegli ciclo di prenotazione";
+"reviews" = "Recensioni";
+"USD" = "USD";
+"mins" = "Min";
+"Risultati per" = "Risultati per";
+"days" = "Giorni";
+"Hours" = "Ore";
+
+
+
+
+
+
+
+//Filter
+"Discoverability" = "Rilevabilità";
+"Delivery" = "Consegna";
+"Supplier Type" = "Tipo fornitore";
+"Rating" = "Valutazione";
+
+"1 star" = "1 stella";
+"2 star" = "2 stelle";
+"3 star" = "3 stelle";
+"4 Star and above" = "4 stelle e oltre";
+
+"Gold" = "oro";
+"Silver" = "Argento";
+"Platinum" = "Platino";
+
+"Cash on delivery" = "Pagamento in contrassegno";
+"Card" = "Carta";
+"Both" = "Tutti e due";
+
+"Online" = "in linea";
+"Busy" = "Occupato";
+"Closed" = "Chiuso";
+
+"Canceled" = "Annullato";
+
+
+
+
+
+
+
+//Settings
+"Change Password" = "Cambia password";
+"Notifications Language" = "Lingua notifiche";
+"Manage Address" = "Gestisci indirizzo";
+"Logout" = "Disconnettersi";
+"Select notification language" = "Seleziona lingua di notifica";
+"English" = "Inglese";
+"Arabic" = "Arabo";
+"Spanish" = "Spagnolo";
+//Loyalty Points
+
+"You haven't earned any loyalty points yet" = "You haven't earned any loyalty points yet.";
+"Select produts from same supplier" = "Please select produts from same supplier";
+"No Remarks" = "No Remarks";
+
+//Laundry Flow
+"When do you want the service" = "When do you want the service?";
+"Pickup location" = "Pickup location";
+"Choose location" = "Choose location";
+"Select pickup date and time" = "Select pickup date and time";
+
+"Are you sure you want to delete this address" = "Are you sure you want to delete this address.";
+
+
+
+
+
+
+//Location Selection
+"Select Country" = "Seleziona Paese";
+"Select City" = "Seleziona città";
+"Select Zone" = "Seleziona zona";
+"Select Area" = "Seleziona area";
+
+"Please select all fields above" = "Seleziona tutti i campi sopra.";
+"Please select a country" = "Per favore seleziona un paese";
+"Please select a city" = "Seleziona una città";
+
+
+
+
+
+//Delivery Address Cell
+
+"Please fill all details" = "Si prega di compilare tutti i dettagli";
+"Please enter valid Pincode" = "Inserisci un codice PIN valido";
+
+
+
+
+//Change Password
+"Old Password" = "Vecchia password";
+"New Password" = "Nuova password";
+"Confirm Password" = "Conferma password";
+"La nuova password non deve essere uguale alla vecchia password" = "La nuova password non deve essere uguale alla vecchia password";
+"Le password non corrispondono" = "Le password non corrispondono";
+"Forgot Password" = "Password dimenticata";
+"Password recovery has been sent to your email id" = "Il recupero della password è stato inviato al tuo email id";
+// Condividi testo
+"The Leading Online Home Services in UAE" = "La prima applicazione per la consegna di cibo in Venezuela! Hanno tutto: https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+// Condividi il testo per gustoso
+"ShareAppYummy" = "Ho pensato che potrebbe piacerti questa app per rendere la vita più semplice: https://itunes.apple.com/us/app/%@/id?ls=1&mt=8";
+
+
+
+
+
+//API Validation
+"Please check your internet connection" = "Per favore controlla la tua connessione Internet.";
+
+
+
+
+
+
+// Sweet Alert
+"Cancel Order" = "Annulla ordine";
+"Cancel Booking" = "Annulla prenotazione";
+"Success" = "Success";
+"Vuoi davvero annullare questo ordine" = "Vuoi davvero annullare questo ordine?";
+"Hai annullato l'ordine con successo" = "Hai annullato l'ordine con successo";
+"LogOut" = "Esci!";
+"Sei sicuro di voler disconnetterti" = "Sei sicuro di voler disconnetterti?";
+"Sei stato disconnesso con successo" = "Sei stato disconnesso con successo";
+
+"Please enter valid country code seguito da phone number" = "Please enter valid country code seguito da numero di telefono";
+
+"You can add only" = "Puoi solo aggiungere";
+"L'agente non è assegnato a questo ordine" = "L'agente non è assegnato a questo ordine";
+//Delviery Screen
+"Delivery Speed" = "Delivery Speed";
+"Sorry… Your Order is Below Minimum Order Price." = "Sorry… Your Order is Below Minimum Order Price.";
+
+"Recommended" = "Recommended";
+"Offers" = "Offers";
+
+"Your order have been placed successfully" = "Your order has been placed successfully.";
+"Order placed successfully" = "Order placed successfully";
+"Your order have been sheduled successfully" = "Your order has been scheduled successfully";
+"Booking placed successfully" = "Booking placed successfully";
+
+"Are you sure" = "Are you sure?";
+"Changing the language will clear your cart." = "Changing the language will clear your cart. Are you sure you want to proceed?";
+
+//Live Support
+"Typing" = "Typing";
+"Offline" = "Offline";
+
+"Email" = "Email";
+
+"Not rated yet" = "Not rated yet";
+"Search" = "Search";
+"Other" = "Other";
+
+
+
+
+//MARK: - After sending localization file
+
+
+
+
+
+// TODO: - Localizza
+"Issue wth OrderID" = "Emissione con OrderID";
+"Status" = "Stato";
+"Loyalty Points Type" = "Tipo di punti fedeltà";
+"Payment Method" = "Metodo di pagamento";
+"Terms and Conditions" = "Termini e condizioni";
+"About Us" = "Chi siamo";
+"Sort" = "Ordina";
+"Open" = "Apri";
+"Adding products from diffrent suppliers will clear your cart" = "L'aggiunta di prodotti da diversi fornitori cancellerà il tuo carrello.";
+"Min. Order Amount" = "Min. Ammontare dell'ordine";
+"Min. Delviery Time" = "Min. Delviery Time";
+"HOME SERVICE" = "Servizio a domicilio";
+"AT PLACE SERVICE" = "At Place Service";
+"Select service" = "Seleziona servizio";
+"Ladies Beauty Salon" = "Ladies Beauty Salon";
+"City" = "Città";
+"Area" = "Area";
+"House No" = "House No.";
+"Compare Products" = "Confronta prodotti";
+"Somewhere Somehow Something Went Wrong" = "Da qualche parte, in qualche modo, qualcosa è andato storto";
+"Adding products from promotions will clear your cart" = "L'aggiunta di prodotti dalle promozioni cancellerà il tuo carrello.";
+
+"Please enter your house no.." = "Inserisci il tuo numero di casa.";
+"Please enter your building name" = "Inserisci il nome del tuo edificio";
+"Please select your location" = "Seleziona la tua posizione";
+"Please enter a landmark name" = "Inserisci il nome di un punto di riferimento";
+"Please enter your city" = "Inserisci la tua città";
+"Please enter your counrty" = "Inserisci la tua nazione";
+
+"My Orders" = "i miei ordini";
+"Not Available" = "non disponibile";
+"Your Order will be confirmed during next supplier working hours/day." = "Il tuo ordine sarà confermato durante le prossime ore lavorative / giorno del fornitore.";
+
+"Changing the current area will clear you cart" = "La modifica dell'area corrente cancellerà il tuo carrello.";
+"Modifica orario di ritiro nessun fornitore è disponibile per questo orario di ritiro" = "Modifica l'orario di ritiro nessun fornitore è disponibile per questo orario di ritiro";
+"No supplier found" = "Nessun fornitore trovato!";
+"My Addresses" = "I miei indirizzi";
+"Item Detail" = "Dettaglio articolo";
+"Scheduled Orders" = "Ordini pianificati";
+
+"Sorry not enough points to redeem" = "Spiacenti, punti insufficienti da riscattare.";
+"Loading" = "Caricamento";
+"Looks like your order has been delivered Would you like to rate your order" = "Sembra che il tuo ordine sia stato consegnato. Vuoi valutare il tuo ordine?";
+"Rate Order" = "Vota ordine";
+"Quantity" = "Quantità:";
+"Delivered on" = "Consegnato";
+"Pending Orders" = "Ordini in attesa";
+"Orders" = "Ordini";
+"Others" = "Altri";
+"Change Language" = "Cambia lingua";
+
+//MARK: - Chat Localization
+"ios.ZDCChat.end" = "End";
+"ios.ZDCChat.emailPlaceholder" = "Email address";
+"ios.ZDCChat.preChatForm.messagePlaceholder" = "Message";
+"ios.ZDCChat.upload.error.type" = "File type not permitted";
+"ios.ZDCChat.cantConnectTitle" = "Could not connect";
+"ios.ZDCChat.access.gallery" = "%@ needs access to your photos";
+"ios.ZDCChat.noAgentsTitle" = "No agents available";
+"ios.ZDCChat.backButton" = "Back";
+"ios.ZDCChat.preChatForm.required" = "Fields marked with * are required";
+"ios.ZDCChat.download.failedMessage" = "Failed to download. Tap to retry.";
+"ios.ZDCChat.preChatForm.invalidEmail" = "Please enter a valid email address";
+
+"ios.ZDCChat.noConnectionTitle" = "No connection";
+"ios.ZDCChat.sendOfflineMessageError.title" = "Could not send message";
+"ios.ZDCChat.rating.comment.title" = "Leave a comment";
+"ios.ZDCChat.imageViewer.saveButton" = "Save image";
+"ios.ZDCChat.reconnecting" = "Reconnecting...";
+"ios.ZDCChat.transcriptEmailAlert.emailPlaceholder" = "email@address.com";
+"ios.ZDCChat.cancelButton" = "Cancel";
+"ios.ZDCChat.access.howto" = "Enable this from the home screen, Settings > %@";
+"ios.ZDCChat.ok" = "OK";
+"ios.ZDCChat.no" = "No";
+"ios.ZDCChat.chatConnectionLost.title" = "Connection lost";
+
+"ios.ZDCChat.preChatForm.requiredTemplate" = "%@ *";
+"ios.ZDCChat.done" = "Done";
+"ios.ZDCChat.transcriptEmailAlert.message" = "Before you end this chat, would you like to email a transcript?";
+"ios.ZDCChat.upload.error.access" = "Error accessing file";
+"ios.ZDCChat.visitorQueue" = "Please wait for an agent. There are currently %@ visitor(s) waiting to be served.";
+"ios.ZDCChat.noConnectionMessage" = "No Internet connection. Please try again when connected";
+"ios.ZDCChat.preChatForm.namePlaceholder" = "Name";
+"ios.ZDCChat.access.camera" = "%@ needs access to your camera";
+"ios.ZDCChat.chatTextEntry.sendButton" = "Send";
+"ios.ZDCChat.retry" = "Retry";
+"ios.ZDCChat.chat.startingChatMessage" = "Starting chat...";
+
+"ios.ZDCChat.chatTextEntry.placeholderText" = "Message";
+"ios.ZDCChat.agentsOffline.message" = "There are no agents currently online.";
+"ios.ZDCChat.preChatForm.departmentPlaceholder" = "What can we help you with?";
+"ios.ZDCChat.agentLeft" = "%@ left the chat";
+"ios.ZDCChat.sendOfflineMessageError.message" = "Would you like to retry?";
+"ios.ZDCChat.unsentMessage" = "Failed to send. Tap to retry.";
+"ios.ZDCChat.preChatForm.phonePlaceholder" = "Phone number";
+"ios.ZDCChat.noAgentsMessage" = "Sorry, there are no agents available to chat. Please try again later or leave us a message.";
+"ios.ZDCChat.timeoutMessage" = "We've not heard from you for a while so this chat session has been closed. Please start a new chat if you still have questions.";
+"ios.ZDCChat.transcriptEmailAlert.sendButton" = "Send";
+"ios.ZDCChat.upload.source.camera" = "Take photo";
+
+"ios.ZDCChat.rating.commentButton" = "Leave a comment...";
+"ios.ZDCChat.network.connectionError" = "No connection";
+"ios.ZDCChat.cantConnectMessage" = "Sorry, we can't connect you right now. Please try again later.";
+"ios.ZDCChat.chatEndedTitle" = "End chat";
+"ios.ZDCChat.upload.error.size" = "File size too large";
+"ios.ZDCChat.preChatForm.invalidPhone" = "Please enter a valid phone number";
+"ios.ZDCChat.sendOfflineMessageError.sendButton" = "Send";
+"ios.ZDCChat.transcriptEmailAlert.title" = "Email a transcript";
+"ios.ZDCChat.endButton" = "End chat";
+"ios.ZDCChat.chatEndedMessage" = "Are you sure you would like to end this chat?";
+"ios.ZDCChat.offlineMessageFailed.message" = "Unable to send message.";
+
+"ios.ZDCChat.rating.comment.placeholder" = "Leave a comment";
+"ios.ZDCChat.agentJoined" = "%@ joined the chat";
+"ios.ZDCChat.noAgentsButton" = "Leave a message";
+"ios.ZDCChat.messageButton" = "Message";
+"ios.ZDCChat.title" = "Chat";
+"ios.ZDCChat.nextButton" = "Next";
+"ios.ZDCChat.cancel" = "Cancel";
+"ios.ZDCChat.accountOffline.message" = "There are currently no agents online. Would you like to send a message?";
+"ios.ZDCChat.upload.source.gallery" = "Photo library";
+"ios.ZDCChat.chatConnectionLost.message" = "We have been unable to reconnect. Do you wish to continue trying?";
+"ios.ZDCChat.rating.title" = "Rate this chat";
+
+"ios.ZDCChat.rating.editButton" = "Edit comment...";
+"ios.ZDCChat.yes" = "Yes";
+"ios.ZDCChat.transcriptEmailAlert.dontSendButton" = "Don't send";
+
+//MARK: - Payfort
+"internetConnectionMessage" = "No connection, please check the internet connection";
+"general_error" = "Sorry, something went wrong please try again!";
+"titleMessage" = "Cancel this payment?";
+"InvaildCard" = "Invalid card number";
+"noBtn" = "NO";
+"doneBtn" = "Done";
+"okBtn" = "Ok";
+"InvaildCardNumber" = "Credit Card number must consist of 16 digits.";
+"PayBtn" = "Pay";
+"Init_conn" = "Init a secure connection...";
+"YourReceiptLbl" = "Your Receipt";
+"pf_cancel_required_field" = "Required field,cannot be left empty";
+"titleviewLbl" = "Credit Card";
+"alertTitle" = "Alert";
+"ExpDateLbl" = "EXPIRY DATE";
+"pf_errors_card_number_mismatch_po" = "The entered credit card type does not match the selected payment option.";
+"CardNamePl" = "CARDHOLDER NAME";
+"PAST_DATE_MSG" = "the date in the past";
+"CardNumberPl" = "CARD NUMBER";
+"monthyearLbl" = "Month & Year";
+"CVCtxt" = "CVV";
+"saveCarLbl" = "SAVE THIS CARD";
+"TechnicalIssue" = "technical problem";
+"yesBtn" = "YES";
+"pf_resp_page_great" = "Great";
+"pf_resp_page_failed" = "Failed";
+"InvalidExp" = "Invalid Expiry Date";
+"InvalidCVV" = "Invalid CVV";
+
+
+
+
+//MARK: - New Localization
+"Self pickup" = "Ritiro autonomo";
+"Expected Delivery On" = "Consegna prevista il";
+
+"By signing up you agree to the" = "Iscrivendoti accetti i";
+"Privacy Policy" = "politica sulla riservatezza";
+"Terms and conditionsSignUp" = "Termini e condizioni.";
+"and" = "e";
+"I would like to recommend using" = "Vorrei consigliare l'utilizzo";
+"via Clikat" = "via Sneni";
+"Warning" = "avvertimento";
+"Please select dates to schedule." = "Seleziona le date da pianificare.";
+"Bronze" = "Bronzo";
+"Notification Language Changed Successfully" = "La lingua delle notifiche è stata modificata correttamente";
+"Order Confirmed Successfully" = "Ordine confermato con successo";
+"Delivery on" = "Consegna in";
+"No Product Found!" = "Nessun prodotto trovato!";
+"Have you Forgot Completing Your Last Shopping Cart?" = "Hai dimenticato di completare il tuo ultimo carrello?";
+"Supplier Rated Successfully" = "Fornitore valutato con successo";
+"Search for product" = "Cerca prodotto";
+"Send" = "Invia";
+"Sub Total" = "Totale parziale";
+
+"Camera Unavailable" = "Camera non disponibile";
+"It looks like your privacy settings are preventing us from accessing your camera." = "Sembra che le tue impostazioni sulla privacy ci impediscano di accedere alla tua videocamera.";
+"Location Unavailable" = "Posizione non disponibile";
+"Please check to see if you have enabled location services." = "Verificare di aver abilitato i servizi di localizzazione.";
+"Customizable" = "Personalizzabile";
+"Place Booking" = "Effettua prenotazione";
+
+"Completed Bookings" = "Prenotazioni completate";
+
+
+"New" = "Nuovo";
+"Live Tracking" = "Monitoraggio dal vivo";
+"Use current location" = "Usa posizione corrente";
+"Popular Restaurants" = "Ristoranti popolari";
+"Fornitore" = "Fornitore";
+"Fornitori" = "Fornitori";
+
+"SHARE_SHEET_EDIT_ACTIONS_BUTTON_TITLE" = "Modifica azioni";
+"SHARE_SHEET_EDIT_SECTION_TITLE_FAVORITES" = "Preferiti";
+"SHARE_SHEET_EDIT_SECTION_TITLE_OTHER" = "Altri";
+"Stato spedizione" = "Stato spedizione";
+"Awaiting Shipment" = "In attesa di spedizione";
+"Shipped" = "Spedito";
+"In attesa" = "In attesa";
+
+"Nessun file aggiunto!" = "Nessun file aggiunto!";
+"Please select option" = "Please select your option";
+"customisable" = "personalizzabile";
+"PROCEDERE" = "PROCEDERE";
+"Review" = "Revisione";
+"Reviews" = "Recensioni";
+
+
+
+
+
+
+
+//MARK:-   Etokens Module
+
+"etoken.eToken" = "E-Token";
+"etoken.orderOutForDelivery" = "Il tuo ordine è in fase di consegna.";
+"eToken.orderConfirmed" = "Il tuo ordine è stato confermato per la consegna.";
+"eToken.orderWaitingConfirmation" = "Un ordine è in attesa della tua approvazione nelle prossime prenotazioni.";
+"etoken.orderTimeOut" = "Un ordine è in attesa della tua approvazione per le prossime prenotazioni.";
+"eToken.returnBottleTitle" = "Hai con te bottiglie (di marca)?";
+"eToken.onlinePayment" = "Pagamento online non ancora disponibile.";
+"eToken.tokenPurchasedSuccessfully" = "Token acquistato con successo.";
+"eToken.selectAddress" = "Seleziona indirizzo.";
+"eToken.timeOut" = "Tempo scaduto";
+"eToken.approvalPending" = "Approvazione in sospeso";
+"eToken.rejected" = "Rifiutato";
+"eToken.trackingNotAvailable" = "Monitoraggio non ancora disponibile. Attendi.";
+"alet.enterDetails" = "Inserisci i dettagli dell'ordine.";
+
+
+
+
+
+
+
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "Tempo scaduto";
+"etoken.ApprovalPending" = "Approvazione in sospeso";
+"etoken.Rejected" = "Rifiutato";
+
+
+
+
+
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "Lun";
+"Tue" = "mar";
+"Wed" = "sposare";
+"Thu" = "collezione";
+"Fri" = "Ven";
+"Sat" = "seduto";
+"Sun" = "sole";
+
+
+"delivery_location" = "Luogo di consegna";
+
+
+
+
+
+
+
+// ======== ride =======
+"LanguageName.English" = "English";
+"LanguageName.Arabic" = "عربى";
+"LanguageName.Urdu" = "اردو";
+"LanguageName.Hindi" = "हिंदी";
+"LanguageName.Chinese" = "中文";
+"LanguageName.Spanish" = "Spanish";
+"LanguageName.French" = "French";
+"LanguageName.Dutch" = "Dutch";
+"LanguageName.Italian" = "Italian";
+"LanguageName.Japanese" = "Japanese";
+"LanguageName.German" = "German";
+
+
+"Alert.VersionUpdateText" = "Devi aggiornare l'ultima versione dell'app.";
+"Validation.InternetNotWorking" = "Devi abilitare la connessione a Internet. ";
+"Validation.TermsConditions" = "Seleziona termini e condizioni.";
+"Validation.PhoneNumberMissed" = "Inserisci il numero di telefono.";
+"Validation.PhoneNumberLength" = "Si prega di inserire il numero di telefono valido.";
+"Validation.OTPValidation" = "Immettere otp. ";
+"Validation.UserName" = "Inserisci il nome completo. ";
+"Validation.Alert" = "Mettere in guardia";
+"Validation.Alert2" = "Conferma";
+
+"Validation.Success" = "Successo";
+
+"IntroductionVC.TitleFirst" = "La consegna delle merci è a portata di tocco";
+"IntroductionVC.TitleDescription" = "Consegna gratuita a domicilio. ";
+
+//LandingScreen Strings
+
+"LandingVC.MobileNumber" = "Inserisci il tuo numero di telefono";
+"LandingVC.AccountAgreement" = "Creando un account accetti ";
+"LandingVC.Terms&Conditions" = "Termini e condizioni";
+"LandingVC.OtpWillBeSent" = "Verrà inviata una OTP sul tuo numero di cellulare inserito per la verifica.";
+"LandingVC.Proceed" = "Procedere";
+
+//OTP Screen Strings
+"OTPVC.OTPText" = "Immettere l'OTP ricevuto il";
+"OTPVC.EditNumber" = "Modifica questo numero";
+"OTPVC.ResendOTP" = "Invia di nuovo OTP ";
+"OTPVC.VerificationCode" = "Codice di verifica";
+"OTPVC.DontReceiveCode" = "Non ricevi il tuo codice? ";
+
+
+
+
+//Enter Name Strings
+"UserProfileVC.FullNamePlaceHolder" = "Nome e cognome";
+"UserProfileVC.NameText" = "Hey qual è il tuo nome";
+"UserProfileVC.ReferalCode" = "CODICE DI RIFERIMENTO";
+"UserProfileVC.Submit" = "Invia";
+"UserProfileVC.JustSomeMore" = "Solo qualche informazione in più da riempire :) ";
+
+
+//Services names
+
+"Service.Gas" = "Gas";
+"Service.DrinkingWater" = "Bevendo acqua";
+"Service.WaterTanker" = "Water Tanker ";
+"Service.Freight" = "Camion ";
+"Service.Tow" = "Recupero in caso di guasto";
+"Service.HeavyMachine" = "Macchina pesante";
+
+//Side Menu Strings
+"LeftMenuOption.Bookings" = "Prenotazioni ";
+"LeftMenuOption.Support" = "Altri servizi";
+"LeftMenuOption.Promotions" = "Promozioni ";
+"LeftMenuOption.Payments" = "Pagamenti";
+"LeftMenuOption.Referral" = "Referral";
+"LeftMenuOption.EmergencyContacts" = "Numeri importanti";
+"LeftMenuOption.Settings "=" Impostazioni ";
+"LeftMenuOption.ContactUs" = "Contattaci";
+"LeftMenuOption.Signout" = "Firma out";
+
+//Navigation Bar Strings
+"NavigationButton.Select" = "Seleziona";
+"NavigationButton.Back" = "Indietro";
+"NavigationTitle.Location" = "Posizione";
+"NavigationTitle.Location" = "Posizione";
+
+//Order Strings
+"Order.DropOffLocation" = "Inserisci la posizione di consegna";
+"Order.DetailEnterTitle" = "Inserisci i dettagli dell'ordine";
+"Order.DetailValidation" = "Inserisci i dettagli dell'ordine.";
+"Order.SelectBrand" = "Seleziona marca";
+"Order.SelectCapacity" = "Seleziona capacità";
+"Order.SelectQuantity" = "Seleziona quantità";
+"Order.Next" = "Avanti";
+
+"Order.Total" = "Total";
+"Order.Cash" = "Contanti";
+"Order.CashOnDelivery" = "Contrassegno";
+"Order.Card" = "Card";
+"Order.EToken" = "E-Token";
+"Order.Promo" = "Promo";
+"Order.Book" = "Libro";
+"Order.ProcessingRequestTitle" = "Stiamo elaborando la tua richiesta";
+"Order.Cancel" = "Annulla";
+"Order.TimeLeftMins "=" Mins "; // Multiple
+"Order.TimeLeftMin" = "Min";  //Single
+
+
+"Order.CancellingReasonValidation" = "Immettere il motivo dell'annullamento.";
+"Order.PlaceHolderCancelReason" = "Scrivi un motivo per l'annullamento.";
+"Order.Invoice" = "Fattura";
+"Order.BaseFair" = "Tariffa base";
+"Order.Tax" = "Tasse";
+"Order.OMR" = "Rs"; // Currency
+"Order.Finish "=" Fine ";
+
+"Order.Rate" = "Rate";
+"Order.VerySad" = "Molto triste";
+"Order.Sad" = "Sad";
+"Order.Good" = "Buono";
+"Order.Happy" = "Happy";
+"Order.RatingTextPalceholder" = "Aggiungi un commento qui ...";
+"Order.SubmitRating" = "Invia valutazione";
+"Order.TokenLeft" = "gettone rimasto";
+"Order.Token" = "token";
+
+
+"BuyToken.PopUpTitle" = "Vuoi acquistare questo e-token?";
+"BuyToken.Purchased" = "Acquistato";
+"BuyToken.OffersNearYou" = "Offerte disponibili vicino a te";
+
+"Bookings.Past" = "Passato";
+"Bookings.Upcoming" = "Prossimi";
+
+
+"ContactUs.ReachByPhone" = "Raggiungici tramite telefono";
+"ContactUs.ReachByEmail" = "Raggiungici tramite email";
+"ContactUs.PlaceHolder" = "Scrivi un messaggio qui direttamente per raggiungerci ..";
+"ContactUS.ValidationMessage" = "Prima scrivi qualcosa.";
+
+"Referral.Text" = "Ti piace Buraq 24?";
+"Referral.ShareWithFriends" = "Condividi con gli amici";
+
+"PopUpScheduledBooked.ConfirmationTitle" = "Congratulazioni";
+"PopUpScheduledBooked.ConfirmationMessage" = "Il tuo servizio è stato prenotato.";
+
+"Button.Title.OK" = "OK";
+
+"OrderStatus.Searching" = "Ricerca in corso";
+
+"OrderStatus.Ongoing" = "In corso";
+
+"OrderStatus.Confirmed" = "Confermato";
+"OrderStatus.Reached" = "Raggiunto";
+
+"OrderStatus.CustomerCancel" = "Cliente annullato";
+
+"OrderStatus.SerComplete" = "Completato";
+
+"OrderStatus.SerReject" = "Rifiutato";
+
+"OrderStatus.DriverCancel" = "Driver annullato";
+
+"OrderStatus.Scheduled" = "Programmato";
+
+
+"OrderUI.Status.Cancelled" = "Annullato";
+"OrderUI.Status.Scheduled" = "Scheduled";
+"OrderUI.Status.Completed" = "Completato";
+
+"DriverStatus.AcceptedRequest" = "Il driver ha accettato la tua richiesta.";
+"DriverStatus.YourOrderOnWay" = "Il driver sta arrivando.";
+"DriverStatus.AnotherOrderOnWay" = "Il driver sta completando l'ordine nelle vicinanze.";
+"Order.Scheduling.Alert" = "Spiacenti, puoi programmare la prenotazione solo 1 ora dopo adesso.";
+
+"Button.Title.BookNow" = "Prenota ora";
+"Button.Title.Schedule" = "programma";
+
+
+"Ok" = "OK";
+
+"app_name" = "Buraq24-Customer";
+"terms_and_conditions" = "Termini e condizioni";
+"by_creating_account_you_agree" = "Creando un account accetti";
+"enter_you_mobile_no" = "Inserisci il tuo numero di cellulare";
+"slogan" = "Connetti le tue esigenze in \ nsecondi";
+"resend_otp" = "Reinvia otp";
+"edit_this_number" = "Modifica questo numero";
+"whats_your_name" = "Ehi! Come ti chiami";
+"full_name" = "Nome completo";
+"title_activity_maps" = "Mappa";
+"title_activity_main2" = "Main2Activity";
+"navigation_drawer_open" = "Apri il cassetto di navigazione";
+"navigation_drawer_close" = "Chiudi il cassetto di navigazione";
+"nav_header_title" = "Nome utente";
+"nav_header_subtitle" = "Valutazione";
+"nav_header_desc" = "Intestazione di navigazione";
+"action_settings" = "Impostazioni";
+"bookings" = "Prenotazioni";
+"promotions" = "Promozioni";
+"payments" = "Pagamenti";
+"referral" = "Referral";
+"Emergency_contacts" = "Numeri importanti";
+"settings" = "Impostazioni";
+"contact_us" = "Contattaci";
+"sign_out" = "Esci";
+"back" = "Indietro";
+"location" = "Location";
+"enter_drop_off_location" = "Inserisci luogo di riconsegna";
+"enter_pickup_location" = "Inserisci luogo di ritiro";
+"enter_details_of_order" = "Inserisci i dettagli dell'ordine";
+"select_branch" = "Seleziona marca";
+"select_capacity" = "Seleziona capacità";
+"select_quantity" = "Seleziona quantità";
+"next" = "Next";
+"total" = "Total";
+"cash" = "Cash";
+"promo" = "Promo";
+"book" = "Libro";
+"we_are_requesting_your_request" = "Stiamo elaborando la tua richiesta";
+"cancel" = "Annulla";
+"invoice" = "Fattura";
+"base_fair" = "Tariffa base";
+"tax" = "Tax";
+"rate" = "Rate";
+"add_comments_here" = "Aggiungi un commento qui ...";
+"submit" = "Invia";
+"phone_validation_message" = "Inserisci un numero di telefono valido";
+"otp_validation_message" = "Inserisci una OTP valida.";
+"name_empty_validation_message" = "Inserisci il nome per continuare.";
+"password_empty_validation_message" = "Inserisci la password per continuare.";
+"PromoCode_empty_validation_message" = "Inserisci il codice promozionale per continuare.";
+"request_cancelled_successfully" = "La tua richiesta è stata annullata.";
+"no_route_exits" = "Non esiste alcuna rotta";
+"type_reason_for_cancellation" = "Digita il motivo della cancellazione";
+"write_your_msg_here" = "Scrivi un messaggio qui ...";
+"cancel_reason_validation_text" = "Inserisci il motivo della cancellazione.";
+"currency" = "CAD";
+"pickup_address_validation_message" = "Seleziona un indirizzo di ritiro valido.";
+"dropoff_address_validation_message "=" Seleziona un indirizzo di riconsegna valido. "; //Need
+
+"finish" = "Finish";
+"gas" = "Gas";
+"water_tanker" = "Water Tanker";
+"drinking_water" = "Acqua potabile";
+"tow" = "Riparazione in caso di guasto";
+"freight" = "Camion";
+"currently_no_driver_available" = "Attualmente, nessun driver disponibile.";
+"going_request_cancelled_by_driver" = "La tua richiesta in corso è stata annullata dal conducente.";
+"cash_on_delivery" = "Contrassegno";
+"card" = "Carta";
+"default_selecting_token_error" = "Non è possibile selezionare i token elettronici come metodo di pagamento predefinito.";
+"e_tokens" = "E-Tokens";
+"e_token" = "E-Token";
+"left" = "left";
+"acquistato" = "Acquistato";
+"offers_available_near_you" = "Offerte disponibili vicino a te";
+"disponibile" = "disponibile";
+"no_offers_available" = "Nessuna offerta disponibile";
+"buy_etoken" = "Acquista e-token";
+"buy_etoken_confirmation" = "Sei sicuro di voler acquistare questo e-token?";
+"yes" = "Sì";
+"no" = "No";
+"view_e_tokens" = "Visualizza gettoni elettronici";
+"select" = "Seleziona";
+"select_e_token" = "Seleziona gettoni elettronici";
+"excellent" = "Excellent";
+"very_good" = "Molto buono";
+"good" = "Good";
+"sad" = "Sad";
+"very_sad" = "Molto triste";
+"rating_validation_msg" = "Seleziona la valutazione per continuare.";
+"validations_success" = "Convalida riuscita";
+"booking_details" = "Dettagli prenotazione";
+"drop_off_location" = "Luogo di riconsegna";
+"delivery_location" = "Luogo di consegna";
+"no_bookings" = "Nessuna prenotazione";
+"like_buraq24_n_nshare_with_the_friends" = "Ti piace Buraq24? \ nCondividi con gli amici.";
+"share" = "Condividi";
+"contact_us_msg_hint" = "Scrivi un messaggio qui direttamente per raggiungerci ...";
+"no_email_app_installed" = "Non ci sono client di posta installati.";
+"send_mail_to_buraq" = "Invia messaggio a Buraq24";
+"please_enter_message" = "Immettere un messaggio";
+"we_will_reach_soon" = "Abbiamo ricevuto il tuo messaggio. Ti contatteremo presto.";
+"logout_confirmation" = "Sei sicuro di voler Signout?";
+"package_distance_confirmation" = "La distanza del tuo viaggio è superiore alla distanza del pacchetto. Puoi addebitare un supplemento per questo. \ nVuoi procedere?";
+"cancel_ride_confirmation" = "Potrebbero essere applicati dei costi quando annulli la corsa. Sei sicuro di voler continuare?";
+"no_driver" = "Attualmente, nessun driver disponibile.";
+"transferRequest" = "Stiamo trasferendo la tua prenotazione a un altro autista.";
+"coming_soon" = "Prossimamente";
+"buraq_24" = "Buraq 24";
+"error" = "Errore";
+"api_error_msg" = "Si è verificato un errore sul server. Riprova.";
+"retry" = "Riprova";
+"otp_resent_successfully" = "OTP reinviata con successo";
+"change_language" = "Cambia lingua";
+"enter_otp_on" = "Inserisci il codice inviato il";
+"reach_us_via_phone" = "Raggiungici tramite telefono";
+"reach_us_via_mail" = "Raggiungici tramite posta";
+"no_contacts" = "Nessun contatto";
+
+"english" = "English";
+"spanish" = "Spanish";
+"hindi" = "हिंदी";
+"urdu" = "اردو";
+"chinese" = "中文";
+"arabic" = "العربية";
+
+"schedule" = "Conferma pianificazione";
+"booking" = "Conferma prenotazione";
+"book_now" = "Prenota ora";
+"schedule_time_selection_validation_msg" = "Ops, puoi programmare la prenotazione solo 1 ora dopo adesso.";
+"congratulazioni" = "Congratulazioni";
+"service_booked_successfully" = "Il tuo servizio è stato prenotato con successo";
+"order_cancelled" = "Il tuo ordine è stato annullato";
+"save" = "Salva";
+"profile_updated_successfully" = "Profilo aggiornato correttamente!";
+"permission_required_to_select_image" = "Autorizzazione richiesta per selezionare l'immagine";
+"dialog_camera" = "Fotocamera";
+"dialog_gallery" = "Galleria";
+"dialog_select_your_choice" = "Seleziona";
+"push_notifications" = "Notifiche push";
+"privacy" = "vita privata";
+"about_us" = "Chi siamo";
+"edit_profile" = "Modifica profilo";
+"completed" = "Completato";
+"breakdown" = "Abbattersi";
+"cancellato" = "Annullato";
+"Scheduled" = "Programmato";
+"select_location" = "Seleziona posizione";
+"select_vehicle_type" = "Seleziona il tipo di veicolo";
+"select_sub_model" = "Seleziona sottomodello";
+"enter_approx_weight" = "Inserisci il peso approssimativo in kg ...";
+"enter_additional_information" = "Inserisci informazioni aggiuntive ...";
+"upload_images" = "Carica immagini";
+"view_deals" = "visualizza offerte disponibili tramite società";
+"driver_accepted_request" = "Il conducente ha accettato la tua richiesta.";
+"driver_is_on_the_way" = "L'autista sta arrivando";
+"truck_driver_is_on_the_way" = "Il tuo ordine sta per essere consegnato";
+"driver_is_on_the_way_DriveStarted" = "Il tuo servizio è stato avviato";
+"driver_is_reached" = "Il driver ha raggiunto";
+"driver_completing_nearby_order" = "L'autista sta completando l'ordine nelle vicinanze";
+"version" = "Version:";
+"support" = "Altri servizi";
+"no_services" = "Nessun servizio disponibile";
+"support_msg" = "Seleziona un problema per cui possiamo aiutarti";
+"i_agree_to_the" = "Accetto";
+"terms_and_conditions_validation_message" = "Accetta i nostri termini e condizioni";
+"terms_and_conditions_caps" = "Termini e condizioni";
+"press_back_again_to_exit" = "Premi di nuovo indietro per uscire.";
+
+"sms_permission" = "Concedi il permesso di lettura degli sms per il recupero automatico dell'OTP.";
+"grant" = "Concedere";
+"default_category_name" = "Servizio";
+"started_at" = "Iniziato alle";
+"completed_at" = "Completato alle";
+"past" = "Passato";
+"uncoming" = "In arrivo";
+
+"session_expired_please_login_again" = "La tua sessione è scaduta. Accedi di nuovo";
+"normal" = "Normale";
+"satellite" = "Satellite";
+"max_images_validation_msg" = "Puoi aggiungere massimo 2 immagini";
+
+"work_in_progress" = "La tua prenotazione non è stata completata perché l'aggiornamento del servizio è in corso. Contatta il nostro supporto clienti per assistenza.";
+"email_not_configured" = "L'email non è configurata sul telefono";
+//MARK:-   Etokens Module
+
+"etoken.eToken" = "E-Token";
+"etoken.orderOutForDelivery" = "Il tuo ordine è in fase di consegna.";
+"eToken.orderConfirmed" = "Il tuo ordine è stato confermato per la consegna.";
+"eToken.orderWaitingConfirmation" = "Un ordine è in attesa della tua approvazione nelle prossime prenotazioni.";
+"etoken.orderTimeOut" = "Un ordine è in attesa della tua approvazione per le prossime prenotazioni.";
+"eToken.returnBottleTitle" = "Hai con te bottiglie (di marca)?";
+"eToken.onlinePayment" = "Pagamento online non ancora disponibile.";
+"eToken.tokenPurchasedSuccessfully" = "Token acquistato con successo.";
+"eToken.selectAddress" = "Seleziona indirizzo.";
+"eToken.timeOut" = "Tempo scaduto";
+"eToken.approvalPending" = "Approvazione in sospeso";
+"eToken.rejected" = "Rifiutato";
+"eToken.trackingNotAvailable" = "Monitoraggio non ancora disponibile. Attendi.";
+"alet.enterDetails" = "Inserisci i dettagli dell'ordine.";
+
+//MARK:- EToken Status
+
+"etoken.Timeout" = "Tempo scaduto";
+"etoken.ApprovalPending" = "Approvazione in sospeso";
+"etoken.Rejected" = "Rifiutato";
+
+//MARK:- Etoken Delivery Days
+
+"Mon" = "Lunedi";
+"Tue" = "Martedì";
+"Wed" = "Mercoledì";
+"Thu" = "Giovedi";
+"Fri" = "Venerdì";
+"Sat" = "Sabato";
+"Sun" = "Domenica";
+
+//New By trava
+"Please enter first name" = "Si prega di inserire il nome";
+"Please enter last name" = "Per favore inserisci il cognome";
+"Please enter address" = "Si prega di inserire l'indirizzo";
+"NoOngoigRide" = "Nessuna corsa attualmente in corso ";
+
+"Enter your Address" = "Inserisci il tuo indirizzo ";
+"Hi " = "Ciao";
+"Work" = "Lavoro";
+"My Bookings" = "Le mie prenotazioni";
+"Payment method" = "Metodo di pagamento";
+"Travel packages" = "Pacchetti di viaggio";
+"Notifications" = "Notifiche";
+"Emergency contacts" = "Contatti di emergenza";
+"Settings" = "Impostazioni";
+"Help" = "Aiuto";
+"Travel packages" = "Capacità di posti a sedere";
+
+"View Package" = "Visualizza pacchetto";
+"Packages details" = "Dettagli pacchetti";
+"Valid for" = "Valido per";
+"hours" = "ore";
+"days" = "giorni";
+"months" = "mesi ";
+"hour" = "ora";
+"day" = "giorno";
+"month" = "mese";
+
+"Pay" = "Paga";
+"Outstanding from the previous trip" = "Eccezionale dal viaggio precedente";
+"credit" = "credit";
+"Are you sure you want to send Panic Request to your nearby?" = "Sei sicuro di voler inviare una richiesta di panico al tuo vicino?";
+"Please wait. we'll contact you shortly" = "Attendi. Ti contatteremo a breve.";
+"long_distance_confirmation" = "Il tuo autista sta scegliendo il tuo root a lunga distanza. Puoi pagare un extra per questo. Sei sicuro di voler continuare?";
+"Ongoing_AddStop_Confirmation" = "Per essere sicuri, se stai aggiungendo una sosta alla corsa corrente, non sarai in grado di eliminarla. Sei sicuro di voler continuare?";
+"Add Home Address" = "Aggiungi indirizzo di casa";
+"Add Work Address" = "Aggiungi indirizzo di lavoro";
+"remove_card_Confirmation" = "Sei sicuro di voler rimuovere la carta?";
+"Credit Card" = "Carta di credito";
+"can't_use_credit_point" = "Non puoi utilizzare punti di credito per pagamenti in contanti";
+
+"Cancel_Ride" = "Annulla";
+"Cancel_Delivery" = "Annulla consegna";
+
+"Ride_Share" = "Ride Share";
+"Share_Parcel_Location" = "Condividi posizione pacco";
+"Delivery_In_Progress" = "Consegna in corso";
+"Enjoy_Your_Ride" = "Buon viaggio";
+"login" = "Accesso";
+"signup" = "Registrati";
+"withPhoneEmail" = "con telefono o e-mail";
+"Registratifor" = "Iscriviti a";
+"loginTo" = "Accedi a";
+"haveNoAccount" = "Non hai un account?";
+"haveAlreadyAccount" = "Hai già un account?";
+"istituzione" = "Istituzione";
+"signup_for" = "Iscriviti a";
+"instit_account" = "Account dell'istituto";
+"otp_text" = "Ti abbiamo inviato un codice a";
+
+"CONTINUE_WITH_APPLE" = "CONTINUA CON APPLE";
+"email" = "Email";
+"phone" = "Telefono";
+
+
+
+"Validation.VerificationValidation" = "Inserisci il codice di verifica.";
+"username_email_validation" = "Inserisci nome utente o e-mail.";
+"password_empty_validation_message" = "Per favore, inserisci la password.";
+"confirm_password_empty_validation_message" = "Immettere la password di conferma.";
+"password_confirmPassword_validation" = "password e conferma password devono corrispondere.";
+"password_length_validation_message" = "la password deve contenere almeno 6 caratteri.";
+"institution_type_validation" = "Selezionare il tipo di istituzione.";
+"institute_name_validation" = "Seleziona il nome dell'istituto.";
+"institution_id_validation" = "Si prega di inserire istituzione numero ID.";
+"empty_institutional_email_validation" = "Inserisci l'email istituzionale.";
+"institutional_cred_Image_validation" = "Si prega di aggiungere l'immagine.";
+"materialType" = "Immettere il tipo di materiale.";
+"materialType2" = "Inserisci l'oggetto da ritirare.";
+"pickupLevel" = "Seleziona il livello di ritiro.";
+"dropLevel" = "Seleziona il livello di abbandono.";
+"approxWeight" = "Immettere un peso approssimativo.";
+"approxWeight2" = "Inserisci il peso dell'articolo.";
+"receiverName" = "Inserisci il nome del destinatario.";
+"receiverName2" = "Inserisci il nome della persona di contatto presso il punto di riconsegna.";
+"phoneNumber" = "Inserisci il numero di telefono.";
+"phoneNumber2" = "Inserisci il numero di telefono della persona di contatto presso il punto di ritiro.";
+"senderName" = "Inserisci il nome del mittente.";
+"senderName2" = "Inserisci il nome della persona di contatto presso il punto di ritiro.";
+"additionalInformation" = "Immettere ulteriori informazioni.";
+"Your_ride_has_been_accepted_and_its_pending_from_approval." = "La tua corsa è stata accettata ed è in attesa di approvazione.";
+"pickupAtLocation" = "Inserisci il ritiro presso il luogo.";
+"dropAtLocation" = "Inserisci il luogo di consegna";
+
+"SideMenu.Book_a_taxi" = "Prenota un taxi";
+"SideMenu.New_Services_Coming_soon" = "Nuovi servizi - Prossimamente";
+"SideMenu.School_Rides" = "Gite scolastiche";
+"SideMenu.Home" = "Home";
+"SideMenu.My_Bookings" = "Le mie prenotazioni";
+"SideMenu.Payment_Methods" = "Metodi di pagamento";
+"SideMenu.Travel_Packages" = "Pacchetti di viaggio";
+"SideMenu.Emergency_Contacts" = "Contatti di emergenza";
+"SideMenu.Notifications" = "Notifiche";
+"SideMenu.Settings" = "Impostazioni";
+"SideMenu.Help" = "Aiuto";
+"SideMenu.Payment_History" = "Cronologia pagamenti";
+"SideMenu.Saved_Cards" = "Cartes enregistrées";
+"SideMenu.Delivery_History" = "Cronologia consegne";
+"SideMenu.Promotions" = "Promozioni";
+"SideMenu.Contact_us" = "Contattaci";
+"SideMenu.Sign_out" = "Esci";
+"SideMenu.Book_service" = "Prenota un servizio";
+"SideMenu.Edit_Profile" = "Modifica profilo";
+"SideMenu.Get_Discount" = "Condividi con gli amici";
+"SideMenu.Deliver_with_us" = "Consegna con noi!";
+"SideMenu.Wallet" = "Portafoglio";
+"SideMenu.Refer_Earn" = "Invia e guadagna";
+
+"ServiceView.Where_you_want_to_deliver" = "Dove vuoi consegnare";
+
+
+"Home.Recent_Locations" = "Posizioni recenti";
+"Home.Book_a_delivery" = "Prenota una consegna";
+"Home.Book_a_service" = "Prenota un servizio";
+"Home.Switch_Rider" = "Cambia pilota";
+"Home.For_me" = "Per me";
+"Home.Add_Home_Address" = "Aggiungi indirizzo di casa";
+"Home.Add_Work_Address" = "Aggiungi indirizzo di lavoro";
+"Home.For_Friend" = "Per amico";
+
+"Emmergency.Emmergency_Contact" = "Contatto di emergenza";
+"Wallet.Please_maintain_minimum" = "Mantieni un saldo minimo di";
+"Wallet.Receive_money" = "nel portafoglio per ricevere la richiesta di prenotazione.";
+
+"Wallet.AddAmountLess" = "L'importo dovrebbe essere maggiore di 0.";
+
+"AddTrustedContact" = "Aggiungi contatto fidato";
+
+
+"Setting.Push" = "Notifiche push";
+"Setting.Term" = "Termini e condizioni";
+"Setting.ChangeLanguage" = "Cambia lingua";
+"Setting.Privacy" = "Privacy";
+"Setting.About" = "Chi siamo";
+
+
+"Booking.Past" = "Passato";
+"Booking.Upcoming" = "Prossimi";
+"Booking.MyBooking" = "Le mie prenotazioni";
+
+
+"Preferisco non dire" = "Preferisco non dire";
+
+"Order Now" = "Ordina ora";
+"HalfWayStop" = "Fermata a metà strada";

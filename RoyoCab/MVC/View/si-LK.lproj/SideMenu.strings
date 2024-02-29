@@ -1,0 +1,261 @@
+
+/* Class = "UIButton"; normalTitle = "PLACE REQUEST"; ObjectID = "14l-uS-gvG"; */
+"14l-uS-gvG.normalTitle" = "ඉල්ලීම සටහන් කරන්න";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "1BC-TN-ttj"; */
+"1BC-TN-ttj.normalTitle" = "ආපසු";
+
+/* Class = "UILabel"; text = "784848444"; ObjectID = "1HO-pI-c8x"; */
+"1HO-pI-c8x.text" = "784848444";
+
+/* Class = "UILabel"; text = "Driver"; ObjectID = "1m5-Ue-pvu"; */
+"1m5-Ue-pvu.text" = "Driver";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "33q-7O-2KK"; */
+"33q-7O-2KK.normalTitle" = "ඇතුළත් කරන්න";
+
+/* Class = "UILabel"; text = "Full Name"; ObjectID = "3NK-9r-v0g"; */
+"3NK-9r-v0g.text" = "Full Name";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "3qq-mv-JJp"; */
+"3qq-mv-JJp.normalTitle" = "ආපසු";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "4Ao-Pe-NrD"; */
+"4Ao-Pe-NrD.text" = "   ";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "4Bj-bu-vuc"; */
+"4Bj-bu-vuc.normalTitle" = "Select";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "5vG-LU-pAx"; */
+"5vG-LU-pAx.text" = "අප ගැන";
+
+/* Class = "UILabel"; text = "Completed"; ObjectID = "6NT-wT-F99"; */
+"6NT-wT-F99.text" = "සම්පූර්ණයි";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "6pT-1o-p8T"; */
+"6pT-1o-p8T.text" = "   ";
+
+/* Class = "UIButton"; normalTitle = "Upcoming"; ObjectID = "6w0-w6-OHk"; */
+"6w0-w6-OHk.normalTitle" = "ඉදිරියට";
+
+/* Class = "UIButton"; selectedTitle = "Upcoming"; ObjectID = "6w0-w6-OHk"; */
+"6w0-w6-OHk.selectedTitle" = "ඉදිරියට";
+
+/* Class = "UILabel"; text = "Numbers"; ObjectID = "8o8-3g-AsL"; */
+"8o8-3g-AsL.text" = "Numbers";
+
+/* Class = "UILabel"; text = "ID : 7647353"; ObjectID = "903-pS-z3c"; */
+"903-pS-z3c.text" = "ID : 7647353";
+
+/* Class = "UILabel"; text = "ID : "; ObjectID = "CBg-OF-3fC"; */
+"CBg-OF-3fC.text" = "ID : ";
+
+/* Class = "UILabel"; text = "    "; ObjectID = "CEz-7A-Lfr"; */
+"CEz-7A-Lfr.text" = "    ";
+
+/* Class = "UITextField"; placeholder = "Enter full name"; ObjectID = "Cwl-Lz-KH6"; */
+"Cwl-Lz-KH6.placeholder" = "Enter full name";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "D1d-3y-QTL"; */
+"D1d-3y-QTL.normalTitle" = "අවලංගුයි";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "D78-9b-jfy"; */
+"D78-9b-jfy.text" = "Label";
+
+/* Class = "UILabel"; text = "No bookings found"; ObjectID = "DT4-oy-fUN"; */
+"DT4-oy-fUN.text" = "No bookings found";
+
+/* Class = "UILabel"; text = "My Bookings"; ObjectID = "Fco-Ef-LJw"; */
+"Fco-Ef-LJw.text" = "මගේ ගමන්";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "GnK-qB-9Ic"; */
+"GnK-qB-9Ic.text" = "Label";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "HIb-fh-nxO"; */
+"HIb-fh-nxO.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "Hvy-di-lGr"; */
+"Hvy-di-lGr.text" = "   ";
+
+/* Class = "UILabel"; text = "Edit Profile"; ObjectID = "JPa-yj-I76"; */
+"JPa-yj-I76.text" = "තොරතුරු වෙනස් කරන්න";
+
+/* Class = "UILabel"; text = "Phone Number"; ObjectID = "KR3-5i-yOe"; */
+"KR3-5i-yOe.text" = "Phone Number";
+
+/* Class = "UILabel"; text = "Introducing Trava Packages"; ObjectID = "KZZ-du-y7j"; */
+"KZZ-du-y7j.text" = "ගමන් පැකේජ හඳුන්වාදීම";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "KbL-rF-BX8"; */
+"KbL-rF-BX8.text" = "එකතුව";
+
+/* Class = "UILabel"; text = "Reach us via phone"; ObjectID = "KqO-53-WzJ"; */
+"KqO-53-WzJ.text" = "දුරකථනය ඔස්සේ අප හා සම්බන්ධ වන්න";
+
+/* Class = "UILabel"; text = "Enjoy discounted fares on your daily commute"; ObjectID = "L7O-nC-En0"; */
+"L7O-nC-En0.text" = "ඔබේ දෛනික ගමන් සඳහා ඇති වට්ටම් ලබාගන්න";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "ML2-TZ-R6i"; */
+"ML2-TZ-R6i.text" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Share"; ObjectID = "MSr-ZN-C7f"; */
+"MSr-ZN-C7f.normalTitle" = "Share";
+
+/* Class = "UILabel"; text = "Privacy"; ObjectID = "NOH-Tr-0YD"; */
+"NOH-Tr-0YD.text" = "පුද්ගලිකත්වය";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "NR5-Sx-BHY"; */
+"NR5-Sx-BHY.text" = "+91";
+
+/* Class = "UILabel"; text = "No bookings found"; ObjectID = "NeB-Le-HUO"; */
+"NeB-Le-HUO.text" = "No bookings found";
+
+/* Class = "UILabel"; text = "Share with the friends"; ObjectID = "NrM-8l-eSG"; */
+"NrM-8l-eSG.text" = "Share with the friends";
+
+/* Class = "UILabel"; text = "Reach us via mail"; ObjectID = "O4j-vS-NI1"; */
+"O4j-vS-NI1.text" = "විද්‍යුත් තැපෑල හරහා  සම්බන්ධ වන්න";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "Onx-hq-IuG"; */
+"Onx-hq-IuG.text" = "E-Token";
+
+/* Class = "UILabel"; text = "Like Buraq24?"; ObjectID = "Q7F-Gd-iXC"; */
+"Q7F-Gd-iXC.text" = "Like Buraq24?";
+
+/* Class = "UILabel"; text = "Settings"; ObjectID = "QVc-xM-upU"; */
+"QVc-xM-upU.text" = "සැකසුම්";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "SkH-yp-tQp"; */
+"SkH-yp-tQp.normalTitle" = "ආපසු";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "TMo-7w-1gF"; */
+"TMo-7w-1gF.text" = "Label";
+
+/* Class = "UILabel"; text = "Change Langauge"; ObjectID = "TZP-hQ-WPf"; */
+"TZP-hQ-WPf.text" = "Change Langauge";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "U1j-dm-ZkB"; */
+"U1j-dm-ZkB.text" = "අප ගැන";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "UcG-US-zI7"; */
+"UcG-US-zI7.normalTitle" = "ආපසු";
+
+/* Class = "UILabel"; text = "Rs 25.00"; ObjectID = "Uz6-xB-I1B"; */
+"Uz6-xB-I1B.text" = "රුපියල් 25.00";
+
+/* Class = "UILabel"; text = "Push Notifications"; ObjectID = "WwF-29-QFl"; */
+"WwF-29-QFl.text" = "දැනුම්දීම්";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "YoG-TP-jXN"; */
+"YoG-TP-jXN.text" = "   ";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "Zvi-cC-c1d"; */
+"Zvi-cC-c1d.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "Promotions"; ObjectID = "Zy6-a7-jRy"; */
+"Zy6-a7-jRy.text" = "උසස්වීම්";
+
+/* Class = "UILabel"; text = "Version :"; ObjectID = "aIw-HS-hbq"; */
+"aIw-HS-hbq.text" = "Version :";
+
+/* Class = "UITextField"; placeholder = "Enter phone number"; ObjectID = "aYc-fF-feW"; */
+"aYc-fF-feW.placeholder" = "දුරකථන අංකය ඇතුළත් කරන්න";
+
+/* Class = "UILabel"; text = "Travel Packages"; ObjectID = "aeZ-KL-KSb"; */
+"aeZ-KL-KSb.text" = "පැකේජ ක්‍රම";
+
+/* Class = "UILabel"; text = "Package description"; ObjectID = "ahO-MA-qO6"; */
+"ahO-MA-qO6.text" = "Package description";
+
+/* Class = "UILabel"; text = "Contact us"; ObjectID = "amc-YR-IFP"; */
+"amc-YR-IFP.text" = "අපව අමතන්න";
+
+/* Class = "UILabel"; text = "ID :    "; ObjectID = "dXO-MC-w6t"; */
+"dXO-MC-w6t.text" = "ID :    ";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "dsb-f1-l7o"; */
+"dsb-f1-l7o.text" = "   ";
+
+/* Class = "UILabel"; text = "ID : "; ObjectID = "dwV-du-Buk"; */
+"dwV-du-Buk.text" = "ID : ";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "eDr-uj-Ort"; */
+"eDr-uj-Ort.normalTitle" = "සේව් කරන්න";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "eRl-Ic-hTv"; */
+"eRl-Ic-hTv.normalTitle" = "ආපසු";
+
+/* Class = "UILabel"; text = "Terms and Conditions"; ObjectID = "eS4-qT-AR1"; */
+"eS4-qT-AR1.text" = "නියමයන් සහ කොන්දේසි";
+
+/* Class = "UILabel"; text = "cash - 125.50 Rs"; ObjectID = "fZo-BR-XNx"; */
+"fZo-BR-XNx.text" = "cash - 125.50 Rs";
+
+/* Class = "UILabel"; text = "Maninderjit Singh"; ObjectID = "g0Z-DU-Y1M"; */
+"g0Z-DU-Y1M.text" = "Maninderjit Singh";
+
+/* Class = "UILabel"; text = "Travel Packages"; ObjectID = "gqW-kx-vru"; */
+"gqW-kx-vru.text" = "පැකේජ ක්‍රම";
+
+/* Class = "UILabel"; text = "Subtotal"; ObjectID = "ine-6C-tW3"; */
+"ine-6C-tW3.text" = "එකතුව";
+
+/* Class = "UILabel"; text = "ID : "; ObjectID = "jia-YC-6eR"; */
+"jia-YC-6eR.text" = "ID : ";
+
+/* Class = "UITextField"; placeholder = "Enter email"; ObjectID = "mbf-hq-SY0"; */
+"mbf-hq-SY0.placeholder" = "Enter email";
+
+/* Class = "UILabel"; text = "Referral"; ObjectID = "moc-Mk-e0O"; */
+"moc-Mk-e0O.text" = "Referral";
+
+/* Class = "UIButton"; normalTitle = "Past"; ObjectID = "nMu-6R-zbS"; */
+"nMu-6R-zbS.normalTitle" = "අතීතයේ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "njr-5O-RT7"; */
+"njr-5O-RT7.normalTitle" = "ආපසු";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "nyE-av-5Nr"; */
+"nyE-av-5Nr.text" = "Label";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "oxZ-CV-HQ2"; */
+"oxZ-CV-HQ2.text" = "   ";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "pjr-ig-p9m"; */
+"pjr-ig-p9m.text" = "   ";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "pqG-95-tUe"; */
+"pqG-95-tUe.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "qrn-sL-QOZ"; */
+"qrn-sL-QOZ.text" = "Label";
+
+/* Class = "UILabel"; text = "   "; ObjectID = "spY-EU-ChO"; */
+"spY-EU-ChO.text" = "   ";
+
+/* Class = "UILabel"; text = "Service tax"; ObjectID = "tgf-kN-qQs"; */
+"tgf-kN-qQs.text" = "සේවා බද්ද";
+
+/* Class = "UILabel"; text = "   20"; ObjectID = "tqv-Na-SW8"; */
+"tqv-Na-SW8.text" = "   20";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "uG3-Rd-3Cn"; */
+"uG3-Rd-3Cn.normalTitle" = "ආපසු";
+
+/* Class = "UIButton"; normalTitle = "English"; ObjectID = "vAS-3N-ZKe"; */
+"vAS-3N-ZKe.normalTitle" = "English";
+
+/* Class = "UILabel"; text = "status"; ObjectID = "vfc-MT-2VQ"; */
+"vfc-MT-2VQ.text" = "status";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vml-8X-W4h"; */
+"vml-8X-W4h.text" = "Label";
+
+/* Class = "UILabel"; text = "Invoice"; ObjectID = "w3O-qo-Lna"; */
+"w3O-qo-Lna.text" = "ඉන්වොයිසය";
+
+/* Class = "UIButton"; normalTitle = "View all Term & Conditions"; ObjectID = "ycW-PQ-cOU"; */
+"ycW-PQ-cOU.normalTitle" = "නියමයන් හා කොන්දේසි බලන්න";
+
+/* Class = "UILabel"; text = "Trip fare"; ObjectID = "zhW-Q9-EAX"; */
+"zhW-Q9-EAX.text" = "චාරිකාවේ ගාස්තුව";

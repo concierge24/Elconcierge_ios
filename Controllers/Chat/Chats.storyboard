@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="campton-book.ttf">
+            <string>Campton-Book</string>
+        </array>
+        <array key="campton-medium.ttf">
+            <string>Campton-Medium</string>
+        </array>
+    </customFonts>
+    <scenes>
+        <!--Chat HeadVC-->
+        <scene sceneID="GdW-XM-4A7">
+            <objects>
+                <viewController storyboardIdentifier="ChatHeadVC" id="XPK-ti-EGc" customClass="ChatHeadVC" customModule="Royo_Beauty" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="3Bc-AQ-w0t">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="trk-xt-aj0" customClass="NavigationView" customModule="Royo_Beauty" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </view>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="KZl-qc-3VV" customClass="NavigationView" customModule="Royo_Beauty" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
+                                <subviews>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GfN-fQ-zXg">
+                                        <rect key="frame" x="0.0" y="0.0" width="46" height="44"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="46" id="qhy-J9-eRa"/>
+                                        </constraints>
+                                        <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <state key="normal" image="ic_back"/>
+                                        <connections>
+                                            <action selector="btnBackAction:" destination="XPK-ti-EGc" eventType="touchUpInside" id="vhc-QB-jha"/>
+                                        </connections>
+                                    </button>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="bV8-8P-D2Z" customClass="AnimatableImageView" customModule="IBAnimatable">
+                                        <rect key="frame" x="54" y="3" width="38" height="38"/>
+                                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="38" id="4UA-Uw-cx3"/>
+                                            <constraint firstAttribute="height" constant="38" id="e4X-bZ-y38"/>
+                                        </constraints>
+                                        <userDefinedRuntimeAttributes>
+                                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                                <real key="value" value="19"/>
+                                            </userDefinedRuntimeAttribute>
+                                        </userDefinedRuntimeAttributes>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Carlos Simon" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1zi-l7-Ajy">
+                                        <rect key="frame" x="108" y="12.5" width="96.5" height="19"/>
+                                        <fontDescription key="fontDescription" name="Campton-Medium" family="Campton" pointSize="16"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" alpha="0.0" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Active" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JCa-ve-3dA">
+                                        <rect key="frame" x="108" y="25" width="33.5" height="14"/>
+                                        <fontDescription key="fontDescription" name="Campton-Book" family="Campton" pointSize="12"/>
+                                        <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                                <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <constraints>
+                                    <constraint firstItem="bV8-8P-D2Z" firstAttribute="leading" secondItem="GfN-fQ-zXg" secondAttribute="trailing" constant="8" id="IRq-Ss-enn"/>
+                                    <constraint firstAttribute="height" constant="44" id="KgU-aQ-Jdv"/>
+                                    <constraint firstItem="bV8-8P-D2Z" firstAttribute="centerY" secondItem="KZl-qc-3VV" secondAttribute="centerY" id="LFR-cz-fly"/>
+                                    <constraint firstItem="1zi-l7-Ajy" firstAttribute="centerY" secondItem="bV8-8P-D2Z" secondAttribute="centerY" id="NGU-Tg-TZm"/>
+                                    <constraint firstItem="GfN-fQ-zXg" firstAttribute="leading" secondItem="KZl-qc-3VV" secondAttribute="leading" id="Nda-vb-P9K"/>
+                                    <constraint firstItem="GfN-fQ-zXg" firstAttribute="top" secondItem="KZl-qc-3VV" secondAttribute="top" id="O7H-uI-44W"/>
+                                    <constraint firstAttribute="bottom" secondItem="GfN-fQ-zXg" secondAttribute="bottom" id="a7f-oc-ejg"/>
+                                    <constraint firstItem="JCa-ve-3dA" firstAttribute="bottom" secondItem="bV8-8P-D2Z" secondAttribute="bottom" constant="-2" id="eej-pO-DL4"/>
+                                    <constraint firstItem="1zi-l7-Ajy" firstAttribute="leading" secondItem="bV8-8P-D2Z" secondAttribute="trailing" constant="16" id="gxw-T6-jCS"/>
+                                    <constraint firstItem="JCa-ve-3dA" firstAttribute="leading" secondItem="1zi-l7-Ajy" secondAttribute="leading" id="t1f-88-S8U"/>
+                                </constraints>
+                            </view>
+                            <tableView clipsSubviews="YES" contentMode="scaleToFill" alwaysBounceVertical="YES" dataMode="prototypes" style="plain" separatorStyle="none" rowHeight="-1" estimatedRowHeight="-1" sectionHeaderHeight="28" sectionFooterHeight="28" translatesAutoresizingMaskIntoConstraints="NO" id="3OC-9k-IjN" customClass="ChatTable" customModule="Royo_Beauty" customModuleProvider="target">
+                                <rect key="frame" x="0.0" y="44" width="375" height="623"/>
+                                <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                                <color key="sectionIndexBackgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                            </tableView>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Start a conversation" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Txi-G7-7AX">
+                                <rect key="frame" x="115.5" y="324" width="144" height="19"/>
+                                <fontDescription key="fontDescription" name="Campton-Medium" family="Campton" pointSize="16"/>
+                                <color key="textColor" red="0.0" green="0.72549019609999998" blue="0.43529411759999997" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="string" keyPath="xibLocKey" value="Start a conversation"/>
+                                </userDefinedRuntimeAttributes>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="Txi-G7-7AX" firstAttribute="centerX" secondItem="dGF-KO-yna" secondAttribute="centerX" id="568-rJ-ZII"/>
+                            <constraint firstItem="3OC-9k-IjN" firstAttribute="bottom" secondItem="dGF-KO-yna" secondAttribute="bottom" id="Als-hX-XAt"/>
+                            <constraint firstItem="3OC-9k-IjN" firstAttribute="top" secondItem="KZl-qc-3VV" secondAttribute="bottom" id="PM4-kh-0fU"/>
+                            <constraint firstItem="3OC-9k-IjN" firstAttribute="leading" secondItem="3Bc-AQ-w0t" secondAttribute="leading" id="c48-oz-eYi"/>
+                            <constraint firstItem="3OC-9k-IjN" firstAttribute="trailing" secondItem="dGF-KO-yna" secondAttribute="trailing" id="e1J-gn-L0l"/>
+                            <constraint firstItem="KZl-qc-3VV" firstAttribute="top" secondItem="dGF-KO-yna" secondAttribute="top" id="g9l-sm-hPM"/>
+                            <constraint firstAttribute="trailing" secondItem="trk-xt-aj0" secondAttribute="trailing" id="hjZ-Rh-8J3"/>
+                            <constraint firstItem="trk-xt-aj0" firstAttribute="top" secondItem="3Bc-AQ-w0t" secondAttribute="top" id="hlF-TE-ouk"/>
+                            <constraint firstItem="trk-xt-aj0" firstAttribute="leading" secondItem="3Bc-AQ-w0t" secondAttribute="leading" id="ktR-dE-rps"/>
+                            <constraint firstItem="KZl-qc-3VV" firstAttribute="trailing" secondItem="dGF-KO-yna" secondAttribute="trailing" id="m30-Js-Cca"/>
+                            <constraint firstItem="KZl-qc-3VV" firstAttribute="leading" secondItem="dGF-KO-yna" secondAttribute="leading" id="rWx-WZ-hjd"/>
+                            <constraint firstItem="trk-xt-aj0" firstAttribute="bottom" secondItem="KZl-qc-3VV" secondAttribute="bottom" id="sWu-5D-60E"/>
+                            <constraint firstItem="Txi-G7-7AX" firstAttribute="centerY" secondItem="dGF-KO-yna" secondAttribute="centerY" id="sgc-6J-brV"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="dGF-KO-yna"/>
+                    </view>
+                    <connections>
+                        <outlet property="btnBack" destination="GfN-fQ-zXg" id="7EA-4a-PLi"/>
+                        <outlet property="imageUser" destination="bV8-8P-D2Z" id="oif-E4-fk7"/>
+                        <outlet property="labelName" destination="1zi-l7-Ajy" id="5y5-ca-3HD"/>
+                        <outlet property="labelNoData" destination="Txi-G7-7AX" id="kHq-CT-Me0"/>
+                        <outlet property="tableView" destination="3OC-9k-IjN" id="0hv-UT-hc8"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="rgq-C4-54a" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="264.80000000000001" y="139.880059970015"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="ic_back" width="24" height="24"/>
+    </resources>
+</document>

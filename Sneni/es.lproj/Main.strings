@@ -1,0 +1,759 @@
+
+/* Class = "UIButton"; normalTitle = "VIEW CART"; ObjectID = "07g-Yv-foh"; */
+"07g-Yv-foh.normalTitle" = "VER CARRITO";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "0BO-6R-r2b"; */
+"0BO-6R-r2b.text" = "Bienvenidos";
+
+/* Class = "UIButton"; normalTitle = "VIEW CART"; ObjectID = "0T7-H9-1Pc"; */
+"0T7-H9-1Pc.normalTitle" = "VER CARRITO";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "0u6-bf-kBt"; */
+"0u6-bf-kBt.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "gfdgdfgfgdfgdsfg"; ObjectID = "0uJ-sY-2cV"; */
+"0uJ-sY-2cV.text" = "gfdgdfgfgdfgdsfg";
+
+/* Class = "UIButton"; normalTitle = "2201, Tabuk St , Riyadh"; ObjectID = "0zP-Fi-J0h"; */
+"0zP-Fi-J0h.normalTitle" = "2201, Tabuk St , Riyadh";
+
+/* Class = "UILabel"; text = "Payment Summary"; ObjectID = "18K-Vg-eKy"; */
+"18K-Vg-eKy.text" = "Resumen de pago";
+
+/* Class = "UITextField"; placeholder = "Choose your Drop-off location"; ObjectID = "1BW-bn-cps"; */
+"1BW-bn-cps.placeholder" = "Elija su lugar de entrega";
+
+/* Class = "UILabel"; text = "Other Reviews"; ObjectID = "1dI-vo-1Ru"; */
+"1dI-vo-1Ru.text" = "Otras Reseñas";
+
+/* Class = "UILabel"; text = "1 Items | Total USD 178.0"; ObjectID = "2G5-3I-1Si"; */
+"2G5-3I-1Si.text" = "1 Items | Total USD 178.0";
+
+/* Class = "UILabel"; text = "fgdgfsdg"; ObjectID = "2fS-MW-CWh"; */
+"2fS-MW-CWh.text" = "fgdgfsdg";
+
+/* Class = "UILabel"; text = "56 Likes"; ObjectID = "2px-8K-FCh"; */
+"2px-8K-FCh.text" = "56 Likes";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "3NZ-t2-1H7"; */
+"3NZ-t2-1H7.normalTitle" = "Seguir";
+
+/* Class = "UILabel"; text = "Orders done so far"; ObjectID = "4If-0p-Uvn"; */
+"4If-0p-Uvn.text" = "Pedidos realizados hasta ahora";
+
+/* Class = "UILabel"; text = "Soretd By"; ObjectID = "4Me-0m-cYR"; */
+"4Me-0m-cYR.text" = "Soretd por";
+
+/* Class = "UILabel"; text = "0 Reviews"; ObjectID = "58A-dJ-lH4"; */
+"58A-dJ-lH4.text" = "0 Reseñas";
+
+/* Class = "UILabel"; text = "FIlter"; ObjectID = "5BQ-JQ-5CD"; */
+"5BQ-JQ-5CD.text" = "Filtrar";
+
+/* Class = "UILabel"; text = "dsadadasd"; ObjectID = "5fS-pC-0Li"; */
+"5fS-pC-0Li.text" = "dsadadasd";
+
+/* Class = "UILabel"; text = "12333"; ObjectID = "5nk-gS-B0d"; */
+"5nk-gS-B0d.text" = "12333";
+
+/* Class = "UILabel"; text = "Minimum booking : "; ObjectID = "63B-aF-2ZQ"; */
+"63B-aF-2ZQ.text" = "Reserva mínima : ";
+
+/* Class = "UILabel"; text = "Search"; ObjectID = "6C0-MW-CrQ"; */
+"6C0-MW-CrQ.text" = "Buscar";
+
+/* Class = "UILabel"; text = "23 Reviews"; ObjectID = "6sb-Sk-BcH"; */
+"6sb-Sk-BcH.text" = "23 OPINIONES";
+
+/* Class = "UILabel"; text = "AED 7.5/EACH"; ObjectID = "7Xy-bz-Wod"; */
+"7Xy-bz-Wod.text" = "AED 7.5/EACH";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "7bh-W2-yZa"; */
+"7bh-W2-yZa.placeholder" = "¿Qué estás buscando?";
+
+/* Class = "UIButton"; normalTitle = "FILTERS"; ObjectID = "7eb-jB-RPM"; */
+"7eb-jB-RPM.normalTitle" = "Filtros";
+
+/* Class = "UILabel"; text = "Packages"; ObjectID = "7gx-o6-ggU"; */
+"7gx-o6-ggU.text" = "Paquetes";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "7lK-Ff-0FS"; */
+"7lK-Ff-0FS.placeholder" = "¿Qué estás buscando?";
+
+/* Class = "UIButton"; normalTitle = "View Menu"; ObjectID = "96C-Rg-frq"; */
+"96C-Rg-frq.normalTitle" = "Ver menú";
+
+/* Class = "UILabel"; text = "Suppliers"; ObjectID = "9Pl-ui-Ta7"; */
+"9Pl-ui-Ta7.text" = "Proveedores";
+
+/* Class = "UIButton"; normalTitle = "Dubai "; ObjectID = "9Vx-w4-p5y"; */
+"9Vx-w4-p5y.normalTitle" = "Dubai ";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "9jF-Jf-kjc"; */
+"9jF-Jf-kjc.text" = "NTL";
+
+/* Class = "UILabel"; text = "Awesome Product"; ObjectID = "9mz-Mw-fSC"; */
+"9mz-Mw-fSC.text" = "Producto impresionante";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "AqH-hl-sKU"; */
+"AqH-hl-sKU.text" = "0";
+
+/* Class = "UILabel"; text = "Delivery Location"; ObjectID = "Axq-nW-Vac"; */
+"Axq-nW-Vac.text" = "Lugar de entrega";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "B2H-1F-MDw"; */
+"B2H-1F-MDw.text" = "Label";
+
+/* Class = "UILabel"; text = "1 Items | Total USD 178.0"; ObjectID = "BIF-Xc-hec"; */
+"BIF-Xc-hec.text" = "1 Items | Total USD 178.0";
+
+/* Class = "UILabel"; text = "SUPPLIER DETAILS"; ObjectID = "BTm-Kp-tSt"; */
+"BTm-Kp-tSt.text" = "DETALLES DEL PROVEEDOR";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "BmA-yF-Sef"; */
+"BmA-yF-Sef.placeholder" = "¿Qué estás buscando?";
+
+/* Class = "UIButton"; normalTitle = "ABOUT"; ObjectID = "Bo7-oX-UM9"; */
+"Bo7-oX-UM9.normalTitle" = "ACERCA DE";
+
+/* Class = "UILabel"; text = "Discount"; ObjectID = "Bp9-Wx-HPp"; */
+"Bp9-Wx-HPp.text" = "Descuento";
+
+/* Class = "UILabel"; text = "hgfghgfhfhgfhgf"; ObjectID = "CUc-wK-SQp"; */
+"CUc-wK-SQp.text" = "hgfghgfhfhgfhgf";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "CnR-3M-dQx"; */
+"CnR-3M-dQx.text" = "NTL";
+
+/* Class = "UILabel"; text = "1 Items | Total USD 178.0"; ObjectID = "DWA-Hd-hDU"; */
+"DWA-Hd-hDU.text" = "1 Items | Total USD 178.0";
+
+/* Class = "UILabel"; text = "Suppliers"; ObjectID = "Djx-uw-ovh"; */
+"Djx-uw-ovh.text" = "Proveedores";
+
+/* Class = "UILabel"; text = "Delivery charges"; ObjectID = "Dze-7O-7fl"; */
+"Dze-7O-7fl.text" = "Los gastos de envío";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "E7n-ZU-adr"; */
+"E7n-ZU-adr.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "EOk-GE-Gda"; */
+"EOk-GE-Gda.text" = "Label";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "EYz-k8-GQK"; */
+"EYz-k8-GQK.text" = "Nombre";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "EbY-pn-DNR"; */
+"EbY-pn-DNR.placeholder" = "¿Qué estás buscando?";
+
+/* Class = "UILabel"; text = "No Products Found!"; ObjectID = "EcY-PQ-tRs"; */
+"EcY-PQ-tRs.text" = "¡No se encontraron productos!";
+
+/* Class = "UILabel"; text = "Awesome Deals Unlocked Everyday"; ObjectID = "FD2-Up-Gqt"; */
+"FD2-Up-Gqt.text" = "Ofertas increíbles desbloqueadas todos los días";
+
+/* Class = "UITextField"; placeholder = "Search"; ObjectID = "FXd-lu-Zoa"; */
+"FXd-lu-Zoa.placeholder" = "Buscar";
+
+/* Class = "UILabel"; text = "0 Reviews"; ObjectID = "Fgw-BG-lkr"; */
+"Fgw-BG-lkr.text" = "0 Reseñas";
+
+/* Class = "UILabel"; text = "No Suppliers Found!"; ObjectID = "FjZ-6w-76f"; */
+"FjZ-6w-76f.text" = "¡No se encontraron proveedores!";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Gh3-ph-0h9"; */
+"Gh3-ph-0h9.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Gup-3k-ooT"; */
+"Gup-3k-ooT.text" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "GxC-ES-Cm6"; */
+"GxC-ES-Cm6.text" = "NTL";
+
+/* Class = "UILabel"; text = "Price Range "; ObjectID = "HIp-Zg-j29"; */
+"HIp-Zg-j29.text" = "Rango de precios ";
+
+/* Class = "UILabel"; text = "Filter"; ObjectID = "He5-0Q-TGB"; */
+"He5-0Q-TGB.text" = "Filtrar";
+
+/* Class = "UIButton"; normalTitle = "Dubai"; ObjectID = "IV9-rn-nMb"; */
+"IV9-rn-nMb.normalTitle" = "Dubai";
+
+/* Class = "UILabel"; text = "dfvfdgfdgfd"; ObjectID = "Ik5-Pn-YuR"; */
+"Ik5-Pn-YuR.text" = "dfvfdgfdgfd";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "J9e-Ac-jsv"; */
+"J9e-Ac-jsv.placeholder" = "¿Qué estás buscando?";
+
+/* Class = "UILabel"; text = "Lable"; ObjectID = "JC0-fi-jDM"; */
+"JC0-fi-jDM.text" = "Lable";
+
+/* Class = "UIButton"; normalTitle = "With Driver"; ObjectID = "Jp4-bJ-6Eg"; */
+"Jp4-bJ-6Eg.normalTitle" = "Con conductor";
+
+/* Class = "UILabel"; text = "  Location"; ObjectID = "Jy6-Gb-8hz"; */
+"Jy6-Gb-8hz.text" = "  Ubicación";
+
+/* Class = "UIButton"; normalTitle = "UNIQUENESS"; ObjectID = "K4p-fF-XfM"; */
+"K4p-fF-XfM.normalTitle" = "UNICIDAD";
+
+/* Class = "UILabel"; text = "sdsadasdasd"; ObjectID = "K9C-gR-dUJ"; */
+"K9C-gR-dUJ.text" = "sdsadasdasd";
+
+/* Class = "UILabel"; text = "Beverages"; ObjectID = "KFg-L5-XLc"; */
+"KFg-L5-XLc.text" = "Beverages";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Kd2-kr-z5I"; */
+"Kd2-kr-z5I.text" = "Label";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Kwr-Sa-sb4"; */
+"Kwr-Sa-sb4.text" = "Habla a";
+
+/* Class = "UILabel"; text = "Pay Using"; ObjectID = "LJZ-Ub-qip"; */
+"LJZ-Ub-qip.text" = "Pagar usando";
+
+/* Class = "UIButton"; normalTitle = "VIEW CART"; ObjectID = "LTt-Qt-DH9"; */
+"LTt-Qt-DH9.normalTitle" = "VER CARRITO";
+
+/* Class = "UITextField"; placeholder = "House no. / Flat no. / Floor / Building"; ObjectID = "LUS-nm-JXQ"; */
+"LUS-nm-JXQ.placeholder" = "Casa no./ piso no./ ext. /int. / edificio";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "M74-as-g8f"; */
+"M74-as-g8f.text" = "NTL";
+
+/* Class = "UILabel"; text = "gfdgdfgfgdfgdsfg"; ObjectID = "MWx-Xs-JVG"; */
+"MWx-Xs-JVG.text" = "gfdgdfgfgdfgdsfg";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MvZ-bN-bsq"; */
+"MvZ-bN-bsq.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Home"; ObjectID = "N7t-Mk-SQG"; */
+"N7t-Mk-SQG.title" = "Hogar";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "N9J-4y-jMl"; */
+"N9J-4y-jMl.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "hgfghgfhfhgfhgf"; ObjectID = "N9S-eF-RUU"; */
+"N9S-eF-RUU.text" = "hgfghgfhfhgfhgf";
+
+/* Class = "UILabel"; text = "fff"; ObjectID = "NB9-hm-n6G"; */
+"NB9-hm-n6G.text" = "fff";
+
+/* Class = "UILabel"; text = "Looking for food delivery?"; ObjectID = "NS7-vK-ZCq"; */
+"NS7-vK-ZCq.text" = "¿Busca comida a domicilio?";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "NuO-z2-ICt"; */
+"NuO-z2-ICt.placeholder" = "¿Qué estás buscando?";
+
+/* Class = "UIButton"; normalTitle = "ABOUT"; ObjectID = "O8S-Td-YL2"; */
+"O8S-Td-YL2.normalTitle" = "ACERCA DE";
+
+/* Class = "UILabel"; text = "Payment methods"; ObjectID = "Oah-pq-qdC"; */
+"Oah-pq-qdC.text" = "Métodos de pago";
+
+/* Class = "UILabel"; text = "By India Gate"; ObjectID = "Oic-lG-qSf"; */
+"Oic-lG-qSf.text" = "By India Gate";
+
+/* Class = "UILabel"; text = "Coca Cola Coke Zero"; ObjectID = "PEx-cU-MYJ"; */
+"PEx-cU-MYJ.text" = "Coca Cola Coke Zero";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "PLn-0U-8sH"; */
+"PLn-0U-8sH.normalTitle" = "Reiniciar";
+
+/* Class = "UILabel"; text = "18 Jan, 2019"; ObjectID = "PSj-tE-fnQ"; */
+"PSj-tE-fnQ.text" = "18 Jan, 2019";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Psf-Ai-eNv"; */
+"Psf-Ai-eNv.text" = "NTL";
+
+/* Class = "UILabel"; text = "In business since"; ObjectID = "Q2g-fS-BKn"; */
+"Q2g-fS-BKn.text" = "En el negocio desde";
+
+/* Class = "UILabel"; text = "56 Likes"; ObjectID = "QBu-JS-wmn"; */
+"QBu-JS-wmn.text" = "56 Likes";
+
+/* Class = "UILabel"; text = "sadfsfdsfsdfsdfjsd"; ObjectID = "QVF-F1-OPg"; */
+"QVF-F1-OPg.text" = "sadfsfdsfsdfsdfjsd";
+
+/* Class = "UIButton"; normalTitle = "NTL"; ObjectID = "R2k-Ik-F1j"; */
+"R2k-Ik-F1j.normalTitle" = "NTL";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "R47-OD-DpT"; */
+"R47-OD-DpT.text" = "NTL";
+
+/* Class = "UILabel"; text = "No Products Found!"; ObjectID = "R8F-Kx-UQE"; */
+"R8F-Kx-UQE.text" = "¡No se encontraron productos!";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "RBW-ir-pAc"; */
+"RBW-ir-pAc.text" = "NTL";
+
+/* Class = "UILabel"; text = "5"; ObjectID = "RHq-Wq-Qgh"; */
+"RHq-Wq-Qgh.text" = "5";
+
+/* Class = "UILabel"; text = "Delivery charges"; ObjectID = "RWY-Yj-PZA"; */
+"RWY-Yj-PZA.text" = "Los gastos de envío";
+
+/* Class = "UIButton"; normalTitle = "Save & Proceed"; ObjectID = "RZd-jk-Jyu"; */
+"RZd-jk-Jyu.normalTitle" = "Guardar y continuar";
+
+/* Class = "UILabel"; text = "gfdgdfgfgdfgdsfg"; ObjectID = "Rz3-zZ-JKh"; */
+"Rz3-zZ-JKh.text" = "gfdgdfgfgdfgdsfg";
+
+/* Class = "UILabel"; text = "Beverages"; ObjectID = "SO1-Lp-O9c"; */
+"SO1-Lp-O9c.text" = "Beverages";
+
+/* Class = "UILabel"; text = "PRODUCT DETAIL"; ObjectID = "TFR-vh-kSi"; */
+"TFR-vh-kSi.text" = "DETALLE DEL PRODUCTO";
+
+/* Class = "UIButton"; normalTitle = "Buy Now"; ObjectID = "TvT-T4-zEt"; */
+"TvT-T4-zEt.normalTitle" = "Compra ahora";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "U0G-yd-Vhn"; */
+"U0G-yd-Vhn.text" = "Label";
+
+/* Class = "UILabel"; text = "Price Low High "; ObjectID = "UNb-j6-lqW"; */
+"UNb-j6-lqW.text" = "Precio bajo alto ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "UPS-xn-P5d"; */
+"UPS-xn-P5d.text" = "Label";
+
+/* Class = "UILabel"; text = "Add Address"; ObjectID = "UXV-RL-gGd"; */
+"UXV-RL-gGd.text" = "Añadir dirección";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "UZH-xK-amk"; */
+"UZH-xK-amk.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Rate Supplier"; ObjectID = "V3k-vp-D7r"; */
+"V3k-vp-D7r.normalTitle" = "Proveedor de tarifas";
+
+/* Class = "UIButton"; normalTitle = "Buy Now"; ObjectID = "V7j-di-hG7"; */
+"V7j-di-hG7.normalTitle" = "Compra ahora";
+
+/* Class = "UILabel"; text = "hgfghgfhfhgfhgf"; ObjectID = "VFH-ro-Gzv"; */
+"VFH-ro-Gzv.text" = "hgfghgfhfhgfhgf";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "VXG-bu-oPW"; */
+"VXG-bu-oPW.text" = "4";
+
+/* Class = "UINavigationItem"; title = "Amazonia"; ObjectID = "VbS-mb-gmq"; */
+"VbS-mb-gmq.title" = "Amazonia";
+
+/* Class = "UILabel"; text = "Payment methods"; ObjectID = "Ve2-fv-Fwm"; */
+"Ve2-fv-Fwm.text" = "Métodos de pago";
+
+/* Class = "UILabel"; text = "  Location"; ObjectID = "VkZ-oV-wg4"; */
+"VkZ-oV-wg4.text" = "  Ubicación";
+
+/* Class = "UILabel"; text = "Pickup Detail"; ObjectID = "Vnq-ar-BsA"; */
+"Vnq-ar-BsA.text" = "Detalle de recogida";
+
+/* Class = "UILabel"; text = "fgdgfsdg"; ObjectID = "Vq7-A6-JLs"; */
+"Vq7-A6-JLs.text" = "fgdgfsdg";
+
+/* Class = "UIButton"; normalTitle = "Rate Product"; ObjectID = "WJW-yP-K7E"; */
+"WJW-yP-K7E.normalTitle" = "Valorar producto";
+
+/* Class = "UILabel"; text = "Size Chart"; ObjectID = "WaJ-MO-nE1"; */
+"WaJ-MO-nE1.text" = "Carta del tamaño";
+
+/* Class = "UILabel"; text = "Favourites"; ObjectID = "WmK-Yt-ESx"; */
+"WmK-Yt-ESx.text" = "Favoritos";
+
+/* Class = "UILabel"; text = "Shop By Type"; ObjectID = "Wtu-6O-6bx"; */
+"Wtu-6O-6bx.text" = "Comprar por tipo";
+
+/* Class = "UIButton"; normalTitle = "Self Pickup"; ObjectID = "X4x-bp-DQx"; */
+"X4x-bp-DQx.normalTitle" = "Recoger";
+
+/* Class = "UILabel"; text = "Laundry"; ObjectID = "XLl-Jp-yV8"; */
+"XLl-Jp-yV8.text" = "Lavandería";
+
+/* Class = "UILabel"; text = "Coffe/Tea,Juice,Soda"; ObjectID = "Xdx-jl-XrY"; */
+"Xdx-jl-XrY.text" = "Coffe/Tea,Juice,Soda";
+
+/* Class = "UILabel"; text = "344 Reviews"; ObjectID = "XnU-4v-Bcf"; */
+"XnU-4v-Bcf.text" = "344 OPINIONES";
+
+/* Class = "UILabel"; text = "AED 250"; ObjectID = "Xt1-sO-Sae"; */
+"Xt1-sO-Sae.text" = "AED 250";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Y3R-zk-ZdR"; */
+"Y3R-zk-ZdR.text" = "NTL";
+
+/* Class = "UILabel"; text = "1 Items | Total USD 178.0"; ObjectID = "YN4-gu-fC6"; */
+"YN4-gu-fC6.text" = "1 Items | Total USD 178.0";
+
+/* Class = "UILabel"; text = "John Doe"; ObjectID = "YUq-L7-Vj2"; */
+"YUq-L7-Vj2.text" = "John Doe";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "Yev-6o-KpI"; */
+"Yev-6o-KpI.text" = "4";
+
+/* Class = "UILabel"; text = "Soretd By"; ObjectID = "YoC-d2-zJN"; */
+"YoC-d2-zJN.text" = "Soretd por";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "Ysh-cn-xg1"; */
+"Ysh-cn-xg1.text" = "NTL";
+
+/* Class = "UILabel"; text = "Nothing Found!"; ObjectID = "ZUs-v5-J7k"; */
+"ZUs-v5-J7k.text" = "¡Nada Encontrado!";
+
+/* Class = "UILabel"; text = "0 Reviews"; ObjectID = "Zes-f2-Kcc"; */
+"Zes-f2-Kcc.text" = "0 Reseñas";
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "a0g-R8-p0J"; */
+"a0g-R8-p0J.text" = "Selecciona una categoría";
+
+/* Class = "UILabel"; text = "By BurgerGrill"; ObjectID = "a2s-Nm-0yu"; */
+"a2s-Nm-0yu.text" = "By BurgerGrill";
+
+/* Class = "UIButton"; normalTitle = "VIEW CART"; ObjectID = "aEG-w8-Fdr"; */
+"aEG-w8-Fdr.normalTitle" = "VER CARRITO";
+
+/* Class = "UILabel"; text = "gfdgdfgfgdfgdsfg"; ObjectID = "aHO-uS-Zfb"; */
+"aHO-uS-Zfb.text" = "gfdgdfgfgdfgdsfg";
+
+/* Class = "UILabel"; text = "Min Delivery Time"; ObjectID = "aIp-Yo-gvA"; */
+"aIp-Yo-gvA.text" = "Tiempo de entrega mínimo";
+
+/* Class = "UILabel"; text = "My review"; ObjectID = "aMg-jo-DtJ"; */
+"aMg-jo-DtJ.text" = "Mi reseña";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "aVy-Id-4bk"; */
+"aVy-Id-4bk.text" = "123";
+
+/* Class = "UIButton"; normalTitle = "Add to Wish List"; ObjectID = "aYY-y2-l2M"; */
+"aYY-y2-l2M.normalTitle" = "Añadir a la lista de deseos";
+
+/* Class = "UIButton"; selectedTitle = "Remove from Wish List"; ObjectID = "aYY-y2-l2M"; */
+"aYY-y2-l2M.selectedTitle" = "Eliminar de la lista de deseos";
+
+/* Class = "UILabel"; text = "No Products Found!"; ObjectID = "alA-U5-Mdn"; */
+"alA-U5-Mdn.text" = "¡No se encontraron productos!";
+
+/* Class = "UILabel"; text = "Price Low High "; ObjectID = "atu-s9-PzW"; */
+"atu-s9-PzW.text" = "Precio bajo alto ";
+
+/* Class = "UIButton"; normalTitle = "UNIQUENESS"; ObjectID = "bI9-TR-R0n"; */
+"bI9-TR-R0n.normalTitle" = "UNICIDAD";
+
+/* Class = "UILabel"; text = "dfvfdgfdgfd"; ObjectID = "bIN-Ue-woG"; */
+"bIN-Ue-woG.text" = "dfvfdgfdgfd";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "bbN-fm-V8t"; */
+"bbN-fm-V8t.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "0 result"; ObjectID = "bkM-ES-kaA"; */
+"bkM-ES-kaA.text" = "0 result";
+
+/* Class = "UILabel"; text = "AED 1000 - AED 5000 "; ObjectID = "bmE-5y-2D0"; */
+"bmE-5y-2D0.text" = "AED 1000 - AED 5000 ";
+
+/* Class = "UIButton"; normalTitle = "View Detail"; ObjectID = "bs1-Uj-rhl"; */
+"bs1-Uj-rhl.normalTitle" = "Ver Detalle";
+
+/* Class = "UIButton"; normalTitle = "Delivery"; ObjectID = "bsO-Rq-pBS"; */
+"bsO-Rq-pBS.normalTitle" = "Entrega";
+
+/* Class = "UILabel"; text = "More"; ObjectID = "btf-ai-uDo"; */
+"btf-ai-uDo.text" = "Más";
+
+/* Class = "UIButton"; normalTitle = "REVIEWS"; ObjectID = "ct5-bd-wSe"; */
+"ct5-bd-wSe.normalTitle" = "OPINIONES";
+
+/* Class = "UILabel"; text = "Nothing Found!"; ObjectID = "cuf-TP-dYz"; */
+"cuf-TP-dYz.text" = "¡Nada Encontrado!";
+
+/* Class = "UILabel"; text = "23 Reviews"; ObjectID = "d1h-V5-L28"; */
+"d1h-V5-L28.text" = "23 OPINIONES";
+
+/* Class = "UILabel"; text = "Select Category"; ObjectID = "d5V-bT-kLA"; */
+"d5V-bT-kLA.text" = "Selecciona una categoría";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "dUe-c3-8Up"; */
+"dUe-c3-8Up.text" = "Título";
+
+/* Class = "UILabel"; text = "10 AED"; ObjectID = "dak-Ks-oaL"; */
+"dak-Ks-oaL.text" = "10 AED";
+
+/* Class = "UIButton"; normalTitle = "VIEW CART"; ObjectID = "dce-Ny-oKr"; */
+"dce-Ny-oKr.normalTitle" = "VER CARRITO";
+
+/* Class = "UILabel"; text = "More"; ObjectID = "dnt-kG-scM"; */
+"dnt-kG-scM.text" = "Más";
+
+/* Class = "UILabel"; text = "dfvfdgfdgfd"; ObjectID = "dxh-sX-AUQ"; */
+"dxh-sX-AUQ.text" = "dfvfdgfdgfd";
+
+/* Class = "UILabel"; text = "0 Reviews"; ObjectID = "egm-Lw-7L7"; */
+"egm-Lw-7L7.text" = "0 Reseñas";
+
+/* Class = "UILabel"; text = "Other Reviews"; ObjectID = "emd-Ta-uMN"; */
+"emd-Ta-uMN.text" = "Otras Reseñas";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "fPE-gB-f4d"; */
+"fPE-gB-f4d.text" = "NTL";
+
+/* Class = "UITextField"; placeholder = "Choose your Pick-up location"; ObjectID = "fSv-jj-p5b"; */
+"fSv-jj-p5b.placeholder" = "Elija su lugar de recogida";
+
+/* Class = "UILabel"; text = "PICK-UP TIME"; ObjectID = "fTV-Fw-5sF"; */
+"fTV-Fw-5sF.text" = "HORA DE RECOGIDA";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "fUL-xK-TYu"; */
+"fUL-xK-TYu.text" = "Label";
+
+/* Class = "UILabel"; text = "DROP-OFF TIME"; ObjectID = "g2F-cO-hEo"; */
+"g2F-cO-hEo.text" = "HORA DE ENTREGA";
+
+/* Class = "UILabel"; text = "Coffe/Tea,Juice,Soda"; ObjectID = "gDi-to-1gg"; */
+"gDi-to-1gg.text" = "Coffe/Tea,Juice,Soda";
+
+/* Class = "UILabel"; text = "dfvfdgfdgfd"; ObjectID = "gFW-eH-Y6x"; */
+"gFW-eH-Y6x.text" = "dfvfdgfdgfd";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gIU-eb-nRn"; */
+"gIU-eb-nRn.text" = "Label";
+
+/* Class = "UILabel"; text = "Order food online from Sagar Ratna to enjoy food at your home."; ObjectID = "gIz-DZ-o6y"; */
+"gIz-DZ-o6y.text" = "Order food online from Sagar Ratna to enjoy food at your home.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "gJE-pg-jUq"; */
+"gJE-pg-jUq.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "MAP"; ObjectID = "gl0-2K-HQd"; */
+"gl0-2K-HQd.normalTitle" = "MAPA";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "h1p-E3-WWE"; */
+"h1p-E3-WWE.text" = "NTL";
+
+/* Class = "UILabel"; text = "Orders done so far"; ObjectID = "h2C-9q-dqe"; */
+"h2C-9q-dqe.text" = "Pedidos realizados hasta ahora";
+
+/* Class = "UILabel"; text = "No Suppliers Found!"; ObjectID = "h2v-Hp-Kvw"; */
+"h2v-Hp-Kvw.text" = "¡No se encontraron proveedores!";
+
+/* Class = "UILabel"; text = "fdsaf s f asf ds f dsf ds f dsf ds fd sf ds f ds fs"; ObjectID = "hNB-FV-Hhf"; */
+"hNB-FV-Hhf.text" = "fdsaf s f asf ds f dsf ds f dsf ds fd sf ds f ds fs";
+
+/* Class = "UIButton"; normalTitle = "Rate Supplier"; ObjectID = "hUO-ah-fAI"; */
+"hUO-ah-fAI.normalTitle" = "Proveedor de tarifas";
+
+/* Class = "UILabel"; text = "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with "; ObjectID = "hfi-4l-7ku"; */
+"hfi-4l-7ku.text" = "In publishing and graphic design, lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document without relying on meaningful content. Replacing the actual content with ";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "iYS-Dc-deB"; */
+"iYS-Dc-deB.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "id5-Wy-shs"; */
+"id5-Wy-shs.normalTitle" = "Hecho";
+
+/* Class = "UISearchBar"; placeholder = "Search for your location..."; ObjectID = "ioF-pM-uJ8"; */
+"ioF-pM-uJ8.placeholder" = "Busque su ubicación...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "jUx-of-imD"; */
+"jUx-of-imD.text" = "Label";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "kBq-af-MOg"; */
+"kBq-af-MOg.text" = "NTL";
+
+/* Class = "UILabel"; text = "My review"; ObjectID = "kcJ-DN-qVN"; */
+"kcJ-DN-qVN.text" = "Mi reseña";
+
+/* Class = "UIButton"; normalTitle = "Filters"; ObjectID = "kmC-X5-etU"; */
+"kmC-X5-etU.normalTitle" = "Filtros";
+
+/* Class = "UIButton"; normalTitle = "Add to Cart"; ObjectID = "kxA-gs-FtY"; */
+"kxA-gs-FtY.normalTitle" = "Añadir al carrito";
+
+/* Class = "UILabel"; text = "0 Reviews"; ObjectID = "lc0-uV-ygp"; */
+"lc0-uV-ygp.text" = "0 Reseñas";
+
+/* Class = "UILabel"; text = "Steve Jons"; ObjectID = "lwA-K0-e6c"; */
+"lwA-K0-e6c.text" = "Steve Jons";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "mM7-SZ-zJc"; */
+"mM7-SZ-zJc.text" = "NTL";
+
+/* Class = "UILabel"; text = "Additional Remarks"; ObjectID = "mQ2-b1-goL"; */
+"mQ2-b1-goL.text" = "Observaciones adicionales";
+
+/* Class = "UILabel"; text = "hgfghgfhfhgfhgf"; ObjectID = "msV-gf-xuP"; */
+"msV-gf-xuP.text" = "hgfghgfhfhgfhgf";
+
+/* Class = "UILabel"; text = "fdsaf adsf ds f ads fds af asd"; ObjectID = "mxs-YE-hCI"; */
+"mxs-YE-hCI.text" = "fdsaf adsf ds f ads fds af asd";
+
+/* Class = "UILabel"; text = "fdsffdsfsd"; ObjectID = "nxk-MO-XIV"; */
+"nxk-MO-XIV.text" = "fdsffdsfsd";
+
+/* Class = "UIButton"; normalTitle = "REVIEWS"; ObjectID = "o4k-Qt-Cji"; */
+"o4k-Qt-Cji.normalTitle" = "OPINIONES";
+
+/* Class = "UILabel"; text = "Beverages"; ObjectID = "o9b-mH-vnu"; */
+"o9b-mH-vnu.text" = "Beverages";
+
+/* Class = "UILabel"; text = "Product Description"; ObjectID = "oWU-KN-3ZT"; */
+"oWU-KN-3ZT.text" = "Descripción del producto";
+
+/* Class = "UILabel"; text = "YOUR LOCATION"; ObjectID = "oZc-Ru-pvN"; */
+"oZc-Ru-pvN.text" = "Tu ubicación";
+
+/* Class = "UILabel"; text = "123"; ObjectID = "p3i-lj-ehl"; */
+"p3i-lj-ehl.text" = "123";
+
+/* Class = "UIButton"; normalTitle = "Select location"; ObjectID = "p9Y-uC-Cfv"; */
+"p9Y-uC-Cfv.normalTitle" = "Seleccionar ubicación";
+
+/* Class = "UILabel"; text = "Grand Total"; ObjectID = "pOk-XO-a2u"; */
+"pOk-XO-a2u.text" = "Gran total";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "paN-HE-tiC"; */
+"paN-HE-tiC.text" = "Ubicación";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "pha-lJ-vgK"; */
+"pha-lJ-vgK.text" = "NTL";
+
+/* Class = "UILabel"; text = "1 Items | Total USD 178.0"; ObjectID = "qNP-oX-fnj"; */
+"qNP-oX-fnj.text" = "1 Items | Total USD 178.0";
+
+/* Class = "UILabel"; text = "Minimum order"; ObjectID = "qNV-jY-RMJ"; */
+"qNV-jY-RMJ.text" = "Pedido mínimo";
+
+/* Class = "UILabel"; text = "Search Location"; ObjectID = "qTq-nu-1pF"; */
+"qTq-nu-1pF.text" = "Seleccionar ubicación";
+
+/* Class = "UILabel"; text = "4.0"; ObjectID = "qmN-JW-SKy"; */
+"qmN-JW-SKy.text" = "4.0";
+
+/* Class = "UILabel"; text = "fgdgfsdg"; ObjectID = "qmY-gn-oMV"; */
+"qmY-gn-oMV.text" = "fgdgfsdg";
+
+/* Class = "UILabel"; text = "0 Reviews"; ObjectID = "r6P-8W-7pT"; */
+"r6P-8W-7pT.text" = "0 Reseñas";
+
+/* Class = "UILabel"; text = "Nothing Found!"; ObjectID = "rA9-ZJ-JWj"; */
+"rA9-ZJ-JWj.text" = "¡Nada Encontrado!";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "rG6-RK-7pK"; */
+"rG6-RK-7pK.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "VIEW CART"; ObjectID = "rSM-yo-A10"; */
+"rSM-yo-A10.normalTitle" = "VER CARRITO";
+
+/* Class = "UIButton"; normalTitle = "Without Driver"; ObjectID = "rao-EZ-rR8"; */
+"rao-EZ-rR8.normalTitle" = "Sin conductor";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "s09-tL-1XN"; */
+"s09-tL-1XN.text" = "NTL";
+
+/* Class = "UILabel"; text = "Wishlist"; ObjectID = "sHx-7t-6Lh"; */
+"sHx-7t-6Lh.text" = "Lista de deseos";
+
+/* Class = "UILabel"; text = "4"; ObjectID = "sIQ-8m-9Ho"; */
+"sIQ-8m-9Ho.text" = "4";
+
+/* Class = "UILabel"; text = "Price Low High "; ObjectID = "sQC-sc-uQy"; */
+"sQC-sc-uQy.text" = "Precio bajo alto ";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "sWp-K6-X68"; */
+"sWp-K6-X68.normalTitle" = "Hecho";
+
+/* Class = "UILabel"; text = "By BurgerGrill"; ObjectID = "scX-4k-ukh"; */
+"scX-4k-ukh.text" = "By BurgerGrill";
+
+/* Class = "UILabel"; text = "Min Delivery Time"; ObjectID = "sqq-1N-usl"; */
+"sqq-1N-usl.text" = "Tiempo de entrega mínimo";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "su5-a3-fO3"; */
+"su5-a3-fO3.text" = "NTL";
+
+/* Class = "UILabel"; text = "Awesome Deals Unlocked Everyday"; ObjectID = "tGd-D5-ugs"; */
+"tGd-D5-ugs.text" = "Ofertas increíbles desbloqueadas todos los días";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tn3-34-KRb"; */
+"tn3-34-KRb.text" = "Label";
+
+/* Class = "UILabel"; text = "1 Items | Total USD 178.0"; ObjectID = "twA-K7-8af"; */
+"twA-K7-8af.text" = "1 Items | Total USD 178.0";
+
+/* Class = "UILabel"; text = "0 result"; ObjectID = "tyP-Vv-mzc"; */
+"tyP-Vv-mzc.text" = "0 resultado";
+
+/* Class = "UILabel"; text = "Rental Policy"; ObjectID = "u17-Bz-7aC"; */
+"u17-Bz-7aC.text" = "Política de alquiler";
+
+/* Class = "UILabel"; text = "By BurgerGrill"; ObjectID = "uRm-Fq-Gvg"; */
+"uRm-Fq-Gvg.text" = "By BurgerGrill";
+
+/* Class = "UILabel"; text = "Price Low High "; ObjectID = "ufN-fE-T3n"; */
+"ufN-fE-T3n.text" = "Precio bajo alto ";
+
+/* Class = "UILabel"; text = "Posted 2 days ago"; ObjectID = "utT-VR-Ufv"; */
+"utT-VR-Ufv.text" = "Posted 2 days ago";
+
+/* Class = "UIButton"; normalTitle = "PLACE ORDER"; ObjectID = "v4g-oJ-mKL"; */
+"v4g-oJ-mKL.normalTitle" = "REALIZAR PEDIDO";
+
+/* Class = "UILabel"; text = "In business since"; ObjectID = "vwz-d3-2Bi"; */
+"vwz-d3-2Bi.text" = "En el negocio desde";
+
+/* Class = "UILabel"; text = "fdsfsdf"; ObjectID = "wDH-y6-85b"; */
+"wDH-y6-85b.text" = "fdsfsdf";
+
+/* Class = "UILabel"; text = "Minimum order"; ObjectID = "wED-5V-Fkh"; */
+"wED-5V-Fkh.text" = "Pedido mínimo";
+
+/* Class = "UILabel"; text = "By BurgerGrill"; ObjectID = "wN5-Fr-TSd"; */
+"wN5-Fr-TSd.text" = "By BurgerGrill";
+
+/* Class = "UIButton"; normalTitle = "Filters"; ObjectID = "wOv-R4-BUZ"; */
+"wOv-R4-BUZ.normalTitle" = "Filtros";
+
+/* Class = "UITextField"; placeholder = "What are you looking for?"; ObjectID = "wji-t4-BP6"; */
+"wji-t4-BP6.placeholder" = "¿Qué estás buscando?";
+
+/* Class = "UILabel"; text = "By BurgerGrill"; ObjectID = "x5R-Z4-CoT"; */
+"x5R-Z4-CoT.text" = "By BurgerGrill";
+
+/* Class = "UILabel"; text = "By BurgerGrill"; ObjectID = "xBk-fh-MsM"; */
+"xBk-fh-MsM.text" = "By BurgerGrill";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "xCz-28-5aj"; */
+"xCz-28-5aj.text" = "NTL";
+
+/* Class = "UIButton"; normalTitle = "Dubai "; ObjectID = "xT1-xy-6rs"; */
+"xT1-xy-6rs.normalTitle" = "Dubai ";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "xgs-EY-Sz5"; */
+"xgs-EY-Sz5.text" = "NTL";
+
+/* Class = "UILabel"; text = "23 Reviews"; ObjectID = "xqO-3q-7pc"; */
+"xqO-3q-7pc.text" = "23 OPINIONES";
+
+/* Class = "UILabel"; text = "Rating & Reviews"; ObjectID = "y4I-rU-7Kb"; */
+"y4I-rU-7Kb.text" = "Calificación y reseñas";
+
+/* Class = "UILabel"; text = "We're not quite where you are yet, please change the location to see Marketplace!"; ObjectID = "y50-St-GDk"; */
+"y50-St-GDk.text" = "Aún no estamos donde estás, ¡cambia la ubicación para ver Marketplace!";
+
+/* Class = "UILabel"; text = "USD "; ObjectID = "yBR-lz-lsa"; */
+"yBR-lz-lsa.text" = "USD ";
+
+/* Class = "UIButton"; normalTitle = "Search"; ObjectID = "yCw-cl-D7g"; */
+"yCw-cl-D7g.normalTitle" = "Buscar";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yE7-w4-UAZ"; */
+"yE7-w4-UAZ.text" = "Label";
+
+/* Class = "UILabel"; text = "Sort & Filter"; ObjectID = "yP9-bO-GwM"; */
+"yP9-bO-GwM.text" = "Filtro de clasificación";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "yaY-m5-7cC"; */
+"yaY-m5-7cC.text" = "Ubicación";
+
+/* Class = "UILabel"; text = "NTL"; ObjectID = "yf8-Lg-JF3"; */
+"yf8-Lg-JF3.text" = "NTL";
+
+/* Class = "UILabel"; text = "AED 120"; ObjectID = "zyk-jG-rYi"; */
+"zyk-jG-rYi.text" = "AED 120";

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="16097" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="SF-Pro-Display-Bold.otf">
+            <string>SFProDisplay-Bold</string>
+        </array>
+        <array key="SF-Pro-Text-Regular.otf">
+            <string>SFProText-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" preservesSuperviewLayoutMargins="YES" selectionStyle="default" indentationWidth="10" reuseIdentifier="UploadedDocCell" rowHeight="94" id="TR0-dC-l5O" customClass="UploadedDocTableViewCell" customModule="RoyoCabs" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="414" height="94"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" preservesSuperviewLayoutMargins="YES" insetsLayoutMarginsFromSafeArea="NO" tableViewCell="TR0-dC-l5O" id="aKc-E1-TFF">
+                <rect key="frame" x="0.0" y="0.0" width="414" height="94"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" distribution="fillProportionally" spacing="5" translatesAutoresizingMaskIntoConstraints="NO" id="d8E-rd-fRg">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="84"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Uploaded " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Q3d-eX-xfo">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="33"/>
+                                <fontDescription key="fontDescription" name="SFProDisplay-Bold" family="SF Pro Display" pointSize="12"/>
+                                <color key="textColor" red="0.54509803921568623" green="0.54509803921568623" blue="0.54509803921568623" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="f23-Mz-6IP" customClass="AnimatableView" customModule="IBAnimatable">
+                                <rect key="frame" x="0.0" y="38" width="414" height="46"/>
+                                <subviews>
+                                    <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_success" translatesAutoresizingMaskIntoConstraints="NO" id="7ke-dP-H55">
+                                        <rect key="frame" x="10" y="10" width="25" height="25"/>
+                                        <constraints>
+                                            <constraint firstAttribute="height" constant="25" id="JO8-5n-HGf"/>
+                                            <constraint firstAttribute="width" constant="25" id="wQJ-LM-LyA"/>
+                                        </constraints>
+                                    </imageView>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Vehicle certificate  189kb" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7zF-aI-3va">
+                                        <rect key="frame" x="45" y="14" width="327" height="17"/>
+                                        <fontDescription key="fontDescription" name="SFProText-Regular" family="SF Pro Text" pointSize="14"/>
+                                        <color key="textColor" red="0.29019607843137252" green="0.56470588235294117" blue="0.88627450980392153" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="E5J-mz-Im4" customClass="CustomButton" customModule="RoyoCabs" customModuleProvider="target">
+                                        <rect key="frame" x="382" y="11.5" width="22" height="22"/>
+                                        <constraints>
+                                            <constraint firstAttribute="width" constant="22" id="Z9z-Pp-EBN"/>
+                                        </constraints>
+                                        <state key="normal" image="ic_cross_s copy"/>
+                                        <connections>
+                                            <action selector="deleteAction:" destination="TR0-dC-l5O" eventType="touchUpInside" id="Zuz-fA-uTr"/>
+                                        </connections>
+                                    </button>
+                                </subviews>
+                                <color key="backgroundColor" red="0.92538249492645264" green="0.92555993795394897" blue="0.92536932229995728" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstItem="7zF-aI-3va" firstAttribute="leading" secondItem="7ke-dP-H55" secondAttribute="trailing" constant="10" id="8X9-Mg-EQI"/>
+                                    <constraint firstAttribute="trailing" secondItem="E5J-mz-Im4" secondAttribute="trailing" constant="10" id="E6L-PV-7hS"/>
+                                    <constraint firstItem="7zF-aI-3va" firstAttribute="centerY" secondItem="7ke-dP-H55" secondAttribute="centerY" id="FZb-fI-GfA"/>
+                                    <constraint firstAttribute="height" constant="46" id="KbU-gR-aEx"/>
+                                    <constraint firstItem="E5J-mz-Im4" firstAttribute="leading" secondItem="7zF-aI-3va" secondAttribute="trailing" constant="10" id="RpT-hf-TCO"/>
+                                    <constraint firstItem="7ke-dP-H55" firstAttribute="top" secondItem="f23-Mz-6IP" secondAttribute="top" constant="10" id="YUn-1M-f6P"/>
+                                    <constraint firstItem="7ke-dP-H55" firstAttribute="leading" secondItem="f23-Mz-6IP" secondAttribute="leading" constant="10" id="uEM-YG-sLr"/>
+                                    <constraint firstItem="E5J-mz-Im4" firstAttribute="centerY" secondItem="7ke-dP-H55" secondAttribute="centerY" id="xN6-zc-oSr"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="5"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                        </subviews>
+                        <constraints>
+                            <constraint firstAttribute="bottom" secondItem="f23-Mz-6IP" secondAttribute="bottom" id="vTi-Ad-Bce"/>
+                        </constraints>
+                    </stackView>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="trailing" secondItem="d8E-rd-fRg" secondAttribute="trailing" id="GrR-dj-wQ1"/>
+                    <constraint firstItem="d8E-rd-fRg" firstAttribute="leading" secondItem="aKc-E1-TFF" secondAttribute="leading" id="lqy-y6-zhU"/>
+                    <constraint firstAttribute="bottom" secondItem="d8E-rd-fRg" secondAttribute="bottom" constant="10" id="uIL-rL-5DT"/>
+                    <constraint firstItem="d8E-rd-fRg" firstAttribute="top" secondItem="aKc-E1-TFF" secondAttribute="top" id="ugn-eK-3GO"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="deleteButton" destination="E5J-mz-Im4" id="jdb-0Y-1fI"/>
+                <outlet property="fileNameLabel" destination="7zF-aI-3va" id="2os-2l-il4"/>
+                <outlet property="labelTitle" destination="Q3d-eX-xfo" id="psL-05-Pdj"/>
+                <outlet property="leadingConstraint" destination="lqy-y6-zhU" id="Rb6-pm-aS7"/>
+                <outlet property="trailingConstraint" destination="GrR-dj-wQ1" id="H1l-3u-hx0"/>
+                <outlet property="uploadedImageView" destination="7ke-dP-H55" id="Hjo-PS-GXF"/>
+            </connections>
+            <point key="canvasLocation" x="-28" y="-32"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic_cross_s copy" width="16" height="16"/>
+        <image name="ic_success" width="24" height="24"/>
+    </resources>
+</document>

@@ -1,0 +1,1262 @@
+
+/* Class = "UIButton"; normalTitle = "Pay to next driver"; ObjectID = "097-7T-BnZ"; */
+"097-7T-BnZ.normalTitle" = "次の運転手に支払う";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "0AK-3F-vO6"; */
+"0AK-3F-vO6.text" = "ロケーション";
+
+/* Class = "UILabel"; text = "Ofiice"; ObjectID = "0Ba-ay-YK2"; */
+"0Ba-ay-YK2.text" = "オフィス";
+
+/* Class = "UILabel"; text = "SDWL"; ObjectID = "0Gb-kq-bM4"; */
+"0Gb-kq-bM4.text" = "SDWL";
+
+/* Class = "UILabel"; text = "Set your pickup spot"; ObjectID = "0IG-Ex-DUa"; */
+"0IG-Ex-DUa.text" = "集荷スポットを設定";
+
+/* Class = "UILabel"; text = "-"; ObjectID = "0Iz-Be-MfL"; */
+"0Iz-Be-MfL.text" = "-";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "0TU-ww-Ih2"; */
+"0TU-ww-Ih2.normalTitle" = "はい";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "0d5-2C-myX"; */
+"0d5-2C-myX.text" = "0";
+
+/* Class = "UILabel"; text = "Ofiice"; ObjectID = "13Y-N7-vef"; */
+"13Y-N7-vef.text" = "オフィス";
+
+/* Class = "UILabel"; text = "Enter drop off location"; ObjectID = "16Q-0q-neF"; */
+"16Q-0q-neF.text" = "降車場所を入力してください";
+
+/* Class = "UIButton"; normalTitle = "Credit card"; ObjectID = "1Co-MV-G8D"; */
+"1Co-MV-G8D.normalTitle" = "クレジットカード";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "1KJ-sO-bCO"; */
+"1KJ-sO-bCO.text" = "0.00";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "1Vq-PK-hVN"; */
+"1Vq-PK-hVN.normalTitle" = "できた";
+
+/* Class = "UILabel"; text = "Add Location"; ObjectID = "1u7-bS-xwU"; */
+"1u7-bS-xwU.text" = "場所を追加";
+
+/* Class = "UILabel"; text = "Dec 16, 2019"; ObjectID = "24D-Vn-yT0"; */
+"24D-Vn-yT0.text" = "Dec 16, 2019";
+
+/* Class = "UILabel"; text = "Token"; ObjectID = "2A0-Td-sb8"; */
+"2A0-Td-sb8.text" = "Token";
+
+/* Class = "UILabel"; text = "CustomerId :"; ObjectID = "2YG-P2-o63"; */
+"2YG-P2-o63.text" = "顧客ID :";
+
+/* Class = "UILabel"; text = "Total (incl. tax & fees)"; ObjectID = "2Yf-ze-YAA"; */
+"2Yf-ze-YAA.text" = "合計（税込）";
+
+/* Class = "UILabel"; text = "Booking Fee"; ObjectID = "3IY-g1-zov"; */
+"3IY-g1-zov.text" = "予約料";
+
+/* Class = "UITextField"; placeholder = "Where to pick?"; ObjectID = "3Kl-67-07Z"; */
+"3Kl-67-07Z.placeholder" = "どこを選ぶ？";
+
+/* Class = "UISegmentedControl"; 3Lp-wn-Iyq.segmentTitles[0] = "Order Details"; ObjectID = "3Lp-wn-Iyq"; */
+"3Lp-wn-Iyq.segmentTitles[0]" = "注文詳細";
+
+/* Class = "UISegmentedControl"; 3Lp-wn-Iyq.segmentTitles[1] = "Checklist"; ObjectID = "3Lp-wn-Iyq"; */
+"3Lp-wn-Iyq.segmentTitles[1]" = "チェックリスト";
+
+/* Class = "UIButton"; normalTitle = "REMOVE"; ObjectID = "3O0-84-Alk"; */
+"3O0-84-Alk.normalTitle" = "削除する";
+
+/* Class = "UILabel"; text = "4 gallon of water  qunatity"; ObjectID = "3Wa-nh-Hos"; */
+"3Wa-nh-Hos.text" = "4 gallon of water  qunatity";
+
+/* Class = "UILabel"; text = "July 28 . 1:52 "; ObjectID = "3ab-Hy-bna"; */
+"3ab-Hy-bna.text" = "July 28 . 1:52 ";
+
+/* Class = "UILabel"; text = "Ride Shared with:"; ObjectID = "3gO-sm-MUm"; */
+"3gO-sm-MUm.text" = "と共有するライド：";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "3gV-Iv-e83"; */
+"3gV-Iv-e83.normalTitle" = "次";
+
+/* Class = "UIButton"; normalTitle = "By Search Address"; ObjectID = "3sM-HS-4Fh"; */
+"3sM-HS-4Fh.normalTitle" = "検索アドレス別";
+
+/* Class = "UILabel"; text = "Add tip to your driver"; ObjectID = "40a-SY-Xv3"; */
+"40a-SY-Xv3.text" = "ドライバーにチップを追加する";
+
+/* Class = "UILabel"; text = "Enter your friend details"; ObjectID = "4Wx-oM-x60"; */
+"4Wx-oM-x60.text" = "友達の詳細を入力してください";
+
+/* Class = "UILabel"; text = "Other Services"; ObjectID = "4bT-Wd-cVY"; */
+"4bT-Wd-cVY.text" = "他のサービス";
+
+/* Class = "UIButton"; normalTitle = "Go to Home"; ObjectID = "5Fu-IM-5vE"; */
+"5Fu-IM-5vE.normalTitle" = "ホームに戻る";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "5Nr-Oz-oo8"; */
+"5Nr-Oz-oo8.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UIButton"; normalTitle = "Where are you going ?"; ObjectID = "5Oa-XF-Bbw"; */
+"5Oa-XF-Bbw.normalTitle" = "Where are you going ?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "5Rl-1R-iXz"; */
+"5Rl-1R-iXz.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Hi Avinash Koundal"; ObjectID = "5Y4-cC-Kh6"; */
+"5Y4-cC-Kh6.text" = "Hi Avinash Koundal";
+
+/* Class = "UILabel"; text = "ID : "; ObjectID = "5YN-Fc-8iw"; */
+"5YN-Fc-8iw.text" = "ID : ";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "5aD-8i-JMe"; */
+"5aD-8i-JMe.normalTitle" = "バック";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "5fG-bf-IhO"; */
+"5fG-bf-IhO.text" = "住所";
+
+/* Class = "UITextField"; placeholder = "Drag map to add Location"; ObjectID = "5fq-0c-R0y"; */
+"5fq-0c-R0y.placeholder" = "Drag map to add Location";
+
+/* Class = "UILabel"; text = "Hope you’re having a great day!"; ObjectID = "5s9-GR-Baf"; */
+"5s9-GR-Baf.text" = "Hope you’re having a great day!";
+
+/* Class = "UILabel"; text = "4.9"; ObjectID = "6II-ZS-fj1"; */
+"6II-ZS-fj1.text" = "4.9";
+
+/* Class = "UIButton"; normalTitle = "Road pickup"; ObjectID = "6LF-xK-EWi"; */
+"6LF-xK-EWi.normalTitle" = "道路ピックアップ";
+
+/* Class = "UIButton"; normalTitle = "SKIP NOW"; ObjectID = "6Mt-8R-vhq"; */
+"6Mt-8R-vhq.normalTitle" = "SKIP NOW";
+
+/* Class = "UILabel"; text = "Label  kjsakfjs djfkjsdfjsdkjkjkgjsg dfkdjgkjdfgkjdfkgdfg sjfkjskdfd"; ObjectID = "6PG-MK-e6o"; */
+"6PG-MK-e6o.text" = "Label  kjsakfjs djfkjsdfjsdkjkjkgjsg dfkdjgkjdfgkjdfkgdfg sjfkjskdfd";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "6bf-EJ-7Bk"; */
+"6bf-EJ-7Bk.normalTitle" = "バック";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "6hB-09-3MP"; */
+"6hB-09-3MP.text" = "0";
+
+/* Class = "UILabel"; text = "Ofiice"; ObjectID = "6rB-6V-bfM"; */
+"6rB-6V-bfM.text" = "オフィス";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "6u0-Ok-DBK"; */
+"6u0-Ok-DBK.placeholder" = "経由地を追加";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "6va-FB-Hk3"; */
+"6va-FB-Hk3.normalTitle" = "番号";
+
+/* Class = "UILabel"; text = "8888855555"; ObjectID = "6zc-N8-ac1"; */
+"6zc-N8-ac1.text" = "8888855555";
+
+/* Class = "UILabel"; text = "Driver Type"; ObjectID = "7Ey-F5-xAX"; */
+"7Ey-F5-xAX.text" = "ドライバータイプ";
+
+/* Class = "UIButton"; normalTitle = "Cash Payment"; ObjectID = "7I7-0b-toF"; */
+"7I7-0b-toF.normalTitle" = "合計";
+
+/* Class = "UILabel"; text = "Sector 29, chandigarh"; ObjectID = "7Oe-YE-koe"; */
+"7Oe-YE-koe.text" = "Sector 29, chandigarh";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "7Qt-hd-Idd"; */
+"7Qt-hd-Idd.text" = "選択する";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "7RQ-zd-vh4"; */
+"7RQ-zd-vh4.normalTitle" = "はい";
+
+/* Class = "UILabel"; text = "Driver Name"; ObjectID = "7Yl-J7-YgX"; */
+"7Yl-J7-YgX.text" = "ドライバー名";
+
+/* Class = "UILabel"; text = "Oil Change"; ObjectID = "7ht-VV-QeG"; */
+"7ht-VV-QeG.text" = "Oil Change";
+
+/* Class = "UILabel"; text = "Mini"; ObjectID = "7mh-ds-4Sf"; */
+"7mh-ds-4Sf.text" = "Mini";
+
+/* Class = "UILabel"; text = "Selected Time"; ObjectID = "7q6-6Q-LCp"; */
+"7q6-6Q-LCp.text" = "選択した時間";
+
+/* Class = "UILabel"; text = "Expires Dec 01, 2020"; ObjectID = "8Fm-zG-6Mr"; */
+"8Fm-zG-6Mr.text" = "Expires Dec 01, 2020";
+
+/* Class = "UILabel"; text = "BreakDown"; ObjectID = "8GA-90-8Df"; */
+"8GA-90-8Df.text" = "壊す";
+
+/* Class = "UILabel"; text = "ASAP"; ObjectID = "8SO-wr-2Ns"; */
+"8SO-wr-2Ns.text" = "ASAP";
+
+/* Class = "UILabel"; text = "Watch & Earn"; ObjectID = "8wJ-tM-7SQ"; */
+"8wJ-tM-7SQ.text" = "Watch & Earn";
+
+/* Class = "UILabel"; text = "Choose Address"; ObjectID = "8xk-Pv-d9e"; */
+"8xk-Pv-d9e.text" = "住所を選択";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "92f-0A-G3a"; */
+"92f-0A-G3a.placeholder" = "経由地を追加";
+
+/* Class = "UILabel"; text = "Rate Driver"; ObjectID = "952-PO-mF0"; */
+"952-PO-mF0.text" = "レートドライバー";
+
+/* Class = "UILabel"; text = "Material Quantity(in kg's)"; ObjectID = "9BE-w5-zaO"; */
+"9BE-w5-zaO.text" = "材料の数量（kg";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "9BP-lx-kAE"; */
+"9BP-lx-kAE.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UIButton"; normalTitle = "Schedule"; ObjectID = "9Gv-vM-OJe"; */
+"9Gv-vM-OJe.normalTitle" = "スケジュール";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "9SX-CP-Nec"; */
+"9SX-CP-Nec.text" = "$";
+
+/* Class = "UILabel"; text = "Please select this address for:"; ObjectID = "9TW-qo-PwQ"; */
+"9TW-qo-PwQ.text" = "このアドレスを選択してください-:";
+
+/* Class = "UILabel"; text = "in Rs"; ObjectID = "9aH-ao-bLu"; */
+"9aH-ao-bLu.text" = "in Rs";
+
+/* Class = "UILabel"; text = "Invoice"; ObjectID = "9he-2J-2sB"; */
+"9he-2J-2sB.text" = "請求書";
+
+/* Class = "UILabel"; text = "Half way stop"; ObjectID = "9lD-bh-WUh"; */
+"9lD-bh-WUh.text" = "途中停止";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "9nj-fV-Mqh"; */
+"9nj-fV-Mqh.normalTitle" = "はい";
+
+/* Class = "UITextField"; placeholder = "Enter name to save place"; ObjectID = "A47-HO-qbd"; */
+"A47-HO-qbd.placeholder" = "場所を保存するには名前を入力してください";
+
+/* Class = "UIButton"; normalTitle = "Watch & Earn"; ObjectID = "AOU-mT-jhe"; */
+"AOU-mT-jhe.normalTitle" = "視聴する";
+
+/* Class = "UILabel"; text = "Invoice number"; ObjectID = "Ab6-wR-aP7"; */
+"Ab6-wR-aP7.text" = "請求書番号";
+
+/* Class = "UILabel"; text = "E-Token"; ObjectID = "Aek-sS-aNY"; */
+"Aek-sS-aNY.text" = "E-Token";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "AyU-oM-mgF"; */
+"AyU-oM-mgF.text" = "距離";
+
+/* Class = "UILabel"; text = "8888855555"; ObjectID = "B1T-Of-vuB"; */
+"B1T-Of-vuB.text" = "8888855555";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "B5x-6j-0oT"; */
+"B5x-6j-0oT.placeholder" = "説明";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "B8B-FX-pfE"; */
+"B8B-FX-pfE.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Submit rating"; ObjectID = "B8k-xE-Efn"; */
+"B8k-xE-Efn.normalTitle" = "評価を送信";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "BB1-vx-D7Q"; */
+"BB1-vx-D7Q.normalTitle" = "はい";
+
+/* Class = "UITextField"; placeholder = "Invoice No."; ObjectID = "BMd-6s-yK5"; */
+"BMd-6s-yK5.placeholder" = "請求書番号。";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "BNy-wg-7nG"; */
+"BNy-wg-7nG.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UIButton"; normalTitle = "For me"; ObjectID = "BXD-jH-1Ah"; */
+"BXD-jH-1Ah.normalTitle" = "私のために";
+
+/* Class = "UILabel"; text = "Normal Fare"; ObjectID = "Bgo-nR-0X3"; */
+"Bgo-nR-0X3.text" = "通常運賃";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "Bhv-yQ-0wc"; */
+"Bhv-yQ-0wc.text" = "住所";
+
+/* Class = "UILabel"; text = "Is there an Elevator at the dropoff?"; ObjectID = "Ble-RU-dhz"; */
+"Ble-RU-dhz.text" = "降車場にエレベーターはありますか？";
+
+/* Class = "UILabel"; text = "SurCharge"; ObjectID = "C6O-Au-fCJ"; */
+"C6O-Au-fCJ.text" = "SurCharge";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "CEa-A0-S6p"; */
+"CEa-A0-S6p.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UITextField"; placeholder = "Enter location to be saved"; ObjectID = "CIL-fU-30F"; */
+"CIL-fU-30F.placeholder" = "保存する場所を入力してください";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "CLK-gf-fji"; */
+"CLK-gf-fji.normalTitle" = "継続する";
+
+/* Class = "UILabel"; text = "Time"; ObjectID = "CMq-2f-Gsw"; */
+"CMq-2f-Gsw.text" = "時間";
+
+/* Class = "UILabel"; text = "Enter Checklist Items"; ObjectID = "CNn-J0-rm0"; */
+"CNn-J0-rm0.text" = "チェックリスト項目を入力してください";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "CgR-jJ-JYQ"; */
+"CgR-jJ-JYQ.normalTitle" = "継続する";
+
+/* Class = "UILabel"; text = "Material Type"; ObjectID = "Cgc-qj-HFD"; */
+"Cgc-qj-HFD.text" = "材料の種類";
+
+/* Class = "UILabel"; text = "Ofiice"; ObjectID = "ChF-cr-Ujq"; */
+"ChF-cr-Ujq.text" = "オフィス";
+
+/* Class = "UILabel"; text = "Road Pickup"; ObjectID = "Cju-qf-npE"; */
+"Cju-qf-npE.text" = "道路ピックアップ";
+
+/* Class = "UIButton"; normalTitle = "APPLY PROMO CODE"; ObjectID = "DKZ-bT-NGr"; */
+"DKZ-bT-NGr.normalTitle" = "プロモーションコードを適用";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "DRU-FU-eno"; */
+"DRU-FU-eno.normalTitle" = "キャンセル";
+
+/* Class = "UIButton"; normalTitle = "Call Driver"; ObjectID = "DVc-WR-bOm"; */
+"DVc-WR-bOm.normalTitle" = "ドライバーを呼び出す";
+
+/* Class = "UILabel"; text = "Select a service"; ObjectID = "DcE-0F-3vx"; */
+"DcE-0F-3vx.text" = "サービスを選択";
+
+/* Class = "UILabel"; text = "Save Place"; ObjectID = "DjZ-Bt-Vb3"; */
+"DjZ-Bt-Vb3.text" = "場所を保存";
+
+/* Class = "UILabel"; text = "Tester"; ObjectID = "Dso-Do-b4r"; */
+"Dso-Do-b4r.text" = "Tester";
+
+/* Class = "UILabel"; text = "140 - 160"; ObjectID = "DtI-oH-k28"; */
+"DtI-oH-k28.text" = "140 - 160";
+
+/* Class = "UILabel"; text = "140 - 160"; ObjectID = "DuS-Dl-l5I"; */
+"DuS-Dl-l5I.text" = "140 - 160";
+
+/* Class = "UIButton"; normalTitle = "Book Now"; ObjectID = "DwN-SV-9hr"; */
+"DwN-SV-9hr.normalTitle" = "今予約する";
+
+/* Class = "UILabel"; text = "Confirm Booking"; ObjectID = "E0l-hq-MiI"; */
+"E0l-hq-MiI.text" = "予約を確認";
+
+/* Class = "UILabel"; text = "Please select option:"; ObjectID = "EK8-Hn-gbU"; */
+"EK8-Hn-gbU.text" = "オプションを選択してください：";
+
+/* Class = "UITextField"; placeholder = "Enter  approx weight in Kg's"; ObjectID = "Ebc-nV-We1"; */
+"Ebc-nV-We1.placeholder" = "おおよその重量をキログラムで入力してください";
+
+/* Class = "UILabel"; text = "Ofiice"; ObjectID = "Ece-u3-bnf"; */
+"Ece-u3-bnf.text" = "オフィス";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "Eds-xc-pbG"; */
+"Eds-xc-pbG.text" = "+91";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "ElD-5D-h7X"; */
+"ElD-5D-h7X.placeholder" = "経由地を追加";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "Ele-rF-I3S"; */
+"Ele-rF-I3S.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "Additional waiting time charges may apply to your trip if the driver has waited 5 minutes: $0.05 per minute."; ObjectID = "EnP-wg-dX6"; */
+"EnP-wg-dX6.text" = "ドライバーが5分間待機した場合、追加の待機時間料金が旅行に適用される場合があります（1分あたり0.05ドル）。";
+
+/* Class = "UILabel"; text = "Select date and time to proceed further"; ObjectID = "Eq5-3d-u17"; */
+"Eq5-3d-u17.text" = "先に進むには日付と時刻を選択してください";
+
+/* Class = "UITextField"; placeholder = "Promo code"; ObjectID = "Etp-db-fjN"; */
+"Etp-db-fjN.placeholder" = "プロモーションコード";
+
+/* Class = "UILabel"; text = "cash - 125.50 Rs"; ObjectID = "Ez0-1m-BDr"; */
+"Ez0-1m-BDr.text" = "cash - 125.50 Rs";
+
+/* Class = "UILabel"; text = " km"; ObjectID = "F3F-t1-bvw"; */
+"F3F-t1-bvw.text" = " km";
+
+/* Class = "UILabel"; text = "Where to?"; ObjectID = "FI5-D3-If3"; */
+"FI5-D3-If3.text" = "どこへ？";
+
+/* Class = "UILabel"; text = "Select your exact pickup point"; ObjectID = "Fg5-Pd-BRe"; */
+"Fg5-Pd-BRe.text" = "正確な集荷場所を選択してください";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "FgR-tp-OrS"; */
+"FgR-tp-OrS.normalTitle" = "番号";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "FkO-cZ-xWb"; */
+"FkO-cZ-xWb.normalTitle" = "できた";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Fo1-qX-xBk"; */
+"Fo1-qX-xBk.text" = "Label";
+
+/* Class = "UILabel"; text = "in Rs"; ObjectID = "Foq-lX-Q0W"; */
+"Foq-lX-Q0W.text" = "in Rs";
+
+/* Class = "UILabel"; text = "Other Services"; ObjectID = "GWH-SQ-ULv"; */
+"GWH-SQ-ULv.text" = "他のサービス";
+
+/* Class = "UILabel"; text = "time"; ObjectID = "Gfd-Vc-6AQ"; */
+"Gfd-Vc-6AQ.text" = "時間";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Gjv-yL-S11"; */
+"Gjv-yL-S11.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Total Amount: $20"; ObjectID = "H0C-jt-YK8"; */
+"H0C-jt-YK8.text" = "Total Amount: $20";
+
+/* Class = "UILabel"; text = "Select date and time"; ObjectID = "H3Z-1o-jEu"; */
+"H3Z-1o-jEu.text" = "先に進むには日付と時刻を選択してください";
+
+/* Class = "UILabel"; text = "$ 0.8"; ObjectID = "HBb-Kw-FbQ"; */
+"HBb-Kw-FbQ.text" = "$ 0.8";
+
+/* Class = "UIButton"; normalTitle = "Cancel Sharing"; ObjectID = "HDl-Jt-u0m"; */
+"HDl-Jt-u0m.normalTitle" = "共有をキャンセル";
+
+/* Class = "UIButton"; normalTitle = "Schedule"; ObjectID = "HVo-es-Mor"; */
+"HVo-es-Mor.normalTitle" = "スケジュール";
+
+/* Class = "UILabel"; text = "Enter details of order"; ObjectID = "Hmb-5y-Wdy"; */
+"Hmb-5y-Wdy.text" = "注文の詳細を入力してください";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "HnC-hI-Ueh"; */
+"HnC-hI-Ueh.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UITextField"; placeholder = "Drop off level?"; ObjectID = "I1G-hu-XxL"; */
+"I1G-hu-XxL.placeholder" = "レベルを落としますか？";
+
+/* Class = "UILabel"; text = "Waiting Charges"; ObjectID = "I3M-gM-zKz"; */
+"I3M-gM-zKz.text" = "待機料金";
+
+/* Class = "UILabel"; text = "Fare breakdown"; ObjectID = "IET-Vh-zoc"; */
+"IET-Vh-zoc.text" = "運賃の内訳";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "IFu-yb-Tb0"; */
+"IFu-yb-Tb0.text" = "----";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IKP-1Z-CAQ"; */
+"IKP-1Z-CAQ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Add More Details"; ObjectID = "IaX-9M-7z0"; */
+"IaX-9M-7z0.normalTitle" = "詳細を追加";
+
+/* Class = "UIButton"; selectedTitle = "Hide More Detials"; ObjectID = "IaX-9M-7z0"; */
+"IaX-9M-7z0.selectedTitle" = "詳細を非表示";
+
+/* Class = "UILabel"; text = "Select Vehicle type"; ObjectID = "IeB-cd-3Yh"; */
+"IeB-cd-3Yh.text" = "車両タイプを選択";
+
+/* Class = "UILabel"; text = "Add phone number or direct add from your list"; ObjectID = "Iob-hF-h4L"; */
+"Iob-hF-h4L.text" = "電話番号を追加するか、リストから直接追加します";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "J68-vc-dn1"; */
+"J68-vc-dn1.normalTitle" = "選択する";
+
+/* Class = "UILabel"; text = "Mini"; ObjectID = "JEa-V8-MQe"; */
+"JEa-V8-MQe.text" = "Mini";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "JOs-nr-Jb4"; */
+"JOs-nr-Jb4.normalTitle" = "継続する";
+
+/* Class = "UILabel"; text = "Good"; ObjectID = "JTK-TD-58E"; */
+"JTK-TD-58E.text" = "良い";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "JaK-KC-1km"; */
+"JaK-KC-1km.text" = "ホーム";
+
+/* Class = "UILabel"; text = "Book for a friend"; ObjectID = "JcE-5d-Y77"; */
+"JcE-5d-Y77.text" = "友人のために予約する";
+
+/* Class = "UILabel"; text = "status"; ObjectID = "JgS-Og-xIj"; */
+"JgS-Og-xIj.text" = "状態";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "JjU-R0-TIa"; */
+"JjU-R0-TIa.text" = "----";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "Jzz-aF-wPI"; */
+"Jzz-aF-wPI.placeholder" = "経由地を追加";
+
+/* Class = "UITextField"; placeholder = "Enter receiver's name"; ObjectID = "KD0-JS-2jV"; */
+"KD0-JS-2jV.placeholder" = "受信者の名前を入力してください";
+
+/* Class = "UIButton"; normalTitle = "<"; ObjectID = "KDr-su-g3j"; */
+"KDr-su-g3j.normalTitle" = "<";
+
+/* Class = "UIButton"; normalTitle = "DROPOFF ADDRESS"; ObjectID = "KE9-1i-cXv"; */
+"KE9-1i-cXv.normalTitle" = "ドロップオフ住所";
+
+/* Class = "UIButton"; normalTitle = "Set Pickup Time"; ObjectID = "Klt-1a-A2l"; */
+"Klt-1a-A2l.normalTitle" = "集荷時間の設定";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "Kxe-qj-c3h"; */
+"Kxe-qj-c3h.text" = "または";
+
+/* Class = "UIButton"; normalTitle = "Book Now"; ObjectID = "LcQ-XJ-qAw"; */
+"LcQ-XJ-qAw.normalTitle" = "今予約する";
+
+/* Class = "UILabel"; text = "Enter details of order"; ObjectID = "LsE-F8-43j"; */
+"LsE-F8-43j.text" = "注文の詳細を入力してください";
+
+/* Class = "UILabel"; text = "Card"; ObjectID = "M3x-Sa-fQw"; */
+"M3x-Sa-fQw.text" = "カード";
+
+/* Class = "UILabel"; text = "Pay Rs 99 Outstanding from previous trip"; ObjectID = "M4F-iA-V0m"; */
+"M4F-iA-V0m.text" = "Pay Rs 99 Outstanding from previous trip";
+
+/* Class = "UILabel"; text = "Pickup date & time"; ObjectID = "M8W-Ex-jO5"; */
+"M8W-Ex-jO5.text" = "集荷日時";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "M9V-1o-Jxu"; */
+"M9V-1o-Jxu.text" = "ホーム";
+
+/* Class = "UILabel"; text = "Person to deliver"; ObjectID = "MR0-m2-7bt"; */
+"MR0-m2-7bt.text" = "お届けする方";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "MSn-9q-DR5"; */
+"MSn-9q-DR5.text" = "名前";
+
+/* Class = "UILabel"; text = "Full Order Details"; ObjectID = "MUT-56-e8m"; */
+"MUT-56-e8m.text" = "完全な注文の詳細";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "Mgb-Wc-Nfv"; */
+"Mgb-Wc-Nfv.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Book now"; ObjectID = "MsM-qP-1h9"; */
+"MsM-qP-1h9.normalTitle" = "今予約する";
+
+/* Class = "UILabel"; text = "$ 0.1"; ObjectID = "Mz0-A0-xd7"; */
+"Mz0-A0-xd7.text" = "$ 0.1";
+
+/* Class = "UILabel"; text = "Use Credit Points"; ObjectID = "N7I-zZ-61e"; */
+"N7I-zZ-61e.text" = "クレジットポイントを使用する";
+
+/* Class = "UILabel"; text = "Available Promo codes"; ObjectID = "NLE-iO-9o9"; */
+"NLE-iO-9o9.text" = "利用可能なプロモーションコード";
+
+/* Class = "UILabel"; text = "Minimum fare"; ObjectID = "NX9-f3-Kha"; */
+"NX9-f3-Kha.text" = "最低運賃。";
+
+/* Class = "UIButton"; normalTitle = "Update Price "; ObjectID = "NmW-gr-wsV"; */
+"NmW-gr-wsV.normalTitle" = "価格を更新 ";
+
+/* Class = "UILabel"; text = "Base fare"; ObjectID = "NvW-xx-3PD"; */
+"NvW-xx-3PD.text" = "基本運賃";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "O3J-wN-blq"; */
+"O3J-wN-blq.text" = "0";
+
+/* Class = "UILabel"; text = "No Driver"; ObjectID = "OAg-SP-HIa"; */
+"OAg-SP-HIa.text" = "ドライバーなし";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "OFd-Up-M2u"; */
+"OFd-Up-M2u.text" = "ホーム";
+
+/* Class = "UILabel"; text = "Aquafina"; ObjectID = "OXj-fb-BW8"; */
+"OXj-fb-BW8.text" = "Aquafina";
+
+/* Class = "UILabel"; text = "$100"; ObjectID = "Oge-XF-U80"; */
+"Oge-XF-U80.text" = "$100";
+
+/* Class = "UIButton"; normalTitle = "Book by call"; ObjectID = "Oqw-qE-OUL"; */
+"Oqw-qE-OUL.normalTitle" = "電話で予約";
+
+/* Class = "UILabel"; text = "(For 1 passenger)"; ObjectID = "Os8-02-Km9"; */
+"Os8-02-Km9.text" = "（乗客1名様）";
+
+/* Class = "UILabel"; text = "+ Per minute"; ObjectID = "P3Y-xc-VkQ"; */
+"P3Y-xc-VkQ.text" = "+毎分";
+
+/* Class = "UIButton"; normalTitle = "Slide Right to Accept"; ObjectID = "PEc-2F-mMC"; */
+"PEc-2F-mMC.normalTitle" = "受け入れるには右にスライドします";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "PHi-xG-LjD"; */
+"PHi-xG-LjD.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "PXZ-5R-ZoH"; */
+"PXZ-5R-ZoH.placeholder" = "経由地を追加";
+
+/* Class = "UIButton"; normalTitle = "Full order Details"; ObjectID = "Phl-Wa-ae5"; */
+"Phl-Wa-ae5.normalTitle" = "完全な注文の詳細";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "PkQ-qm-zju"; */
+"PkQ-qm-zju.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "Pv8-mj-AtW"; */
+"Pv8-mj-AtW.text" = "合計";
+
+/* Class = "UILabel"; text = "Ankush"; ObjectID = "QYl-vO-arz"; */
+"QYl-vO-arz.text" = "Ankush";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "Qgh-x7-gnh"; */
+"Qgh-x7-gnh.normalTitle" = "バック";
+
+/* Class = "UILabel"; text = "RECENT LOCATIONS"; ObjectID = "Qoh-5C-r56"; */
+"Qoh-5C-r56.text" = "最近の場所";
+
+/* Class = "UILabel"; text = "Cash on delivery "; ObjectID = "QtX-mV-aEp"; */
+"QtX-mV-aEp.text" = "代金引換 ";
+
+/* Class = "UILabel"; text = "service"; ObjectID = "R6g-zO-E0t"; */
+"R6g-zO-E0t.text" = "サービス";
+
+/* Class = "UILabel"; text = "Type your reason for cancellation "; ObjectID = "R8B-ct-4ro"; */
+"R8B-ct-4ro.text" = "キャンセルの理由を入力してください ";
+
+/* Class = "UILabel"; text = "Is there an Elevator at the pickup?"; ObjectID = "RIu-QO-bKv"; */
+"RIu-QO-bKv.text" = "ピックアップにエレベーターはありますか？";
+
+/* Class = "UILabel"; text = "8 hours"; ObjectID = "Rec-0L-cUp"; */
+"Rec-0L-cUp.text" = "8 hours";
+
+/* Class = "UILabel"; text = "Book a service"; ObjectID = "Rvj-5d-yQM"; */
+"Rvj-5d-yQM.text" = "サービスを予約する";
+
+/* Class = "UILabel"; text = "Upload Image"; ObjectID = "S8A-cO-IJV"; */
+"S8A-cO-IJV.text" = "画像をアップロード";
+
+/* Class = "UILabel"; text = "140 - 160"; ObjectID = "SQy-lH-UjA"; */
+"SQy-lH-UjA.text" = "140 - 160";
+
+/* Class = "UILabel"; text = "Cash"; ObjectID = "STG-bN-Sip"; */
+"STG-bN-Sip.text" = "現金";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "Soq-Bz-pRv"; */
+"Soq-Bz-pRv.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "$"; ObjectID = "T2l-XB-Fp2"; */
+"T2l-XB-Fp2.text" = "$";
+
+/* Class = "UILabel"; text = "Making changes can effect your trip price"; ObjectID = "T7N-fS-7pj"; */
+"T7N-fS-7pj.text" = "変更を行うと、旅行の料金に影響する可能性があります";
+
+/* Class = "UILabel"; text = "Online Payment"; ObjectID = "TT2-K3-P85"; */
+"TT2-K3-P85.text" = "オンライン支払い";
+
+/* Class = "UILabel"; text = "Get 50% Off on first 3 rides"; ObjectID = "TuO-k5-H83"; */
+"TuO-k5-H83.text" = "最初の3回のライドで50％オフ";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "U2Z-N3-9LT"; */
+"U2Z-N3-9LT.text" = "名前";
+
+/* Class = "UILabel"; text = "Delivery Person"; ObjectID = "U8o-q4-rBD"; */
+"U8o-q4-rBD.text" = "配達人";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "UAW-NY-OFZ"; */
+"UAW-NY-OFZ.normalTitle" = "バック";
+
+/* Class = "UIButton"; normalTitle = "PANIC"; ObjectID = "UJm-sn-YtZ"; */
+"UJm-sn-YtZ.normalTitle" = "パニック";
+
+/* Class = "UILabel"; text = "Pickup at :"; ObjectID = "Ucl-Pu-tqU"; */
+"Ucl-Pu-tqU.text" = "でのピックアップ：";
+
+/* Class = "UILabel"; text = "Amount to be paid"; ObjectID = "Umc-RF-weP"; */
+"Umc-RF-weP.text" = "お支払い金額";
+
+/* Class = "UILabel"; text = "Sector 29, chandigarh"; ObjectID = "UsH-YM-cae"; */
+"UsH-YM-cae.text" = "Sector 29, chandigarh";
+
+/* Class = "UISegmentedControl"; V6B-bs-kLg.segmentTitles[0] = "Order Details"; ObjectID = "V6B-bs-kLg"; */
+"V6B-bs-kLg.segmentTitles[0]" = "注文詳細";
+
+/* Class = "UISegmentedControl"; V6B-bs-kLg.segmentTitles[1] = "Checklist Items"; ObjectID = "V6B-bs-kLg"; */
+"V6B-bs-kLg.segmentTitles[1]" = "チェックリストアイテム";
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "V8S-p2-W04"; */
+"V8S-p2-W04.normalTitle" = "追加";
+
+/* Class = "UILabel"; text = "We are processing your request"; ObjectID = "VHY-wl-XLk"; */
+"VHY-wl-XLk.text" = "リクエストを処理しています";
+
+/* Class = "UILabel"; text = "*Including tax price Rs. 12"; ObjectID = "VOr-KE-Gfn"; */
+"VOr-KE-Gfn.text" = "*Including tax price Rs. 12";
+
+/* Class = "UIButton"; normalTitle = "Go to Home"; ObjectID = "VX6-hH-OoJ"; */
+"VX6-hH-OoJ.normalTitle" = "ホームに戻る";
+
+/* Class = "UIButton"; normalTitle = "Yes"; ObjectID = "VmW-87-wXP"; */
+"VmW-87-wXP.normalTitle" = "はい";
+
+/* Class = "UILabel"; text = "Choose a service or swipe up for more"; ObjectID = "VzN-Bi-JK2"; */
+"VzN-Bi-JK2.text" = "サービスを選択するか、上にスワイプして詳細を確認してください";
+
+/* Class = "UIButton"; normalTitle = "Select eToken"; ObjectID = "VzO-L8-g5c"; */
+"VzO-L8-g5c.normalTitle" = "Select eToken";
+
+/* Class = "UILabel"; text = "Driver name"; ObjectID = "W3Q-Tm-bPR"; */
+"W3Q-Tm-bPR.text" = "ドライバー名";
+
+/* Class = "UITextField"; placeholder = "Enter tip amount here…"; ObjectID = "W7f-Rt-LoD"; */
+"W7f-Rt-LoD.placeholder" = "ここにチップ金額を入力してください…";
+
+/* Class = "UILabel"; text = "AED 300"; ObjectID = "Wg3-pI-Lhf"; */
+"Wg3-pI-Lhf.text" = "AED 300";
+
+/* Class = "UITextField"; placeholder = "Pickup Level?"; ObjectID = "WgK-ej-znu"; */
+"WgK-ej-znu.placeholder" = "ピックアップレベル？";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "WgN-he-TMs"; */
+"WgN-he-TMs.text" = "----";
+
+/* Class = "UITextField"; placeholder = "Where to drop?"; ObjectID = "Wme-Zv-JaA"; */
+"Wme-Zv-JaA.placeholder" = "どこにドロップしますか？";
+
+/* Class = "UILabel"; text = "Ofiice"; ObjectID = "Wov-Aa-YGq"; */
+"Wov-Aa-YGq.text" = "オフィス";
+
+/* Class = "UIButton"; normalTitle = "Share Now"; ObjectID = "XA8-9u-k3G"; */
+"XA8-9u-k3G.normalTitle" = "今すぐ共有";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "XL3-Ez-qW4"; */
+"XL3-Ez-qW4.text" = "----";
+
+/* Class = "UILabel"; text = "Ankush"; ObjectID = "XV1-aK-bf6"; */
+"XV1-aK-bf6.text" = "Ankush";
+
+/* Class = "UILabel"; text = "status"; ObjectID = "Xch-NF-3nG"; */
+"Xch-NF-3nG.text" = "状態";
+
+/* Class = "UILabel"; text = "Excellent"; ObjectID = "Xfs-rN-a4i"; */
+"Xfs-rN-a4i.text" = "優れた";
+
+/* Class = "UITextField"; placeholder = "Where to pick?"; ObjectID = "XjK-pX-P31"; */
+"XjK-pX-P31.placeholder" = "どこを選ぶ？";
+
+/* Class = "UILabel"; text = "Drinking water"; ObjectID = "XpO-tU-gb9"; */
+"XpO-tU-gb9.text" = "Drinking water";
+
+/* Class = "UILabel"; text = "Very Sad"; ObjectID = "Xrr-qO-M1e"; */
+"Xrr-qO-M1e.text" = "とても悲しい";
+
+/* Class = "UILabel"; text = "If you add a stop or change your destination, your service will be updated. Please keep each stop under 2-3 minutes as a courtesy to your driver"; ObjectID = "XyC-OX-CVZ"; */
+"XyC-OX-CVZ.text" = "経由地を追加したり、目的地を変更したりすると、サービスが更新されます。 ドライバーの礼儀として、各停車地を2〜3分以内に保ってください";
+
+/* Class = "UIButton"; normalTitle = "Tap here to see more details"; ObjectID = "Y6X-ie-QrE"; */
+"Y6X-ie-QrE.normalTitle" = "ここをタップして詳細を表示";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "YHp-8f-cxr"; */
+"YHp-8f-cxr.normalTitle" = "番号";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "YRY-KW-EXd"; */
+"YRY-KW-EXd.text" = "選択する";
+
+/* Class = "UIButton"; normalTitle = "Where To ?"; ObjectID = "Yav-R6-gKg"; */
+"Yav-R6-gKg.normalTitle" = "どこへ?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "Ycc-Oj-qcT"; */
+"Ycc-Oj-qcT.normalTitle" = "キャンセル";
+
+/* Class = "UILabel"; text = "Drop at :"; ObjectID = "Ye6-QO-wej"; */
+"Ye6-QO-wej.text" = "立ち寄る :";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "YlL-KX-Jey"; */
+"YlL-KX-Jey.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "Making changes can effect your service price"; ObjectID = "YzP-Jl-bRt"; */
+"YzP-Jl-bRt.text" = "変更を行うと、サービスの価格に影響する可能性があります";
+
+/* Class = "UITextField"; placeholder = "Where to pick?"; ObjectID = "ZYF-am-0Rz"; */
+"ZYF-am-0Rz.placeholder" = "どこを選ぶ？";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "ZtB-Ft-n8K"; */
+"ZtB-Ft-n8K.placeholder" = "名前";
+
+/* Class = "UILabel"; text = "---"; ObjectID = "Zv0-7w-ycA"; */
+"Zv0-7w-ycA.text" = "---";
+
+/* Class = "UIButton"; normalTitle = "Book now"; ObjectID = "aX0-10-i7J"; */
+"aX0-10-i7J.normalTitle" = "今予約する";
+
+/* Class = "UILabel"; text = "MH O1 C 3254M"; ObjectID = "auJ-qT-0RT"; */
+"auJ-qT-0RT.text" = "MH O1 C 3254M";
+
+/* Class = "UIButton"; normalTitle = "For me"; ObjectID = "ayj-rN-V7h"; */
+"ayj-rN-V7h.normalTitle" = "私のために";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "azr-nx-VCJ"; */
+"azr-nx-VCJ.normalTitle" = "次";
+
+/* Class = "UIButton"; normalTitle = "Confirm Booking"; ObjectID = "b5m-8e-htX"; */
+"b5m-8e-htX.normalTitle" = "予約を確認";
+
+/* Class = "UILabel"; text = "+91"; ObjectID = "b8k-wI-Kjh"; */
+"b8k-wI-Kjh.text" = "+91";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "bBZ-mS-cOv"; */
+"bBZ-mS-cOv.normalTitle" = "保存する";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "bLM-dP-uqN"; */
+"bLM-dP-uqN.normalTitle" = "継続する";
+
+/* Class = "UILabel"; text = "$ 0.0"; ObjectID = "bjY-Le-vSH"; */
+"bjY-Le-vSH.text" = "$ 0.0";
+
+/* Class = "UILabel"; text = "+ Per km"; ObjectID = "bkY-UJ-FPb"; */
+"bkY-UJ-FPb.text" = "+ Per km";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "btd-6b-XBh"; */
+"btd-6b-XBh.text" = "----";
+
+/* Class = "UITextField"; placeholder = "Price"; ObjectID = "cP8-CF-YQy"; */
+"cP8-CF-YQy.placeholder" = "価格";
+
+/* Class = "UIButton"; normalTitle = "Back"; ObjectID = "cdm-fz-zUo"; */
+"cdm-fz-zUo.normalTitle" = "バック";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "ciL-o6-VQs"; */
+"ciL-o6-VQs.normalTitle" = "できた";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "cjP-V6-k4a"; */
+"cjP-V6-k4a.placeholder" = "名前";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "cmb-r8-KJS"; */
+"cmb-r8-KJS.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "Enjoy your ride"; ObjectID = "crM-zD-koj"; */
+"crM-zD-koj.text" = "あなたの乗り心地をお楽しみください";
+
+/* Class = "UILabel"; text = "Payments"; ObjectID = "d0h-FO-KKn"; */
+"d0h-FO-KKn.text" = "お支払い";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "d0w-g7-s13"; */
+"d0w-g7-s13.text" = "ホーム";
+
+/* Class = "UILabel"; text = "Ride Share"; ObjectID = "dAw-41-lPg"; */
+"dAw-41-lPg.text" = "相乗り";
+
+/* Class = "UILabel"; text = "Service Charge"; ObjectID = "dEd-w8-n5i"; */
+"dEd-w8-n5i.text" = "サービス料";
+
+/* Class = "UILabel"; text = "Version 1.1"; ObjectID = "dEf-kj-yWM"; */
+"dEf-kj-yWM.text" = "Version 1.1";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "dKz-gj-4ba"; */
+"dKz-gj-4ba.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "dXv-WW-4rw"; */
+"dXv-WW-4rw.text" = "----";
+
+/* Class = "UILabel"; text = "Person to deliver phone"; ObjectID = "dhF-kz-TZy"; */
+"dhF-kz-TZy.text" = "電話を届ける人";
+
+/* Class = "UILabel"; text = "1"; ObjectID = "dqH-97-TJl"; */
+"dqH-97-TJl.text" = "1";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dst-SN-iBG"; */
+"dst-SN-iBG.text" = "Label";
+
+/* Class = "UILabel"; text = "Fragile"; ObjectID = "duP-at-iFl"; */
+"duP-at-iFl.text" = "Fragile";
+
+/* Class = "UITextField"; placeholder = "Sender's  name"; ObjectID = "duq-e4-wlX"; */
+"duq-e4-wlX.placeholder" = "送信者名";
+
+/* Class = "UILabel"; text = "Confirm Booking"; ObjectID = "e6f-Es-EH1"; */
+"e6f-Es-EH1.text" = "予約を確認";
+
+/* Class = "UILabel"; text = "Total amount"; ObjectID = "e8j-4L-tSn"; */
+"e8j-4L-tSn.text" = "合計金額：";
+
+/* Class = "UIButton"; normalTitle = "Schedule"; ObjectID = "eEJ-Hz-ZX3"; */
+"eEJ-Hz-ZX3.normalTitle" = "スケジュール";
+
+/* Class = "UITextField"; placeholder = "Where to drop?"; ObjectID = "eSH-wu-Idu"; */
+"eSH-wu-Idu.placeholder" = "どこにドロップしますか";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "ed5-jK-3i2"; */
+"ed5-jK-3i2.normalTitle" = "次";
+/* Class = "UILabel"; text = "Label"; ObjectID = "fAs-j9-e2N"; */
+"fAs-j9-e2N.text" = "Label";
+
+/* Class = "UILabel"; text = "Ofiice"; ObjectID = "fIP-M4-IhA"; */
+"fIP-M4-IhA.text" = "オフィス";
+
+/* Class = "UILabel"; text = "Place code inside the box"; ObjectID = "fPt-k7-bOx"; */
+"fPt-k7-bOx.text" = "ボックス内にコードを配置します。助けるためにここをタップします。";
+
+/* Class = "UIButton"; normalTitle = "PICKUP ADDRESS"; ObjectID = "fR4-3p-1Y6"; */
+"fR4-3p-1Y6.normalTitle" = "アドレスをピックアップ";
+
+/* Class = "UITextField"; placeholder = "Where to drop?"; ObjectID = "fVP-Te-JEt"; */
+"fVP-Te-JEt.placeholder" = "どこにドロップしますか";
+
+/* Class = "UILabel"; text = "Select capacity"; ObjectID = "fqF-Ws-P2h"; */
+"fqF-Ws-P2h.text" = "容量を選択";
+
+/* Class = "UILabel"; text = "."; ObjectID = "fqH-yC-tqm"; */
+"fqH-yC-tqm.text" = ".";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "fqe-YG-jgJ"; */
+"fqe-YG-jgJ.placeholder" = "経由地を追加";
+
+/* Class = "UILabel"; text = "bike"; ObjectID = "g8J-eN-NC0"; */
+"g8J-eN-NC0.text" = "bike";
+
+/* Class = "UIButton"; normalTitle = "EDIT OR CHANGE"; ObjectID = "gAB-wh-Zj2"; */
+"gAB-wh-Zj2.normalTitle" = "編集または変更";
+
+/* Class = "UILabel"; text = "Apply Promo Code"; ObjectID = "goY-it-YHz"; */
+"goY-it-YHz.text" = "プロモーションコードを適用";
+
+/* Class = "UILabel"; text = "MH O1 C 3254M"; ObjectID = "h1B-vQ-6h0"; */
+"h1B-vQ-6h0.text" = "MH O1 C 3254M";
+
+/* Class = "UILabel"; text = "Checklist Charge"; ObjectID = "h4E-t4-zA4"; */
+"h4E-t4-zA4.text" = "チェックリスト料金";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "h4J-Yh-kRU"; */
+"h4J-Yh-kRU.text" = "0";
+
+/* Class = "UILabel"; text = "$ 0.02"; ObjectID = "hLD-F3-Oop"; */
+"hLD-F3-Oop.text" = "$ 0.02";
+
+/* Class = "UILabel"; text = "Ofiice"; ObjectID = "hLu-6j-rLa"; */
+"hLu-6j-rLa.text" = "オフィス";
+
+/* Class = "UILabel"; text = "Sector 29, chandigarh"; ObjectID = "hS1-wQ-xu3"; */
+"hS1-wQ-xu3.text" = "Sector 29, chandigarh";
+
+/* Class = "UILabel"; text = "Payment Type"; ObjectID = "hZ5-MR-epm"; */
+"hZ5-MR-epm.text" = "払いの種類";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "hZe-DL-S2v"; */
+"hZe-DL-S2v.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Address"; ObjectID = "hbG-f9-olf"; */
+"hbG-f9-olf.normalTitle" = "住所";
+
+/* Class = "UITextField"; text = "200"; ObjectID = "hoc-Ft-GTl"; */
+"hoc-Ft-GTl.text" = "200";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "hpQ-rR-tAZ"; */
+"hpQ-rR-tAZ.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "Label rger gre gre ger g"; ObjectID = "i05-Jv-GKA"; */
+"i05-Jv-GKA.text" = "Label rger gre gre ger g";
+
+/* Class = "UILabel"; text = "PACKAGE BOOKING"; ObjectID = "i23-fQ-6nf"; */
+"i23-fQ-6nf.text" = "パッケージ予約";
+
+/* Class = "UILabel"; text = "Carpool"; ObjectID = "i4N-PO-jHB"; */
+"i4N-PO-jHB.text" = "相乗り";
+
+/* Class = "UIButton"; normalTitle = "Address"; ObjectID = "iIz-NL-GBj"; */
+"iIz-NL-GBj.normalTitle" = "住所";
+
+/* Class = "UILabel"; text = "Rs"; ObjectID = "iws-Ke-p1g"; */
+"iws-Ke-p1g.text" = "Rs";
+
+/* Class = "UITextField"; placeholder = "Enter type of material"; ObjectID = "iyh-qU-mB4"; */
+"iyh-qU-mB4.placeholder" = "材料の種類を入力してください";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "j0P-c0-VHA"; */
+"j0P-c0-VHA.placeholder" = "経由地を追加";
+
+/* Class = "UILabel"; text = "view deals available via companies"; ObjectID = "j5L-Yx-6R1"; */
+"j5L-Yx-6R1.text" = "会社を通じて利用可能な取引を表示";
+
+/* Class = "UITextField"; placeholder = "Enter promo code"; ObjectID = "j8y-wc-Onn"; */
+"j8y-wc-Onn.placeholder" = "プロモーションコードを入力";
+
+/* Class = "UIButton"; normalTitle = "Sign out"; ObjectID = "jHF-Iy-YWu"; */
+"jHF-Iy-YWu.normalTitle" = "サインアウト";
+
+/* Class = "UILabel"; text = "FULL NAME"; ObjectID = "jHQ-UP-Lwn"; */
+"jHQ-UP-Lwn.text" = "フルネーム";
+
+/* Class = "UILabel"; text = "Previous Charges"; ObjectID = "jWl-Xx-uBR"; */
+"jWl-Xx-uBR.text" = "以前の料金";
+
+/* Class = "UILabel"; text = "0.00"; ObjectID = "jeo-WN-NSs"; */
+"jeo-WN-NSs.text" = "0.00";
+
+/* Class = "UILabel"; text = "Sub total"; ObjectID = "jm5-iJ-Hp0"; */
+"jm5-iJ-Hp0.text" = "小計";
+
+/* Class = "UILabel"; text = "Sector 29, chandigarh"; ObjectID = "k4w-h5-o8M"; */
+"k4w-h5-o8M.text" = "Sector 29, chandigarh";
+
+/* Class = "UILabel"; text = "Select capacity"; ObjectID = "kMr-u0-L3y"; */
+"kMr-u0-L3y.text" = "容量を選択";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "kOh-VD-JHR"; */
+"kOh-VD-JHR.text" = "ホーム";
+
+/* Class = "UILabel"; text = "Select an issue we can help with you"; ObjectID = "kPa-oB-AaD"; */
+"kPa-oB-AaD.text" = "お手伝いできる問題を選択してください";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "kVA-Wi-Btd"; */
+"kVA-Wi-Btd.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "kl1-Vf-1Nu"; */
+"kl1-Vf-1Nu.text" = "電話番号";
+
+/* Class = "UILabel"; text = "0 Mins"; ObjectID = "kq1-tc-Yb2"; */
+"kq1-tc-Yb2.text" = "0 Mins";
+
+/* Class = "UIButton"; normalTitle = "Book for a friend"; ObjectID = "kuU-1Y-VkX"; */
+"kuU-1Y-VkX.normalTitle" = "友人のために予約する";
+
+/* Class = "UILabel"; text = "Sector 29, chandigarh"; ObjectID = "kzr-GF-S7h"; */
+"kzr-GF-S7h.text" = "Sector 29, chandigarh";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "lAw-5d-gVM"; */
+"lAw-5d-gVM.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Schedule"; ObjectID = "ll8-0P-SEz"; */
+"ll8-0P-SEz.normalTitle" = "スケジュール";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "ll9-PC-DoS"; */
+"ll9-PC-DoS.text" = "ホーム";
+
+/* Class = "UITextField"; placeholder = "Enter phone number"; ObjectID = "m8z-WQ-Kmr"; */
+"m8z-WQ-Kmr.placeholder" = "電話番号を入力してください";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "mJQ-1l-84q"; */
+"mJQ-1l-84q.normalTitle" = "申し込む";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "mKY-ra-SEk"; */
+"mKY-ra-SEk.text" = "合計";
+
+/* Class = "UILabel"; text = "fgdgdfgdf"; ObjectID = "miY-ni-dWT"; */
+"miY-ni-dWT.text" = "fgdgdfgdf";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "mpL-KD-2tt"; */
+"mpL-KD-2tt.text" = "0";
+
+/* Class = "UITextField"; text = "200"; ObjectID = "mqB-YB-amN"; */
+"mqB-YB-amN.text" = "200";
+
+/* Class = "UITextField"; placeholder = "Phone Number"; ObjectID = "muz-sh-6Lg"; */
+"muz-sh-6Lg.placeholder" = "電話番号";
+
+/* Class = "UITextField"; placeholder = "Promo code"; ObjectID = "mzd-Mz-nEO"; */
+"mzd-Mz-nEO.placeholder" = "プロモーションコード";
+
+/* Class = "UILabel"; text = "Buy eTokens"; ObjectID = "n3D-cZ-0Fd"; */
+"n3D-cZ-0Fd.text" = "Buy eTokens";
+
+/* Class = "UILabel"; text = "Order Images"; ObjectID = "n54-Iv-pTL"; */
+"n54-Iv-pTL.text" = "画像の注文";
+
+/* Class = "UIButton"; normalTitle = "Finish"; ObjectID = "n7Y-vZ-YaL"; */
+"n7Y-vZ-YaL.normalTitle" = "仕上げ";
+
+/* Class = "UILabel"; text = "Your fare will be the price presented before the trip or based on the rates below and other applicable surcharges and adjustment."; ObjectID = "nGp-1J-riD"; */
+"nGp-1J-riD.text" = "あなたの運賃は、旅行前に提示された価格、または以下の料金、およびその他の該当する追加料金と調整に基づいたものになります。";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "nP3-HS-bSh"; */
+"nP3-HS-bSh.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "Selected date"; ObjectID = "nPV-Nk-XCA"; */
+"nPV-Nk-XCA.text" = "選択した日付";
+
+/* Class = "UILabel"; text = "$ 0.6"; ObjectID = "ni2-LW-Brv"; */
+"ni2-LW-Brv.text" = "$ 0.6";
+
+/* Class = "UISegmentedControl"; nya-07-Thi.segmentTitles[0] = "Normal"; ObjectID = "nya-07-Thi"; */
+"nya-07-Thi.segmentTitles[0]" = "正常";
+
+/* Class = "UISegmentedControl"; nya-07-Thi.segmentTitles[1] = "Satellite"; ObjectID = "nya-07-Thi"; */
+"nya-07-Thi.segmentTitles[1]" = "衛星";
+
+/* Class = "UITextField"; placeholder = "Enter Check List Item"; ObjectID = "oA2-U9-g6r"; */
+"oA2-U9-g6r.placeholder" = "チェックリスト項目を入力してください";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "oJX-lu-es3"; */
+"oJX-lu-es3.text" = "----";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "oQ0-7i-6da"; */
+"oQ0-7i-6da.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "op8-WF-HDY"; */
+"op8-WF-HDY.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "otY-7d-euV"; */
+"otY-7d-euV.text" = "Label";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "p1t-7e-mnD"; */
+"p1t-7e-mnD.text" = "----";
+
+/* Class = "UIButton"; normalTitle = "Select From Map"; ObjectID = "pFf-SG-sdr"; */
+"pFf-SG-sdr.normalTitle" = "地図から選択";
+
+/* Class = "UIButton"; normalTitle = "APPLY"; ObjectID = "pIu-te-aFE"; */
+"pIu-te-aFE.normalTitle" = "APPLY";
+
+/* Class = "UILabel"; text = "Sector 29, chandigarh"; ObjectID = "pUG-Mg-gEe"; */
+"pUG-Mg-gEe.text" = "Sector 29, chandigarh";
+
+/* Class = "UIButton"; normalTitle = "Select"; ObjectID = "pbU-Z4-adV"; */
+"pbU-Z4-adV.normalTitle" = "選択する";
+
+/* Class = "UILabel"; text = "Total"; ObjectID = "peM-UG-xU3"; */
+"peM-UG-xU3.text" = "合計";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "pk2-5B-JqR"; */
+"pk2-5B-JqR.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "pm8-we-NxE"; */
+"pm8-we-NxE.placeholder" = "経由地を追加";
+
+/* Class = "UITextField"; placeholder = "Enter drop location"; ObjectID = "prN-EM-M4I"; */
+"prN-EM-M4I.placeholder" = "ドロップ位置を入力してください";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "qM4-CM-VCc"; */
+"qM4-CM-VCc.text" = "電話番号";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "qNi-dd-0MT"; */
+"qNi-dd-0MT.normalTitle" = "参加する";
+
+/* Class = "UIButton"; normalTitle = "Confirm Pickup"; ObjectID = "qqI-na-VP1"; */
+"qqI-na-VP1.normalTitle" = "集荷を確認";
+
+/* Class = "UILabel"; text = "If you add a stop or change your destination, your trip will be updated. Please keep each stop under 2-3 minutes as a courtesy to your driver"; ObjectID = "r3R-8m-aKP"; */
+"r3R-8m-aKP.text" = "経由地を追加したり、目的地を変更したりすると、旅行が更新されます。 ドライバーの礼儀として、各停車地を2〜3分以内に保ってください";
+
+/* Class = "UILabel"; text = "Mini"; ObjectID = "rMV-p0-HFg"; */
+"rMV-p0-HFg.text" = "Mini";
+
+/* Class = "UILabel"; text = "label"; ObjectID = "rYf-hD-wCR"; */
+"rYf-hD-wCR.text" = "label";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "rdK-nG-g4d"; */
+"rdK-nG-g4d.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "OMR 48.0"; ObjectID = "rg6-lT-YLq"; */
+"rg6-lT-YLq.text" = "OMR 48.0";
+
+/* Class = "UITextField"; placeholder = "Enter phone number"; ObjectID = "s65-L7-xFO"; */
+"s65-L7-xFO.placeholder" = "電話番号を入力してください";
+
+/* Class = "UILabel"; text = "OR"; ObjectID = "s6r-sq-nTS"; */
+"s6r-sq-nTS.text" = "OR";
+
+/* Class = "UITextField"; placeholder = "Where to drop?"; ObjectID = "s9n-bo-MzD"; */
+"s9n-bo-MzD.placeholder" = "どこにドロップしますか?";
+
+/* Class = "UIButton"; normalTitle = "Book"; ObjectID = "sI4-6c-UDd"; */
+"sI4-6c-UDd.normalTitle" = "本";
+
+/* Class = "UIButton"; normalTitle = "Continue"; ObjectID = "sIt-ei-87q"; */
+"sIt-ei-87q.normalTitle" = "継続する";
+
+/* Class = "UIButton"; normalTitle = "Credit Card"; ObjectID = "sOa-DI-eSw"; */
+"sOa-DI-eSw.normalTitle" = "クレジットカード";
+
+/* Class = "UILabel"; text = "4.9"; ObjectID = "sXH-YA-zjz"; */
+"sXH-YA-zjz.text" = "4.9";
+
+/* Class = "UILabel"; text = "Enter details of order"; ObjectID = "ssY-01-qET"; */
+"ssY-01-qET.text" = "注文の詳細を入力してください";
+
+/* Class = "UILabel"; text = "Rs"; ObjectID = "t2S-rH-WNe"; */
+"t2S-rH-WNe.text" = "Rs";
+
+/* Class = "UIButton"; normalTitle = ">"; ObjectID = "tGg-x0-dOU"; */
+"tGg-x0-dOU.normalTitle" = ">";
+
+/* Class = "UILabel"; text = "Additional info"; ObjectID = "tSl-o2-SO9"; */
+"tSl-o2-SO9.text" = "追加情報";
+
+/* Class = "UITextField"; placeholder = "Eg. Jane"; ObjectID = "taF-0y-Wr2"; */
+"taF-0y-Wr2.placeholder" = "Eg. Jane";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "tpz-oa-uc2"; */
+"tpz-oa-uc2.text" = "0";
+
+/* Class = "UILabel"; text = "Select Sub Model"; ObjectID = "uXi-W8-Ro8"; */
+"uXi-W8-Ro8.text" = "サブモデルを選択";
+
+/* Class = "UIButton"; normalTitle = "Add tip to your driver"; ObjectID = "uhU-35-9o0"; */
+"uhU-35-9o0.normalTitle" = "ドライバーにチップを追加する";
+
+/* Class = "UILabel"; text = "Enjoy your ride"; ObjectID = "v6a-zr-aJe"; */
+"v6a-zr-aJe.text" = "あなたの乗り心地をお楽しみください";
+
+/* Class = "UILabel"; text = "Payment"; ObjectID = "vUB-Iy-n8d"; */
+"vUB-Iy-n8d.text" = "Payment";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "vfI-Bn-crj"; */
+"vfI-Bn-crj.placeholder" = "経由地を追加";
+
+/* Class = "UILabel"; text = "Ongoing"; ObjectID = "vqF-sE-dap"; */
+"vqF-sE-dap.text" = "進行中";
+
+/* Class = "UIButton"; normalTitle = "Confirm Pickup"; ObjectID = "vvM-4Z-3lh"; */
+"vvM-4Z-3lh.normalTitle" = "集荷を確認";
+
+/* Class = "UILabel"; text = "----"; ObjectID = "w94-FP-rC4"; */
+"w94-FP-rC4.text" = "----";
+
+/* Class = "UIButton"; normalTitle = "Save Place"; ObjectID = "wKb-bI-gXd"; */
+"wKb-bI-gXd.normalTitle" = "場所を保存";
+
+/* Class = "UILabel"; text = "Ofiice"; ObjectID = "wNw-cE-BSf"; */
+"wNw-cE-BSf.text" = "オフィス";
+
+/* Class = "UIButton"; normalTitle = "Slide Left to Reject"; ObjectID = "wUG-fe-8UV"; */
+"wUG-fe-8UV.normalTitle" = "左にスライドして却下";
+
+/* Class = "UITextField"; placeholder = "Add stop"; ObjectID = "wYv-m8-byl"; */
+"wYv-m8-byl.placeholder" = "経由地を追加";
+
+/* Class = "UILabel"; text = "Select brand"; ObjectID = "wbv-Fi-But"; */
+"wbv-Fi-But.text" = "ブランドを選択";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wjs-Rr-jhl"; */
+"wjs-Rr-jhl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "wt9-iY-YPP"; */
+"wt9-iY-YPP.text" = "0";
+
+/* Class = "UILabel"; text = "0.0 "; ObjectID = "wxV-6a-qEN"; */
+"wxV-6a-qEN.text" = "0.0 ";
+
+/* Class = "UILabel"; text = "Happy"; ObjectID = "xDU-Fa-1Gk"; */
+"xDU-Fa-1Gk.text" = "ハッピー";
+
+/* Class = "UILabel"; text = "Select"; ObjectID = "xDt-PI-ahb"; */
+"xDt-PI-ahb.text" = "選択する";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "xFO-X0-df5"; */
+"xFO-X0-df5.normalTitle" = "番号";
+
+/* Class = "UILabel"; text = "Select Quantity"; ObjectID = "y4P-xR-OmM"; */
+"y4P-xR-OmM.text" = "量を選んでください";
+
+/* Class = "UILabel"; text = "( CDCL, Sector 28 ) "; ObjectID = "yF0-Lv-kPA"; */
+"yF0-Lv-kPA.text" = "( CDCL, Sector 28 ) ";
+
+/* Class = "UILabel"; text = "Base fare"; ObjectID = "yK1-oY-uWK"; */
+"yK1-oY-uWK.text" = "基本運賃";
+
+/* Class = "UILabel"; text = "    "; ObjectID = "yLh-xF-ZvW"; */
+"yLh-xF-ZvW.text" = "    ";
+
+/* Class = "UILabel"; text = "Mini"; ObjectID = "yTs-0p-WCo"; */
+"yTs-0p-WCo.text" = "Mini";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "yUB-SR-LUs"; */
+"yUB-SR-LUs.text" = "0";
+
+/* Class = "UISegmentedControl"; yg7-lG-ZuS.segmentTitles[0] = "Male"; ObjectID = "yg7-lG-ZuS"; */
+"yg7-lG-ZuS.segmentTitles[0]" = "男性";
+
+/* Class = "UISegmentedControl"; yg7-lG-ZuS.segmentTitles[1] = "Female"; ObjectID = "yg7-lG-ZuS"; */
+"yg7-lG-ZuS.segmentTitles[1]" = "女性";
+
+/* Class = "UILabel"; text = "Select Quantity"; ObjectID = "yrI-eJ-kjy"; */
+"yrI-eJ-kjy.text" = "量を選んでください";
+
+/* Class = "UIButton"; normalTitle = "No"; ObjectID = "ywE-6J-4gM"; */
+"ywE-6J-4gM.normalTitle" = "番号";
+
+/* Class = "UILabel"; text = "This is an estimation only, price may vary. Will be applied after the delivery."; ObjectID = "z9j-PF-Re8"; */
+"z9j-PF-Re8.text" = "これは概算であり、価格は異なる場合があります。 配送後に適用されます。";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "zDI-0G-TEf"; */
+"zDI-0G-TEf.text" = "ホーム";
+
+/* Class = "UILabel"; text = "Sad"; ObjectID = "zMz-0W-ouk"; */
+"zMz-0W-ouk.text" = "Sad";
+
+/* Class = "UILabel"; text = "Share your details"; ObjectID = "zlg-S3-nmT"; */
+"zlg-S3-nmT.text" = "詳細を共有する";
+
+/* Class = "UILabel"; text = "Cancel ride"; ObjectID = "zx0-bw-lrj"; */
+"zx0-bw-lrj.text" = "ライドをキャンセル";

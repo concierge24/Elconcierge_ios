@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14490.70" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14490.49"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PROXIMANOVA-LIGHT.OTF">
+            <string>ProximaNova-Light</string>
+        </array>
+        <array key="PROXIMANOVA-SEMIBOLD.OTF">
+            <string>ProximaNova-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="OrderDeliveryDetailView" customModule="Sneni" customModuleProvider="target">
+            <connections>
+                <outlet property="labelAddress" destination="kDL-FC-nY5" id="Cmj-GS-kb7"/>
+                <outlet property="labelAddresseName" destination="rH0-Jo-sDm" id="5oP-9D-Vni"/>
+                <outlet property="labelDate" destination="vZM-ZO-I2p" id="ylL-dF-R01"/>
+                <outlet property="labelTime" destination="VpF-uo-sm4" id="rkS-B4-TI7"/>
+                <outlet property="labelTitle" destination="bFt-Pr-2k1" id="qbd-xK-z8g"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="237" height="128"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Pickup" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bFt-Pr-2k1" customClass="ThemeLabel" customModule="Sneni" customModuleProvider="target">
+                    <rect key="frame" x="16" y="10" width="37" height="12"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="12" id="lSg-Rr-JgO"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="12"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="YES"/>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isLblTilte" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="NTL" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rH0-Jo-sDm" customClass="ThemeLabel" customModule="Sneni" customModuleProvider="target">
+                    <rect key="frame" x="16" y="30" width="216" height="15"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="15" id="MVh-zw-7PC"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" text="Pickup" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="3" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="kDL-FC-nY5" customClass="ThemeLabel" customModule="Sneni" customModuleProvider="target">
+                    <rect key="frame" x="16" y="45" width="216" height="29"/>
+                    <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="0.5" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isLblLightTxt" value="YES"/>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isLblTilte" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="NTL" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="VpF-uo-sm4" customClass="ThemeLabel" customModule="Sneni" customModuleProvider="target">
+                    <rect key="frame" x="16" y="102" width="21" height="16"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="16" id="2Ca-ud-lzf"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="NTL" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vZM-ZO-I2p" customClass="ThemeLabel" customModule="Sneni" customModuleProvider="target">
+                    <rect key="frame" x="16" y="82" width="21" height="16"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="16" id="xaH-A5-5cn"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="ProximaNova-Light" family="Proxima Nova" pointSize="12"/>
+                    <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="boolean" keyPath="isLblSubTilte" value="YES"/>
+                    </userDefinedRuntimeAttributes>
+                </label>
+                <view alpha="0.14999999999999999" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="nIz-Yz-579">
+                    <rect key="frame" x="236" y="0.0" width="1" height="128"/>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="1" id="ds9-UK-edE"/>
+                    </constraints>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="vZM-ZO-I2p" firstAttribute="leading" secondItem="VpF-uo-sm4" secondAttribute="leading" id="04h-bh-Jdf"/>
+                <constraint firstItem="kDL-FC-nY5" firstAttribute="leading" secondItem="rH0-Jo-sDm" secondAttribute="leading" id="8ao-s8-iFa"/>
+                <constraint firstItem="nIz-Yz-579" firstAttribute="leading" secondItem="rH0-Jo-sDm" secondAttribute="trailing" constant="4" id="Clk-Ov-QaW"/>
+                <constraint firstItem="bFt-Pr-2k1" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="16" id="Eah-uh-VFY"/>
+                <constraint firstItem="nIz-Yz-579" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="NaS-rW-DX2"/>
+                <constraint firstItem="vZM-ZO-I2p" firstAttribute="top" secondItem="kDL-FC-nY5" secondAttribute="bottom" constant="8" id="QmN-AQ-eGJ"/>
+                <constraint firstAttribute="bottom" secondItem="VpF-uo-sm4" secondAttribute="bottom" constant="10" id="T9z-vZ-xob"/>
+                <constraint firstItem="vZM-ZO-I2p" firstAttribute="leading" secondItem="kDL-FC-nY5" secondAttribute="leading" id="TD7-gh-2LL"/>
+                <constraint firstItem="rH0-Jo-sDm" firstAttribute="leading" secondItem="bFt-Pr-2k1" secondAttribute="leading" id="UfU-z0-Vnc"/>
+                <constraint firstAttribute="bottom" secondItem="nIz-Yz-579" secondAttribute="bottom" id="Xzv-M5-YBh"/>
+                <constraint firstItem="rH0-Jo-sDm" firstAttribute="top" secondItem="bFt-Pr-2k1" secondAttribute="bottom" constant="8" id="Y7I-8H-KG0"/>
+                <constraint firstItem="VpF-uo-sm4" firstAttribute="top" secondItem="vZM-ZO-I2p" secondAttribute="bottom" constant="4" id="aOF-MH-Grr"/>
+                <constraint firstItem="kDL-FC-nY5" firstAttribute="top" secondItem="rH0-Jo-sDm" secondAttribute="bottom" id="cGc-H9-eCi"/>
+                <constraint firstAttribute="trailing" secondItem="nIz-Yz-579" secondAttribute="trailing" id="yKa-sn-CmC"/>
+                <constraint firstItem="bFt-Pr-2k1" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="10" id="yYV-Pn-jyR"/>
+                <constraint firstItem="nIz-Yz-579" firstAttribute="leading" secondItem="kDL-FC-nY5" secondAttribute="trailing" constant="4" id="yev-AI-TJ4"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-45" y="-39"/>
+        </view>
+    </objects>
+</document>

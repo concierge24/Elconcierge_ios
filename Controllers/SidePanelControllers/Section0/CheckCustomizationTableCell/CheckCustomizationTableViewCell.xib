@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15400" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15404"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PROXIMANOVA-REGULAR.OTF">
+            <string>ProximaNova-Regular</string>
+        </array>
+        <array key="PROXIMANOVA-SEMIBOLD.OTF">
+            <string>ProximaNova-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="98" id="KGk-i7-Jjw" customClass="CheckCustomizationTableViewCell" customModule="Royo_Food" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="327" height="98"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="327" height="98"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="qym-XZ-E4d">
+                        <rect key="frame" x="16" y="7" width="295" height="83"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="Esc-bD-b6g">
+                                <rect key="frame" x="0.0" y="0.0" width="211" height="83"/>
+                                <subviews>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Veg Burger" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="pkx-Gy-qC3">
+                                        <rect key="frame" x="0.0" y="0.0" width="81" height="23.5"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="16"/>
+                                        <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$15" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="r4U-OP-4ns">
+                                        <rect key="frame" x="0.0" y="29.5" width="21.5" height="24"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="$15" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ved-kh-gPf">
+                                        <rect key="frame" x="0.0" y="59.5" width="21.5" height="23.5"/>
+                                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                        <color key="textColor" white="0.33333333329999998" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
+                                </subviews>
+                            </stackView>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="pmu-ZA-TE8" customClass="GMStepper" customModule="Royo_Food" customModuleProvider="target">
+                                <rect key="frame" x="215" y="24.5" width="80" height="24"/>
+                                <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="80" id="Ndv-UX-fCl"/>
+                                    <constraint firstAttribute="height" constant="24" id="vII-OJ-gt0"/>
+                                </constraints>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="boolean" keyPath="showIntegerIfDoubleIsInteger" value="YES"/>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="buttonsTextColor">
+                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="buttonsBackgroundColor">
+                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="color" keyPath="labelTextColor">
+                                        <color key="value" red="0.0" green="0.0" blue="0.0" alpha="0.24722960990000001" colorSpace="custom" customColorSpace="sRGB"/>
+                                    </userDefinedRuntimeAttribute>
+                                    <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                                        <size key="value" width="1" height="0.0"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </view>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="G5p-DA-O7E">
+                                <rect key="frame" x="295" y="55.5" width="0.0" height="0.0"/>
+                                <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="14"/>
+                                <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="pmu-ZA-TE8" secondAttribute="trailing" id="6OD-vp-E0O"/>
+                            <constraint firstItem="pmu-ZA-TE8" firstAttribute="leading" secondItem="Esc-bD-b6g" secondAttribute="trailing" constant="4" id="EM9-Bk-iyF"/>
+                            <constraint firstAttribute="bottom" secondItem="Esc-bD-b6g" secondAttribute="bottom" id="IaD-l9-q30"/>
+                            <constraint firstItem="pmu-ZA-TE8" firstAttribute="centerY" secondItem="qym-XZ-E4d" secondAttribute="centerY" constant="-5" id="UcM-jp-cbP"/>
+                            <constraint firstItem="G5p-DA-O7E" firstAttribute="top" secondItem="pmu-ZA-TE8" secondAttribute="bottom" constant="7" id="djX-ix-Cb3"/>
+                            <constraint firstItem="Esc-bD-b6g" firstAttribute="top" secondItem="qym-XZ-E4d" secondAttribute="top" id="ffW-tj-nF9"/>
+                            <constraint firstItem="Esc-bD-b6g" firstAttribute="leading" secondItem="qym-XZ-E4d" secondAttribute="leading" id="lCa-X2-fu8"/>
+                            <constraint firstAttribute="trailing" secondItem="G5p-DA-O7E" secondAttribute="trailing" id="ooM-1e-PbV"/>
+                        </constraints>
+                    </view>
+                    <label opaque="NO" userInteractionEnabled="NO" alpha="0.20000000298023224" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oVg-pP-4vA" customClass="ThemeLabel" customModule="Royo_Food" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="97" width="327" height="1"/>
+                        <color key="backgroundColor" red="0.66666666669999997" green="0.66666666669999997" blue="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="1" id="AJw-yz-ThR"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                        <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="isVisibleLblTextColor" value="YES"/>
+                        </userDefinedRuntimeAttributes>
+                    </label>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="oVg-pP-4vA" firstAttribute="top" secondItem="qym-XZ-E4d" secondAttribute="bottom" constant="7" id="6ai-at-UfV"/>
+                    <constraint firstAttribute="bottom" secondItem="oVg-pP-4vA" secondAttribute="bottom" id="7J9-wS-RPa"/>
+                    <constraint firstItem="qym-XZ-E4d" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="16" id="A8n-0X-8ft"/>
+                    <constraint firstAttribute="trailing" secondItem="qym-XZ-E4d" secondAttribute="trailing" constant="16" id="OYF-wG-Su1"/>
+                    <constraint firstAttribute="trailing" secondItem="oVg-pP-4vA" secondAttribute="trailing" id="Une-fo-B4d"/>
+                    <constraint firstItem="oVg-pP-4vA" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" id="c5x-Hh-m5Q"/>
+                    <constraint firstItem="qym-XZ-E4d" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="7" id="h8H-aW-3bg"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="customization_label" destination="ved-kh-gPf" id="DtD-bc-dhy"/>
+                <outlet property="productName_label" destination="pkx-Gy-qC3" id="JZ7-J5-UOd"/>
+                <outlet property="productPrice_label" destination="r4U-OP-4ns" id="RYn-Bh-bfg"/>
+                <outlet property="stepper" destination="pmu-ZA-TE8" id="4Qe-Ud-KyA"/>
+                <outlet property="totalPrice_label" destination="G5p-DA-O7E" id="LZc-iV-caO"/>
+            </connections>
+            <point key="canvasLocation" x="136.95652173913044" y="105.80357142857143"/>
+        </tableViewCell>
+    </objects>
+</document>

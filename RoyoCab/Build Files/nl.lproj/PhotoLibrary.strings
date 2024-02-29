@@ -1,0 +1,18 @@
+/*
+  PhotoLibrary.strings
+  Buraq24
+
+  Created by MANINDER on 16/10/18.
+  Copyright © 2018 CodeBrewLabs. All rights reserved.
+*/
+
+
+"CANCEL" = "Annuleren";
+"RETAKE" = "Opnieuw nemen";
+"STREAM_SHARED_BY_ME_SUBTITLE" = "Van jou";
+"STREAM_SHARED_BY_SUBTITLE" = "Van% @";
+"ALBUM_IMAGE_COUNT_FORMAT" = "% @ foto";
+"ALBUM_VIDEO_COUNT_FORMAT" = "% @ video";
+"1_ALBUM_PHOTO" = "1 foto";
+"1_ALBUM_VIDEO" = "1 video";
+"ALBUM_TWO_TYPES_LABEL_COMMAS" = "% @,% @";

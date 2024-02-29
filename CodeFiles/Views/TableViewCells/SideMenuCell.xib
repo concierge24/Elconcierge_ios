@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PROXIMANOVA-REGULAR.OTF">
+            <string>ProximaNova-Regular</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell clipsSubviews="YES" contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" reuseIdentifier="SideMenuCell" rowHeight="59" id="YOY-uY-OgV" customClass="SideMenuCell" customModule="Sneni" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="59"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="YOY-uY-OgV" id="HOF-gb-6nr">
+                <rect key="frame" x="0.0" y="0.0" width="600" height="58.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Zks-76-lAI">
+                        <rect key="frame" x="28" y="17.5" width="24" height="24"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="24" id="ED9-e1-Afs"/>
+                            <constraint firstAttribute="width" constant="24" id="fZr-Us-dBI"/>
+                        </constraints>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ZVR-fm-QMh" customClass="ThemeLabel" customModule="Sneni" customModuleProvider="target">
+                        <rect key="frame" x="72" y="21.5" width="508" height="16"/>
+                        <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="16"/>
+                        <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <nil key="highlightedColor"/>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="boolean" keyPath="isTableTitleLbl" value="YES"/>
+                        </userDefinedRuntimeAttributes>
+                    </label>
+                </subviews>
+                <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                <constraints>
+                    <constraint firstItem="Zks-76-lAI" firstAttribute="centerY" secondItem="HOF-gb-6nr" secondAttribute="centerY" id="0ia-Oh-CT6"/>
+                    <constraint firstItem="ZVR-fm-QMh" firstAttribute="centerY" secondItem="Zks-76-lAI" secondAttribute="centerY" id="9Ui-Ce-fCo"/>
+                    <constraint firstItem="ZVR-fm-QMh" firstAttribute="leading" secondItem="Zks-76-lAI" secondAttribute="trailing" constant="20" id="SNY-oJ-haK"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="ZVR-fm-QMh" secondAttribute="trailing" id="iEw-oL-ABR"/>
+                    <constraint firstAttribute="leadingMargin" secondItem="Zks-76-lAI" secondAttribute="leading" constant="-8" id="j2v-Ku-jq7"/>
+                </constraints>
+            </tableViewCellContentView>
+            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+            <connections>
+                <outlet property="imgIcon" destination="Zks-76-lAI" id="9v1-83-qDB"/>
+                <outlet property="lblTitle" destination="ZVR-fm-QMh" id="oix-yg-pN1"/>
+            </connections>
+            <point key="canvasLocation" x="424" y="-132"/>
+        </tableViewCell>
+    </objects>
+</document>

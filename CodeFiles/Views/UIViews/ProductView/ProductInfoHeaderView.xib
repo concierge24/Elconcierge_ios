@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="15702" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15704"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="PROXIMANOVA-REGULAR.OTF">
+            <string>ProximaNova-Regular</string>
+        </array>
+        <array key="PROXIMANOVA-SEMIBOLD.OTF">
+            <string>ProximaNova-Semibold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="ProductInfoHeaderView" customModule="YammFood" customModuleProvider="target">
+            <connections>
+                <outlet property="brandLabel" destination="TcQ-0J-9f0" id="il9-R6-Tzk"/>
+                <outlet property="btnFav" destination="Adp-Tu-5Dp" id="Wyh-mV-aRM"/>
+                <outlet property="collectionView" destination="UEI-uD-RF6" id="jju-jV-FSr"/>
+                <outlet property="constWidth" destination="0U2-sp-KMD" id="8Da-Zv-BPr"/>
+                <outlet property="lblDiscount" destination="yDz-Gn-BbO" id="V3B-X3-1nM"/>
+                <outlet property="lblName" destination="Ano-Fr-jWh" id="VpV-cv-JSA"/>
+                <outlet property="lblPrice" destination="gm6-WD-Vf7" id="s0W-BF-eAX"/>
+                <outlet property="lblSupplierName" destination="0Cf-gW-jMG" id="Ruc-Qs-I2d"/>
+                <outlet property="lblTotalReviews" destination="wJJ-f4-1rK" id="thR-Qb-gId"/>
+                <outlet property="pgControl" destination="x39-kJ-GHx" id="lC0-u1-FeY"/>
+                <outlet property="ratingBgView" destination="A88-W2-rtv" id="Eq6-Gh-EOP"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="u6O-zy-c5D">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="405"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bounces="NO" alwaysBounceHorizontal="YES" pagingEnabled="YES" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="UEI-uD-RF6">
+                    <rect key="frame" x="0.0" y="0.0" width="375" height="281.5"/>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="375" id="0U2-sp-KMD"/>
+                        <constraint firstAttribute="width" secondItem="UEI-uD-RF6" secondAttribute="height" multiplier="4:3" id="dQS-IB-F1n"/>
+                    </constraints>
+                    <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="0.0" minimumInteritemSpacing="0.0" id="G4k-ts-0JH">
+                        <size key="itemSize" width="50" height="50"/>
+                        <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                        <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                        <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                    </collectionViewFlowLayout>
+                </collectionView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Adp-Tu-5Dp" userLabel="btnFav" customClass="DOFavoriteButton" customModule="YammFood" customModuleProvider="target">
+                    <rect key="frame" x="321" y="10" width="44" height="44"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="44" id="G2t-oh-Nat"/>
+                        <constraint firstAttribute="width" constant="44" id="WLH-ab-PtB"/>
+                    </constraints>
+                    <state key="normal" image="ic_favorite_white_normal-1"/>
+                    <state key="selected" image="ic_favorite_white_pressed"/>
+                    <connections>
+                        <action selector="addTofav:" destination="-1" eventType="touchUpInside" id="lXK-jT-zPr"/>
+                    </connections>
+                </button>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2lK-Eo-fUo">
+                    <rect key="frame" x="0.0" y="281.5" width="375" height="123.5"/>
+                    <subviews>
+                        <label opaque="NO" userInteractionEnabled="NO" contentMode="left" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="1000" insetsLayoutMarginsFromSafeArea="NO" text="Adidas Ultraboost" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Ano-Fr-jWh">
+                            <rect key="frame" x="16" y="16" width="176.5" height="20"/>
+                            <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="20"/>
+                            <color key="textColor" red="0.21176470588235294" green="0.21176470588235294" blue="0.21176470588235294" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <stackView opaque="NO" contentMode="scaleToFill" spacing="6" translatesAutoresizingMaskIntoConstraints="NO" id="ukM-d1-2dY">
+                            <rect key="frame" x="192.5" y="16" width="166.5" height="17"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="253" verticalHuggingPriority="251" horizontalCompressionResistancePriority="752" insetsLayoutMarginsFromSafeArea="NO" text="AED 7.5/EACH" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gm6-WD-Vf7" customClass="SKThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="0.0" width="109.5" height="17"/>
+                                    <fontDescription key="fontDescription" name="ProximaNova-Semibold" family="Proxima Nova" pointSize="17"/>
+                                    <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <nil key="highlightedColor"/>
+                                    <userDefinedRuntimeAttributes>
+                                        <userDefinedRuntimeAttribute type="string" keyPath="textColorId" value="Gray32"/>
+                                    </userDefinedRuntimeAttributes>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" insetsLayoutMarginsFromSafeArea="NO" text="AED 712" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="yDz-Gn-BbO">
+                                    <rect key="frame" x="115.5" y="0.0" width="51" height="17"/>
+                                    <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                    <color key="textColor" white="0.33333333333333331" alpha="0.70392275528169013" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                            </subviews>
+                        </stackView>
+                        <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" alignment="top" spacing="8" translatesAutoresizingMaskIntoConstraints="NO" id="rCE-Bh-EYX">
+                            <rect key="frame" x="16" y="44" width="343" height="79.5"/>
+                            <subviews>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" verticalCompressionResistancePriority="1000" insetsLayoutMarginsFromSafeArea="NO" text="By Adidas" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0Cf-gW-jMG" customClass="ThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                    <rect key="frame" x="0.0" y="0.0" width="62" height="34.5"/>
+                                    <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="252" verticalCompressionResistancePriority="1000" insetsLayoutMarginsFromSafeArea="NO" text="By Adidas" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TcQ-0J-9f0">
+                                    <rect key="frame" x="0.0" y="42.5" width="62" height="14"/>
+                                    <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="14"/>
+                                    <color key="textColor" white="0.66666666669999997" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                    <nil key="highlightedColor"/>
+                                </label>
+                                <stackView opaque="NO" contentMode="scaleToFill" spacing="10" translatesAutoresizingMaskIntoConstraints="NO" id="JlQ-H0-Qhg">
+                                    <rect key="frame" x="0.0" y="64.5" width="83" height="15"/>
+                                    <subviews>
+                                        <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="A88-W2-rtv" customClass="CosmosView" customModule="Cosmos">
+                                            <rect key="frame" x="0.0" y="0.0" width="83" height="15"/>
+                                            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <constraints>
+                                                <constraint firstAttribute="height" constant="15" id="TPE-Yu-Kf0"/>
+                                            </constraints>
+                                            <userDefinedRuntimeAttributes>
+                                                <userDefinedRuntimeAttribute type="number" keyPath="starSize">
+                                                    <real key="value" value="15"/>
+                                                </userDefinedRuntimeAttribute>
+                                                <userDefinedRuntimeAttribute type="number" keyPath="starMargin">
+                                                    <real key="value" value="2"/>
+                                                </userDefinedRuntimeAttribute>
+                                                <userDefinedRuntimeAttribute type="boolean" keyPath="updateOnTouch" value="NO"/>
+                                                <userDefinedRuntimeAttribute type="color" keyPath="emptyColor">
+                                                    <color key="value" red="0.84313725490000002" green="0.84313725490000002" blue="0.84313725490000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                </userDefinedRuntimeAttribute>
+                                                <userDefinedRuntimeAttribute type="color" keyPath="emptyBorderColor">
+                                                    <color key="value" red="0.84313725490000002" green="0.84313725490000002" blue="0.84313725490000002" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                                </userDefinedRuntimeAttribute>
+                                            </userDefinedRuntimeAttributes>
+                                        </view>
+                                        <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" text="0 Reviews" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="wJJ-f4-1rK" customClass="ThemeLabel" customModule="YammFood" customModuleProvider="target">
+                                            <rect key="frame" x="0.0" y="0.0" width="0.0" height="15"/>
+                                            <fontDescription key="fontDescription" name="ProximaNova-Regular" family="Proxima Nova" pointSize="12"/>
+                                            <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                            <nil key="highlightedColor"/>
+                                            <userDefinedRuntimeAttributes>
+                                                <userDefinedRuntimeAttribute type="boolean" keyPath="isLblTilte" value="YES"/>
+                                            </userDefinedRuntimeAttributes>
+                                        </label>
+                                    </subviews>
+                                </stackView>
+                            </subviews>
+                        </stackView>
+                    </subviews>
+                    <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="trailing" secondItem="ukM-d1-2dY" secondAttribute="trailing" constant="16" id="0Mq-Pa-V1n"/>
+                        <constraint firstItem="Ano-Fr-jWh" firstAttribute="leading" secondItem="rCE-Bh-EYX" secondAttribute="leading" id="9qX-rO-NqH"/>
+                        <constraint firstAttribute="trailing" secondItem="rCE-Bh-EYX" secondAttribute="trailing" constant="16" id="9vw-AL-2BM"/>
+                        <constraint firstItem="rCE-Bh-EYX" firstAttribute="leading" secondItem="2lK-Eo-fUo" secondAttribute="leading" constant="16" id="DDB-IF-h4N"/>
+                        <constraint firstItem="ukM-d1-2dY" firstAttribute="leading" secondItem="Ano-Fr-jWh" secondAttribute="trailing" id="GA6-fT-vJ8"/>
+                        <constraint firstAttribute="bottom" secondItem="rCE-Bh-EYX" secondAttribute="bottom" id="Opw-s0-79w"/>
+                        <constraint firstItem="Ano-Fr-jWh" firstAttribute="top" secondItem="2lK-Eo-fUo" secondAttribute="top" constant="16" id="TWL-Dq-aRZ"/>
+                        <constraint firstItem="rCE-Bh-EYX" firstAttribute="top" secondItem="Ano-Fr-jWh" secondAttribute="bottom" constant="8" id="ik0-eu-wBe"/>
+                        <constraint firstItem="Ano-Fr-jWh" firstAttribute="top" secondItem="ukM-d1-2dY" secondAttribute="top" id="pEm-aK-i5P"/>
+                    </constraints>
+                </view>
+                <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" hidesForSinglePage="YES" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="x39-kJ-GHx">
+                    <rect key="frame" x="168" y="244.5" width="39" height="37"/>
+                    <color key="pageIndicatorTintColor" white="0.66666666666666663" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </pageControl>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="UEI-uD-RF6" firstAttribute="top" secondItem="u6O-zy-c5D" secondAttribute="top" id="2yC-xB-4TW"/>
+                <constraint firstAttribute="trailing" secondItem="Adp-Tu-5Dp" secondAttribute="trailing" constant="10" id="4CD-fZ-NNO"/>
+                <constraint firstItem="x39-kJ-GHx" firstAttribute="centerX" secondItem="UEI-uD-RF6" secondAttribute="centerX" id="6lG-y0-vpr"/>
+                <constraint firstItem="Adp-Tu-5Dp" firstAttribute="top" secondItem="u6O-zy-c5D" secondAttribute="top" constant="10" id="H8H-LO-fgB"/>
+                <constraint firstAttribute="trailing" secondItem="UEI-uD-RF6" secondAttribute="trailing" id="NfS-X4-ve1"/>
+                <constraint firstItem="2lK-Eo-fUo" firstAttribute="leading" secondItem="u6O-zy-c5D" secondAttribute="leading" id="P3T-9E-6uB"/>
+                <constraint firstAttribute="trailing" secondItem="2lK-Eo-fUo" secondAttribute="trailing" id="P78-2p-qCf"/>
+                <constraint firstItem="2lK-Eo-fUo" firstAttribute="top" secondItem="UEI-uD-RF6" secondAttribute="bottom" id="PpB-LZ-epp"/>
+                <constraint firstAttribute="bottom" secondItem="2lK-Eo-fUo" secondAttribute="bottom" id="RtM-vs-Em6"/>
+                <constraint firstItem="UEI-uD-RF6" firstAttribute="leading" secondItem="u6O-zy-c5D" secondAttribute="leading" id="plJ-Dh-dDd"/>
+                <constraint firstItem="x39-kJ-GHx" firstAttribute="bottom" secondItem="UEI-uD-RF6" secondAttribute="bottom" id="tjI-yq-pIb"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="405.60000000000002" y="201.49925037481262"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_favorite_white_normal-1" width="24" height="24"/>
+        <image name="ic_favorite_white_pressed" width="24" height="24"/>
+    </resources>
+</document>

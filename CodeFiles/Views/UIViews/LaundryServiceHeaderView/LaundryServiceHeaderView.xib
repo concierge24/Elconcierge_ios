@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13196" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13173"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LaundryServiceHeaderView" customModule="Sneni" customModuleProvider="target"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="jtj-Tu-AjL">
+                    <rect key="frame" x="137.5" y="283.5" width="100" height="100"/>
+                    <subviews>
+                        <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_service_laundry" translatesAutoresizingMaskIntoConstraints="NO" id="G4m-XQ-hWT">
+                            <rect key="frame" x="22" y="22" width="56" height="56"/>
+                        </imageView>
+                        <view alpha="0.10000000000000001" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="21K-ot-qct">
+                            <rect key="frame" x="0.0" y="0.0" width="100" height="100"/>
+                            <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        </view>
+                    </subviews>
+                    <color key="backgroundColor" red="0.0" green="0.0" blue="0.0" alpha="0.0" colorSpace="custom" customColorSpace="sRGB"/>
+                    <constraints>
+                        <constraint firstItem="21K-ot-qct" firstAttribute="top" secondItem="jtj-Tu-AjL" secondAttribute="top" id="1yZ-ie-5ny"/>
+                        <constraint firstAttribute="bottom" secondItem="21K-ot-qct" secondAttribute="bottom" id="2gY-HS-hA2"/>
+                        <constraint firstItem="21K-ot-qct" firstAttribute="leading" secondItem="jtj-Tu-AjL" secondAttribute="leading" id="Bao-ro-yrB"/>
+                        <constraint firstItem="G4m-XQ-hWT" firstAttribute="centerX" secondItem="jtj-Tu-AjL" secondAttribute="centerX" id="GyA-Lz-WiM"/>
+                        <constraint firstAttribute="width" constant="100" id="Oac-q3-iKb"/>
+                        <constraint firstAttribute="trailing" secondItem="21K-ot-qct" secondAttribute="trailing" id="V68-4Z-FUn"/>
+                        <constraint firstAttribute="height" constant="100" id="iGb-QI-sCQ"/>
+                        <constraint firstItem="G4m-XQ-hWT" firstAttribute="centerY" secondItem="jtj-Tu-AjL" secondAttribute="centerY" id="l6M-om-AUN"/>
+                    </constraints>
+                    <userDefinedRuntimeAttributes>
+                        <userDefinedRuntimeAttribute type="number" keyPath="_layer.cornerRadius">
+                            <integer key="value" value="50"/>
+                        </userDefinedRuntimeAttribute>
+                    </userDefinedRuntimeAttributes>
+                </view>
+            </subviews>
+            <color key="backgroundColor" red="0.16862745100000001" green="0.51764705879999995" blue="0.53333333329999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="jtj-Tu-AjL" firstAttribute="centerY" secondItem="iN0-l3-epB" secondAttribute="centerY" id="7s1-ga-gSW"/>
+                <constraint firstItem="jtj-Tu-AjL" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="icj-Fv-mSi"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="ic_service_laundry" width="56" height="56"/>
+    </resources>
+</document>

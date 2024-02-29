@@ -1,0 +1,93 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "0iS-hl-cKa"; */
+"0iS-hl-cKa.text" = "Label";
+
+/* Class = "UILabel"; text = "Código de seguridad:"; ObjectID = "2fW-cz-6qu"; */
+"2fW-cz-6qu.text" = "セキュリティコード:";
+
+/* Class = "UILabel"; text = "Add card to complete payment"; ObjectID = "3Ed-3z-OTV"; */
+"3Ed-3z-OTV.text" = "支払いを完了するにはカードを追加してください";
+
+/* Class = "UILabel"; text = "Salida de UUID"; ObjectID = "4nb-hW-dYb"; */
+"4nb-hW-dYb.text" = "サリダデUUID";
+
+/* Class = "UIButton"; normalTitle = "TOKENIZE!"; ObjectID = "91z-nl-4mf"; */
+"91z-nl-4mf.normalTitle" = "トークン化！";
+
+/* Class = "UILabel"; text = "Número de tarjeta:"; ObjectID = "DXQ-jB-rdV"; */
+"DXQ-jB-rdV.text" = "ヌメロデタルヘタ:";
+
+/* Class = "UILabel"; text = "Nombre que aparece en la tarjeta:"; ObjectID = "Eg9-H0-Wcg"; */
+"Eg9-H0-Wcg.text" = "Nombre que aparece en la tarjeta:";
+
+/* Class = "UITextField"; placeholder = "Mes"; ObjectID = "Hf7-5O-gD3"; */
+"Hf7-5O-gD3.placeholder" = "ぼくの";
+
+/* Class = "UILabel"; text = "Fill Card Details"; ObjectID = "JZW-M0-yQP"; */
+"JZW-M0-yQP.text" = "カード詳細の入力";
+
+/* Class = "UILabel"; text = "Email:"; ObjectID = "L9t-gA-E6x"; */
+"L9t-gA-E6x.text" = "Eメール:";
+
+/* Class = "UITextField"; placeholder = "Nombre"; ObjectID = "M6r-ZH-9cv"; */
+"M6r-ZH-9cv.placeholder" = "名前";
+
+/* Class = "UILabel"; text = "Phone Number:"; ObjectID = "MGk-RD-Lzo"; */
+"MGk-RD-Lzo.text" = "電話番号:";
+
+/* Class = "UITextField"; placeholder = "000"; ObjectID = "N1P-uI-Q3L"; */
+"N1P-uI-Q3L.placeholder" = "000";
+
+/* Class = "UILabel"; text = "Expira:"; ObjectID = "NNV-0z-ywZ"; */
+"NNV-0z-ywZ.text" = "期限切れ:";
+
+/* Class = "UIButton"; normalTitle = "Add Card"; ObjectID = "OAM-O4-feA"; */
+"OAM-O4-feA.normalTitle" = "カードを追加";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "OBb-Xr-7qI"; */
+"OBb-Xr-7qI.normalTitle" = "削除する";
+
+/* Class = "UILabel"; text = "*Nota: Puedes modificar los datos de la tarjeta para realizar diferentes pruebas."; ObjectID = "R16-Eh-aCh"; */
+"R16-Eh-aCh.text" = "*注：カードの詳細を変更して、さまざまなテストを実行できます.";
+
+/* Class = "UITextField"; placeholder = "Número de Tarjeta"; ObjectID = "REd-7y-ksF"; */
+"REd-7y-ksF.placeholder" = "カード番号";
+
+/* Class = "UIButton"; normalTitle = "CHOOSE PAYMENT RECEIPT"; ObjectID = "SYj-du-lYV"; */
+"SYj-du-lYV.normalTitle" = "支払い領収書を選択";
+
+/* Class = "UILabel"; text = "Payment Details:"; ObjectID = "UUz-Ng-s8h"; */
+"UUz-Ng-s8h.text" = "支払詳細:";
+
+/* Class = "UIButton"; normalTitle = "Add Card"; ObjectID = "bKC-x8-Rjj"; */
+"bKC-x8-Rjj.normalTitle" = "カードを追加";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bvK-OG-kUz"; */
+"bvK-OG-kUz.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Año"; ObjectID = "coc-zf-1P6"; */
+"coc-zf-1P6.placeholder" = "年";
+
+/* Class = "UILabel"; text = "Fill Card Details"; ObjectID = "dsu-lV-Ifu"; */
+"dsu-lV-Ifu.text" = "カード詳細の入力";
+
+/* Class = "UILabel"; text = "Datos de salida:"; ObjectID = "eYp-h4-SMA"; */
+"eYp-h4-SMA.text" = "出力データ:";
+
+/* Class = "UILabel"; text = "Select Card for Payment"; ObjectID = "nDa-5a-K1Z"; */
+"nDa-5a-K1Z.text" = "お支払いカードを選択";
+
+/* Class = "UILabel"; text = "Expiry"; ObjectID = "nk4-m5-7PH"; */
+"nk4-m5-7PH.text" = "期限切れ";
+
+/* Class = "UILabel"; text = "Salida de Token"; ObjectID = "oJx-oQ-EA8"; */
+"oJx-oQ-EA8.text" = "トークン出力";
+
+/* Class = "UIButton"; normalTitle = "Pay Now"; ObjectID = "v9M-Pe-tem"; */
+"v9M-Pe-tem.normalTitle" = "今払う";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vav-zn-cou"; */
+"vav-zn-cou.text" = "Label";
+
+/* Class = "UILabel"; text = "Card Holder"; ObjectID = "xPu-o8-MWx"; */
+"xPu-o8-MWx.text" = "カードホルダー";

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <array key="Mont-Bold.ttf">
+            <string>Mont-Bold</string>
+        </array>
+        <array key="Mont-Regular.ttf">
+            <string>Mont-Regular</string>
+        </array>
+        <array key="Mont-SemiBold.ttf">
+            <string>Mont-SemiBold</string>
+        </array>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="157" id="KGk-i7-Jjw" customClass="CouponToBuyCell" customModule="Buraq24" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="295" height="157"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="295" height="156.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="ojw-sa-HVP">
+                        <rect key="frame" x="0.0" y="0.0" width="295" height="157"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="ic_promo_code" translatesAutoresizingMaskIntoConstraints="NO" id="B8K-Qd-1nx">
+                                <rect key="frame" x="13" y="13" width="60" height="70"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="60" id="46J-3o-pHt"/>
+                                    <constraint firstAttribute="height" constant="70" id="DJT-Ut-8HI"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Upto 50% off 100 OMR max " textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oiO-WN-Oom">
+                                <rect key="frame" x="78" y="13" width="207" height="20"/>
+                                <fontDescription key="fontDescription" name="Mont-Bold" family="Mont" pointSize="15"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="15 freight deliveries" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ile-Ds-bFS">
+                                <rect key="frame" x="78" y="38" width="143.5" height="20"/>
+                                <fontDescription key="fontDescription" name="Mont-Regular" family="Mont" pointSize="15"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="*Offer valid till 1 Sept." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="bBB-zV-BSu">
+                                <rect key="frame" x="78" y="61" width="205" height="19"/>
+                                <fontDescription key="fontDescription" name="Mont-SemiBold" family="Mont" pointSize="14"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="lax-G7-G2c">
+                                <rect key="frame" x="130" y="102" width="150" height="43"/>
+                                <color key="backgroundColor" red="0.25827929379999998" green="0.56755077840000001" blue="0.80704081059999999" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="43" id="3y6-Vz-QzL"/>
+                                    <constraint firstAttribute="width" constant="150" id="Y6w-eY-U2C"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Mont-Bold" family="Mont" pointSize="14"/>
+                                <state key="normal" title="Buy for 200 OMR">
+                                    <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                </state>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cRadius">
+                                        <real key="value" value="3"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" red="0.22289028759999999" green="0.28387370709999998" blue="0.33661353589999998" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="ile-Ds-bFS" firstAttribute="leading" secondItem="oiO-WN-Oom" secondAttribute="leading" id="1oa-ed-LPT"/>
+                            <constraint firstAttribute="trailing" secondItem="bBB-zV-BSu" secondAttribute="trailing" constant="12" id="33e-FV-U9B"/>
+                            <constraint firstAttribute="bottom" secondItem="lax-G7-G2c" secondAttribute="bottom" constant="12" id="3AO-E7-X5I"/>
+                            <constraint firstItem="B8K-Qd-1nx" firstAttribute="trailing" secondItem="oiO-WN-Oom" secondAttribute="leading" constant="-5" id="3P3-HW-4S0"/>
+                            <constraint firstItem="bBB-zV-BSu" firstAttribute="top" secondItem="ile-Ds-bFS" secondAttribute="bottom" constant="3" id="83F-EN-qXm"/>
+                            <constraint firstItem="ile-Ds-bFS" firstAttribute="top" secondItem="oiO-WN-Oom" secondAttribute="bottom" constant="5" id="BpU-uW-I9d"/>
+                            <constraint firstItem="B8K-Qd-1nx" firstAttribute="leading" secondItem="ojw-sa-HVP" secondAttribute="leading" constant="13" id="F3m-gi-XZl"/>
+                            <constraint firstAttribute="trailing" secondItem="oiO-WN-Oom" secondAttribute="trailing" constant="10" id="G2s-cg-ge4"/>
+                            <constraint firstItem="oiO-WN-Oom" firstAttribute="top" secondItem="B8K-Qd-1nx" secondAttribute="top" id="Hmt-Ws-P32"/>
+                            <constraint firstItem="B8K-Qd-1nx" firstAttribute="top" secondItem="ojw-sa-HVP" secondAttribute="top" constant="13" id="RK6-mb-Ogp"/>
+                            <constraint firstAttribute="trailing" secondItem="lax-G7-G2c" secondAttribute="trailing" constant="15" id="gkL-dq-kkx"/>
+                            <constraint firstItem="bBB-zV-BSu" firstAttribute="leading" secondItem="ile-Ds-bFS" secondAttribute="leading" id="sy1-GW-gaM"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cRadius">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="sRadius">
+                                <real key="value" value="5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="size" keyPath="sOffSet">
+                                <size key="value" width="0.0" height="0.0"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="sOpacity">
+                                <real key="value" value="0.5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="sColor">
+                                <color key="value" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </tableViewCellContentView>
+            <constraints>
+                <constraint firstItem="ojw-sa-HVP" firstAttribute="width" secondItem="njF-e1-oar" secondAttribute="width" id="0cO-Rt-cdK"/>
+                <constraint firstItem="ojw-sa-HVP" firstAttribute="height" secondItem="njF-e1-oar" secondAttribute="height" id="7y8-0s-u1K"/>
+                <constraint firstItem="ojw-sa-HVP" firstAttribute="centerY" secondItem="njF-e1-oar" secondAttribute="centerY" id="nvj-sa-vbS"/>
+                <constraint firstItem="ojw-sa-HVP" firstAttribute="centerX" secondItem="njF-e1-oar" secondAttribute="centerX" id="zxS-TY-BxW"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <point key="canvasLocation" x="12.5" y="108.5"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="ic_promo_code" width="60" height="70"/>
+    </resources>
+</document>
